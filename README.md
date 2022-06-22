@@ -2,6 +2,8 @@ A Prime Game: Write down a prime number > 10, and I can always strike out 0 or m
 
 {11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97, 227, 251, 257, 277, 281, 349, 409, 449, 499, 521, 557, 577, 587, 727, 757, 787, 821, 827, 857, 877, 881, 887, 991, 2087, 2221, 5051, 5081, 5501, 5581, 5801, 5851, 6469, 6949, 8501, 9001, 9049, 9221, 9551, 9649, 9851, 9949, 20021, 20201, 50207, 60649, 80051, 666649, 946669, 5200007, 22000001, 60000049, 66000049, 66600049, 80555551, 555555555551, 5000000000000000000000000000027}
 
+Now we extend this prime game to bases other than 10.
+
 The minimal elements (https://en.wikipedia.org/wiki/Minimal_element) of the prime numbers (https://en.wikipedia.org/wiki/Prime_number) which are > b written in the positional numeral system (https://en.wikipedia.org/wiki/Positional_numeral_system) with radix (https://en.wikipedia.org/wiki/Radix) b, with subsequence (https://en.wikipedia.org/wiki/Subsequence) ordering (https://en.wikipedia.org/wiki/Partially_ordered_set), for 2 <= b <= 36 (I stop at base 36 since this base is a maximum base for which it is possible to write the numbers with the symbols 0, 1, ..., 9 and A, B, ..., Z).
 
 By the theorem that there are no infinite (https://en.wikipedia.org/wiki/Infinite_set) antichains (https://en.wikipedia.org/wiki/Antichain) for the subsequence ordering, there must be only finitely such minimal elements in every base b.
