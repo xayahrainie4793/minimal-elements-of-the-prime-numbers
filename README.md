@@ -8,15 +8,15 @@ However, including the base (b) itself results in automatic elimination of all p
 
 We have completely solved this problem for bases b = 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 14, 15, 18, 20, 24, also we have completely solved this problem for bases 11, 22, 30 if we allow strong probable primes (https://primes.utm.edu/glossary/xpage/StrongPRP.html) in place of proven primes, besides, for bases 13 and 16, there are unsolved families as well as unproven probable primes, these two bases are completely solved except these four families:
 
-b	unsolved family	current search limit of length
+b	unsolved family (base-b form)	unsolved family (algebraic ((a\*b^n+c)/d) form)	current search limit of length
 
-13	9{5}	42000
+13	9{5}	(113×13^n−5)/12	42000
 
-13	A{3}A	41000
+13	A{3}A	(41×13^(n+1)+27)/4	41000
 
-16	{3}AF	49000
+16	{3}AF	(16^(n+2)+619)/5	49000
 
-16	{4}DD	50000
+16	{4}DD	(4×16^(n+2)+2291)/15	50000
 
 If these four families contain primes (and they are excepted to contain primes), then the smallest prime in families 9{5} and A{3}A in base b = 13 will be index 3196 and 3197 minimal prime in base b = 13, and the smallest prime in families {3}AF and {4}DD in base b = 16 will be index 2346 and 2347 minimal prime in base b = 16.
 
