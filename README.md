@@ -32,6 +32,10 @@ b	base-b form of the unproven probable prime	algebraic ((a\*b^n+c)/d) form of th
 
 16	D(B^32234)	(206×16^32234−11)/15
 
+22	B(K^22001)5	(251×22^22002−335)/21
+
+30	I(0^24608)D	18×30^24609+13
+
 All these numbers are strong probable primes to bases 2, 3, 5, 7, 11, 13, 17, 19, 23, and trial factored (https://primes.utm.edu/glossary/xpage/TrialDivision.html) to 10^11
 
 Condensed table: (the bases 11, 13, 16, 22, 30 data assumes the primality of the probable primes)
