@@ -8,7 +8,7 @@ However, including the base (b) itself results in automatic elimination of all p
 
 We have completely solved this problem for bases b = 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 14, 15, 18, 20, 24, also we have completely solved this problem for bases 11, 22, 30 if we allow strong probable primes (https://primes.utm.edu/glossary/xpage/StrongPRP.html) in place of proven primes, besides, for bases 13 and 16, there are unsolved families as well as unproven probable primes, these two bases are completely solved except these four families:
 
-b	unsolved family	search limit of length
+b	unsolved family	current search limit of length
 
 13	9{5}	42000
 
