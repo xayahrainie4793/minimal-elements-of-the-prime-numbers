@@ -38,6 +38,36 @@ b	base-b form of the unproven probable prime	algebraic ((a\*b^n+c)/d) form of th
 
 All these numbers are strong probable primes to bases 2, 3, 5, 7, 11, 13, 17, 19, 23, and trial factored (https://primes.utm.edu/glossary/xpage/TrialDivision.html) to 10^11
 
+Primality certificates (https://primes.utm.edu/glossary/xpage/Certificate.html) for large proven primes (> 10^3000):
+
+b	index of this minimal prime in base b	base-b form of the minimal prime	algebraic ((a\*b^n+c)/d) form of the minimal prime	primality certificate for the minimal prime
+
+13	3190	177(0^2703)17	267×13^2705+20	http://factordb.com/cert.php?id=1100000003590430825
+
+13	3191	39(0^6266)1	48×13^6267+1	proven prime by N−1 test (https://primes.utm.edu/prove/prove3_1.html), since N−1 is trivially 100% factored
+
+13	3192	B(0^6540)BBA	11×13^6543+2012	http://factordb.com/cert.php?id=1100000002616382906
+
+13	3193	(C^10631)92	13^10633−50	http://factordb.com/cert.php?id=1100000003590493750
+
+14	650	4(D^19698)	5×14^19698−1	proven prime by N+1 test (https://primes.utm.edu/prove/prove3_2.html), since N−1 is trivially 100% factored
+
+16	2342	9(0^3542)91	9×16^3544+145	http://factordb.com/cert.php?id=1100000000633424191
+
+16	2343	5B(C^3700)D	(459×16^3701+1)/5	http://factordb.com/cert.php?id=1100000000993764322
+
+18	549	C(0^6268)C5	12×18^6270+221	http://factordb.com/cert.php?id=1100000003590442437
+
+20	3313	C(D^2449)	(241×20^2449−13)/19	http://factordb.com/cert.php?id=1100000002325393915
+
+20	3314	G(0^6269)D	16×20^6270+13	http://factordb.com/cert.php?id=1100000003590539457
+
+22	8001	(L^2385)KE7	22^2388−653	http://factordb.com/cert.php?id=1100000003591360774
+
+22	8002	(7^3815)2L	(22^3817−289)/3	http://factordb.com/cert.php?id=1100000003591359839
+
+
+
 Condensed table: (the bases 11, 13, 16, 22, 30 data assumes the primality of the probable primes)
 
 b	number of minimal primes base b	base-b form of the largest known minimal prime base b	length of the largest known minimal prime base b	algebraic ((a\*b^n+c)/d) form of the largest known minimal prime base b
