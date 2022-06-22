@@ -18,23 +18,25 @@ b	unsolved family	current search limit of length
 
 16	{4}DD	50000
 
+If these four families contain primes (and they are excepted to contain primes), then the smallest prime in families 9{5} and A{3}A in base b = 13 will be index 3196 and 3197 minimal prime in base b = 13, and the smallest prime in families {3}AF and {4}DD in base b = 16 will be index 2346 and 2347 minimal prime in base b = 16.
+
 The unproven probable primes are:
 
-b	base-b form of the unproven probable prime	algebraic ((a\*b^n+c)/d) form of the unproven probable prime
+b	index of this minimal prime in base b (assuming the primality of all probable primes in base b)	base-b form of the unproven probable prime	algebraic ((a\*b^n+c)/d) form of the unproven probable prime
 
-11	5(7^62668)	(57×11^62668−7)/10
+11	1068	5(7^62668)	(57×11^62668−7)/10
 
-13	C(5^23755)C	(149×13^23756+79)/12
+13	3194	C(5^23755)C	(149×13^23756+79)/12
 
-13	8(0^32017)111	8×13^32020+183
+13	3195	8(0^32017)111	8×13^32020+183
 
-16	D0(B^17804)	(3131×16^17804−11)/15
+16	2344	D0(B^17804)	(3131×16^17804−11)/15
 
-16	D(B^32234)	(206×16^32234−11)/15
+16	2345	D(B^32234)	(206×16^32234−11)/15
 
-22	B(K^22001)5	(251×22^22002−335)/21
+22	8003	B(K^22001)5	(251×22^22002−335)/21
 
-30	I(0^24608)D	18×30^24609+13
+30	2618	I(0^24608)D	18×30^24609+13
 
 All these numbers are strong probable primes to bases 2, 3, 5, 7, 11, 13, 17, 19, 23, and trial factored (https://primes.utm.edu/glossary/xpage/TrialDivision.html) to 10^11
 
@@ -50,7 +52,7 @@ b	index of this minimal prime in base b	base-b form of the minimal prime	algebra
 
 13	3193	(C^10631)92	13^10633−50	http://factordb.com/cert.php?id=1100000003590493750
 
-14	650	4(D^19698)	5×14^19698−1	proven prime by N+1 test (https://primes.utm.edu/prove/prove3_2.html), since N−1 is trivially 100% factored
+14	650	4(D^19698)	5×14^19698−1	proven prime by N+1 test (https://primes.utm.edu/prove/prove3_2.html), since N+1 is trivially 100% factored
 
 16	2342	9(0^3542)91	9×16^3544+145	http://factordb.com/cert.php?id=1100000000633424191
 
@@ -66,7 +68,19 @@ b	index of this minimal prime in base b	base-b form of the minimal prime	algebra
 
 22	8002	(7^3815)2L	(22^3817−289)/3	http://factordb.com/cert.php?id=1100000003591359839
 
+24	3405	(N^2644)LLN	24^2647−1201	http://factordb.com/cert.php?id=1100000003593270089
 
+24	3406	(D^2698)LD	(13×24^2700+4403)/23	http://factordb.com/cert.php?id=1100000003593269876
+
+24	3407	A(0^2951)8ID	10×24^2954+5053	http://factordb.com/cert.php?id=1100000003593269654
+
+24	3408	88(N^5951)	201×24^5951−1	proven prime by N+1 test (https://primes.utm.edu/prove/prove3_2.html), since N+1 is trivially 100% factored
+
+24	3409	N00(N^8129)LN	13249×24^8131−49	http://factordb.com/cert.php?id=1100000003593391606
+
+30	2617	(5^4882)J	(5×30^4883+401)/29	http://factordb.com/cert.php?id=1100000002327649423
+
+30	2619	O(T^34205)	25×30^34205−1	proven prime by N+1 test (https://primes.utm.edu/prove/prove3_2.html), since N+1 is trivially 100% factored
 
 Condensed table: (the bases 11, 13, 16, 22, 30 data assumes the primality of the probable primes)
 
