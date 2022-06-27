@@ -4,7 +4,7 @@ A Prime Game: Write down a prime number > 10, and I can always strike out 0 or m
 
 Now we extend this prime game to bases other than 10.
 
-The minimal elements (https://en.wikipedia.org/wiki/Minimal_element) of the prime numbers (https://en.wikipedia.org/wiki/Prime_number) which are > b written in the positional numeral system (https://en.wikipedia.org/wiki/Positional_numeral_system) with radix (https://en.wikipedia.org/wiki/Radix) b, with subsequence (https://en.wikipedia.org/wiki/Subsequence) ordering (https://en.wikipedia.org/wiki/Partially_ordered_set), for 2 <= b <= 36 (I stop at base 36 since this base is a maximum base for which it is possible to write the numbers with the symbols 0, 1, ..., 9 and A, B, ..., Z).
+The minimal elements (https://en.wikipedia.org/wiki/Minimal_element) of the prime numbers (https://en.wikipedia.org/wiki/Prime_number) which are > b written in the positional numeral system (https://en.wikipedia.org/wiki/Positional_numeral_system) with radix (https://en.wikipedia.org/wiki/Radix) b, as strings (https://en.wikipedia.org/wiki/String_(computer_science)) with subsequence (https://en.wikipedia.org/wiki/Subsequence) ordering (https://en.wikipedia.org/wiki/Partially_ordered_set), for 2 <= b <= 36 (I stop at base 36 since this base is a maximum base for which it is possible to write the numbers with the symbols 0, 1, ..., 9 and A, B, ..., Z).
 
 By the theorem that there are no infinite (https://en.wikipedia.org/wiki/Infinite_set) antichains (https://en.wikipedia.org/wiki/Antichain) for the subsequence ordering, there must be only finitely such minimal elements in every base b.
 
