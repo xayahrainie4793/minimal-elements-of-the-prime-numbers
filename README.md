@@ -14,7 +14,7 @@ However, including the base (b) itself results in automatic elimination of all p
 
 This problem covers finding the smallest prime of these form in the same base b:
 
-(b^n-1)/(b-1) with n >= 2 (see http://www.fermatquotient.com/PrimSerien/GenRepu.txt, https://web.archive.org/web/20021111141203/http://www.users.globalnet.co.uk/~aads/primes.html, http://www.primenumbers.net/Henri/us/MersFermus.htm, https://www.ams.org/journals/mcom/1993-61-204/S0025-5718-1993-1185243-9/S0025-5718-1993-1185243-9.pdf, https://oeis.org/A084740, https://oeis.org/A084738, https://oeis.org/A065854, https://oeis.org/A279068, https://oeis.org/A128164, https://oeis.org/A285642)
+(b^n−1)/(b−1) with n >= 2 (see http://www.fermatquotient.com/PrimSerien/GenRepu.txt, https://web.archive.org/web/20021111141203/http://www.users.globalnet.co.uk/~aads/primes.html, http://www.primenumbers.net/Henri/us/MersFermus.htm, https://www.ams.org/journals/mcom/1993-61-204/S0025-5718-1993-1185243-9/S0025-5718-1993-1185243-9.pdf, https://oeis.org/A084740, https://oeis.org/A084738, https://oeis.org/A065854, https://oeis.org/A279068, https://oeis.org/A128164, https://oeis.org/A285642)
 
 b^n+1 with n >= 1 (see http://jeppesn.dk/generalized-fermat.html, http://www.noprimeleftbehind.net/crus/GFN-primes.htm, http://yves.gallot.pagesperso-orange.fr/primes/results.html, https://oeis.org/A228101, https://oeis.org/A079706, https://oeis.org/A084712, https://oeis.org/A123669)
 
@@ -22,23 +22,23 @@ b^n+1 with n >= 1 (see http://jeppesn.dk/generalized-fermat.html, http://www.nop
 
 2×b^n+1 with n >= 1 (see https://mersenneforum.org/showthread.php?t=6918, https://mersenneforum.org/showthread.php?t=19725, https://oeis.org/A119624, https://oeis.org/A253178, https://oeis.org/A098872)
 
-2×b^n-1 with n >= 1 (see https://mersenneforum.org/showthread.php?t=24576, https://www.mersenneforum.org/attachment.php?attachmentid=20976&d=1567314217, https://oeis.org/A119591, https://oeis.org/A098873)
+2×b^n−1 with n >= 1 (see https://mersenneforum.org/showthread.php?t=24576, https://www.mersenneforum.org/attachment.php?attachmentid=20976&d=1567314217, https://oeis.org/A119591, https://oeis.org/A098873)
 
 b^n+2 with n >= 1 (see https://oeis.org/A138066, https://oeis.org/A084713, https://oeis.org/A138067)
 
-b^n-2 with n >= 2 (see https://www.primepuzzles.net/puzzles/puzz_887.htm, https://oeis.org/A250200, https://oeis.org/A255707, https://oeis.org/A084714, https://oeis.org/A292201)
+b^n−2 with n >= 2 (see https://www.primepuzzles.net/puzzles/puzz_887.htm, https://oeis.org/A250200, https://oeis.org/A255707, https://oeis.org/A084714, https://oeis.org/A292201)
 
-(b-1)×b^n+1 with n >= 1 (see https://www.rieselprime.de/ziki/Williams_prime_MP_least, https://www.rieselprime.de/ziki/Williams_prime_MP_table, https://sites.google.com/view/williams-primes, http://www.bitman.name/math/table/477, https://oeis.org/A305531, https://oeis.org/A087139)
+(b−1)×b^n+1 with n >= 1 (see https://www.rieselprime.de/ziki/Williams_prime_MP_least, https://www.rieselprime.de/ziki/Williams_prime_MP_table, https://sites.google.com/view/williams-primes, http://www.bitman.name/math/table/477, https://oeis.org/A305531, https://oeis.org/A087139)
 
-(b-1)×b^n-1 with n >= 1 (see https://sites.google.com/view/williams-primes, https://www.rieselprime.de/ziki/Williams_prime_MM_least, https://www.rieselprime.de/ziki/Williams_prime_MM_table, https://sites.google.com/view/williams-primes, http://matwbn.icm.edu.pl/ksiazki/aa/aa39/aa3912.pdf, https://www.ams.org/journals/mcom/2000-69-232/S0025-5718-00-01212-6/S0025-5718-00-01212-6.pdf, http://www.bitman.name/math/table/484, https://oeis.org/A122396)
+(b−1)×b^n−1 with n >= 1 (see https://sites.google.com/view/williams-primes, https://www.rieselprime.de/ziki/Williams_prime_MM_least, https://www.rieselprime.de/ziki/Williams_prime_MM_table, https://sites.google.com/view/williams-primes, http://matwbn.icm.edu.pl/ksiazki/aa/aa39/aa3912.pdf, https://www.ams.org/journals/mcom/2000-69-232/S0025-5718-00-01212-6/S0025-5718-00-01212-6.pdf, http://www.bitman.name/math/table/484, https://oeis.org/A122396)
 
-b^n+(b-1) with n >= 1 (see https://sites.google.com/view/williams-primes, https://oeis.org/A076845, https://oeis.org/A076846, https://oeis.org/A078178, https://oeis.org/A078179)
+b^n+(b−1) with n >= 1 (see https://sites.google.com/view/williams-primes, https://oeis.org/A076845, https://oeis.org/A076846, https://oeis.org/A078178, https://oeis.org/A078179)
 
-b^n-(b-1) with n >= 2 (see https://sites.google.com/view/williams-primes, https://cs.uwaterloo.ca/journals/JIS/VOL3/mccranie.html, http://www.bitman.name/math/table/435, https://oeis.org/A113516, https://oeis.org/A343589)
+b^n−(b−1) with n >= 2 (see https://sites.google.com/view/williams-primes, https://cs.uwaterloo.ca/journals/JIS/VOL3/mccranie.html, http://www.bitman.name/math/table/435, https://oeis.org/A113516, https://oeis.org/A343589)
 
 k×b^n+1 for all k <= 12 with n >= 1 (see https://www.rieselprime.de/ziki/Proth_prime_small_bases_least_n, https://mersenneforum.org/showthread.php?t=10354)
 
-k×b^n-1 for all k <= 12 with n >= 1 (see https://www.rieselprime.de/ziki/Riesel_prime_small_bases_least_n, https://mersenneforum.org/showthread.php?t=10354)
+k×b^n−1 for all k <= 12 with n >= 1 (see https://www.rieselprime.de/ziki/Riesel_prime_small_bases_least_n, https://mersenneforum.org/showthread.php?t=10354)
 
 We have completely solved this problem for bases b = 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 14, 15, 18, 20, 24, also we have completely solved this problem for bases 11, 22, 30 if we allow strong probable primes (https://primes.utm.edu/glossary/xpage/StrongPRP.html) in place of proven primes, besides, we have completely solved this problem for bases 13 and 16 (if we allow strong probable primes in place of proven primes) except these four families:
 
