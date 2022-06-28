@@ -52,8 +52,6 @@ b	unsolved family (base-b form)	unsolved family (algebraic ((a\*b^n+c)/d) form)	
 
 16	{3}AF	(16^(n+2)+619)/5	49000
 
-16	{4}DD	(4×16^(n+2)+2291)/15	50000
-
 If these four families contain primes (and they are excepted to contain primes), then the smallest prime in families 9{5} and A{3}A in base b = 13 will be index 3196 and 3197 minimal prime in base b = 13, and the smallest prime in families {3}AF and {4}DD in base b = 16 will be index 2346 and 2347 minimal prime in base b = 16.
 
 The unproven probable primes are:
@@ -69,6 +67,8 @@ b	index of this minimal prime in base b (assuming the primality of all probable 
 16	2344	D0(B^17804)	(3131×16^17804−11)/15
 
 16	2345	D(B^32234)	(206×16^32234−11)/15
+
+16	2346	(4^72785)DD	(4×16^72787+2291)/15
 
 22	8003	B(K^22001)5	(251×22^22002−335)/21
 
