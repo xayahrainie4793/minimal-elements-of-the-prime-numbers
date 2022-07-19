@@ -64,8 +64,6 @@ b	index of this minimal prime in base b (assuming the primality of all probable 
 
 13	3195	8(0^32017)111	8×13^32020+183
 
-16	2344	D0(B^17804)	(3131×16^17804−11)/15
-
 16	2345	D(B^32234)	(206×16^32234−11)/15
 
 16	2346	(4^72785)DD	(4×16^72787+2291)/15
@@ -93,6 +91,8 @@ b	index of this minimal prime in base b	base-b form of the minimal prime	algebra
 16	2342	9(0^3542)91	9×16^3544+145	http://factordb.com/cert.php?id=1100000000633424191
 
 16	2343	5B(C^3700)D	(459×16^3701+1)/5	http://factordb.com/cert.php?id=1100000000993764322
+
+16	2344	D0(B^17804)	(3131×16^17804−11)/15	http://factordb.com/cert.php?id=1100000003589278511
 
 18	549	C(0^6268)C5	12×18^6270+221	http://factordb.com/cert.php?id=1100000003590442437
 
