@@ -72,7 +72,7 @@ b	index of this minimal prime in base b (assuming the primality of all probable 
 
 30	2618	I(0^24608)D	18×30^24609+13
 
-All these numbers are strong probable primes to bases 2, 3, 5, 7, 11, 13, 17, 19, 23, and trial factored (https://primes.utm.edu/glossary/xpage/TrialDivision.html) to 10^11
+All these numbers are strong probable primes to bases 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, and strong Lucas probable primes with parameters (P, Q) defined by Selfridge's Method A (see https://oeis.org/A217255), and trial factored (https://primes.utm.edu/glossary/xpage/TrialDivision.html) to 10^16
 
 Primality certificates (https://primes.utm.edu/glossary/xpage/Certificate.html) for large proven primes (> 10^3000):
 
