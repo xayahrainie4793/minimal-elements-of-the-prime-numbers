@@ -42,7 +42,55 @@ k×b^n+1 for all k <= 12 with n >= 1 (see https://www.rieselprime.de/ziki/Proth_
 
 k×b^n−1 for all k <= 12 with n >= 1 (see https://www.rieselprime.de/ziki/Riesel_prime_small_bases_least_n, https://mersenneforum.org/showthread.php?t=10354)
 
-Some families can be proven to only contain composites (only count numbers > b), by covering congruence (http://irvinemclean.com/maths/siercvr.htm), algebraic factorization (https://en.wikipedia.org/wiki/Factorization_of_polynomials), or combine of them.
+Some families can be proven to contain no primes > b, by covering congruence (http://irvinemclean.com/maths/siercvr.htm), algebraic factorization (https://en.wikipedia.org/wiki/Factorization_of_polynomials), or combine of them, e.g.
+
+b	family	why this family contain no primes > b
+
+10	4{6}9	always divisible by 7
+
+9	5{1}	always divisible by some element of {2,5}
+
+11	2{5}	always divisible by some element of {2,3}
+
+14	B{0}1	always divisible by some element of {3,5}
+
+8	6{4}7	always divisible by some element of {3,5,13}
+
+13	3{0}95	always divisible by some element of {5,7,17}
+
+16	{4}D	always divisible by some element of {3,7,13}
+
+16	{8}F	always divisible by some element of {3,7,13}
+
+9	{1}	difference-of-squares factorization
+
+8	1{0}1	sum-of-cubes factorization
+
+9	3{8}	difference-of-squares factorization
+
+16	{F}7	difference-of-squares factorization
+
+9	3{1}	difference-of-squares factorization
+
+16	{4}1	difference-of-squares factorization
+
+16	1{5}	difference-of-squares factorization
+
+16	{C}D	Aurifeuillian factorization of x^4+4\*y^4
+
+14	8{D}	combine of factor 5 and difference-of-squares factorization
+
+12	{B}9B	combine of factor 13 and difference-of-squares factorization
+
+14	{D}5	combine of factor 5 and difference-of-squares factorization
+
+17	1{9}	combine of factor 2 and difference-of-squares factorization
+
+19	1{6}	combine of factor 5 and difference-of-squares factorization
+
+24	3{N}	combine of factor 5 and difference-of-squares factorization
+
+24	{N}LN	combine of factor 5 and difference-of-squares factorization
 
 We have completely solved this problem for bases b = 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 14, 15, 18, 20, 24, also we have completely solved this problem for bases 11, 22, 30 if we allow strong probable primes (https://primes.utm.edu/glossary/xpage/StrongPRP.html) in place of proven primes, besides, we have completely solved this problem for bases 13 and 16 (if we allow strong probable primes in place of proven primes) except these four families:
 
