@@ -118,7 +118,7 @@ b	index of this minimal prime in base b	base-b form of the minimal prime	algebra
 
 30	2619	O(T^34205)	25×30^34205−1	proven prime by N+1 test (https://primes.utm.edu/prove/prove3_2.html), since N+1 is trivially 100% factored
 
-Condensed table: (the bases 11, 13, 16, 22, 30 data assumes the primality of the probable primes)
+Condensed table: (the bases 11, 13, 16, 17, 22, 30 data assumes the primality of the probable primes)
 
 b	number of minimal primes base b	base-b form of the largest known minimal prime base b	length of the largest known minimal prime base b	algebraic ((a\*b^n+c)/d) form of the largest known minimal prime base b
 
