@@ -118,7 +118,7 @@ b	family	why this family contain no primes > b
 
 33	F{W}	combine of factor 17 and difference-of-squares factorization
 
-Some families could not be proven to contain no primes > b (by covering congruence, algebraic factorization, or combine of them) but no primes > b could be found in the family, even after searching through numbers with over 50000 digits.
+Some families could not be proven to contain no primes > b (by covering congruence, algebraic factorization, or combine of them) but no primes > b could be found in the family, even after searching through numbers with over 50000 digits. In such a case, the only way to proceed is to test the primality of larger and larger numbers of such form and hope a prime is eventually discovered.
 
 Many families contain no small primes > b even though they do contain very large primes. e.g. the smallest prime in the base 23 family 9{E} is 9(E^800873) which when written in decimal contains 1090573 digits (Technically, probable primality tests (https://primes.utm.edu/glossary/xpage/PRP.html) were used to show this (which have a very small chance of making an error (https://primes.utm.edu/notes/prp_prob.html)) because all known primality tests (https://en.wikipedia.org/wiki/Primality_test) run far too slowly to run on a number of this size unless either N−1 (https://primes.utm.edu/prove/prove3_1.html) or N+1 (https://primes.utm.edu/prove/prove3_2.html) (or both) can be >= 25% factored (https://en.wikipedia.org/wiki/Integer_factorization))
 
@@ -132,7 +132,7 @@ b	unsolved family (base-b form)	unsolved family (algebraic ((a\*b^n+c)/d) form)	
 
 16	{3}AF	(16^(n+2)+619)/5	49000
 
-If these four families contain primes (and they are excepted to contain primes), then the smallest prime in families 9{5} and A{3}A in base b = 13 will be index 3196 and 3197 minimal prime in base b = 13, and the smallest prime in families {3}AF in base b = 16 will be index 2347 minimal prime in base b = 16.
+If these three families contain primes (and they are excepted to contain primes), then the smallest prime in families 9{5} and A{3}A in base b = 13 will be index 3196 and 3197 minimal prime in base b = 13, and the smallest prime in families {3}AF in base b = 16 will be index 2347 minimal prime in base b = 16.
 
 The unproven probable primes are:
 
