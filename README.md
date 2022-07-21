@@ -66,6 +66,10 @@ b	family	why this family contain no primes > b
 
 16	{8}F	always divisible by some element of {3,7,13}
 
+17	7F{0}D	always divisible by some element of {3,5,29}
+
+30	A{0}9J	always divisible by some element of {7,13,19,31}
+
 9	{1}	difference-of-squares factorization
 
 8	1{0}1	sum-of-cubes factorization
@@ -86,6 +90,10 @@ b	family	why this family contain no primes > b
 
 16	B{4}1	difference-of-squares factorization
 
+25	2{1}	difference-of-squares factorization
+
+27	9{G}	difference-of-cubes factorization
+
 14	8{D}	combine of factor 5 and difference-of-squares factorization
 
 12	{B}9B	combine of factor 13 and difference-of-squares factorization
@@ -96,6 +104,8 @@ b	family	why this family contain no primes > b
 
 17	7{9}	combine of factor 2 and difference-of-squares factorization
 
+17	{9}8	combine of factor 2 and difference-of-squares factorization
+
 19	1{6}	combine of factor 5 and difference-of-squares factorization
 
 19	89{6}	combine of factor 5 and difference-of-squares factorization
@@ -105,6 +115,8 @@ b	family	why this family contain no primes > b
 24	5{N}	combine of factor 5 and difference-of-squares factorization
 
 24	{N}LN	combine of factor 5 and difference-of-squares factorization
+
+33	F{W}	combine of factor 17 and difference-of-squares factorization
 
 We have completely solved this problem for bases b = 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 14, 15, 18, 20, 24, also we have completely solved this problem for bases 11, 22, 30 if we allow strong probable primes (https://primes.utm.edu/glossary/xpage/StrongPRP.html) in place of proven primes, besides, we have completely solved this problem for bases 13 and 16 (if we allow strong probable primes in place of proven primes) except these four families:
 
