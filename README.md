@@ -120,6 +120,8 @@ b	family	why this family contain no primes > b
 
 Some families could not be proven to contain no primes > b (by covering congruence, algebraic factorization, or combine of them) but no primes > b could be found in the family, even after searching through numbers with over 50000 digits.
 
+Many families contain no small primes > b even though they do contain very large primes. e.g. the smallest prime in the base 23 family 9{E} is 9(E^800873) which when written in decimal contains 1090573 digits (Technically, probable primality tests were used to show this (which have a very small chance of making an error) because all known primality tests run far too slowly to run on a number of this size unless either N−1 or N+1 can be >= 25% factored)
+
 We have completely solved this problem for bases b = 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 14, 15, 18, 20, 24, also we have completely solved this problem for bases 11, 22, 30 if we allow strong probable primes (https://primes.utm.edu/glossary/xpage/StrongPRP.html) in place of proven primes, besides, we have completely solved this problem for bases 13 and 16 (if we allow strong probable primes in place of proven primes) except these four families:
 
 b	unsolved family (base-b form)	unsolved family (algebraic ((a\*b^n+c)/d) form)	current search limit of length
