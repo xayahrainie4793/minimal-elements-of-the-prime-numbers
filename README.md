@@ -118,6 +118,8 @@ b	family	why this family contain no primes > b
 
 33	F{W}	combine of factor 17 and difference-of-squares factorization
 
+Some families could not be proven to contain no primes > b (by covering congruence, algebraic factorization, or combine of them) but no primes > b could be found in the family, even after searching through numbers with over 50000 digits.
+
 We have completely solved this problem for bases b = 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 14, 15, 18, 20, 24, also we have completely solved this problem for bases 11, 22, 30 if we allow strong probable primes (https://primes.utm.edu/glossary/xpage/StrongPRP.html) in place of proven primes, besides, we have completely solved this problem for bases 13 and 16 (if we allow strong probable primes in place of proven primes) except these four families:
 
 b	unsolved family (base-b form)	unsolved family (algebraic ((a\*b^n+c)/d) form)	current search limit of length
