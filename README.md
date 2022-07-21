@@ -48,6 +48,10 @@ b	family	why this family contain no primes > b
 
 10	4{6}9	always divisible by 7
 
+6	4{0}1	always divisible by 5
+
+15	9{6}8	always divisible by 11
+
 9	5{1}	always divisible by some element of {2,5}
 
 11	2{5}	always divisible by some element of {2,3}
@@ -68,6 +72,8 @@ b	family	why this family contain no primes > b
 
 9	3{8}	difference-of-squares factorization
 
+16	8{F}	difference-of-squares factorization
+
 16	{F}7	difference-of-squares factorization
 
 9	3{1}	difference-of-squares factorization
@@ -78,6 +84,8 @@ b	family	why this family contain no primes > b
 
 16	{C}D	Aurifeuillian factorization of x^4+4\*y^4
 
+16	B{4}1	difference-of-squares factorization
+
 14	8{D}	combine of factor 5 and difference-of-squares factorization
 
 12	{B}9B	combine of factor 13 and difference-of-squares factorization
@@ -86,9 +94,15 @@ b	family	why this family contain no primes > b
 
 17	1{9}	combine of factor 2 and difference-of-squares factorization
 
+17	7{9}	combine of factor 2 and difference-of-squares factorization
+
 19	1{6}	combine of factor 5 and difference-of-squares factorization
 
+19	89{6}	combine of factor 5 and difference-of-squares factorization
+
 24	3{N}	combine of factor 5 and difference-of-squares factorization
+
+24	5{N}	combine of factor 5 and difference-of-squares factorization
 
 24	{N}LN	combine of factor 5 and difference-of-squares factorization
 
