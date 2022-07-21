@@ -138,7 +138,7 @@ b	index of this minimal prime in base b (assuming the primality of all probable 
 
 All these numbers are strong probable primes (https://en.wikipedia.org/wiki/Strong_pseudoprime) to bases 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, and strong Lucas probable primes (https://en.wikipedia.org/wiki/Lucas_pseudoprime#Strong_Lucas_pseudoprimes) with parameters (P, Q) defined by Selfridge's Method A (see https://oeis.org/A217255), and trial factored (https://primes.utm.edu/glossary/xpage/TrialDivision.html) to 10^16 (thus, all these numbers are Baillie–PSW probable primes (https://en.wikipedia.org/wiki/Baillie%E2%80%93PSW_primality_test))
 
-Primality certificates (https://primes.utm.edu/glossary/xpage/Certificate.html) for large proven primes (> 10^3000):
+Primality certificates (https://primes.utm.edu/glossary/xpage/Certificate.html) for large proven primes (> 10^3000) for bases 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 18, 20, 22, 24, 30:
 
 b	index of this minimal prime in base b	base-b form of the minimal prime	algebraic ((a\*b^n+c)/d) form of the minimal prime	primality certificate for the minimal prime
 
