@@ -183,9 +183,25 @@ b	index of this minimal prime in base b (assuming the primality of all probable 
 
 All these numbers are strong probable primes (https://en.wikipedia.org/wiki/Strong_pseudoprime) to bases 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, and strong Lucas probable primes (https://en.wikipedia.org/wiki/Lucas_pseudoprime#Strong_Lucas_pseudoprimes) with parameters (P, Q) defined by Selfridge's Method A (see https://oeis.org/A217255), and trial factored (https://primes.utm.edu/glossary/xpage/TrialDivision.html) to 10^16 (thus, all these numbers are Baillie–PSW probable primes (https://en.wikipedia.org/wiki/Baillie%E2%80%93PSW_primality_test))
 
-Primality certificates (https://primes.utm.edu/glossary/xpage/Certificate.html) for large proven primes (> 10^3000) for bases 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 18, 20, 22, 24, 30:
+Primality certificates (https://primes.utm.edu/glossary/xpage/Certificate.html) for large proven primes (> 10^1000) for bases 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 18, 20, 22, 24, 30:
 
 b	index of this minimal prime in base b	base-b form of the minimal prime	algebraic ((a\*b^n+c)/d) form of the minimal prime	primality certificate for the minimal prime
+
+9	151	3(0^1158)11	3×9^1160+10	http://factordb.com/cert.php?id=1100000002376318423
+
+11	1067	55(7^1011)	(607×11^1011−7)/10	http://factordb.com/cert.php?id=1100000002361376522
+
+13	3184	(9^968)B	(3×13^969+5)/4	http://factordb.com/cert.php?id=1100000000258566244
+
+13	3185	1(0^1295)181	13^1298+274	http://factordb.com/cert.php?id=1100000002615445013
+
+13	3186	(9^1362)5	(3×13^1363−19)/4	http://factordb.com/cert.php?id=1100000002321017776
+
+13	3187	(7^1504)1	(7×13^1505−79)/12	http://factordb.com/cert.php?id=1100000002320890755
+
+13	3188	93(0^1551)1	120×13^1552+1	proven prime by N−1 test (https://primes.utm.edu/prove/prove3_1.html), since N−1 is trivially 100% factored
+
+13	3189	72(0^2297)2	93×13^2298+2	http://factordb.com/cert.php?id=1100000002632396910
 
 13	3190	177(0^2703)17	267×13^2705+20	http://factordb.com/cert.php?id=1100000003590430825
 
