@@ -46,7 +46,7 @@ k×b^n+1 for all k <= 12 with n >= 1 (see https://www.rieselprime.de/ziki/Proth_
 
 k×b^n−1 for all k <= 12 with n >= 1 (see https://www.rieselprime.de/ziki/Riesel_prime_small_bases_least_n, https://mersenneforum.org/showthread.php?t=10354)
 
-In fact, this problem covers finding the smallest prime of these form in the same base b: (where x,y,z are any digits in base b)
+In fact, this problem covers finding the smallest prime of these form in the same base b: (where x, y, z are any digits in base b)
 
 x{0}y
 
@@ -142,7 +142,7 @@ Some families could not be proven to contain no primes > b (by covering congruen
 
 Many families contain no small primes > b even though they do contain very large primes. e.g. the smallest prime in the base 23 family 9{E} is 9(E^800873) which when written in decimal contains 1090573 digits (Technically, probable primality tests (https://primes.utm.edu/glossary/xpage/PRP.html) were used to show this (which have a very small chance of making an error (https://primes.utm.edu/notes/prp_prob.html)) because all known primality tests (https://en.wikipedia.org/wiki/Primality_test) run far too slowly to run on a number of this size unless either N−1 (https://primes.utm.edu/prove/prove3_1.html) or N+1 (https://primes.utm.edu/prove/prove3_2.html) (or both) can be >= 25% factored (https://en.wikipedia.org/wiki/Integer_factorization))
 
-The numbers in simple families are of the form (a×b^n+c)/gcd(a+c,b−1) for some fixed a,b,c. Except in the special case c = ±1 and gcd(a+c,b−1) = 1, when n is large the known primality tests for such a number are too inefficient to run. In this case one must resort to a probable primality test such as a Miller–Rabin primality test or a Baillie–PSW primality test, unless a divisor of the number can be found. Since we are testing many numbers in an exponential sequence, it is possible to use a sieving process (https://www.rieselprime.de/ziki/Sieving) to find divisors rather than using trial division (https://primes.utm.edu/glossary/xpage/TrialDivision.html).
+The numbers in simple families are of the form (a×b^n+c)/gcd(a+c,b−1) for some fixed a, b, c such that a >= 1, b >= 2 (b is the base), c != 0, gcd(a,c) = 1, gcd(b,c) = 1. Except in the special case c = ±1 and gcd(a+c,b−1) = 1, when n is large the known primality tests for such a number are too inefficient to run. In this case one must resort to a probable primality test such as a Miller–Rabin primality test or a Baillie–PSW primality test, unless a divisor of the number can be found. Since we are testing many numbers in an exponential sequence, it is possible to use a sieving process (https://www.rieselprime.de/ziki/Sieving) to find divisors rather than using trial division (https://primes.utm.edu/glossary/xpage/TrialDivision.html).
 
 To do this, we made use of Geoffrey Reynolds’ SRSIEVE software (https://www.rieselprime.de/ziki/Srsieve). This program uses the baby-step giant-step algorithm to find all primes p which divide a×b^n+c where p and n lie in a specified range. Since this program cannot handle the general case (a×b^n+c)/gcd(a+c,b−1) when gcd(a+c,b−1) > 1 we only used it to sieve the sequence a×b^n+c for primes p not dividing gcd(a+c,b−1), and initialized the list of candidates to not include n for which there is some prime p dividing gcd(a+c,b−1) for which p dividing (a×b^n+c)/gcd(a+c,b−1). The program had to be modified slightly to remove a check which would prevent it from
 running in the case when a, b, and c were all odd (since then 2 divides abn + c, but 2 may not divide (a×b^n+c)/gcd(a+c,b−1)).
