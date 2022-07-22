@@ -108,11 +108,11 @@ b	family	why this family contain no primes > b
 
 16	{C}D	Aurifeuillian factorization of x^4+4\*y^4
 
-16	B{4}1	difference-of-squares factorization
-
 25	2{1}	difference-of-squares factorization
 
 27	9{G}	difference-of-cubes factorization
+
+36	O{Z}	difference-of-squares factorization
 
 14	8{D}	combine of factor 5 and difference-of-squares factorization
 
