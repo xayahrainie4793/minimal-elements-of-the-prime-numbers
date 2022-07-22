@@ -46,6 +46,22 @@ k×b^n+1 for all k <= 12 with n >= 1 (see https://www.rieselprime.de/ziki/Proth_
 
 k×b^n−1 for all k <= 12 with n >= 1 (see https://www.rieselprime.de/ziki/Riesel_prime_small_bases_least_n, https://mersenneforum.org/showthread.php?t=10354)
 
+In fact, this problem covers finding the smallest prime of these form in the same base b: (where x and y are any digits in base b)
+
+x{0}y
+
+x{y} (unless y = 1)
+
+{x}y (unless x = 1)
+
+x{0}yz (unless there is a prime of the form x{0}y or x{0}z)
+
+xy{0}z (unless there is a prime of the form x{0}z or y{0}z)
+
+xy{x} (unless either x = 1 or there is a prime of the form y{x} (or both))
+
+{x}yx (unless either x = 1 or there is a prime of the form {x}y (or both))
+
 Some families can be proven to contain no primes > b, by covering congruence (http://irvinemclean.com/maths/siercvr.htm), algebraic factorization (https://en.wikipedia.org/wiki/Factorization_of_polynomials), or combine of them, e.g.
 
 b	family	why this family contain no primes > b
