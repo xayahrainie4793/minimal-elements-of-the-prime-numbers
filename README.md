@@ -149,9 +149,9 @@ running in the case when a, b, and c were all odd (since then 2 divides abn + c,
 
 Once the numbers with small divisors had been removed, it remained to test the remaining numbers using a probable primality test. For this we used the software LLR by Jean Penn´e (https://www.rieselprime.de/ziki/LLR) or PFGW (https://www.rieselprime.de/ziki/PFGW). Although undocumented, it is possible to run these two programs on numbers of the form (a×b^n+c)/gcd(a+c,b−1) when gcd(a+c,b−1) > 1, so this program required no modifications. A script was also written which allowed one to run srsieve while LLR or PFGW was testing the remaining candidates, so that when a divisor was found by srsieve on a number which had not yet been tested by LLR or PFGW it would be removed from the list of candidates.
 
-In the cases where  we employed PRIMO by Marcel Martin [13], an elliptic curve primality proving (https://primes.utm.edu/prove/prove4_2.html) implementation.
+Also, for the primes < 10^25000, we employed PRIMO by Marcel Martin (https://www.rieselprime.de/ziki/Primo), an elliptic curve primality proving (https://primes.utm.edu/prove/prove4_2.html) implementation.
 
-We have completely solved this problem for bases b = 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 14, 15, 18, 20, 24, also we have completely solved this problem for bases 11, 22, 30 if we allow strong probable primes (https://primes.utm.edu/glossary/xpage/StrongPRP.html) in place of proven primes, besides, we have completely solved this problem for bases 13 and 16 (if we allow strong probable primes in place of proven primes) except these four families:
+We have completely solved this problem for bases b = 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 14, 15, 18, 20, 24, also we have completely solved this problem for bases 11, 22, 30 if we allow strong probable primes (https://primes.utm.edu/glossary/xpage/StrongPRP.html) > 10^25000 in place of proven primes, besides, we have completely solved this problem for bases 13 and 16 (if we allow strong probable primes in place of proven primes) except these four families:
 
 b	unsolved family (base-b form)	unsolved family (algebraic ((a\*b^n+c)/d) form)	current search limit of length
 
