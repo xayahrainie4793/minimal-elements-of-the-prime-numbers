@@ -46,7 +46,7 @@ k×b^n+1 for all k <= 12 with n >= 1 (see https://www.rieselprime.de/ziki/Proth_
 
 k×b^n−1 for all k <= 12 with n >= 1 (see https://www.rieselprime.de/ziki/Riesel_prime_small_bases_least_n, https://mersenneforum.org/showthread.php?t=10354)
 
-In fact, this problem covers finding the smallest prime of these form in the same base b: (where x and y are any digits in base b)
+In fact, this problem covers finding the smallest prime of these form in the same base b: (where x,y,z are any digits in base b)
 
 x{0}y
 
