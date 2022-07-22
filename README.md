@@ -213,6 +213,16 @@ b	index of this minimal prime in base b	base-b form of the minimal prime	algebra
 
 14	650	4(D^19698)	5×14^19698−1	proven prime by N+1 test (https://primes.utm.edu/prove/prove3_2.html), since N+1 is trivially 100% factored
 
+16	2337	D(9^1052)	(68×16^1052−3)/5	http://factordb.com/cert.php?id=1100000002321036020
+
+16	2338	FA(F^1062)45	251×16^1064−187	http://factordb.com/cert.php?id=1100000003588387610
+
+16	2339	F(8^1517)F	(233×16^1518+97)/15	http://factordb.com/cert.php?id=1100000000633744824
+
+16	2340	2(0^1713)321	2×16^1716+801	http://factordb.com/cert.php?id=1100000003588386735
+
+16	2341	300(F^1960)AF	769×16^1962−81	http://factordb.com/cert.php?id=1100000003588368750
+
 16	2342	9(0^3542)91	9×16^3544+145	http://factordb.com/cert.php?id=1100000000633424191
 
 16	2343	5B(C^3700)D	(459×16^3701+1)/5	http://factordb.com/cert.php?id=1100000000993764322
@@ -220,6 +230,8 @@ b	index of this minimal prime in base b	base-b form of the minimal prime	algebra
 16	2344	D0(B^17804)	(3131×16^17804−11)/15	http://factordb.com/cert.php?id=1100000003589278511
 
 18	549	C(0^6268)C5	12×18^6270+221	http://factordb.com/cert.php?id=1100000003590442437
+
+20	3312	5(0^1163)AJ	5×20^1165+219	http://factordb.com/cert.php?id=1100000003590502412
 
 20	3313	C(D^2449)	(241×20^2449−13)/19	http://factordb.com/cert.php?id=1100000002325393915
 
@@ -238,6 +250,8 @@ b	index of this minimal prime in base b	base-b form of the minimal prime	algebra
 24	3408	88(N^5951)	201×24^5951−1	proven prime by N+1 test (https://primes.utm.edu/prove/prove3_2.html), since N+1 is trivially 100% factored
 
 24	3409	N00(N^8129)LN	13249×24^8131−49	http://factordb.com/cert.php?id=1100000003593391606
+
+30	2616	C(0^1022)1	12×30^1023+1	proven prime by N−1 test (https://primes.utm.edu/prove/prove3_1.html), since N−1 is trivially 100% factored
 
 30	2617	(5^4882)J	(5×30^4883+401)/29	http://factordb.com/cert.php?id=1100000002327649423
 
