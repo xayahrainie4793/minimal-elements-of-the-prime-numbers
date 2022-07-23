@@ -151,7 +151,7 @@ Once the numbers with small divisors had been removed, it remained to test the r
 
 For the primes < 10^25000 for the solved or near-solved bases (i.e. bases 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 18, 20, 22, 24, 30), we employed PRIMO by Marcel Martin (https://www.rieselprime.de/ziki/Primo), an elliptic curve primality proving (https://primes.utm.edu/prove/prove4_2.html) implementation.
 
-We have completely solved this problem for bases b = 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 14, 15, 18, 20, 24, also we have completely solved this problem for bases 11, 22, 30 if we allow strong probable primes (https://primes.utm.edu/glossary/xpage/StrongPRP.html) > 10^25000 in place of proven primes, besides, we have completely solved this problem for bases 13 and 16 (if we allow strong probable primes in place of proven primes) except these three families:
+We have completely solved this problem for bases b = 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 14, 15, 18, 20, 24, also we have completely solved this problem for bases 11, 22, 30 if we allow strong probable primes (https://primes.utm.edu/glossary/xpage/StrongPRP.html) > 10^25000 in place of proven primes, besides, we have completely solved this problem for bases 13 and 16 (if we allow strong probable primes in place of proven primes) except these three families: (i.e. we cannot determine whether they contain a prime > base or not)
 
 b	unsolved family (base-b form)	unsolved family (algebraic ((a\*b^n+c)/d) form)	current search limit of length
 
