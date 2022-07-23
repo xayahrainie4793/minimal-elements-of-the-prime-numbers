@@ -307,7 +307,7 @@ b	number of minimal primes base b	base-b form of the largest known minimal prime
 
 File "kernel b": Data for all known minimal primes in base b
 
-File "left b": Families in base b such that we were unable to determine if they contain a prime or not
+File "left b": x{y}z (where x and z are strings (may be empty) of digits in base b, y is a digit in base b) families in base b such that we were unable to determine if they contain a prime or not
 
 References:
 
