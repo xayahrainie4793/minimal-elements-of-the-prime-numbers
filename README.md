@@ -307,7 +307,7 @@ b	number of minimal primes base b	base-b form of the largest known minimal prime
 
 36	35256\~35263	(J^10117)LJ	10119	(19×36^10119+2501)/35
 
-File "kernel b": Data for all known minimal primes in base b
+File "kernel b": Data for all known minimal primes in base b, expressed as base b strings
 
 File "left b": x{y}z (where x and z are strings (may be empty) of digits in base b, y is a digit in base b) families in base b such that we were unable to determine if they contain a prime > b or not (i.e. x{y}z (where x and z are strings (may be empty) of digits in base b, y is a digit in base b) families in base b such that no prime member > b could be found, nor could the family be ruled out as only containing composites (only count the numbers > b))
 
