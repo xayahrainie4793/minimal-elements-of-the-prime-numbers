@@ -239,6 +239,12 @@ b	index of this minimal prime in base b	base-b form of the minimal prime	algebra
 
 20	3314	G(0^6269)D	16×20^6270+13	http://factordb.com/cert.php?id=1100000003590539457
 
+22	7998	K(0^760)EC1	20×22^763+7041	http://factordb.com/cert.php?id=1100000000632724415
+
+22	7999	J(0^767)IGGJ	19×22^771+199779	http://factordb.com/cert.php?id=1100000003591362567
+
+22	8000	(7^959)K7	(22^961+857)/3	http://factordb.com/cert.php?id=1100000003591361817
+
 22	8001	(L^2385)KE7	22^2388−653	http://factordb.com/cert.php?id=1100000003591360774
 
 22	8002	(7^3815)2L	(22^3817−289)/3	http://factordb.com/cert.php?id=1100000003591359839
