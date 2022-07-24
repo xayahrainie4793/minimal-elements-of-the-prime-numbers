@@ -267,51 +267,51 @@ b	index of this minimal prime in base b	base-b form of the minimal prime	algebra
 
 Condensed table for bases 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 22, 24, 30, 36: (the bases 11, 13, 16, 17, 22, 30, 36 data assumes the primality of the probable primes)
 
-b	number of minimal primes base b	base-b form of the largest known minimal prime base b	length of the largest known minimal prime base b	algebraic ((a\*b^n+c)/d) form of the largest known minimal prime base b
+b	number of minimal primes base b	base-b form of the largest known minimal prime base b	length of the largest known minimal prime base b	algebraic ((a\*b^n+c)/d) form of the largest known minimal prime base b	number of unsolved families in base b	searching limit of length for the unsolved families in base b (if there are different searching limits for the unsolved families in base b, choose the lowest searching limit)
 
-2	1	11	2	3
+2	1	11	2	3	0	---
 
-3	3	111	3	13
+3	3	111	3	13	0	---
 
-4	5	221	3	41
+4	5	221	3	41	0	---
 
-5	22	1(0^93)13	96	5^95+8
+5	22	1(0^93)13	96	5^95+8	0	---
 
-6	11	40041	5	5209
+6	11	40041	5	5209	0	---
 
-7	71	(3^16)1	17	(7^17−5)/2
+7	71	(3^16)1	17	(7^17−5)/2	0	---
 
-8	75	(4^220)7	221	(4×8^221+17)/7
+8	75	(4^220)7	221	(4×8^221+17)/7	0	---
 
-9	151	3(0^1158)11	1161	3×9^1160+10
+9	151	3(0^1158)11	1161	3×9^1160+10	0	---
 
-10	77	5(0^28)27	31	5×10^30+27
+10	77	5(0^28)27	31	5×10^30+27	0	---
 
-11	1068	5(7^62668)	62669	(57×11^62668−7)/10
+11	1068	5(7^62668)	62669	(57×11^62668−7)/10	0	---
 
-12	106	4(0^39)77	42	4×12^41+91
+12	106	4(0^39)77	42	4×12^41+91	0	---
 
-13	3195\~3197	8(0^32017)111	32021	8×13^32020+183
+13	3195\~3197	8(0^32017)111	32021	8×13^32020+183	2	82000
 
-14	650	4(D^19698)	19699	5×14^19698−1
+14	650	4(D^19698)	19699	5×14^19698−1	0	---
 
-15	1284	(7^155)97	157	(15^157+59)/2
+15	1284	(7^155)97	157	(15^157+59)/2	0	---
 
-16	2346\~2347	(4^72785)DD	72787	(4×16^72787+2291)/15
+16	2346\~2347	(4^72785)DD	72787	(4×16^72787+2291)/15	1	76000
 
-17	10403\~10428	34(7^16074)	16076	(887×17^16074−7)/16
+17	10403\~10428	34(7^16074)	16076	(887×17^16074−7)/16	25	20000
 
-18	549	C(0^6268)C5	6271	12×18^6270+221
+18	549	C(0^6268)C5	6271	12×18^6270+221	0	---
 
-20	3314	G(0^6269)D	6271	16×20^6270+13
+20	3314	G(0^6269)D	6271	16×20^6270+13	0	---
 
-22	8003	B(K^22001)5	22003	(251×22^22002−335)/21
+22	8003	B(K^22001)5	22003	(251×22^22002−335)/21	0	---
 
-24	3409	N00(N^8129)LN	8134	13249×24^8131−49
+24	3409	N00(N^8129)LN	8134	13249×24^8131−49	0	---
 
-30	2619	O(T^34205)	34206	25×30^34205−1
+30	2619	O(T^34205)	34206	25×30^34205−1	0	---
 
-36	35256\~35263	(J^10117)LJ	10119	(19×36^10119+2501)/35
+36	35256\~35263	(J^10117)LJ	10119	(19×36^10119+2501)/35	7	20000
 
 File "kernel b": Data for all known minimal primes in base b, expressed as base b strings
 
