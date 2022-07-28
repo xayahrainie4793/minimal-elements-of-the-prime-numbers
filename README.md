@@ -72,8 +72,6 @@ b	family	why this family contain no primes > b
 
 6	4{0}1	always divisible by 5
 
-15	9{6}8	always divisible by 11
-
 9	5{1}	always divisible by some element of {2,5}
 
 11	2{5}	always divisible by some element of {2,3}
@@ -89,6 +87,8 @@ b	family	why this family contain no primes > b
 16	{8}F	always divisible by some element of {3,7,13}
 
 17	7F{0}D	always divisible by some element of {3,5,29}
+
+21	{7}D	always divisible by some element of {2,13,17}
 
 30	A{0}9J	always divisible by some element of {7,13,19,31}
 
