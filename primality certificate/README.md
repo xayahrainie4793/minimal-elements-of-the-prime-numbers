@@ -4,7 +4,7 @@ e.g. "certificate9_149" means the primality certificate for the 149th minimal pr
 
 Primes which either N−1 or N+1 is trivially 100% factored need not primality certificates, since they can be easily proven primes using N−1 test (https://primes.utm.edu/prove/prove3_1.html) or N+1 test (https://primes.utm.edu/prove/prove3_2.html).
 
-Also the case where N−1 or N+1 is product of a Cunningham number (of the form b^n±1, see https://en.wikipedia.org/wiki/Cunningham_number, https://homes.cerias.purdue.edu/~ssw/cun/index.html, https://maths-people.anu.edu.au/~brent/factors.html, http://myfactors.mooo.com/, https://stdkmd.net/nrr/repunit/repunitnote.htm) and a small number, and this Cunningham number is >= 25% factored:
+Also the case where N−1 or N+1 is product of a Cunningham number (of the form b^n±1, see https://en.wikipedia.org/wiki/Cunningham_number, https://homes.cerias.purdue.edu/~ssw/cun/index.html, https://maths-people.anu.edu.au/~brent/factors.html, http://myfactors.mooo.com/, https://stdkmd.net/nrr/repunit/repunitnote.htm) and a small number, and this Cunningham number is >= 25% factored (https://en.wikipedia.org/wiki/Integer_factorization, https://www.rieselprime.de/ziki/Factorization):
 
 the 3168th minimal prime in base 13, (9^308)1, N−1 is 117×R308(13), thus factor N−1 is equivalent to factor 13^308−1, and for the factorization of 13^308−1, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSingleEntry?Base=13&Exp=308&c0=-&EN=
 
