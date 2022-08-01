@@ -46,7 +46,7 @@ k×b^n+1 for all k <= 12 with n >= 1 (see https://www.rieselprime.de/ziki/Proth_
 
 k×b^n−1 for all k <= 12 with n >= 1 (see https://www.rieselprime.de/ziki/Riesel_prime_small_bases_least_n, https://mersenneforum.org/showthread.php?t=10354)
 
-(below (as well as the "left b" files), family "12{3}45" means sequence {1245, 12345, 123345, 1233345, 12333345, 123333345, ...}, where the members are expressed as base b strings, like the numbers in https://stdkmd.net/nrr/aaaab.htm, https://stdkmd.net/nrr/abbbb.htm, https://stdkmd.net/nrr/aaaba.htm, https://stdkmd.net/nrr/abaaa.htm)
+(below (as well as the "left b" files), family "12{3}45" means sequence {1245, 12345, 123345, 1233345, 12333345, 123333345, ...}, where the members are expressed as base b strings, like the numbers in https://stdkmd.net/nrr/aaaab.htm, https://stdkmd.net/nrr/abbbb.htm, https://stdkmd.net/nrr/aaaba.htm, https://stdkmd.net/nrr/abaaa.htm, https://stdkmd.net/nrr/abbba.htm, https://stdkmd.net/nrr/abbbc.htm)
 
 In fact, this problem covers finding the smallest prime of these form in the same base b: (where x, y, z are any digits in base b)
 
