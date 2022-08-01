@@ -1,4 +1,4 @@
-These are the Primo (https://www.rieselprime.de/ziki/Primo) primality certificates (https://en.wikipedia.org/wiki/Primality_certificate, https://primes.utm.edu/glossary/xpage/Certificate.html) for the minimal primes > 10^300 in bases 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 18, 20, 22, 24, 30 (local copy from factordb (http://factordb.com/)).
+These are the Primo (https://www.rieselprime.de/ziki/Primo) primality certificates (https://en.wikipedia.org/wiki/Primality_certificate, https://primes.utm.edu/glossary/xpage/Certificate.html, https://mathworld.wolfram.com/PrimalityCertificate.html) for the minimal primes > 10^300 in bases 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 18, 20, 22, 24, 30 (local copy from factordb (http://factordb.com/)).
 
 e.g. "certificate9_149" means the primality certificate for the 149th minimal prime in base 9, i.e. the primality certificate for the prime 7(6^329)2 in base 9.
 
