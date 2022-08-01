@@ -2,7 +2,7 @@ These are the Primo (https://www.rieselprime.de/ziki/Primo) primality certificat
 
 e.g. "certificate9_149" means the primality certificate for the 149th minimal prime in base 9, i.e. the primality certificate for the prime 7(6^329)2 in base 9.
 
-Primes which either N−1 or N+1 is trivially 100% factored need not primality certificates, since they can be easily proven primes using N−1 test (https://primes.utm.edu/prove/prove3_1.html) or N+1 test (https://primes.utm.edu/prove/prove3_2.html).
+Primes which either N−1 or N+1 is trivially 100% factored (i.e. primes of the form k×b^n±1, with small k) need not primality certificates, since they can be easily proven primes using N−1 test (https://primes.utm.edu/prove/prove3_1.html) or N+1 test (https://primes.utm.edu/prove/prove3_2.html).
 
 Also the case where N−1 or N+1 is product of a Cunningham number (of the form b^n±1, see https://en.wikipedia.org/wiki/Cunningham_number, https://homes.cerias.purdue.edu/~ssw/cun/index.html, https://maths-people.anu.edu.au/~brent/factors.html, http://myfactors.mooo.com/, https://stdkmd.net/nrr/repunit/repunitnote.htm) and a small number, and this Cunningham number is >= 25% factored (https://en.wikipedia.org/wiki/Integer_factorization, https://www.rieselprime.de/ziki/Factorization, https://mathworld.wolfram.com/PrimeFactorization.html):
 
