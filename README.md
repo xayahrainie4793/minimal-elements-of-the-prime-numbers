@@ -4,6 +4,24 @@ Write down a prime number > 10, and I can always strike out 0 or more digits to 
 
 {11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97, 227, 251, 257, 277, 281, 349, 409, 449, 499, 521, 557, 577, 587, 727, 757, 787, 821, 827, 857, 877, 881, 887, 991, 2087, 2221, 5051, 5081, 5501, 5581, 5801, 5851, 6469, 6949, 8501, 9001, 9049, 9221, 9551, 9649, 9851, 9949, 20021, 20201, 50207, 60649, 80051, 666649, 946669, 5200007, 22000001, 60000049, 66000049, 66600049, 80555551, 555555555551, 5000000000000000000000000000027}
 
+e.g.
+
+Write down the prime 149, I can delete the digit 4, to get the prime 19
+
+Write down the prime 857, I can delete zero digits, to get the prime 857
+
+Write down the famous double-Mersenne prime 170141183460469231731687303715884105727 (2^127−1) --> I can delete all digits except the third-leftmost 1 and the second-rightmost 3, to get the prime 13
+
+Write down the famous repunit prime 1111111111111111111 (with 19 1's) --> I can delete 17 1's, to get the prime 11
+
+Write down the large near-repdigit prime 993×10^1768283−1 --> since this prime is 992999...999, I can delete all 9's except the rightmost 9, to get the prime 29
+
+Write down the prime 1000000000000000000000000000000000000000000000000000000000007 (which is the next prime after 10^60) --> I can delete all 0's, to get the prime 17
+
+Write down the prime 8555555555555555555551 --> I can delete the 8 and nine 5's, to get the prime 555555555551
+
+Write down the largest known prime 2^82589933−1 --> since it start with the digit 1 and end with the digit 1, I can delete all other digits, to get the prime 11
+
 Now we extend this prime game to bases other than 10.
 
 The minimal elements (https://en.wikipedia.org/wiki/Minimal_element) (https://mathworld.wolfram.com/MaximalElement.html for maximal element, the dual of minimal element, unfortunely there is no article "minimal element" in mathworld) of the prime numbers (https://en.wikipedia.org/wiki/Prime_number, https://primes.utm.edu/glossary/xpage/Prime.html, https://www.rieselprime.de/ziki/Prime, https://mathworld.wolfram.com/PrimeNumber.html) which are > b written in the positional numeral system (https://en.wikipedia.org/wiki/Positional_numeral_system) with radix (https://en.wikipedia.org/wiki/Radix, https://primes.utm.edu/glossary/xpage/Radix.html, https://www.rieselprime.de/ziki/Base) b, as digit (https://en.wikipedia.org/wiki/Numerical_digit, https://www.rieselprime.de/ziki/Digit, https://mathworld.wolfram.com/Digit.html) strings (https://en.wikipedia.org/wiki/String_(computer_science), https://mathworld.wolfram.com/String.html) with subsequence (https://en.wikipedia.org/wiki/Subsequence, https://mathworld.wolfram.com/Subsequence.html) ordering (https://en.wikipedia.org/wiki/Partially_ordered_set, https://mathworld.wolfram.com/PartialOrder.html), for 2 <= b <= 36 (I stop at base 36 since this base is a maximum base for which it is possible to write the numbers with the symbols 0, 1, ..., 9 and A, B, ..., Z).
