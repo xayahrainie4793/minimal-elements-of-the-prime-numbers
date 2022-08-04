@@ -10,7 +10,9 @@ Write down the prime 149, I can delete the digit 4, to get the prime 19
 
 Write down the prime 857, I can delete zero digits, to get the prime 857
 
-Write down the famous double-Mersenne prime 170141183460469231731687303715884105727 (2^127−1) --> I can delete all digits except the third-leftmost 1 and the second-rightmost 3, to get the prime 13
+Write down the largest known double Mersenne prime 170141183460469231731687303715884105727 (2^127−1) --> I can delete all digits except the third-leftmost 1 and the second-rightmost 3, to get the prime 13
+
+Write down the largest known Fermat prime 65537 --> I can delete 6 and 3, to get the prime 557
 
 Write down the famous repunit prime 1111111111111111111 (with 19 1's) --> I can delete 17 1's, to get the prime 11
 
@@ -18,9 +20,15 @@ Write down the large near-repdigit prime 993×10^1768283−1 --> since this prim
 
 Write down the prime 1000000000000000000000000000000000000000000000000000000000007 (which is the next prime after 10^60) --> I can delete all 0's, to get the prime 17
 
+Write down the prime 95801 --> I can delete the 9, to get the prime 5801
+
 Write down the prime 8555555555555555555551 --> I can delete the 8 and nine 5's, to get the prime 555555555551
 
+Write down the prime 
+
 Write down the largest known prime 2^82589933−1 --> since it start with the digit 1 and end with the digit 1, I can delete all other digits, to get the prime 11
+
+Write down the largest known non-Mersenne prime 10223×2^31172165+1 --> since it end with 37, I can delete all other digits, to get the prime 37
 
 Now we extend this prime game to bases other than 10.
 
