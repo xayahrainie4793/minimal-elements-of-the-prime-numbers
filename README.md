@@ -16,7 +16,7 @@ Write down the prime 2081, I can delete the digit 0, to get the prime 281
 
 Write down the largest known double Mersenne prime 170141183460469231731687303715884105727 (2^127−1) --> I can delete all digits except the third-leftmost 1 and the second-rightmost 3, to get the prime 13
 
-Write down the largest known Fermat prime 65537 --> I can delete 6 and 3, to get the prime 557
+Write down the largest known Fermat prime 65537 --> I can delete 6 and 3, to get the prime 557 (also I can choose to delete 6 and two 5's, to get the prime 37) (also I can choose to delete two 5's and 3, to get the prime 67) (also I can choose to delete 6, one 5, and 7, to get the prime 53)
 
 Write down the famous repunit prime 1111111111111111111 (with 19 1's) --> I can delete 17 1's, to get the prime 11
 
@@ -28,7 +28,7 @@ Write down the prime 95801 --> I can delete the 9, to get the prime 5801
 
 Write down the prime 8555555555555555555551 --> I can delete the 8 and nine 5's, to get the prime 555555555551
 
-Write down the prime 
+Write down the prime 314159 --> I can delete the first two digits (31) and the last two digits (59), to get the prime 41 (also I can choose to delete the first four digits (3141) to get the prime 59) (also I can choose to delete the last four digits (4159) to get the prime 31)
 
 Write down the largest known prime 2^82589933−1 --> since it start with the digit 1 and end with the digit 1, I can delete all other digits, to get the prime 11
 
