@@ -28,7 +28,7 @@ Write down the prime 95801 --> I can delete the 9, to get the prime 5801
 
 Write down the prime 8555555555555555555551 --> I can delete the 8 and nine 5's, to get the prime 555555555551
 
-Write down the prime 314159 --> I can delete the first two digits (31) and the last two digits (59), to get the prime 41 (also I can choose to delete the first four digits (3141) to get the prime 59) (also I can choose to delete the last four digits (4159) to get the prime 31)
+Write down the prime 314159 (the first six digits of Pi (3.14159265358979...)) --> I can delete the first two digits (31) and the last two digits (59), to get the prime 41 (also I can choose to delete the first four digits (3141) to get the prime 59) (also I can choose to delete the last four digits (4159) to get the prime 31)
 
 Write down the largest known prime 2^82589933−1 --> since it start with the digit 1 and end with the digit 1, I can delete all other digits, to get the prime 11
 
