@@ -8,7 +8,11 @@ e.g.
 
 Write down the prime 149, I can delete the digit 4, to get the prime 19
 
+Write down the prime 547, I can delete the digit 5, to get the prime 47
+
 Write down the prime 857, I can delete zero digits, to get the prime 857
+
+Write down the prime 2081, I can delete the digit 0, to get the prime 281
 
 Write down the largest known double Mersenne prime 170141183460469231731687303715884105727 (2^127−1) --> I can delete all digits except the third-leftmost 1 and the second-rightmost 3, to get the prime 13
 
