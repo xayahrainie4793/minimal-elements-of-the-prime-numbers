@@ -30,9 +30,9 @@ Write down the prime 8555555555555555555551 --> I can delete the 8 and nine 5's,
 
 Write down the prime 314159 (the first six digits of Pi (3.14159265358979...)) --> I can delete the first two digits (31) and the last two digits (59), to get the prime 41 (also I can choose to delete the first four digits (3141) to get the prime 59) (also I can choose to delete the last four digits (4159) to get the prime 31)
 
-Write down the largest known prime 2^82589933−1 --> since it start with the digit 1 and end with the digit 1, I can delete all other digits, to get the prime 11
+Write down the largest known prime 2^82589933−1 --> since it starts with the digit 1 and ends with the digit 1, I can delete all other digits, to get the prime 11
 
-Write down the largest known non-Mersenne prime 10223×2^31172165+1 --> since it end with 37, I can delete all other digits, to get the prime 37
+Write down the largest known non-Mersenne prime 10223×2^31172165+1 --> since it ends with 37, I can delete all other digits, to get the prime 37
 
 Now we extend this prime game to bases other than 10.
 
