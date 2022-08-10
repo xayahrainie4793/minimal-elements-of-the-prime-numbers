@@ -8,7 +8,7 @@ e.g.
 
 Write down the prime 149, I can delete the digit 4, to get the prime 19
 
-Write down the prime 547, I can delete the digit 5, to get the prime 47
+Write down the prime 439, I can delete the digit 9, to get the prime 43
 
 Write down the prime 857, I can delete zero digits, to get the prime 857
 
