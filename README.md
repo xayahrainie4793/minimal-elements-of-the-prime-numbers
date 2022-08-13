@@ -24,7 +24,7 @@ Write down the famous repunit prime 1111111111111111111 (with 19 1's) --> I can 
 
 Write down the prime 1000000000000000000000000000000000000000000000000000000000007 (which is the next prime after 10^60) --> I can delete all 0's, to get the prime 17
 
-Write down the largest known near-repdigit prime 993×10^1768283−1 --> since this prime is 992999...999, I can delete all 9's except the rightmost 9, to get the prime 29
+Write down the prime 52111111111111111111111111111111111111111111111 (which is the next prime of the form 52{1} after 521) --> I can delete 44 1's, to get the prime 521 (also I can choose to delete 5, 2, and 43 1's, to get the prime 11)
 
 Write down the prime 95801 --> I can delete the 9, to get the prime 5801
 
