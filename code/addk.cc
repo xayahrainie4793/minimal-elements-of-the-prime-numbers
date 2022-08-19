@@ -1,4 +1,3 @@
-
 #include <list>
 #include <string>
 #include <iostream>
@@ -78,4 +77,3 @@ if(modif)
 l2=found.size();cout<<"old length="<<l1<<"; new length="<<l2<<"\n";
    }
 }} // end main
-
