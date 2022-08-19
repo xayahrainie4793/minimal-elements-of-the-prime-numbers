@@ -182,11 +182,11 @@ We have completely solved this problem for bases b = 2, 3, 4, 5, 6, 7, 8, 9, 10,
 
 b	unsolved family (base-b form)	unsolved family (algebraic ((a\*b^n+c)/d) form)	current search limit of length
 
-13	9{5}	(113×13^n−5)/12	116000
+13	9{5}	(113×13^n−5)/12	136000
 
-13	A{3}A	(41×13^(n+1)+27)/4	111000
+13	A{3}A	(41×13^(n+1)+27)/4	128000
 
-16	{3}AF	(16^(n+2)+619)/5	98000
+16	{3}AF	(16^(n+2)+619)/5	114000
 
 If these three families contain primes (and they are excepted to contain primes), then the smallest prime in families 9{5} and A{3}A in base b = 13 will be index 3196 and 3197 minimal prime in base b = 13, and the smallest prime in families {3}AF in base b = 16 will be index 2347 minimal prime in base b = 16.
 
