@@ -578,7 +578,7 @@ int main(int argc, char *argv[])
  f.clear();f.push_back("0");f.push_back(ss);f.push_back("0");
  for(il=ilb;il<=ilh;il++)for(ir=irb;ir<=irh;ir++)if(gcd(b,ir)==1)
      {f[0][0]=tr[il];f[2][0]=tr[ir];
-//construction of the familles to be explored from the first and last digits
+//construction of the familles to beÂ explored from the first and last digits
       handelf(f);
      }
 
