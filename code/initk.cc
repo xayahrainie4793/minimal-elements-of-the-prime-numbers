@@ -76,4 +76,3 @@ for(i=b+1;i<b*b*b*b*b;i++)if(ok(i))
 for(it=found.begin();it!=found.end();it++)kern<<(*it)<<"\n";
 kern.close();
 } // end main
-
