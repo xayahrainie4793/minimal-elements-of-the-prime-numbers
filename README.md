@@ -290,7 +290,7 @@ b	index of this minimal prime in base b	base-b form of the minimal prime	algebra
 
 30	2619	O(T^34205)	25×30^34205−1	proven prime by N+1 test (https://primes.utm.edu/prove/prove3_2.html), since N+1 is trivially 100% factored
 
-Condensed table for bases 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 24, 30, 36: (the bases 11, 13, 16, 17, 19, 21, 22, 30, 36 data assumes the primality of the probable primes)
+Condensed table for bases 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 24, 26, 28, 30, 36: (the bases 11, 13, 16, 17, 19, 21, 22, 26, 28, 30, 36 data assumes the primality of the probable primes)
 
 b	number of minimal primes base b	base-b form of the largest known minimal prime base b	length of the largest known minimal prime base b	algebraic ((a\*b^n+c)/d) form of the largest known minimal prime base b	number of unsolved families in base b	searching limit of length for the unsolved families in base b (if there are different searching limits for the unsolved families in base b, choose the lowest searching limit)
 
@@ -337,6 +337,10 @@ b	number of minimal primes base b	base-b form of the largest known minimal prime
 22	8003	B(K^22001)5	22003	(251×22^22002−335)/21	0	---
 
 24	3409	N00(N^8129)LN	8134	13249×24^8131−49	0	---
+
+26	25250\~25259	(5^19391)6F	(26^19393+179)/5	9	20000
+
+28	25525\~25529	D(0^5267)77D	13*28^5270+5697	4	20000
 
 30	2619	O(T^34205)	34206	25×30^34205−1	0	---
 
