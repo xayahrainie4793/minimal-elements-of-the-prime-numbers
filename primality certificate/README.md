@@ -1,6 +1,6 @@
 These are the Primo (https://www.rieselprime.de/ziki/Primo) primality certificates (https://en.wikipedia.org/wiki/Primality_certificate, https://primes.utm.edu/glossary/xpage/Certificate.html, https://mathworld.wolfram.com/PrimalityCertificate.html) for the minimal primes > 10^300 in bases 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 18, 20, 22, 24, 30 (local copy from factordb (http://factordb.com/)).
 
-e.g. File "certificate9_149" is the primality certificate for the 149th minimal prime in base 9, i.e. the primality certificate for the prime 7(6^329)2 in base 9.
+e.g. File "certificate9_149" is the primality certificate for the 149th minimal prime in base 9, i.e. the primality certificate for the prime 7(6^329)2 in base 9, which equals the prime (31×9^330−19)/4.
 
 Primes which either N−1 or N+1 is trivially 100% factored (i.e. primes of the form k×b^n±1, with small k) need not primality certificates, since they can be easily proven primes using N−1 test (https://primes.utm.edu/prove/prove3_1.html) or N+1 test (https://primes.utm.edu/prove/prove3_2.html).
 
