@@ -178,7 +178,7 @@ Once the numbers with small divisors had been removed, it remained to test the r
 
 For the primes < 10^25000 for the solved or near-solved bases (bases with <= 3 unsolved families, i.e. bases 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 18, 20, 22, 24, 30), we employed PRIMO by Marcel Martin (http://www.ellipsa.eu/public/primo/primo.html, https://primes.utm.edu/bios/page.php?id=46, https://www.rieselprime.de/ziki/Primo), an elliptic curve primality proving (https://primes.utm.edu/prove/prove4_2.html, https://en.wikipedia.org/wiki/Elliptic_curve_primality, https://primes.utm.edu/glossary/xpage/ECPP.html, https://mathworld.wolfram.com/EllipticCurvePrimalityProving.html) implementation.
 
-We have completely solved this problem for bases b = 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 14, 15, 18, 20, 24 (thus, currently we can complete the classification of the minimal primes in these bases), also we have completely solved this problem for bases 11, 16, 22, 30 if we allow probable primes (https://en.wikipedia.org/wiki/Probable_prime, https://primes.utm.edu/glossary/xpage/PRP.html, https://www.rieselprime.de/ziki/Probable_prime, https://mathworld.wolfram.com/ProbablePrime.html) > 10^25000 in place of proven primes, besides, we have completely solved this problem for bases 13, 17, 19, 21, 26, 28, 36 (if we allow strong probable primes in place of proven primes) except these  families:
+We have completely solved this problem for bases b = 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 14, 15, 18, 20, 24 (thus, currently we can complete the classification of the minimal primes in these bases), also we have completely solved this problem for bases 11, 16, 22, 30 if we allow probable primes (https://en.wikipedia.org/wiki/Probable_prime, https://primes.utm.edu/glossary/xpage/PRP.html, https://www.rieselprime.de/ziki/Probable_prime, https://mathworld.wolfram.com/ProbablePrime.html) > 10^25000 in place of proven primes, besides, we have completely solved this problem for bases 13, 17, 19, 21, 26, 28, 36 (if we allow strong probable primes in place of proven primes) except these 101 families:
 
 b	unsolved family (base-b form)	unsolved family (algebraic ((a\*b^n+c)/d) form)	current search limit of length
 
@@ -384,7 +384,15 @@ b	unsolved family (base-b form)	unsolved family (algebraic ((a\*b^n+c)/d) form)	
 
 36	S{0}8H	28×36^(n+2)+305	20000
 
-If these three families contain primes (and they are excepted to contain primes), then the smallest prime in families 9{5} and A{3}A in base b = 13 will be index 3196 and 3197 minimal prime in base b = 13, and the smallest prime in families {3}AF in base b = 16 will be index 2347 minimal prime in base b = 16.
+We are unable to determine if these 101 families contain a prime (only count the numbers > base) or not, i.e. these 101 families have no known prime members, nor can these 101 families be ruled out as only containing composites, and all of these 101 families are excepted to contain primes.
+
+For base 17, the smallest prime in family {B}2BE may or may not be minimal prime, since another unsolved family is {B}2E.
+
+For base 19, the smallest prime in family {2}7A may or may not be minimal prime, since another unsolved family is {2}7, and the smallest prime in family 333{5} may or may not be quasi-minimal prime, since another unsolved family is 3{5}, and the smallest prime in family 5{H}05 may or may not be quasi-minimal prime, since another unsolved family is 5{H}5, and the smallest prime in family FHHH0{H} may or may not be quasi-minimal prime, since another unsolved family is FH0{H}.
+
+For base 21, the smallest prime in families {9}0D and F{9}D may or may not be minimal primes, since another unsolved family is {9}D, and the smallest prime in family DH{D} may or may not be quasi-minimal prime, since another unsolved family is H{D}.
+
+For base 28, the smallest prime in family 5O{A}F may or may not be minimal prime, since another unsolved family is O{A}F.
 
 There are also unproven probable primes (however, in this project our results assume that they are in fact primes, since they are > 10^25000 and the probability that they are in fact composite is < 10^−2000, see https://primes.utm.edu/notes/prp_prob.html), the unproven probable primes for bases 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 18, 20, 22, 24, 30 are:
 
