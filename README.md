@@ -18,13 +18,13 @@ Write down the largest known double Mersenne prime 17014118346046923173168730371
 
 Write down the largest known Fermat prime 65537 --> I can delete 6 and 3, to get the prime 557 (also I can choose to delete 6 and two 5's, to get the prime 37) (also I can choose to delete two 5's and 3, to get the prime 67) (also I can choose to delete 6, one 5, and 7, to get the prime 53)
 
-Write down the prime 314159 (the first six digits of Pi (3.14159265358979...)) --> I can delete the first two digits (31) and the last two digits (59), to get the prime 41 (also I can choose to delete the first four digits (3141) to get the prime 59) (also I can choose to delete the last four digits (4159) to get the prime 31)
-
 Write down the famous repunit prime 1111111111111111111 (with 19 1's) --> I can delete 17 1's, to get the prime 11
 
 Write down the prime 1000000000000000000000000000000000000000000000000000000000007 (which is the next prime after 10^60) --> I can delete all 0's, to get the prime 17
 
 Write down the prime 52111111111111111111111111111111111111111111111 (which is the next prime of the form 52{1} after 521) --> I can delete 44 1's, to get the prime 521 (also I can choose to delete 5, 2, and 43 1's, to get the prime 11)
+
+Write down the largest known near-repdigit prime 993×10^1768283−1 --> since this prime is 992999...999, I can delete all 9's except the rightmost 9, to get the prime 29
 
 Write down the prime 95801 --> I can delete the 9, to get the prime 5801
 
