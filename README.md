@@ -178,15 +178,13 @@ Once the numbers with small divisors had been removed, it remained to test the r
 
 For the primes < 10^25000 for the solved or near-solved bases (bases with <= 3 unsolved families, i.e. bases 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 18, 20, 22, 24, 30), we employed PRIMO by Marcel Martin (http://www.ellipsa.eu/public/primo/primo.html, https://primes.utm.edu/bios/page.php?id=46, https://www.rieselprime.de/ziki/Primo), an elliptic curve primality proving (https://primes.utm.edu/prove/prove4_2.html, https://en.wikipedia.org/wiki/Elliptic_curve_primality, https://primes.utm.edu/glossary/xpage/ECPP.html, https://mathworld.wolfram.com/EllipticCurvePrimalityProving.html) implementation.
 
-We have completely solved this problem for bases b = 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 14, 15, 18, 20, 24 (thus, currently we can complete the classification of the minimal primes in these bases), also we have completely solved this problem for bases 11, 16, 22, 30 if we allow probable primes (https://en.wikipedia.org/wiki/Probable_prime, https://primes.utm.edu/glossary/xpage/PRP.html, https://www.rieselprime.de/ziki/Probable_prime, https://mathworld.wolfram.com/ProbablePrime.html) > 10^25000 in place of proven primes, besides, we have completely solved this problem for bases 13, 17,  (if we allow strong probable primes in place of proven primes) except these three families:
+We have completely solved this problem for bases b = 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 14, 15, 18, 20, 24 (thus, currently we can complete the classification of the minimal primes in these bases), also we have completely solved this problem for bases 11, 16, 22, 30 if we allow probable primes (https://en.wikipedia.org/wiki/Probable_prime, https://primes.utm.edu/glossary/xpage/PRP.html, https://www.rieselprime.de/ziki/Probable_prime, https://mathworld.wolfram.com/ProbablePrime.html) > 10^25000 in place of proven primes, besides, we have completely solved this problem for bases 13, 17, 19, 21, 26, 28, 36 (if we allow strong probable primes in place of proven primes) except these  families:
 
 b	unsolved family (base-b form)	unsolved family (algebraic ((a\*b^n+c)/d) form)	current search limit of length
 
 13	9{5}	(113×13n−5)/12	136000
 
 13	A{3}A	(41×13n+1+27)/4	128000
-
-16	{3}AF	(16n+2+619)/5	114000
 
 17	1{7}	(23×17n−7)/16	39000
 
