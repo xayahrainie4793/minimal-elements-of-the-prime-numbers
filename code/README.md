@@ -1,1 +1,3 @@
 This program must be run with GMP (https://gmplib.org/)
+
+This program using many number theoretic functions in GMP library (see https://gmplib.org/manual/Number-Theoretic-Functions), and we use the GMP function "mpz_probab_prime_p" to test the probable primality of the numbers, since this function includes the Baillie-PSW probable prime test, all numbers in the data are Baillie-PSW probable primes, i.e. either primes or Baillie-PSW pseudoprimes, and no known composites which pass the Baillie–PSW probable prime test, and no composites < 264 pass the Baillie–PSW probable prime test (reference and reference), thus if a number in the data is in fact composite, it will be a pseudoprime to the Baillie–PSW probable prime test, which currently no single example is known!
