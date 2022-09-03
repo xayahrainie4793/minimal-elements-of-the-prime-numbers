@@ -180,7 +180,7 @@ For the primes < 10^25000 for the solved or near-solved bases (bases with <= 3 u
 
 We have completely solved this problem for bases b = 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 14, 15, 18, 20, 24 (thus, currently we can complete the classification of the minimal primes in these bases), also we have completely solved this problem for bases 11, 16, 22, 30 if we allow probable primes (https://en.wikipedia.org/wiki/Probable_prime, https://primes.utm.edu/glossary/xpage/PRP.html, https://www.rieselprime.de/ziki/Probable_prime, https://mathworld.wolfram.com/ProbablePrime.html) > 10^25000 in place of proven primes, besides, we have completely solved this problem for bases 13, 17, 19, 21, 26, 28, 36 (if we allow strong probable primes in place of proven primes) except the families listed in the "left b" files (see the condensed table below for the searching limit of these families).
 
-We are unable to determine if these families contain a prime (only count the numbers > base) or not, i.e. these families have no known prime members, nor can these 101 families be ruled out as only containing composites, and all of these families are excepted to contain primes.
+We are unable to determine if these families contain a prime (only count the numbers > base) or not, i.e. these families have no known prime members, nor can they be ruled out as only containing composites, and all of these families are excepted to contain primes.
 
 For base 17, the smallest prime in family {B}2BE may or may not be minimal prime, since another unsolved family is {B}2E.
 
