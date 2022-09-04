@@ -90,7 +90,7 @@ xy{x} (unless either x = 1 or there is a prime of the form y{x} (or both))
 
 {x}yx (unless either x = 1 or there is a prime of the form {x}y (or both))
 
-Some x{y}z (where x and z are strings (may be empty) of digits in base b, y is a digit in base b) families can be proven to contain no primes > b, by covering congruence (http://irvinemclean.com/maths/siercvr.htm, https://mathworld.wolfram.com/ExactCoveringSystem.html), algebraic factorization (https://en.wikipedia.org/wiki/Factorization_of_polynomials, https://mathworld.wolfram.com/PolynomialFactorization.html), or combine of them, e.g.
+Some x{y}z (where x and z are strings (may be empty) of digits in base b, y is a digit in base b) families can be proven to contain no primes > b, by covering congruence (http://irvinemclean.com/maths/siercvr.htm, https://mathworld.wolfram.com/ExactCoveringSystem.html), algebraic factorization (https://en.wikipedia.org/wiki/Factorization_of_polynomials, https://mathworld.wolfram.com/PolynomialFactorization.html), or combine of them, e.g. (only list the families which all numbers do not contain "prime > b" subsequence)
 
 b	family	why this family contain no primes > b
 
@@ -104,7 +104,7 @@ b	family	why this family contain no primes > b
 
 14	B{0}1	always divisible by some element of {3,5}
 
-8	6{4}7	always divisible by some element of {3,5,13}
+8	6{4}7	always divisible by some element of {3,5,13} (special example, as the numbers with length >= 222 in this family contain "prime > b" subsequence)
 
 13	3{0}95	always divisible by some element of {5,7,17}
 
@@ -124,6 +124,10 @@ b	family	why this family contain no primes > b
 
 9	3{8}	difference-of-squares factorization
 
+9	{8}5	difference-of-squares factorization
+
+9	3{8}35	difference-of-squares factorization
+
 16	8{F}	difference-of-squares factorization
 
 16	{F}7	difference-of-squares factorization
@@ -133,6 +137,10 @@ b	family	why this family contain no primes > b
 16	{4}1	difference-of-squares factorization
 
 16	1{5}	difference-of-squares factorization
+
+16	B{4}1	difference-of-squares factorization
+
+16	{C}B	difference-of-squares factorization
 
 16	{C}D	Aurifeuillian factorization of x^4+4\*y^4
 
