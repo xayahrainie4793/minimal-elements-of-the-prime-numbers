@@ -96,15 +96,33 @@ b	family	why this family contain no primes > b
 
 10	4{6}9	always divisible by 7
 
+4	2{0}1	always divisible by 3
+
 6	4{0}1	always divisible by 5
+
+15	9{6}8	always divisible by 11
+
+9	2{7}	always divisible by some element of {2,5}
 
 9	5{1}	always divisible by some element of {2,5}
 
+9	6{1}	always divisible by some element of {2,5}
+
+9	{3}{0}5	always divisible by some element of {2,5} (non-simple family)
+
 11	2{5}	always divisible by some element of {2,3}
+
+11	3{5}	always divisible by some element of {2,3}
+
+14	4{0}1	always divisible by some element of {3,5}
 
 14	B{0}1	always divisible by some element of {3,5}
 
-8	6{4}7	always divisible by some element of {3,5,13} (special example, as the numbers with length >= 222 in this family contain "prime > b" subsequence)
+14	3{D}	always divisible by some element of {3,5}
+
+14	A{D}	always divisible by some element of {3,5}
+
+8	6{4}7	always divisible by some element of {3,5,13} (special example, as the numbers with length >= 222 in this family contain "prime > b" subsequence, this prime is (4^220)7)
 
 13	3{0}95	always divisible by some element of {5,7,17}
 
