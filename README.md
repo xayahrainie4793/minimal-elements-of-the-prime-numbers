@@ -152,9 +152,15 @@ b	family	why this family contain no primes > b
 
 17	7{9}	combine of factor 2 and difference-of-squares factorization
 
+17	{9}2	combine of factor 2 and difference-of-squares factorization
+
 17	{9}8	combine of factor 2 and difference-of-squares factorization
 
 19	1{6}	combine of factor 5 and difference-of-squares factorization
+
+19	{6}5	combine of factor 5 and difference-of-squares factorization
+
+19	7{2}	combine of factor 5 and difference-of-squares factorization
 
 19	89{6}	combine of factor 5 and difference-of-squares factorization
 
@@ -162,9 +168,17 @@ b	family	why this family contain no primes > b
 
 24	5{N}	combine of factor 5 and difference-of-squares factorization
 
+24	8{N}	combine of factor 5 and difference-of-squares factorization
+
 24	{N}LN	combine of factor 5 and difference-of-squares factorization
 
 33	F{W}	combine of factor 17 and difference-of-squares factorization
+
+33	{W}H	combine of factor 17 and difference-of-squares factorization
+
+34	8{X}	combine of factor 5 and difference-of-squares factorization
+
+34	{X}P	combine of factor 5 and difference-of-squares factorization
 
 Some x{y}z (where x and z are strings (may be empty) of digits in base b, y is a digit in base b) families could not be proven to contain no primes > b (by covering congruence, algebraic factorization, or combine of them) but no primes > b could be found in the family, even after searching through numbers with over 50000 digits. In such a case, the only way to proceed is to test the primality of larger and larger numbers of such form and hope a prime is eventually discovered.
 
