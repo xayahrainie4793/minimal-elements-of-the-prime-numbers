@@ -162,9 +162,41 @@ b	family	why this family contain no primes > b
 
 16	{C}D	Aurifeuillian factorization of x^4+4\*y^4
 
+16	{C}DD	Aurifeuillian factorization of x^4+4\*y^4
+
+25	{1}	difference-of-squares factorization
+
 25	2{1}	difference-of-squares factorization
 
+25	5{1}	difference-of-squares factorization
+
+25	7{1}	difference-of-squares factorization
+
+25	C{1}	difference-of-squares factorization
+
+25	F{1}	difference-of-squares factorization
+
+25	M{1}	difference-of-squares factorization
+
+25	1F{1}	difference-of-squares factorization
+
+27	8{0}1	sum-of-cubes factorization
+
+27	1{0}8	sum-of-cubes factorization
+
+27	{D}E	sum-of-cubes factorization
+
+27	7{Q}	difference-of-cubes factorization
+
+27	{Q}J	difference-of-cubes factorization
+
 27	9{G}	difference-of-cubes factorization
+
+32	1{0}1	sum-of-5th-powers factorization
+
+32	{1}	difference-of-5th-powers factorization
+
+36	3{7}	difference-of-squares factorization
 
 36	O{Z}	difference-of-squares factorization
 
