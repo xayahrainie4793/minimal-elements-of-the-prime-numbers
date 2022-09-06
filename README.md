@@ -260,8 +260,6 @@ For base 19, the smallest prime in family {2}7A may or may not be minimal prime,
 
 For base 21, the smallest prime in families {9}0D and F{9}D may or may not be minimal primes, since another unsolved family is {9}D, and the smallest prime in family DH{D} may or may not be quasi-minimal prime, since another unsolved family is H{D}.
 
-For base 28, the smallest prime in family 5O{A}F may or may not be minimal prime, since another unsolved family is O{A}F.
-
 There are also unproven probable primes (however, in this project our results assume that they are in fact primes, since they are > 10^25000 and the probability that they are in fact composite is < 10^−2000, see https://primes.utm.edu/notes/prp_prob.html), the unproven probable primes for bases 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 18, 20, 22, 24, 30 are:
 
 b	index of this minimal prime in base b (assuming the primality of all probable primes in base b)	base-b form of the unproven probable prime	algebraic ((a\*b^n+c)/d) form of the unproven probable prime
