@@ -78,17 +78,17 @@ In fact, this problem covers finding the smallest prime of these form in the sam
 
 x{0}y
 
-x{y} (unless y = 1)
+x{y} (unless y = 1) (see https://stdkmd.net/nrr/abbbb.htm)
 
-{x}y (unless x = 1)
+{x}y (unless x = 1) (see https://stdkmd.net/nrr/aaaab.htm)
 
 x{0}yz (unless there is a prime of the form x{0}y or x{0}z)
 
 xy{0}z (unless there is a prime of the form x{0}z or y{0}z)
 
-xy{x} (unless either x = 1 or there is a prime of the form y{x} (or both))
+xy{x} (unless either x = 1 or there is a prime of the form y{x} (or both)) (see https://stdkmd.net/nrr/abaaa.htm)
 
-{x}yx (unless either x = 1 or there is a prime of the form {x}y (or both))
+{x}yx (unless either x = 1 or there is a prime of the form {x}y (or both)) (see https://stdkmd.net/nrr/aaaba.htm)
 
 Some x{y}z (where x and z are strings (may be empty) of digits in base b, y is a digit in base b) families can be proven to contain no primes > b, by covering congruence (http://irvinemclean.com/maths/siercvr.htm, https://en.wikipedia.org/wiki/Covering_set, https://mathworld.wolfram.com/ExactCoveringSystem.html), algebraic factorization (https://en.wikipedia.org/wiki/Factorization_of_polynomials, https://mathworld.wolfram.com/PolynomialFactorization.html), or combine of them, e.g. (only list the families which all numbers do not contain "prime > b" subsequence)
 
