@@ -158,6 +158,10 @@ b	family	why this family contain no primes > b
 
 16	B{4}1	difference-of-squares factorization
 
+16	A1{5}	difference-of-squares factorization
+
+16	3{F}AF	difference-of-squares factorization
+
 16	{C}B	difference-of-squares factorization
 
 16	{C}D	Aurifeuillian factorization of x^4+4\*y^4
