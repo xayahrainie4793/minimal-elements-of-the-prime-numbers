@@ -298,19 +298,19 @@ b	index of this minimal prime in base b	base-b form of the minimal prime	algebra
 
 13	3187	(7^1504)1	(7×13^1505−79)/12	http://factordb.com/cert.php?id=1100000002320890755
 
-13	3188	93(0^1551)1	120×13^1552+1	proven prime by N−1 test (https://primes.utm.edu/prove/prove3_1.html), since N−1 is trivially 100% factored
+13	3188	93(0^1551)1	120×13^1552+1	proven prime by N−1 test (https://primes.utm.edu/prove/prove3_1.html), since N−1 is trivially fully factored
 
 13	3189	72(0^2297)2	93×13^2298+2	http://factordb.com/cert.php?id=1100000002632396910
 
 13	3190	177(0^2703)17	267×13^2705+20	http://factordb.com/cert.php?id=1100000003590430825
 
-13	3191	39(0^6266)1	48×13^6267+1	proven prime by N−1 test (https://primes.utm.edu/prove/prove3_1.html), since N−1 is trivially 100% factored
+13	3191	39(0^6266)1	48×13^6267+1	proven prime by N−1 test (https://primes.utm.edu/prove/prove3_1.html), since N−1 is trivially fully factored
 
 13	3192	B(0^6540)BBA	11×13^6543+2012	http://factordb.com/cert.php?id=1100000002616382906
 
 13	3193	(C^10631)92	13^10633−50	http://factordb.com/cert.php?id=1100000003590493750
 
-14	650	4(D^19698)	5×14^19698−1	proven prime by N+1 test (https://primes.utm.edu/prove/prove3_2.html), since N+1 is trivially 100% factored
+14	650	4(D^19698)	5×14^19698−1	proven prime by N+1 test (https://primes.utm.edu/prove/prove3_2.html), since N+1 is trivially fully factored
 
 16	2337	D(9^1052)	(68×16^1052−3)/5	http://factordb.com/cert.php?id=1100000002321036020
 
@@ -352,15 +352,15 @@ b	index of this minimal prime in base b	base-b form of the minimal prime	algebra
 
 24	3407	A(0^2951)8ID	10×24^2954+5053	http://factordb.com/cert.php?id=1100000003593269654
 
-24	3408	88(N^5951)	201×24^5951−1	proven prime by N+1 test (https://primes.utm.edu/prove/prove3_2.html), since N+1 is trivially 100% factored
+24	3408	88(N^5951)	201×24^5951−1	proven prime by N+1 test (https://primes.utm.edu/prove/prove3_2.html), since N+1 is trivially fully factored
 
 24	3409	N00(N^8129)LN	13249×24^8131−49	http://factordb.com/cert.php?id=1100000003593391606
 
-30	2616	C(0^1022)1	12×30^1023+1	proven prime by N−1 test (https://primes.utm.edu/prove/prove3_1.html), since N−1 is trivially 100% factored
+30	2616	C(0^1022)1	12×30^1023+1	proven prime by N−1 test (https://primes.utm.edu/prove/prove3_1.html), since N−1 is trivially fully factored
 
 30	2617	(5^4882)J	(5×30^4883+401)/29	http://factordb.com/cert.php?id=1100000002327649423
 
-30	2619	O(T^34205)	25×30^34205−1	proven prime by N+1 test (https://primes.utm.edu/prove/prove3_2.html), since N+1 is trivially 100% factored
+30	2619	O(T^34205)	25×30^34205−1	proven prime by N+1 test (https://primes.utm.edu/prove/prove3_2.html), since N+1 is trivially fully factored
 
 Condensed table for bases 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 24, 26, 28, 30, 36: (the bases 11, 13, 16, 17, 19, 21, 22, 26, 28, 30, 36 data assumes the primality of the probable primes)
 
