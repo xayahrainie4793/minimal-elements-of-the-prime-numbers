@@ -24,9 +24,9 @@ Write down the prime 10000000000000000000000000000000000000000000000000000000000
 
 Write down the prime 52111111111111111111111111111111111111111111111 (which is the next prime of the form 52{1} after 521) --> I can delete 44 1's, to get the prime 521 (also I can choose to delete 5, 2, and 43 1's, to get the prime 11)
 
-Write down the largest known near-repdigit prime 993×10^1768283−1 --> since this prime is 992999...999, I can delete all 9's except the rightmost 9, to get the prime 29
-
 Write down the prime 95801 --> I can delete the 9, to get the prime 5801
+
+Write down the prime 946969 --> I can delete the first 9 and two 6's, to get the prime 499
 
 Write down the prime 8555555555555555555551 --> I can delete the 8 and nine 5's, to get the prime 555555555551
 
