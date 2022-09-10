@@ -14,4 +14,10 @@ If (4^72785)DD (base 16) is in fact composite, then {4}DD will be an additional 
 
 If B(K^22001)5 (base 22) is in fact composite, then B{K}5 will be an additional unsolved family for base 22.
 
+If N(6^24051)LR (base 28) is in fact composite, then N{6}LR will be an additional unsolved family for base 28.
+
+If 5O(A^31238)F (base 28) is in fact composite, then 5O{A}F will be an additional unsolved family for base 28.
+
+If O4(O^94535)9 (base 28) is in fact composite, then O4{O}9 will be an additional unsolved family for base 28.
+
 If I(0^24608)D (base 30) is in fact composite, then I{0}D will be an additional unsolved family for base 30.
