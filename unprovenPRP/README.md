@@ -12,6 +12,8 @@ If D(B^32234) (base 16) is in fact composite, then D{B} will be an additional un
 
 If (4^72785)DD (base 16) is in fact composite, then {4}DD will be an additional unsolved family for base 16.
 
+If (3^116137)AF (base 16) is in fact composite, then {3}AF will be an additional unsolved family for base 16.
+
 If B(K^22001)5 (base 22) is in fact composite, then B{K}5 will be an additional unsolved family for base 22.
 
 If N(6^24051)LR (base 28) is in fact composite, then N{6}LR will be an additional unsolved family for base 28.
