@@ -108,13 +108,23 @@ b	family	why this family contain no primes > b
 
 9	5{1}	always divisible by some element of {2,5}
 
+9	5{7}	always divisible by some element of {2,5}
+
 9	6{1}	always divisible by some element of {2,5}
+
+9	{7}2	always divisible by some element of {2,5}
+
+9	{7}5	always divisible by some element of {2,5}
 
 9	{3}{0}5	always divisible by some element of {2,5} (non-simple family)
 
 11	2{5}	always divisible by some element of {2,3}
 
 11	3{5}	always divisible by some element of {2,3}
+
+11	3{7}	always divisible by some element of {2,3}
+
+11	4{7}	always divisible by some element of {2,3}
 
 14	4{0}1	always divisible by some element of {3,5}
 
