@@ -158,9 +158,13 @@ b	family	why this family contain no primes > b
 
 16	B{4}1	difference-of-squares factorization
 
+16	10{5}	difference-of-squares factorization
+
 16	A1{5}	difference-of-squares factorization
 
 16	3{F}AF	difference-of-squares factorization
+
+16	{5}45	difference-of-squares factorization
 
 16	{C}B	difference-of-squares factorization
 
@@ -237,6 +241,8 @@ b	family	why this family contain no primes > b
 33	F{W}	combine of factor 17 and difference-of-squares factorization
 
 33	{W}H	combine of factor 17 and difference-of-squares factorization
+
+34	1{B}	combine of factor 5 and difference-of-squares factorization
 
 34	8{X}	combine of factor 5 and difference-of-squares factorization
 
