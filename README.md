@@ -222,6 +222,10 @@ b	family	why this family contain no primes > b
 
 36	3{7}	difference-of-squares factorization
 
+36	3{Z}	difference-of-squares factorization
+
+36	8{Z}	difference-of-squares factorization
+
 36	O{Z}	difference-of-squares factorization
 
 14	8{D}	combine of factor 5 and difference-of-squares factorization
