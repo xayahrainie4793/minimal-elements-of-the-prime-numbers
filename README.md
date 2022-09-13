@@ -96,6 +96,8 @@ b	family	why this family contain no primes > b
 
 10	4{6}9	always divisible by 7
 
+10	28{0}7	always divisible by 7
+
 4	2{0}1	always divisible by 3
 
 6	4{0}1	always divisible by 5
@@ -187,6 +189,10 @@ b	family	why this family contain no primes > b
 25	M{1}	difference-of-squares factorization
 
 25	1F{1}	difference-of-squares factorization
+
+25	1{3}	difference-of-squares factorization
+
+25	1{8}	difference-of-squares factorization
 
 27	8{0}1	sum-of-cubes factorization
 
