@@ -94,17 +94,35 @@ Some x{y}z (where x and z are strings (may be empty) of digits in base b, y is a
 
 b	family	why this family contain no primes > b
 
-10	4{6}9	always divisible by 7
+10	2{0}1	always divisible by 3
 
 10	28{0}7	always divisible by 7
 
+10	4{6}9	always divisible by 7
+
+10	{0,3,6,9}	always divisible by 3 (non-simple family)
+
+3	1{0}1	always divisible by 2
+
 4	2{0}1	always divisible by 3
+
+5	11{0}3	always divisible by 3
+
+5	3{0}11	always divisible by 3
 
 6	4{0}1	always divisible by 5
 
+7	1{0}1{0}1	always divisible by 3 (non-simple family)
+
+9	{7}62	always divisible by 7
+
 15	9{6}8	always divisible by 11
 
+9	{1}5	always divisible by some element of {2,5}
+
 9	2{7}	always divisible by some element of {2,5}
+
+9	{3}8	always divisible by some element of {2,5}
 
 9	5{1}	always divisible by some element of {2,5}
 
