@@ -128,11 +128,11 @@ b	family	why this family contain no primes > b
 
 9	5{7}	always divisible by some element of {2,5}
 
-9	6{1}	always divisible by some element of {2,5}
-
 9	{7}2	always divisible by some element of {2,5}
 
 9	{7}5	always divisible by some element of {2,5}
+
+9	{1}6{1}	always divisible by some element of {2,5} (non-simple family)
 
 9	{3}{0}5	always divisible by some element of {2,5} (non-simple family)
 
@@ -144,6 +144,14 @@ b	family	why this family contain no primes > b
 
 11	4{7}	always divisible by some element of {2,3}
 
+11	{5}2	always divisible by some element of {2,3}
+
+11	{5}3	always divisible by some element of {2,3}
+
+11	{7}3	always divisible by some element of {2,3}
+
+11	{7}4	always divisible by some element of {2,3}
+
 14	4{0}1	always divisible by some element of {3,5}
 
 14	B{0}1	always divisible by some element of {3,5}
@@ -151,6 +159,8 @@ b	family	why this family contain no primes > b
 14	3{D}	always divisible by some element of {3,5}
 
 14	A{D}	always divisible by some element of {3,5}
+
+14	{4}9	always divisible by some element of {3,5}
 
 8	6{4}7	always divisible by some element of {3,5,13} (special example, as the numbers with length >= 222 in this family contain "prime > b" subsequence, this prime is (4^220)7)
 
@@ -170,6 +180,8 @@ b	family	why this family contain no primes > b
 
 8	1{0}1	sum-of-cubes factorization
 
+9	3{1}	difference-of-squares factorization
+
 9	3{8}	difference-of-squares factorization
 
 9	{8}5	difference-of-squares factorization
@@ -179,8 +191,6 @@ b	family	why this family contain no primes > b
 16	8{F}	difference-of-squares factorization
 
 16	{F}7	difference-of-squares factorization
-
-9	3{1}	difference-of-squares factorization
 
 16	{4}1	difference-of-squares factorization
 
@@ -193,6 +203,8 @@ b	family	why this family contain no primes > b
 16	A1{5}	difference-of-squares factorization
 
 16	3{F}AF	difference-of-squares factorization
+
+16	30{F}AF	difference-of-squares factorization
 
 16	{5}45	difference-of-squares factorization
 
