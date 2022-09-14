@@ -202,6 +202,8 @@ b	family	why this family contain no primes > b
 
 16	A1{5}	difference-of-squares factorization
 
+16	7{3}	difference-of-squares factorization
+
 16	3{F}AF	difference-of-squares factorization
 
 16	30{F}AF	difference-of-squares factorization
