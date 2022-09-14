@@ -306,11 +306,17 @@ b	family	why this family contain no primes > b
 
 Cases which include a very small prime > b:
 
+4	{1}	difference-of-squares factorization, but 11 is prime, and 11 is the only prime > b in this family
+
 8	{1}	difference-of-cubes factorization, but 111 is prime, and 111 is the only prime > b in this family
+
+16	{1}	difference-of-squares factorization, but 11 is prime, and 11 is the only prime > b in this family
 
 27	{1}	difference-of-cubes factorization, but 111 is prime, and 111 is the only prime > b in this family
 
 27	{G}7	difference-of-cubes factorization, but G7 is prime, and G7 is the only prime > b in this family
+
+36	{1}	difference-of-squares factorization, but 11 is prime, and 11 is the only prime > b in this family
 
 Some x{y}z (where x and z are strings (may be empty) of digits in base b, y is a digit in base b) families could not be proven to contain no primes > b (by covering congruence, algebraic factorization, or combine of them) but no primes > b could be found in the family, even after searching through numbers with over 50000 digits. In such a case, the only way to proceed is to test the primality of larger and larger numbers of such form and hope a prime is eventually discovered.
 
