@@ -194,9 +194,11 @@ b	family	why this family contain no primes > b
 
 16	{4}1	difference-of-squares factorization
 
+16	B{4}1	difference-of-squares factorization
+
 16	1{5}	difference-of-squares factorization
 
-16	B{4}1	difference-of-squares factorization
+16	8{5}	difference-of-squares factorization
 
 16	10{5}	difference-of-squares factorization
 
