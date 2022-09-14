@@ -304,7 +304,7 @@ b	family	why this family contain no primes > b
 
 34	{X}P	combine of factor 5 and difference-of-squares factorization
 
-Families which contain only one very small prime > b:
+Also families which contain only one very small prime > b:
 
 b	family	why this family contains only one prime > b
 
