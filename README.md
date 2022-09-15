@@ -102,6 +102,8 @@ b	family	why this family contain no primes > b
 
 10	{0,3,6,9}	always divisible by 3 (non-simple family)
 
+10	{0,7}	always divisible by 7 (non-simple family)
+
 3	1{0}1	always divisible by 2
 
 4	2{0}1	always divisible by 3
