@@ -270,6 +270,8 @@ b	family	why this family contain no primes > b
 
 36	F{Z}B	difference-of-squares factorization
 
+36	{9}1	difference-of-squares factorization
+
 36	{S}J	difference-of-squares factorization
 
 14	8{D}	combine of factor 5 and difference-of-squares factorization
@@ -299,6 +301,8 @@ b	family	why this family contain no primes > b
 24	5{N}	combine of factor 5 and difference-of-squares factorization
 
 24	8{N}	combine of factor 5 and difference-of-squares factorization
+
+24	{6}1	combine of factor 5 and difference-of-squares factorization
 
 24	{N}LN	combine of factor 5 and difference-of-squares factorization
 
