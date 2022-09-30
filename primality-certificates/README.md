@@ -38,7 +38,7 @@ the 3179th minimal prime in base 13, (B^563)C, N−1 is 11×R564(13), thus facto
 
 the 3180th minimal prime in base 13, 1(B^576), N−1 is 23×R576(13), thus factor N−1 is equivalent to factor 13^576−1, and for the factorization of 13^576−1, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSingleEntry?Base=13&Exp=576&c0=-&EN=
 
-Although these numbers also N−1 or N+1 is product of a Cunningham number and a small number, but since the corresponding Cunningham numbers are < 25% factored, these numbers still need primality certificates:
+Although these numbers also have N−1 or N+1 is product of a Cunningham number and a small number, but since the corresponding Cunningham numbers are < 25% factored, these numbers still need primality certificates:
 
 the 151st minimal prime in base 9, 3(0^1158)11, N−1 is 9×(3^2319+1), thus factor N−1 is equivalent to factor 3^2319+1, and for the factorization of 3^2319+1, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSingleEntry?Base=3&Exp=2319&c0=%2B&EN=
 
