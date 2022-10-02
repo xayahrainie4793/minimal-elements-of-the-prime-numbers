@@ -176,6 +176,10 @@ b	family	why this family contain no primes > b
 
 21	{7}D	always divisible by some element of {2,13,17}
 
+27	JP{0}1	always divisible by some element of {5,7,73}
+
+27	1{0}JP	always divisible by some element of {5,7,73}
+
 30	A{0}9J	always divisible by some element of {7,13,19,31}
 
 9	{1}	difference-of-squares factorization
