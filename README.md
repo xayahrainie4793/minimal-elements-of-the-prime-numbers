@@ -110,9 +110,9 @@ b	family	why this family contain no primes > b
 
 10	4{6}9	always divisible by 7
 
-10	families ending with {0,2,4,6,8}	always divisible by 2
+10	families ending with 0, 2, 4, 6, or 8	always divisible by 2
 
-10	families ending with {0,5}	always divisible by 5
+10	families ending with 0 or 5	always divisible by 5
 
 10	{0,3,6,9}	always divisible by 3 (non-simple family)
 
