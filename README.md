@@ -96,6 +96,16 @@ b	family	why this family contain no primes > b
 
 10	2{0}1	always divisible by 3
 
+10	2{0}7	always divisible by 3
+
+10	5{0}1	always divisible by 3
+
+10	5{0}7	always divisible by 3
+
+10	8{0}1	always divisible by 3
+
+10	8{0}7	always divisible by 3
+
 10	28{0}7	always divisible by 7
 
 10	4{6}9	always divisible by 7
