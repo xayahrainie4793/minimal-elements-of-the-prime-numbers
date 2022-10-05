@@ -162,6 +162,10 @@ b	family	why this family contain no primes > b
 
 14	A{D}	always divisible by some element of {3,5}
 
+14	1{0}B	always divisible by some element of {3,5}
+
+14	{D}3	always divisible by some element of {3,5}
+
 14	{4}9	always divisible by some element of {3,5}
 
 8	6{4}7	always divisible by some element of {3,5,13} (special example, as the numbers with length >= 222 in this family contain "prime > b" subsequence, this prime is (4^220)7)
@@ -181,6 +185,10 @@ b	family	why this family contain no primes > b
 20	7{J}	always divisible by some element of {3,7}
 
 20	C{J}	always divisible by some element of {3,7}
+
+20	1{0}D	always divisible by some element of {3,7}
+
+20	{J}7	always divisible by some element of {3,7}
 
 21	{7}D	always divisible by some element of {2,13,17}
 
@@ -202,11 +210,17 @@ b	family	why this family contain no primes > b
 
 32	M{V}	always divisible by some element of {3,11}
 
+32	1{0}N	always divisible by some element of {3,11}
+
+32	{V}9	always divisible by some element of {3,11}
+
 34	6{0}1	always divisible by some element of {5,7}
 
 34	5{X}	always divisible by some element of {5,7}
 
 34	S{X}	always divisible by some element of {5,7}
+
+34	{X}5	always divisible by some element of {5,7}
 
 9	{1}	difference-of-squares factorization
 
