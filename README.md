@@ -204,8 +204,6 @@ b	family	why this family contain no primes > b
 
 34	6{0}1	always divisible by some element of {5,7}
 
-34	T{0}1	always divisible by some element of {5,7}
-
 34	5{X}	always divisible by some element of {5,7}
 
 34	S{X}	always divisible by some element of {5,7}
