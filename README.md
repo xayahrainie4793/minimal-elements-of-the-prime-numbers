@@ -214,6 +214,8 @@ b	family	why this family contain no primes > b
 
 32	{V}9	always divisible by some element of {3,11}
 
+32	8{0}V	always divisible by some element of {3,5,41}
+
 34	6{0}1	always divisible by some element of {5,7}
 
 34	5{X}	always divisible by some element of {5,7}
