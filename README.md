@@ -310,6 +310,12 @@ any base (b)	families only containing digits which are divisible by some d > 1	l
 
 25	L{8}	difference-of-squares factorization
 
+25	{3}2	difference-of-squares factorization
+
+25	{8}3	difference-of-squares factorization
+
+25	{8}7	difference-of-squares factorization
+
 27	8{0}1	sum-of-cubes factorization
 
 27	1{0}8	sum-of-cubes factorization
