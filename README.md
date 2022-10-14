@@ -276,6 +276,10 @@ any base (b)	families only containing digits which are divisible by some d > 1	l
 
 16	30{F}AF	difference-of-squares factorization
 
+16	3{F}A0F	difference-of-squares factorization
+
+16	30{F}A0F	difference-of-squares factorization
+
 16	{5}45	difference-of-squares factorization
 
 16	{C}B	difference-of-squares factorization
