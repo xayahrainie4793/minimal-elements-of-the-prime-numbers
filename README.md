@@ -120,7 +120,7 @@ b	family	why this family contain no primes > b
 
 any base (b)	families ending with digits d which are not coprime to b	always divisible by gcd(d,b)
 
-any base (b)	families only containing digits which are divisible by some d > 1	lways divisible by d
+any base (b)	families only containing digits which are divisible by some d > 1	always divisible by d
 
 3	1{0}1	always divisible by 2
 
