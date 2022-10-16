@@ -134,7 +134,19 @@ any base (b)	families only containing digits which are divisible by some d > 1	a
 
 7	1{0}1{0}1	always divisible by 3 (non-simple family)
 
+8	2{0}5	always divisible by 7
+
+8	4{0}3	always divisible by 7
+
+8	6{0}1	always divisible by 7
+
+8	44{0}3	always divisible by 3
+
+8	6{0}11	always divisible by 3
+
 9	{7}62	always divisible by 7
+
+12	A{0}21	always divisible by 5
 
 15	9{6}8	always divisible by 11
 
