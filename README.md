@@ -134,6 +134,18 @@ any base (b)	families only containing digits which are divisible by some d > 1	a
 
 7	1{0}1{0}1	always divisible by 3 (non-simple family)
 
+7	1{0}3{0}5	always divisible by 3 (non-simple family)
+
+7	1{0}5{0}3	always divisible by 3 (non-simple family)
+
+7	3{0}1{0}5	always divisible by 3 (non-simple family)
+
+7	3{0}5{0}1	always divisible by 3 (non-simple family)
+
+7	5{0}1{0}3	always divisible by 3 (non-simple family)
+
+7	5{0}3{0}1	always divisible by 3 (non-simple family)
+
 8	2{0}5	always divisible by 7
 
 8	4{0}3	always divisible by 7
