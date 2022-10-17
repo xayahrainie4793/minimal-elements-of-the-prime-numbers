@@ -20,7 +20,7 @@ If B(K^22001)5 (base 22) is in fact composite, then B{K}5 will be an additional 
 
 If N(6^24051)LR (base 28) is in fact composite, then N{6}LR will be an additional unsolved family for base 28.
 
-If 5O(A^31238)F (base 28) is in fact composite, then 5O{A}F will be an additional unsolved family for base 28 (unless a prime in the family O{A}F is known, since the family 5O{A}F is covered by the unsolved family O{A}F (if the prime in the family 5O{A}F has longer length than the prime in the family O{A}F) (i.e. the family O{A}F is a subfamily of the family 5O{A}F), and there is still a possibility that the smallest prime in the family 5O{A}F has longer length than the smallest prime in the family O{A}F, thus we still cannot definitely say that there are 25529 minimal primes in base 28 even under the heuristic argument (https://primes.utm.edu/glossary/xpage/Heuristic.html) that all unsolved families have a prime).
+If 5O(A^31238)F (base 28) is in fact composite, then 5O{A}F will be an additional unsolved family for base 28 (unless a prime in the family O{A}F is known, since the family 5O{A}F is covered by the unsolved family O{A}F (if the prime in the family 5O{A}F has longer length than the prime in the family O{A}F) (i.e. the family O{A}F is a subfamily of the family 5O{A}F), and there is still a possibility that the smallest prime in the family 5O{A}F has longer length than the smallest prime in the family O{A}F, thus we still cannot definitely say that there are 25529 minimal primes in base 28 even if we assume the heuristic argument (https://primes.utm.edu/glossary/xpage/Heuristic.html) that all unsolved families have a prime).
 
 If O4(O^94535)9 (base 28) is in fact composite, then O4{O}9 will be an additional unsolved family for base 28.
 
