@@ -218,6 +218,8 @@ any base (b)	families only containing digits which are divisible by some d > 1	a
 
 14	{4}9	always divisible by some element of {3,5}
 
+14	{8}5	always divisible by some element of {3,5}
+
 8	6{4}7	always divisible by some element of {3,5,13} (special example, as the numbers with length >= 222 in this family contain "prime > b" subsequence, this prime is (4^220)7)
 
 13	3{0}95	always divisible by some element of {5,7,17}
