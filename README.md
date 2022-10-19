@@ -600,7 +600,7 @@ b	number of minimal primes base b	base-b form of the largest known minimal prime
 
 12	106	4(0^39)77	42	4×12^41+91	0	---
 
-13	3195\~3197	8(0^32017)111	32021	8×13^32020+183	2	145000
+13	3195\~3197	8(0^32017)111	32021	8×13^32020+183	2	150000
 
 14	650	4(D^19698)	19699	5×14^19698−1	0	---
 
@@ -608,7 +608,7 @@ b	number of minimal primes base b	base-b form of the largest known minimal prime
 
 16	2347	(3^116137)AF	116139	(16^116139+619)/5	0	---
 
-17	10407\~10428	E9(B^44732)	44734	(3963×17^44732−11)/16	21	50000
+17	10407\~10428	E9(B^44732)	44734	(3963×17^44732−11)/16	21	53000
 
 18	549	C(0^6268)C5	6271	12×18^6270+221	0	---
 
@@ -622,7 +622,7 @@ b	number of minimal primes base b	base-b form of the largest known minimal prime
 
 24	3409	N00(N^8129)LN	8134	13249×24^8131−49	0	---
 
-26	25253\~25259	6(K^23300)5	23302	(34×26^23301−79)/5	6	33000
+26	25253\~25259	6(K^23300)5	23302	(34×26^23301−79)/5	6	38000
 
 27	102612\~102701	9(0^9426)FN	9429	9×27^9428+428	89	10000
 
@@ -630,7 +630,7 @@ b	number of minimal primes base b	base-b form of the largest known minimal prime
 
 30	2619	O(T^34205)	34206	25×30^34205−1	0	---
 
-36	35257\~35263	7(K^26567)Z	26569	(53×36^26568+101)/7	6	27000
+36	35257\~35263	7(K^26567)Z	26569	(53×36^26568+101)/7	6	36000
 
 File "kernel b": Data for all known minimal primes in base b, expressed as base b strings
 
