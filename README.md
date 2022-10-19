@@ -224,11 +224,15 @@ any base (b)	families only containing digits which are divisible by some d > 1	a
 
 13	3{0}95	always divisible by some element of {5,7,17}
 
+13	95{0}3	always divisible by some element of {5,7,17}
+
 16	{4}D	always divisible by some element of {3,7,13}
 
 16	{8}F	always divisible by some element of {3,7,13}
 
 17	7F{0}D	always divisible by some element of {3,5,29}
+
+17	D{0}7F	always divisible by some element of {3,5,29}
 
 20	8{0}1	always divisible by some element of {3,7}
 
