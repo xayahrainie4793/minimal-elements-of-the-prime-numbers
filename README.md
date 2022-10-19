@@ -160,7 +160,13 @@ any base (b)	families only containing digits which are divisible by some d > 1	a
 
 12	A{0}21	always divisible by 5
 
+13	C{A}5	always divisible by 7
+
+14	40{4}9	always divisible by 61
+
 15	9{6}8	always divisible by 11
+
+16	2{C}3	always divisible by 7
 
 21	B0{H}6H	alwats divisible by 4637
 
