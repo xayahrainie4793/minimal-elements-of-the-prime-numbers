@@ -468,7 +468,7 @@ We are unable to determine if these families contain a prime (only count the num
 
 For base 17, the smallest prime in family {B}2BE may or may not be minimal prime, since another unsolved family is {B}2E.
 
-For base 19, the smallest prime in family {2}7A may or may not be minimal prime, since another unsolved family is {2}7, and the smallest prime in family 333{5} may or may not be quasi-minimal prime, since another unsolved family is 3{5}, and the smallest prime in family 5{H}05 may or may not be quasi-minimal prime, since another unsolved family is 5{H}5, and the smallest prime in family FHHH0{H} may or may not be quasi-minimal prime, since another unsolved family is FH0{H}.
+For base 19, the smallest prime in family {2}7A may or may not be minimal prime, since another unsolved family is {2}7, and the smallest prime in family 333{5} may or may not be quasi-minimal prime, since another unsolved family is 3{5}, and the smallest prime in family 5{H}05 may or may not be minimal prime, since another unsolved family is 5{H}5, and the smallest prime in family FHHH0{H} may or may not be quasi-minimal prime, since another unsolved family is FH0{H}.
 
 For base 21, the smallest prime in families {9}0D and F{9}D may or may not be minimal primes, since another unsolved family is {9}D, and the smallest prime in family DH{D} may or may not be quasi-minimal prime, since another unsolved family is H{D}.
 
