@@ -104,30 +104,18 @@ Some x{y}z (where x and z are strings (may be empty) of digits in base b, y is a
 |10|4{6}9|always divisible by 7|
 |10|families ending with 0, 2, 4, 6, or 8|always divisible by 2|
 |10|families ending with 0 or 5|always divisible by 5|
-
-10	{0,3,6,9}	always divisible by 3 (non-simple family)
-
-10	{0,7}	always divisible by 7 (non-simple family)
-
-any base (b)	families ending with digits d which are not coprime to b	always divisible by gcd(d,b)
-
-any base (b)	families only containing digits which are divisible by some d > 1	always divisible by d
-
-3	1{0}1	always divisible by 2
-
-4	2{0}1	always divisible by 3
-
-5	11{0}3	always divisible by 3
-
-5	3{0}11	always divisible by 3
-
-6	4{0}1	always divisible by 5
-
-7	1{0}1{0}1	always divisible by 3 (non-simple family)
-
-7	1{0}3{0}5	always divisible by 3 (non-simple family)
-
-7	1{0}5{0}3	always divisible by 3 (non-simple family)
+|10|{0,3,6,9}|always divisible by 3 (non-simple family)|
+|10|{0,7}|always divisible by 7 (non-simple family)|
+|any base (b)|families ending with digits d which are not coprime to b|always divisible by gcd(d,b)|
+|any base (b)|families only containing digits which are divisible by some d > 1|always divisible by d|
+|3|1{0}1|always divisible by 2|
+|4|2{0}1|always divisible by 3|
+|5|11{0}3|always divisible by 3|
+|5|3{0}11|always divisible by 3|
+|6|4{0}1|always divisible by 5|
+|7|1{0}1{0}1|always divisible by 3 (non-simple family)|
+|7|1{0}3{0}5|always divisible by 3 (non-simple family)|
+|7|1{0}5{0}3|always divisible by 3 (non-simple family)|
 
 7	3{0}1{0}5	always divisible by 3 (non-simple family)
 
