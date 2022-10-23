@@ -96,22 +96,14 @@ Some x{y}z (where x and z are strings (may be empty) of digits in base b, y is a
 |:---|:---|:---|
 | 10 | 2{0}1|always divisible by 3 |
 |10|2{0}7|always divisible by 3|
-
-10	5{0}1	always divisible by 3
-
-10	5{0}7	always divisible by 3
-
-10	8{0}1	always divisible by 3
-
-10	8{0}7	always divisible by 3
-
-10	28{0}7	always divisible by 7
-
-10	4{6}9	always divisible by 7
-
-10	families ending with 0, 2, 4, 6, or 8	always divisible by 2
-
-10	families ending with 0 or 5	always divisible by 5
+|10|5{0}1|always divisible by 3|
+|10|5{0}7|always divisible by 3|
+|10|8{0}1|always divisible by 3|
+|10|8{0}7|always divisible by 3|
+|10|28{0}7|always divisible by 7|
+|10|4{6}9|always divisible by 7|
+|10|families ending with 0, 2, 4, 6, or 8|always divisible by 2|
+|10|families ending with 0 or 5|always divisible by 5|
 
 10	{0,3,6,9}	always divisible by 3 (non-simple family)
 
