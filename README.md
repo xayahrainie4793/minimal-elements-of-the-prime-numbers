@@ -46,9 +46,9 @@ The third reason for excluding the primes <= b is that starting with b+1 makes t
 
 This problem covers finding the smallest prime of these forms in the same base b (or proving that such prime does not exist): (while the original minimal prime problem does not cover some of these forms for some bases (or all bases) b)
 
-(b^n−1)/(b−1) with n >= 2 (see http://www.fermatquotient.com/PrimSerien/GenRepu.txt, https://archive.ph/tf7jx, http://www.primenumbers.net/Henri/us/MersFermus.htm, https://www.ams.org/journals/mcom/1993-61-204/S0025-5718-1993-1185243-9/S0025-5718-1993-1185243-9.pdf, https://oeis.org/A084740, https://oeis.org/A084738, https://oeis.org/A065854, https://oeis.org/A279068, https://oeis.org/A128164, https://oeis.org/A285642)
+(b<sup>n</sup>−1)/(b−1) with n >= 2 (see http://www.fermatquotient.com/PrimSerien/GenRepu.txt, https://archive.ph/tf7jx, http://www.primenumbers.net/Henri/us/MersFermus.htm, https://www.ams.org/journals/mcom/1993-61-204/S0025-5718-1993-1185243-9/S0025-5718-1993-1185243-9.pdf, https://oeis.org/A084740, https://oeis.org/A084738, https://oeis.org/A065854, https://oeis.org/A279068, https://oeis.org/A128164, https://oeis.org/A285642)
 
-b^n+1 with n >= 1 (see http://jeppesn.dk/generalized-fermat.html, http://www.noprimeleftbehind.net/crus/GFN-primes.htm, http://yves.gallot.pagesperso-orange.fr/primes/index.html, http://yves.gallot.pagesperso-orange.fr/primes/results.html, http://yves.gallot.pagesperso-orange.fr/primes/stat.html, https://oeis.org/A228101, https://oeis.org/A079706, https://oeis.org/A084712, https://oeis.org/A123669)
+b<sup>n</sup>+1 with n >= 1 (see http://jeppesn.dk/generalized-fermat.html, http://www.noprimeleftbehind.net/crus/GFN-primes.htm, http://yves.gallot.pagesperso-orange.fr/primes/index.html, http://yves.gallot.pagesperso-orange.fr/primes/results.html, http://yves.gallot.pagesperso-orange.fr/primes/stat.html, https://oeis.org/A228101, https://oeis.org/A079706, https://oeis.org/A084712, https://oeis.org/A123669)
 
 (b^n+1)/2 (for odd b) with n >= 2 (see http://www.fermatquotient.com/PrimSerien/GenFermOdd.txt)
 
