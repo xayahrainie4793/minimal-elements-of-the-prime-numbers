@@ -92,11 +92,9 @@ xy{x} (unless either x = 1 or there is a prime of the form y{x} (or both)) (see 
 
 Some x{y}z (where x and z are strings (may be empty) of digits in base b, y is a digit in base b) families can be proven to contain no primes > b, by covering congruence (http://irvinemclean.com/maths/siercvr.htm, https://en.wikipedia.org/wiki/Covering_set, https://mathworld.wolfram.com/SierpinskisCompositeNumberTheorem.html), algebraic factorization (https://en.wikipedia.org/wiki/Factorization_of_polynomials, https://mathworld.wolfram.com/PolynomialFactorization.html), or combine of them, e.g. (only list the families which all numbers do not contain "prime > b" subsequence) (see post https://mersenneforum.org/showpost.php?p=594923&postcount=231 for the factor pattern for some of these families)
 
-b	family	why this family contain no primes > b
-
-10	2{0}1	always divisible by 3
-
-10	2{0}7	always divisible by 3
+|b|family|why this family contain no primes > b|
+|10|2{0}1	always divisible by 3|
+|10|2{0}7	always divisible by 3|
 
 10	5{0}1	always divisible by 3
 
