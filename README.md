@@ -72,29 +72,29 @@ This problem covers finding the smallest prime of these forms in the same base *
 
 *k*×*b*<sup>*n*</sup>−1 for all *k* <= 12 with *n* >= 1 (see https://www.rieselprime.de/ziki/Riesel_prime_small_bases_least_n, https://mersenneforum.org/showthread.php?t=10354)
 
-(below (as well as the "left b" files), family "12{3}45" means sequence {1245, 12345, 123345, 1233345, 12333345, 123333345, ...}, where the members are expressed as base b strings, like the numbers in https://stdkmd.net/nrr/aaaab.htm, https://stdkmd.net/nrr/abbbb.htm, https://stdkmd.net/nrr/aaaba.htm, https://stdkmd.net/nrr/abaaa.htm, https://stdkmd.net/nrr/abbba.htm, https://stdkmd.net/nrr/abbbc.htm, https://stdkmd.net/nrr/prime/primecount.txt, https://stdkmd.net/nrr/prime/primedifficulty.txt, e.g. 1{3} (in decimal) is the numbers in https://stdkmd.net/nrr/1/13333.htm, and {1}3 (in decimal) is the numbers in https://stdkmd.net/nrr/1/11113.htm)
+(below (as well as the "left *b*" files), family "12{3}45" means sequence {1245, 12345, 123345, 1233345, 12333345, 123333345, ...}, where the members are expressed as base *b* strings, like the numbers in https://stdkmd.net/nrr/aaaab.htm, https://stdkmd.net/nrr/abbbb.htm, https://stdkmd.net/nrr/aaaba.htm, https://stdkmd.net/nrr/abaaa.htm, https://stdkmd.net/nrr/abbba.htm, https://stdkmd.net/nrr/abbbc.htm, https://stdkmd.net/nrr/prime/primecount.txt, https://stdkmd.net/nrr/prime/primedifficulty.txt, e.g. 1{3} (in decimal) is the numbers in https://stdkmd.net/nrr/1/13333.htm, and {1}3 (in decimal) is the numbers in https://stdkmd.net/nrr/1/11113.htm)
 
-In fact, this problem covers finding the smallest prime of these form in the same base b: (where x, y, z are any digits in base b)
+In fact, this problem covers finding the smallest prime of these form in the same base *b*: (where *x*, *y*, *z* are any digits in base *b*)
 
-x{0}y
+*x*{0}*y*
 
-x{y} (unless y = 1) (see https://stdkmd.net/nrr/abbbb.htm)
+*x*{*y*} (unless *y* = 1) (see https://stdkmd.net/nrr/abbbb.htm)
 
-{x}y (unless x = 1) (see https://stdkmd.net/nrr/aaaab.htm)
+{*x*}*y* (unless *x* = 1) (see https://stdkmd.net/nrr/aaaab.htm)
 
-x{0}yz (unless there is a prime of the form x{0}y or x{0}z)
+*x*{0}*yz* (unless there is a prime of the form *x*{0}*y* or *x*{0}*z*)
 
-xy{0}z (unless there is a prime of the form x{0}z or y{0}z)
+*xy*{0}*z* (unless there is a prime of the form *x*{0}*z* or *y*{0}*z*)
 
-xy{x} (unless either x = 1 or there is a prime of the form y{x} (or both)) (see https://stdkmd.net/nrr/abaaa.htm)
+*xy*{*x*} (unless either *x* = 1 or there is a prime of the form *y*{*x*} (or both)) (see https://stdkmd.net/nrr/abaaa.htm)
 
-{x}yx (unless either x = 1 or there is a prime of the form {x}y (or both)) (see https://stdkmd.net/nrr/aaaba.htm)
+{*x*}*yx* (unless either *x* = 1 or there is a prime of the form {*x*}*y* (or both)) (see https://stdkmd.net/nrr/aaaba.htm)
 
-Some x{y}z (where x and z are strings (may be empty) of digits in base b, y is a digit in base b) families can be proven to contain no primes > b, by covering congruence (http://irvinemclean.com/maths/siercvr.htm, https://en.wikipedia.org/wiki/Covering_set, https://mathworld.wolfram.com/SierpinskisCompositeNumberTheorem.html), algebraic factorization (https://en.wikipedia.org/wiki/Factorization_of_polynomials, https://mathworld.wolfram.com/PolynomialFactorization.html), or combine of them, e.g. (only list the families which all numbers do not contain "prime > b" subsequence) (see post https://mersenneforum.org/showpost.php?p=594923&postcount=231 for the factor pattern for some of these families)
+Some *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base *b*, *y* is a digit in base *b*) families can be proven to contain no primes > *b*, by covering congruence (http://irvinemclean.com/maths/siercvr.htm, https://en.wikipedia.org/wiki/Covering_set, https://mathworld.wolfram.com/SierpinskisCompositeNumberTheorem.html), algebraic factorization (https://en.wikipedia.org/wiki/Factorization_of_polynomials, https://mathworld.wolfram.com/PolynomialFactorization.html), or combine of them, e.g. (only list the families which all numbers do not contain "prime > *b*" subsequence) (see post https://mersenneforum.org/showpost.php?p=594923&postcount=231 for the factor pattern for some of these families)
 
-|b|family|why this family contain no primes > b|
+|*b*|family|why this family contain no primes > *b*|
 |:---|:---|:---|
-| 10 | 2{0}1|always divisible by 3 |
+|10|2{0}1|always divisible by 3|
 |10|2{0}7|always divisible by 3|
 |10|5{0}1|always divisible by 3|
 |10|5{0}7|always divisible by 3|
@@ -116,12 +116,9 @@ Some x{y}z (where x and z are strings (may be empty) of digits in base b, y is a
 |7|1{0}1{0}1|always divisible by 3 (non-simple family)|
 |7|1{0}3{0}5|always divisible by 3 (non-simple family)|
 |7|1{0}5{0}3|always divisible by 3 (non-simple family)|
-
-7	3{0}1{0}5	always divisible by 3 (non-simple family)
-
-7	3{0}5{0}1	always divisible by 3 (non-simple family)
-
-7	5{0}1{0}3	always divisible by 3 (non-simple family)
+|7|3{0}1{0}5|always divisible by 3 (non-simple family)|
+|7|3{0}5{0}1|always divisible by 3 (non-simple family)|
+|7|5{0}1{0}3|always divisible by 3 (non-simple family)|
 
 7	5{0}3{0}1	always divisible by 3 (non-simple family)
 
