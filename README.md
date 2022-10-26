@@ -589,7 +589,7 @@ b	number of minimal primes base b	base-b form of the largest known minimal prime
 
 30	2619	O(T^34205)	34206	25×30^34205−1	0	---
 
-36	35257\~35263	7(K^26567)Z	26569	(53×36^26568+101)/7	6	36000
+36	35284\~35290	7(K^26567)Z	26569	(53×36^26568+101)/7	6	36000
 
 File "kernel b": Data for all known minimal primes in base b, expressed as base b strings
 
