@@ -144,42 +144,24 @@ Some *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base
 |11|2{5}|always divisible by some element of {2,3}|
 |11|3{5}|always divisible by some element of {2,3}|
 |11|3{7}|always divisible by some element of {2,3}|
-
-11	4{7}	always divisible by some element of {2,3}
-
-11	{5}2	always divisible by some element of {2,3}
-
-11	{5}3	always divisible by some element of {2,3}
-
-11	{7}3	always divisible by some element of {2,3}
-
-11	{7}4	always divisible by some element of {2,3}
-
-14	4{0}1	always divisible by some element of {3,5}
-
-14	B{0}1	always divisible by some element of {3,5}
-
-14	3{D}	always divisible by some element of {3,5}
-
-14	A{D}	always divisible by some element of {3,5}
-
-14	1{0}B	always divisible by some element of {3,5}
-
-14	{D}3	always divisible by some element of {3,5}
-
-14	{4}9	always divisible by some element of {3,5}
-
-14	{8}5	always divisible by some element of {3,5}
-
-8	6{4}7	always divisible by some element of {3,5,13} (special example, as the numbers with length >= 222 in this family contain "prime > b" subsequence, this prime is (4^220)7)
-
-13	3{0}95	always divisible by some element of {5,7,17}
-
-13	95{0}3	always divisible by some element of {5,7,17}
-
-16	{4}D	always divisible by some element of {3,7,13}
-
-16	{8}F	always divisible by some element of {3,7,13}
+|11|4{7}|always divisible by some element of {2,3}|
+|11|{5}2|always divisible by some element of {2,3}|
+|11|{5}3|always divisible by some element of {2,3}|
+|11|{7}3|always divisible by some element of {2,3}|
+|11|{7}4|always divisible by some element of {2,3}|
+|14|4{0}1|always divisible by some element of {3,5}|
+|14|B{0}1|always divisible by some element of {3,5}|
+|14|3{D}|always divisible by some element of {3,5}|
+|14|A{D}|always divisible by some element of {3,5}|
+|14|1{0}B|always divisible by some element of {3,5}|
+|14|{D}3|always divisible by some element of {3,5}|
+|14|{4}9|always divisible by some element of {3,5}|
+|14|{8}5|always divisible by some element of {3,5}|
+|8|6{4}7	always divisible by some element of {3,5,13} (special example, as the numbers with length >= 222 in this family contain "prime > b" subsequence, this prime is 4<sub>220</sub>7)|
+|13|3{0}95|always divisible by some element of {5,7,17}|
+|13|95{0}3|always divisible by some element of {5,7,17}|
+|16|{4}D|always divisible by some element of {3,7,13}|
+|16|{8}F|always divisible by some element of {3,7,13}|
 
 17	7F{0}D	always divisible by some element of {3,5,29}
 
