@@ -502,7 +502,7 @@ Primality certificates (https://en.wikipedia.org/wiki/Primality_certificate, htt
 
 30	2619	O(T^34205)	25×30^34205−1	proven prime by N+1 test (https://primes.utm.edu/prove/prove3_2.html), since N+1 is trivially fully factored
 
-Condensed table for bases 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 24, 26, 27, 28, 30, 36: (the bases 11, 13, 16, 17, 19, 21, 22, 26, 27, 28, 30, 36 data assumes the primality of the probable primes)
+Condensed table for bases 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 26, 28, 30, 36: (the bases 11, 13, 16, 17, 19, 21, 22, 23, 26, 28, 30, 36 data assumes the primality of the probable primes)
 
 |*b*|number of minimal primes base *b*|base-*b* form of the largest known minimal prime base *b*|length of the largest known minimal prime base *b*|algebraic ((*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1)) form of the largest known minimal prime base *b*|number of unsolved families in base *b*|searching limit of length for the unsolved families in base *b* (if there are different searching limits for the unsolved families in base *b*, choose the lowest searching limit)
 |:---|:---|:---|:---|:---|:---|:---|
@@ -525,18 +525,12 @@ Condensed table for bases 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17
 |18|549|C0<sub>6268</sub>C5|6271|12×18<sup>6270</sup>+221|0|---|
 |19|31400\~31435|D17D0<sub>19750</sub>1|19755|89674×19<sup>19751</sup>+1|35|20000|
 |20|3314|G0<sub>6269</sub>D|6271|16×20<sup>6270</sup>+13|0|---|
-
-21	13373\~13395	5D(0^19848)1	19851	118×21^19849+1	23	20000
-
-22	8003	B(K^22001)5	22003	(251×22^22002−335)/21	0	---
-
-23	65144\~65276
-
-24	3409	N00(N^8129)LN	8134	13249×24^8131−49	0	---
+|21|13373\~13395|5D0<sub>19848</sub>1|19851|118×21<sup>19849</sup>+1|23|20000|
+|22|8003|BK<sub>22001</sub>5|22003|(251×22<sup>22002</sup>−335)/21|0|---|
+|23|65144\~65276|7<sub>19067</sub>33|19069|(7×23<sup>19069</sup>−2119)/22|132|20000
+|24|3409|N00N<sub>8129</sub>LN|8134|13249×24<sup>8131</sup>−49|0|---|
 
 26	25253\~25259	6(K^23300)5	23302	(34×26^23301−79)/5	6	38000
-
-27	102612\~102701	9(0^9426)FN	9429	9×27^9428+428	89	10000
 
 28	25528\~25529	O4(O^94535)9	94538	(6092×28^94536−143)/9	1	543202
 
