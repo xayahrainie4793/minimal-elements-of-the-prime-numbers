@@ -4,24 +4,24 @@ All these numbers are strong probable primes (https://en.wikipedia.org/wiki/Stro
 
 A reference of many types of pseudoprimes: http://ntheory.org/pseudoprimes.html
 
-If 5(7^62668) (base 11) is in fact composite, then 5{7} will be an additional unsolved family for base 11.
+If 57<sub>62668</sub> (base 11) is in fact composite, then 5{7} will be an additional unsolved family for base 11.
 
-If C(5^23755)C (base 13) is in fact composite, then C{5}C will be an additional unsolved family for base 13.
+If C5<sub>23755</sub>C (base 13) is in fact composite, then C{5}C will be an additional unsolved family for base 13.
 
-If 8(0^32017)111 (base 13) is in fact composite, then 8{0}111 will be an additional unsolved family for base 13.
+If 80<sub>32017</sub>111 (base 13) is in fact composite, then 8{0}111 will be an additional unsolved family for base 13.
 
-If D(B^32234) (base 16) is in fact composite, then D{B} will be an additional unsolved family for base 16.
+If DB<sub>32234</sub> (base 16) is in fact composite, then D{B} will be an additional unsolved family for base 16.
 
-If (4^72785)DD (base 16) is in fact composite, then {4}DD will be an additional unsolved family for base 16.
+If 4<sub>72785</sub>DD (base 16) is in fact composite, then {4}DD will be an additional unsolved family for base 16.
 
-If (3^116137)AF (base 16) is in fact composite, then {3}AF will be an additional unsolved family for base 16.
+If 3<sub>116137</sub>AF (base 16) is in fact composite, then {3}AF will be an additional unsolved family for base 16.
 
-If B(K^22001)5 (base 22) is in fact composite, then B{K}5 will be an additional unsolved family for base 22.
+If BK<sub>22001</sub>5 (base 22) is in fact composite, then B{K}5 will be an additional unsolved family for base 22.
 
-If N(6^24051)LR (base 28) is in fact composite, then N{6}LR will be an additional unsolved family for base 28.
+If N6<sub>24051</sub>LR (base 28) is in fact composite, then N{6}LR will be an additional unsolved family for base 28.
 
-If 5O(A^31238)F (base 28) is in fact composite, then 5O{A}F will be an additional unsolved family for base 28 (unless a prime in the family O{A}F is known, since the family 5O{A}F is covered by the unsolved family O{A}F (if the prime in the family 5O{A}F has longer length than the prime in the family O{A}F) (i.e. the family O{A}F is a subfamily of the family 5O{A}F), and there is still a possibility that the smallest prime in the family 5O{A}F has longer length than the smallest prime in the family O{A}F, thus we still cannot definitely say that there are 25529 minimal primes in base 28 even if we assume the heuristic argument (https://primes.utm.edu/glossary/xpage/Heuristic.html) that all unsolved families have a prime).
+If 5OA<sub>31238</sub>F (base 28) is in fact composite, then 5O{A}F will be an additional unsolved family for base 28 (unless a prime in the family O{A}F is known, since the family 5O{A}F is covered by the unsolved family O{A}F (if the prime in the family 5O{A}F has longer length than the prime in the family O{A}F) (i.e. the family O{A}F is a subfamily of the family 5O{A}F), and there is still a possibility that the smallest prime in the family 5O{A}F has longer length than the smallest prime in the family O{A}F, thus we still cannot definitely say that there are 25529 minimal primes in base 28 even if we assume the heuristic argument (https://primes.utm.edu/glossary/xpage/Heuristic.html) that all unsolved families have a prime).
 
-If O4(O^94535)9 (base 28) is in fact composite, then O4{O}9 will be an additional unsolved family for base 28.
+If O4O<sub>94535</sub>9 (base 28) is in fact composite, then O4{O}9 will be an additional unsolved family for base 28.
 
-If I(0^24608)D (base 30) is in fact composite, then I{0}D will be an additional unsolved family for base 30.
+If I0<sub>24608</sub>D (base 30) is in fact composite, then I{0}D will be an additional unsolved family for base 30.
