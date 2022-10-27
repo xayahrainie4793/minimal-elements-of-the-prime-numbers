@@ -407,7 +407,7 @@ For base 21, the smallest prime in families {9}0D and F{9}D may or may not be mi
 
 There are also unproven probable primes (however, in this project our results assume that they are in fact primes, since they are > 10^25000 and the probability that they are in fact composite is < 10^−2000, see https://primes.utm.edu/notes/prp_prob.html), the unproven probable primes for bases 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 18, 20, 22, 24, 30 are:
 
-|*b*|index of this minimal prime in base *b* (assuming the primality of all probable primes in base *b*)|base-*b* form of the unproven probable prime	algebraic ((*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1) form of the unproven probable prime|
+|*b*|index of this minimal prime in base *b* (assuming the primality of all probable primes in base *b*)|base-*b* form of the unproven probable prime	algebraic ((*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1)) form of the unproven probable prime|
 |:---|:---|:---|
 |11|1068|57<sub>62668</sub>|(57×11<sup>62668</sup>−7)/10|
 |13|3194|C5<sub>23755</sub>C|(149×13<sup>23756</sup>+79)/12|
@@ -422,11 +422,10 @@ All these numbers are strong probable primes (https://en.wikipedia.org/wiki/Stro
 
 Primality certificates (https://en.wikipedia.org/wiki/Primality_certificate, https://primes.utm.edu/glossary/xpage/Certificate.html, https://mathworld.wolfram.com/PrimalityCertificate.html) for large proven primes (> 10^1000) for bases 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 18, 20, 22, 24, 30:
 
-b	index of this minimal prime in base b	base-b form of the minimal prime	algebraic ((a\*b^n+c)/d) form of the minimal prime	primality certificate for the minimal prime
-
-9	151	3(0^1158)11	3×9^1160+10	http://factordb.com/cert.php?id=1100000002376318423
-
-11	1067	55(7^1011)	(607×11^1011−7)/10	http://factordb.com/cert.php?id=1100000002361376522
+|*b*|index of this minimal prime in base *b*|base-*b* form of the minimal prime|algebraic ((*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1)) form of the minimal prime|primality certificate for the minimal prime|
+|:---|:---|:---|
+|9|151|30<sub>1158</sub>11|3×9<sup>1160</sup>+10|http://factordb.com/cert.php?id=1100000002376318423|
+|11|1067|557<sub>1011</sub>|(607×11<sup>1011</sup>−7)/10|http://factordb.com/cert.php?id=1100000002361376522|
 
 13	3184	(9^968)B	(3×13^969+5)/4	http://factordb.com/cert.php?id=1100000000258566244
 
