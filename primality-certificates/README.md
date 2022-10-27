@@ -38,10 +38,10 @@ Also the case where *N*−1 or *N*+1 is product of a Cunningham number (of the f
 
   the 3180th minimal prime in base 13, 1B<sub>576</sub>, *N*−1 is 23×*R*<sub>576</sub>(13), thus factor *N*−1 is equivalent to factor 13<sup>576</sup>−1, and for the factorization of 13<sup>576</sup>−1, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSingleEntry?Base=13&Exp=576&c0=-&EN=
 
-Although these numbers also have N−1 or N+1 is product of a Cunningham number and a small number, but since the corresponding Cunningham numbers are < 25% factored, these numbers still need primality certificates:
+Although these numbers also have *N*−1 or *N*+1 is product of a Cunningham number and a small number, but since the corresponding Cunningham numbers are < 25% factored, these numbers still need primality certificates:
 
-the 151st minimal prime in base 9, 3(0^1158)11, N−1 is 9×S2319(3), thus factor N−1 is equivalent to factor 3^2319+1, and for the factorization of 3^2319+1, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSingleEntry?Base=3&Exp=2319&c0=%2B&EN=
+the 151st minimal prime in base 9, 30<sub>1158</sub>11, *N*−1 is 9×*S*<sub>2319</sub>(3), thus factor *N*−1 is equivalent to factor 3<sup>2319</sup>+1, and for the factorization of 3<sup>2319</sup>+1, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSingleEntry?Base=3&Exp=2319&c0=%2B&EN=
 
-the 3187th minimal prime in base 13, (7^1504)1, N−1 is 91×R1504(13), thus factor N−1 is equivalent to factor 13^1504−1, and for the factorization of 13^1504−1, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSingleEntry?Base=13&Exp=1504&c0=-&EN=
+the 3187th minimal prime in base 13, 7<sub>1504</sub>1, *N*−1 is 91×*R*<sub>1504</sub>(13), thus factor *N*−1 is equivalent to factor 13<sup>1504</sup>−1, and for the factorization of 13<sup>1504</sup>−1, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSingleEntry?Base=13&Exp=1504&c0=-&EN=
 
-the 2342nd minimal prime in base 16, 9(0^3542)91, N−1 is 144×S3543(16), thus factor N−1 is equivalent to factor 16^3543+1, and for the factorization of 16^3543+1, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSingleEntry?Base=16&Exp=3543&c0=%2B&EN=
+the 2342nd minimal prime in base 16, 90<sub>3542</sub>91, *N*−1 is 144×*S*<sub>3543</sub>(16), thus factor *N*−1 is equivalent to factor 16<sup>3543</sup>+1, and for the factorization of 16<sup>3543</sup>+1, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSingleEntry?Base=16&Exp=3543&c0=%2B&EN=
