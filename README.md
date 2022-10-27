@@ -136,22 +136,14 @@ Some *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base
 |9|2{7}|always divisible by some element of {2,5}|
 |9|{3}8|always divisible by some element of {2,5}|
 |9|5{1}|always divisible by some element of {2,5}|
-
-9	5{7}	always divisible by some element of {2,5}
-
-9	{7}2	always divisible by some element of {2,5}
-
-9	{7}5	always divisible by some element of {2,5}
-
-9	{1}6{1}	always divisible by some element of {2,5} (non-simple family)
-
-9	{3}{0}5	always divisible by some element of {2,5} (non-simple family)
-
-11	2{5}	always divisible by some element of {2,3}
-
-11	3{5}	always divisible by some element of {2,3}
-
-11	3{7}	always divisible by some element of {2,3}
+|9|5{7}|always divisible by some element of {2,5}|
+|9|{7}2|always divisible by some element of {2,5}|
+|9|{7}5|always divisible by some element of {2,5}|
+|9|{1}6{1}|always divisible by some element of {2,5} (non-simple family)|
+|9|{3}{0}5|always divisible by some element of {2,5} (non-simple family)|
+|11|2{5}|always divisible by some element of {2,3}|
+|11|3{5}|always divisible by some element of {2,3}|
+|11|3{7}|always divisible by some element of {2,3}|
 
 11	4{7}	always divisible by some element of {2,3}
 
