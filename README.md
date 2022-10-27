@@ -407,23 +407,16 @@ For base 21, the smallest prime in families {9}0D and F{9}D may or may not be mi
 
 There are also unproven probable primes (however, in this project our results assume that they are in fact primes, since they are > 10^25000 and the probability that they are in fact composite is < 10^−2000, see https://primes.utm.edu/notes/prp_prob.html), the unproven probable primes for bases 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 18, 20, 22, 24, 30 are:
 
-b	index of this minimal prime in base b (assuming the primality of all probable primes in base b)	base-b form of the unproven probable prime	algebraic ((a\*b^n+c)/d) form of the unproven probable prime
-
-11	1068	5(7^62668)	(57×11^62668−7)/10
-
-13	3194	C(5^23755)C	(149×13^23756+79)/12
-
-13	3195	8(0^32017)111	8×13^32020+183
-
-16	2345	D(B^32234)	(206×16^32234−11)/15
-
-16	2346	(4^72785)DD	(4×16^72787+2291)/15
-
-16	2347	(3^116137)AF	(16^116139+619)/5
-
-22	8003	B(K^22001)5	(251×22^22002−335)/21
-
-30	2618	I(0^24608)D	18×30^24609+13
+|*b*|index of this minimal prime in base *b* (assuming the primality of all probable primes in base *b*)|base-*b* form of the unproven probable prime	algebraic ((*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1) form of the unproven probable prime|
+|:---|:---|:---|
+|11|1068|57<sub>62668</sub>|(57×11<sup>62668</sup>−7)/10|
+|13|3194|C5<sub>23755</sub>C|(149×13<sup>23756</sup>+79)/12|
+|13|3195|80<sub>32017</sub>111|8×13<sup>32020</sup>+183|
+|16|2345|DB<sub>32234</sub>|206×16<sup>32234</sup>−11)/15|
+|16|2346|4<sub>72785</sub>DD|(4×16<sup>72787</sup>+2291)/15|
+|16|2347|3<sub>116137</sub>AF|(16<sup>116139</sup>+619)/5|
+|22|8003|BK<sub>22001</sub>5|(251×22<sup>22002</sup>−335)/21|
+|30|2618|I0<sub>24608</sub>D|18×30<sup>24609</sup>+13
 
 All these numbers are strong probable primes (https://en.wikipedia.org/wiki/Strong_pseudoprime, https://primes.utm.edu/glossary/xpage/StrongPRP.html, https://mathworld.wolfram.com/StrongPseudoprime.html) to bases 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61 (see https://oeis.org/A014233), and strong Lucas probable primes (https://en.wikipedia.org/wiki/Lucas_pseudoprime#Strong_Lucas_pseudoprimes, https://mathworld.wolfram.com/StrongLucasPseudoprime.html) with parameters (P, Q) defined by Selfridge's Method A (see https://oeis.org/A217255), and trial factored to 10^16 (thus, all these numbers are Baillie–PSW probable primes.
 
