@@ -416,7 +416,10 @@ There are also unproven probable primes (however, in this project our results as
 |16|2346|4<sub>72785</sub>DD|(4×16<sup>72787</sup>+2291)/15|
 |16|2347|3<sub>116137</sub>AF|(16<sup>116139</sup>+619)/5|
 |22|8003|BK<sub>22001</sub>5|(251×22<sup>22002</sup>−335)/21|
-|30|2618|I0<sub>24608</sub>D|18×30<sup>24609</sup>+13
+|28|25526|N6<sub>24051</sub>LR|(209×28<sup>24053</sup>+3967)/9|
+|28|25527|5OA<sub>31238</sub>F|(4438×28<sup>31239</sup>+125)/27|
+|28|25528|O4O<sub>94535</sub>9|(6092×28<sup>94536</sup>−143)/9|
+|30|2618|I0<sub>24608</sub>D|18×30<sup>24609</sup>+13|
 
 All these numbers are strong probable primes (https://en.wikipedia.org/wiki/Strong_pseudoprime, https://primes.utm.edu/glossary/xpage/StrongPRP.html, https://mathworld.wolfram.com/StrongPseudoprime.html) to bases 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61 (see https://oeis.org/A014233), and strong Lucas probable primes (https://en.wikipedia.org/wiki/Lucas_pseudoprime#Strong_Lucas_pseudoprimes, https://mathworld.wolfram.com/StrongLucasPseudoprime.html) with parameters (*P*, *Q*) defined by Selfridge's Method *A* (see https://oeis.org/A217255), and trial factored to 10<sup>16</sup> (thus, all these numbers are Baillie–PSW probable primes.
 
