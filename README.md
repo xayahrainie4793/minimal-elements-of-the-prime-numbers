@@ -170,40 +170,23 @@ Some *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base
 |20|C{J}|always divisible by some element of {3,7}|
 |20|1{0}D|always divisible by some element of {3,7}|
 |20|{J}7|always divisible by some element of {3,7}|
-
-21	{7}D	always divisible by some element of {2,13,17}
-
-23	7L{0}1	always divisible by some element of {3,5,53}
-
-23	1{0}7L	always divisible by some element of {3,5,53}
-
-27	JP{0}1	always divisible by some element of {5,7,73}
-
-27	1{0}JP	always divisible by some element of {5,7,73}
-
-30	A{0}9J	always divisible by some element of {7,13,19,31}
-
-32	A{0}1	always divisible by some element of {3,11}
-
-32	N{0}1	always divisible by some element of {3,11}
-
-32	9{V}	always divisible by some element of {3,11}
-
-32	M{V}	always divisible by some element of {3,11}
-
-32	1{0}N	always divisible by some element of {3,11}
-
-32	{V}9	always divisible by some element of {3,11}
-
-32	8{0}V	always divisible by some element of {3,5,41}
-
-34	6{0}1	always divisible by some element of {5,7}
-
-34	5{X}	always divisible by some element of {5,7}
-
-34	S{X}	always divisible by some element of {5,7}
-
-34	{X}5	always divisible by some element of {5,7}
+|21|{7}D|always divisible by some element of {2,13,17}|
+|23|7L{0}1|always divisible by some element of {3,5,53}|
+|23|1{0}7L|always divisible by some element of {3,5,53}|
+|27|JP{0}1|always divisible by some element of {5,7,73}|
+|27|1{0}JP|always divisible by some element of {5,7,73}|
+|30|A{0}9J|always divisible by some element of {7,13,19,31}|
+|32|A{0}1|always divisible by some element of {3,11}|
+|32|N{0}1|always divisible by some element of {3,11}|
+|32|9{V}|always divisible by some element of {3,11}|
+|32|M{V}|always divisible by some element of {3,11}|
+|32|1{0}N|always divisible by some element of {3,11}|
+|32|{V}9|always divisible by some element of {3,11}|
+|32|8{0}V|always divisible by some element of {3,5,41}|
+|34|6{0}1|always divisible by some element of {5,7}|
+|34|5{X}|always divisible by some element of {5,7}|
+|34|S{X}|always divisible by some element of {5,7}|
+|34|{X}5|always divisible by some element of {5,7}|
 
 9	{1}	difference-of-squares factorization
 
