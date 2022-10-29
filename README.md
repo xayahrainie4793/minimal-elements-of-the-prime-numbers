@@ -315,6 +315,8 @@ Some *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base
 
 36	{9}1	difference-of-squares factorization
 
+36	T{9}1	difference-of-squares factorization
+
 36	{S}J	difference-of-squares factorization
 
 14	8{D}	combine of factor 5 and difference-of-squares factorization
