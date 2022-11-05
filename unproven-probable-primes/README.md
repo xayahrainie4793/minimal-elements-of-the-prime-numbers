@@ -10,6 +10,8 @@ If C5<sub>23755</sub>C (base 13) is in fact composite, then C{5}C will be an add
 
 If 80<sub>32017</sub>111 (base 13) is in fact composite, then 8{0}111 will be an additional unsolved family for base 13.
 
+If 95<sub>197420</sub> (base 13) is in fact composite, then 9{5} will be an additional unsolved family for base 13.
+
 If DB<sub>32234</sub> (base 16) is in fact composite, then D{B} will be an additional unsolved family for base 16.
 
 If 4<sub>72785</sub>DD (base 16) is in fact composite, then {4}DD will be an additional unsolved family for base 16.
