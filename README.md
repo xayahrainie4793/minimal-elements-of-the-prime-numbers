@@ -187,104 +187,55 @@ Some *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base
 |34|5{X}|always divisible by some element of {5,7}|
 |34|S{X}|always divisible by some element of {5,7}|
 |34|{X}5|always divisible by some element of {5,7}|
-
-9	{1}	difference-of-squares factorization
-
-8	1{0}1	sum-of-cubes factorization
-
-9	3{1}	difference-of-squares factorization
-
-9	3{8}	difference-of-squares factorization
-
-9	{8}5	difference-of-squares factorization
-
-9	3{8}35	difference-of-squares factorization
-
-16	8{F}	difference-of-squares factorization
-
-16	{F}7	difference-of-squares factorization
-
-16	{4}1	difference-of-squares factorization
-
-16	B{4}1	difference-of-squares factorization
-
-16	1{5}	difference-of-squares factorization
-
-16	8{5}	difference-of-squares factorization
-
-16	10{5}	difference-of-squares factorization
-
-16	A1{5}	difference-of-squares factorization
-
-16	7{3}	difference-of-squares factorization
-
-16	3{F}AF	difference-of-squares factorization
-
-16	30{F}AF	difference-of-squares factorization
-
-16	3{F}A0F	difference-of-squares factorization
-
-16	30{F}A0F	difference-of-squares factorization
-
-16	{5}45	difference-of-squares factorization
-
-16	{C}B	difference-of-squares factorization
-
-16	{C}D	Aurifeuillian factorization of x^4+4\*y^4
-
-16	{C}DD	Aurifeuillian factorization of x^4+4\*y^4
-
-25	{1}	difference-of-squares factorization
-
-25	2{1}	difference-of-squares factorization
-
-25	5{1}	difference-of-squares factorization
-
-25	7{1}	difference-of-squares factorization
-
-25	C{1}	difference-of-squares factorization
-
-25	F{1}	difference-of-squares factorization
-
-25	M{1}	difference-of-squares factorization
-
-25	1F{1}	difference-of-squares factorization
-
-25	1{3}	difference-of-squares factorization
-
-25	1{8}	difference-of-squares factorization
-
-25	5{8}	difference-of-squares factorization
-
-25	A{3}	difference-of-squares factorization
-
-25	L{8}	difference-of-squares factorization
-
-25	{3}2	difference-of-squares factorization
-
-25	{8}3	difference-of-squares factorization
-
-25	{8}7	difference-of-squares factorization
-
-27	8{0}1	sum-of-cubes factorization
-
-27	1{0}8	sum-of-cubes factorization
-
-27	{D}E	sum-of-cubes factorization
-
-27	7{Q}	difference-of-cubes factorization
-
-27	{Q}J	difference-of-cubes factorization
-
-27	9{G}	difference-of-cubes factorization
-
-32	1{0}1	sum-of-5th-powers factorization
-
-32	{1}	difference-of-5th-powers factorization
-
-36	3{7}	difference-of-squares factorization
-
-36	3{Z}	difference-of-squares factorization
+|9|{1}|difference-of-squares factorization|
+|8|1{0}1|sum-of-cubes factorization|
+|9|3{1}|difference-of-squares factorization|
+|9|3{8}|difference-of-squares factorization|
+|9|{8}5|difference-of-squares factorization|
+|9|3{8}35|difference-of-squares factorization|
+|16|8{F}|difference-of-squares factorization|
+|16|{F}7|difference-of-squares factorization|
+|16|{4}1|difference-of-squares factorization|
+|16|B{4}1|difference-of-squares factorization|
+|16|1{5}|difference-of-squares factorization|
+|16|8{5}|difference-of-squares factorization|
+|16|10{5}|difference-of-squares factorization|
+|16|A1{5}|difference-of-squares factorization|
+|16|7{3}|difference-of-squares factorization|
+|16|3{F}AF|difference-of-squares factorization|
+|16|30{F}AF|difference-of-squares factorization|
+|16|3{F}A0F|difference-of-squares factorization|
+|16|30{F}A0F|difference-of-squares factorization|
+|16|{5}45|difference-of-squares factorization|
+|16|{C}B|difference-of-squares factorization|
+|16|{C}D|Aurifeuillian factorization of x^4+4×y^4|
+|16|{C}DD|Aurifeuillian factorization of x^4+4×y^4|
+|25|{1}|difference-of-squares factorization|
+|25|2{1}|difference-of-squares factorization|
+|25|5{1}|difference-of-squares factorization|
+|25|7{1}|difference-of-squares factorization|
+|25|C{1}|difference-of-squares factorization|
+|25|F{1}|difference-of-squares factorization|
+|25|M{1}|difference-of-squares factorization|
+|25|1F{1}|difference-of-squares factorization|
+|25|1{3}|difference-of-squares factorization|
+|25|1{8}|difference-of-squares factorization|
+|25|5{8}|difference-of-squares factorization|
+|25|A{3}|difference-of-squares factorization|
+|25|L{8}|difference-of-squares factorization|
+|25|{3}2|difference-of-squares factorization|
+|25|{8}3|difference-of-squares factorization|
+|25|{8}7|difference-of-squares factorization|
+|27|8{0}1|sum-of-cubes factorization|
+|27|1{0}8|sum-of-cubes factorization|
+|27|{D}E|sum-of-cubes factorization|
+|27|7{Q}|difference-of-cubes factorization|
+|27|{Q}J|difference-of-cubes factorization|
+|27|9{G}|difference-of-cubes factorization|
+|32|1{0}1|sum-of-5th-powers factorization|
+|32|{1}|difference-of-5th-powers factorization|
+|36|3{7}|difference-of-squares factorization|
+|36|3{Z}|difference-of-squares factorization|
 
 36	8{Z}	difference-of-squares factorization
 
