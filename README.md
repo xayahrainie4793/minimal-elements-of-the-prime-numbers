@@ -323,28 +323,17 @@ Primality certificates (https://en.wikipedia.org/wiki/Primality_certificate, htt
 |:---|:---|:---|:---|
 |9|151|30<sub>1158</sub>11|3×9<sup>1160</sup>+10|http://factordb.com/cert.php?id=1100000002376318423|
 |11|1067|557<sub>1011</sub>|(607×11<sup>1011</sup>−7)/10|http://factordb.com/cert.php?id=1100000002361376522|
-
-13	3184	(9^968)B	(3×13^969+5)/4	http://factordb.com/cert.php?id=1100000000258566244
-
-13	3185	1(0^1295)181	13^1298+274	http://factordb.com/cert.php?id=1100000002615445013
-
-13	3186	(9^1362)5	(3×13^1363−19)/4	http://factordb.com/cert.php?id=1100000002321017776
-
-13	3187	(7^1504)1	(7×13^1505−79)/12	http://factordb.com/cert.php?id=1100000002320890755
-
-13	3188	93(0^1551)1	120×13^1552+1	proven prime by N−1 test (https://primes.utm.edu/prove/prove3_1.html), since N−1 is trivially fully factored
-
-13	3189	72(0^2297)2	93×13^2298+2	http://factordb.com/cert.php?id=1100000002632396910
-
-13	3190	177(0^2703)17	267×13^2705+20	http://factordb.com/cert.php?id=1100000003590430825
-
-13	3191	39(0^6266)1	48×13^6267+1	proven prime by N−1 test (https://primes.utm.edu/prove/prove3_1.html), since N−1 is trivially fully factored
-
-13	3192	B(0^6540)BBA	11×13^6543+2012	http://factordb.com/cert.php?id=1100000002616382906
-
-13	3193	(C^10631)92	13^10633−50	http://factordb.com/cert.php?id=1100000003590493750
-
-14	650	4(D^19698)	5×14^19698−1	proven prime by N+1 test (https://primes.utm.edu/prove/prove3_2.html), since N+1 is trivially fully factored
+|13|3184|9<sub>968</sub>B|(3×13<sup>969</sup>+5)/4|http://factordb.com/cert.php?id=1100000000258566244|
+|13|3185|10<sub>1295</sub>181|13<sup>1298</sup>+274|http://factordb.com/cert.php?id=1100000002615445013|
+|13|3186|9<sub>1362</sub>5|(3×13<sup>1363</sup>−19)/4|http://factordb.com/cert.php?id=1100000002321017776|
+|13|3187|7<sub>1504</sub>1|(7×13<sup>1505</sup>−79)/12|http://factordb.com/cert.php?id=1100000002320890755|
+|13|3188|930<sub>1551</sub>1|120×13<sup>1552</sup>+1|proven prime by N−1 test (https://primes.utm.edu/prove/prove3_1.html), since N−1 is trivially fully factored|
+|13|3189|720<sub>2297</sub>2|93×13<sup>2298</sup>+2|http://factordb.com/cert.php?id=1100000002632396910|
+|13|3190|1770<sub>2703</sub>17|267×13<sup>2705</sup>+20|http://factordb.com/cert.php?id=1100000003590430825|
+|13|3191|390<sub>6266</sub>1|48×13<sup>6267</sup>+1|proven prime by N−1 test (https://primes.utm.edu/prove/prove3_1.html), since N−1 is trivially fully factored|
+|13|3192|B0<sub>6540</sub>BBA|11×13<sup>6543</sup>+2012|http://factordb.com/cert.php?id=1100000002616382906|
+|13|3193|C<sub>10631</sub>92|13<sup>10633</sup>−50|http://factordb.com/cert.php?id=1100000003590493750|
+|14|650|4D<sub>19698</sub>|5×14<sup>19698</sup>−1|proven prime by N+1 test (https://primes.utm.edu/prove/prove3_2.html), since N+1 is trivially fully factored|
 
 16	2337	D(9^1052)	(68×16^1052−3)/5	http://factordb.com/cert.php?id=1100000002321036020
 
