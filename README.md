@@ -208,8 +208,8 @@ Some *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base
 |16|30{F}A0F|difference-of-squares factorization|
 |16|{5}45|difference-of-squares factorization|
 |16|{C}B|difference-of-squares factorization|
-|16|{C}D|Aurifeuillian factorization of x<sup>4</sup>+4×y<sup>4</sup>|
-|16|{C}DD|Aurifeuillian factorization of x<sup>4</sup>+4×y<sup>4</sup>|
+|16|{C}D|Aurifeuillian factorization of *x*<sup>4</sup>+4×*y*<sup>4</sup>|
+|16|{C}DD|Aurifeuillian factorization of *x*<sup>4</sup>+4×*y*<sup>4</sup>|
 |25|{1}|difference-of-squares factorization|
 |25|2{1}|difference-of-squares factorization|
 |25|5{1}|difference-of-squares factorization|
