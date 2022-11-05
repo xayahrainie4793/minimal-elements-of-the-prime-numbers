@@ -157,7 +157,7 @@ Some *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base
 |14|{D}3|always divisible by some element of {3,5}|
 |14|{4}9|always divisible by some element of {3,5}|
 |14|{8}5|always divisible by some element of {3,5}|
-|8|6{4}7	always divisible by some element of {3,5,13} (special example, as the numbers with length >= 222 in this family contain "prime > b" subsequence, this prime is 4<sub>220</sub>7)|
+|8|6{4}7|always divisible by some element of {3,5,13} (special example, as the numbers with length >= 222 in this family contain "prime > b" subsequence, this prime is 4<sub>220</sub>7)|
 |13|3{0}95|always divisible by some element of {5,7,17}|
 |13|95{0}3|always divisible by some element of {5,7,17}|
 |16|{4}D|always divisible by some element of {3,7,13}|
