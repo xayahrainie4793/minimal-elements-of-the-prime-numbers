@@ -244,48 +244,27 @@ Some *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base
 |36|{9}1|difference-of-squares factorization|
 |36|T{9}1|difference-of-squares factorization|
 |36|{S}J|difference-of-squares factorization|
-
-14	8{D}	combine of factor 5 and difference-of-squares factorization
-
-12	{B}9B	combine of factor 13 and difference-of-squares factorization
-
-14	{D}5	combine of factor 5 and difference-of-squares factorization
-
-17	1{9}	combine of factor 2 and difference-of-squares factorization
-
-17	7{9}	combine of factor 2 and difference-of-squares factorization
-
-17	{9}2	combine of factor 2 and difference-of-squares factorization
-
-17	{9}8	combine of factor 2 and difference-of-squares factorization
-
-19	1{6}	combine of factor 5 and difference-of-squares factorization
-
-19	{6}5	combine of factor 5 and difference-of-squares factorization
-
-19	7{2}	combine of factor 5 and difference-of-squares factorization
-
-19	89{6}	combine of factor 5 and difference-of-squares factorization
-
-24	3{N}	combine of factor 5 and difference-of-squares factorization
-
-24	5{N}	combine of factor 5 and difference-of-squares factorization
-
-24	8{N}	combine of factor 5 and difference-of-squares factorization
-
-24	{6}1	combine of factor 5 and difference-of-squares factorization
-
-24	{N}LN	combine of factor 5 and difference-of-squares factorization
-
-33	F{W}	combine of factor 17 and difference-of-squares factorization
-
-33	{W}H	combine of factor 17 and difference-of-squares factorization
-
-34	1{B}	combine of factor 5 and difference-of-squares factorization
-
-34	8{X}	combine of factor 5 and difference-of-squares factorization
-
-34	{X}P	combine of factor 5 and difference-of-squares factorization
+|14|8{D}|combine of factor 5 and difference-of-squares factorization|
+|12|{B}9B|combine of factor 13 and difference-of-squares factorization|
+|14|{D}5|combine of factor 5 and difference-of-squares factorization|
+|17|1{9}|combine of factor 2 and difference-of-squares factorization|
+|17|7{9}|combine of factor 2 and difference-of-squares factorization|
+|17|{9}2|combine of factor 2 and difference-of-squares factorization|
+|17|{9}8|combine of factor 2 and difference-of-squares factorization|
+|19|1{6}|combine of factor 5 and difference-of-squares factorization|
+|19|{6}5|combine of factor 5 and difference-of-squares factorization|
+|19|7{2}|combine of factor 5 and difference-of-squares factorization|
+|19|89{6}|combine of factor 5 and difference-of-squares factorization|
+|24|3{N}|combine of factor 5 and difference-of-squares factorization|
+|24|5{N}|combine of factor 5 and difference-of-squares factorization|
+|24|8{N}|combine of factor 5 and difference-of-squares factorization|
+|24|{6}1|combine of factor 5 and difference-of-squares factorization|
+|24|{N}LN|combine of factor 5 and difference-of-squares factorization|
+|33|F{W}|combine of factor 17 and difference-of-squares factorization|
+|33|{W}H|combine of factor 17 and difference-of-squares factorization|
+|34|1{B}|combine of factor 5 and difference-of-squares factorization|
+|34|8{X}|combine of factor 5 and difference-of-squares factorization|
+|34|{X}P|combine of factor 5 and difference-of-squares factorization|
 
 Also families which contain only one very small prime > *b*:
 
