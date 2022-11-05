@@ -320,7 +320,7 @@ All these numbers are strong probable primes (https://en.wikipedia.org/wiki/Stro
 Primality certificates (https://en.wikipedia.org/wiki/Primality_certificate, https://primes.utm.edu/glossary/xpage/Certificate.html, https://mathworld.wolfram.com/PrimalityCertificate.html) for large proven primes (> 10^1000) for bases 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 18, 20, 22, 24, 30:
 
 |*b*|index of this minimal prime in base *b*|base-*b* form of the minimal prime|algebraic ((*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1)) form of the minimal prime|primality certificate for the minimal prime|
-|:---|:---|:---|:---|
+|:---|:---|:---|:---|:---|
 |9|151|30<sub>1158</sub>11|3×9<sup>1160</sup>+10|http://factordb.com/cert.php?id=1100000002376318423|
 |11|1067|557<sub>1011</sub>|(607×11<sup>1011</sup>−7)/10|http://factordb.com/cert.php?id=1100000002361376522|
 |13|3184|9<sub>968</sub>B|(3×13<sup>969</sup>+5)/4|http://factordb.com/cert.php?id=1100000000258566244|
