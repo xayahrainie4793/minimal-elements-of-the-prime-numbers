@@ -334,30 +334,18 @@ Primality certificates (https://en.wikipedia.org/wiki/Primality_certificate, htt
 |13|3192|B0<sub>6540</sub>BBA|11×13<sup>6543</sup>+2012|http://factordb.com/cert.php?id=1100000002616382906|
 |13|3193|C<sub>10631</sub>92|13<sup>10633</sup>−50|http://factordb.com/cert.php?id=1100000003590493750|
 |14|650|4D<sub>19698</sub>|5×14<sup>19698</sup>−1|proven prime by N+1 test (https://primes.utm.edu/prove/prove3_2.html), since N+1 is trivially fully factored|
-
-16	2337	D(9^1052)	(68×16^1052−3)/5	http://factordb.com/cert.php?id=1100000002321036020
-
-16	2338	FA(F^1062)45	251×16^1064−187	http://factordb.com/cert.php?id=1100000003588387610
-
-16	2339	F(8^1517)F	(233×16^1518+97)/15	http://factordb.com/cert.php?id=1100000000633744824
-
-16	2340	2(0^1713)321	2×16^1716+801	http://factordb.com/cert.php?id=1100000003588386735
-
-16	2341	300(F^1960)AF	769×16^1962−81	http://factordb.com/cert.php?id=1100000003588368750
-
-16	2342	9(0^3542)91	9×16^3544+145	http://factordb.com/cert.php?id=1100000000633424191
-
-16	2343	5B(C^3700)D	(459×16^3701+1)/5	http://factordb.com/cert.php?id=1100000000993764322
-
-16	2344	D0(B^17804)	(3131×16^17804−11)/15	http://factordb.com/cert.php?id=1100000003589278511
-
-18	549	C(0^6268)C5	12×18^6270+221	http://factordb.com/cert.php?id=1100000003590442437
-
-20	3312	5(0^1163)AJ	5×20^1165+219	http://factordb.com/cert.php?id=1100000003590502412
-
-20	3313	C(D^2449)	(241×20^2449−13)/19	http://factordb.com/cert.php?id=1100000002325393915
-
-20	3314	G(0^6269)D	16×20^6270+13	http://factordb.com/cert.php?id=1100000003590539457
+|16|2337|D9<sub>1052</sub>|(68×16<sup>1052</sup>−3)/5|http://factordb.com/cert.php?id=1100000002321036020|
+|16|2338|FAF<sub>1062</sub>45|251×16<sup>1064</sup>−187|http://factordb.com/cert.php?id=1100000003588387610|
+|16|2339|F8<sub>1517</sub>F|(233×16<sup>1518</sup>+97)/15|http://factordb.com/cert.php?id=1100000000633744824|
+|16|2340|20<sub>1713</sub>321|2×16<sup>1716</sup>+801|http://factordb.com/cert.php?id=1100000003588386735|
+|16|2341|300F<sub>1960</sub>AF|769×16<sup>1962</sup>−81|http://factordb.com/cert.php?id=1100000003588368750|
+|16|2342|90<sub>3542</sub>91|9×16<sup>3544</sup>+145|http://factordb.com/cert.php?id=1100000000633424191|
+|16|2343|5BC<sub>3700</sub>D|(459×16<sup>3701</sup>+1)/5|http://factordb.com/cert.php?id=1100000000993764322|
+|16|2344|D0B<sub>17804</sub>|(3131×16<sup>17804</sup>−11)/15|http://factordb.com/cert.php?id=1100000003589278511|
+|18|549|C0<sub>6268</sub>C5|12×18<sup>6270</sup>+221|http://factordb.com/cert.php?id=1100000003590442437|
+|20|3312|50<sub>1163</sub>AJ|5×20<sup>1165</sup>+219|http://factordb.com/cert.php?id=1100000003590502412|
+|20|3313|CD<sub>2449</sub>|(241×20<sup>2449</sup>−13)/19|http://factordb.com/cert.php?id=1100000002325393915|
+|20|3314|G0<sub>6269</sub>D|16×20<sup>6270</sup>+13|http://factordb.com/cert.php?id=1100000003590539457|
 
 22	7998	K(0^760)EC1	20×22^763+7041	http://factordb.com/cert.php?id=1100000000632724415
 
