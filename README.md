@@ -317,7 +317,7 @@ There are also unproven probable primes (however, in this project our results as
 
 All these numbers are strong probable primes (https://en.wikipedia.org/wiki/Strong_pseudoprime, https://primes.utm.edu/glossary/xpage/StrongPRP.html, https://mathworld.wolfram.com/StrongPseudoprime.html) to bases 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61 (see https://oeis.org/A014233), and strong Lucas probable primes (https://en.wikipedia.org/wiki/Lucas_pseudoprime#Strong_Lucas_pseudoprimes, https://mathworld.wolfram.com/StrongLucasPseudoprime.html) with parameters (*P*, *Q*) defined by Selfridge's Method *A* (see https://oeis.org/A217255), and trial factored to 10<sup>16</sup> (thus, all these numbers are Baillie–PSW probable primes.
 
-Primality certificates (https://en.wikipedia.org/wiki/Primality_certificate, https://primes.utm.edu/glossary/xpage/Certificate.html, https://mathworld.wolfram.com/PrimalityCertificate.html) for large proven primes (> 10^1000) for bases 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 18, 20, 22, 24, 30:
+Primality certificates (https://en.wikipedia.org/wiki/Primality_certificate, https://primes.utm.edu/glossary/xpage/Certificate.html, https://mathworld.wolfram.com/PrimalityCertificate.html) for large proven primes (> 10^1000) for bases 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 18, 20, 22, 24, 28, 30:
 
 |*b*|index of this minimal prime in base *b*|base-*b* form of the minimal prime|algebraic ((*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1)) form of the minimal prime|primality certificate for the minimal prime|
 |:---|:---|:---|:---|:---|
@@ -356,6 +356,14 @@ Primality certificates (https://en.wikipedia.org/wiki/Primality_certificate, htt
 |24|3407|A0<sub>2951</sub>8ID|10×24<sup>2954</sup>+5053|http://factordb.com/cert.php?id=1100000003593269654|
 |24|3408|88N<sub>5951</sub>|201×24<sup>5951</sup>−1|proven prime by N+1 test (https://primes.utm.edu/prove/prove3_2.html), since N+1 is trivially fully factored|
 |24|3409|N00N<sub>8129</sub>LN|13249×24<sup>8131</sup>−49|http://factordb.com/cert.php?id=1100000003593391606|
+|28|25513|70<sub>748</sub>M5|7×28<sup>750</sup>+621|http://factordb.com/cert.php?id=1100000003850161956
+|28|25514|4A0<sub>804</sub>B|122×28<sup>805</sup>+11|http://factordb.com/cert.php?id=1100000003850161957
+|28|25515|LK<sub>925</sub>F|(587×28<sup>926</sup>−155)/27|http://factordb.com/cert.php?id=1100000000840839978
+|28|25516|J0<sub>1071</sub>AC5|19×28<sup>1074</sup>+8181|http://factordb.com/cert.php?id=1100000003850161959
+|28|25517|J0<sub>1252</sub>J5|19×28<sup>1254</sup>+537|http://factordb.com/cert.php?id=1100000003850161963
+|28|25518|5<sub>1304</sub>6F|(5×28<sup>1306</sup>+1021)/27|http://factordb.com/cert.php?id=1100000003850161964
+|28|25519|5<sub>1332</sub>P8P|(5×28<sup>1335</sup>+426163)/27|http://factordb.com/cert.php?id=1100000003850161965
+|28|25520|5I<sub>1370</sub>F|(17×28<sup>1371</sup>−11)/3|http://factordb.com/cert.php?id=1100000003850161972
 |30|2616|C0<sub>1022</sub>1|12×30<sup>1023</sup>+1|proven prime by N−1 test (https://primes.utm.edu/prove/prove3_1.html), since N−1 is trivially fully factored|
 |30|2617|5<sub>4882</sub>J|(5×30<sup>4883</sup>+401)/29|http://factordb.com/cert.php?id=1100000002327649423|
 |30|2619|OT<sub>34205</sub>|25×30<sup>34205</sup>−1|proven prime by N+1 test (https://primes.utm.edu/prove/prove3_2.html), since N+1 is trivially fully factored|
