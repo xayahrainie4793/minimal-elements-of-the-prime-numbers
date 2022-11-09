@@ -241,6 +241,7 @@ Some *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base
 |36|{Z}B|difference-of-squares factorization|
 |36|8{Z}B|difference-of-squares factorization|
 |36|F{Z}B|difference-of-squares factorization|
+|36|O{5}|difference-of-squares factorization|
 |36|O{7}|difference-of-squares factorization|
 |36|{9}1|difference-of-squares factorization|
 |36|T{9}1|difference-of-squares factorization|
