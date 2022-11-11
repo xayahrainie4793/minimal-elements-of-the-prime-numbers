@@ -412,13 +412,10 @@ Tools about this research:
 
 Prime checkers:
 
-https://primes.utm.edu/curios/includes/primetest.php
-
-https://www.numberempire.com/primenumbers.php
-
-http://www.numbertheory.org/php/lucas.html
-
-http://www.javascripter.net/math/calculators/100digitbigintcalculator.htm (just type *x* and click "prime?")
+# https://primes.utm.edu/curios/includes/primetest.php
+# https://www.numberempire.com/primenumbers.php
+# http://www.numbertheory.org/php/lucas.html
+# http://www.javascripter.net/math/calculators/100digitbigintcalculator.htm (just type *x* and click "prime?")
 
 https://www.bigprimes.net/primalitytest
 
