@@ -376,7 +376,7 @@ Primality certificates (https://en.wikipedia.org/wiki/Primality_certificate, htt
 |30|2617|5<sub>4882</sub>J|(5×30<sup>4883</sup>+401)/29|http://factordb.com/cert.php?id=1100000002327649423|
 |30|2619|OT<sub>34205</sub>|25×30<sup>34205</sup>−1|proven prime by *N*+1 test (https://primes.utm.edu/prove/prove3_2.html), since *N*+1 is trivially fully factored|
 
-Condensed table for bases 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 26, 28, 30, 36: (the bases 11, 13, 16, 17, 19, 21, 22, 23, 26, 28, 30, 36 data assumes the primality of the probable primes)
+Condensed table for bases 2 ≤ *b* ≤ 36: (the bases 11, 13, 16, 17, 19, 21~23, 25~36 data assumes the primality of the probable primes)
 
 |*b*|number of minimal primes base *b*|base-*b* form of the largest known minimal prime base *b*|length of the largest known minimal prime base *b*|algebraic ((*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1)) form of the largest known minimal prime base *b*|number of unsolved families in base *b*|searching limit of length for the unsolved families in base *b* (if there are different searching limits for the unsolved families in base *b*, choose the lowest searching limit)
 |:---|:---|:---|:---|:---|:---|:---|
@@ -403,9 +403,17 @@ Condensed table for bases 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17
 |22|8003|BK<sub>22001</sub>5|22003|(251×22<sup>22002</sup>−335)/21|0|---|
 |23|65144\~65276|7<sub>19067</sub>33|19069|(7×23<sup>19069</sup>−2119)/22|132|20000
 |24|3409|N00N<sub>8129</sub>LN|8134|13249×24<sup>8131</sup>−49|0|---|
+|25|||||||
 |26|25253\~25259|6K<sub>23300</sub>5|23302|(34×26<sup>23301</sup>−79)/5|6|38000|
+|27|||||||
 |28|25528\~25529|O4O<sub>94535</sub>9|94538|(6092×28<sup>94536</sup>−143)/9|1|543202|
+|29|||||||
 |30|2619|OT<sub>34205</sub>|34206|25×30<sup>34205</sup>−1|0|---|
+|31|||||||
+|32|||||||
+|33|||||||
+|34|||||||
+|35|||||||
 |36|35284\~35290|7K<sub>26567</sub>Z|26569|(53×36<sup>26568</sup>+101)/7|6|36000|
 
 Tools about this research:
