@@ -412,18 +412,14 @@ Tools about this research:
 
 Prime checkers:
 
-# https://primes.utm.edu/curios/includes/primetest.php
-# https://www.numberempire.com/primenumbers.php
-# http://www.numbertheory.org/php/lucas.html
-# http://www.javascripter.net/math/calculators/100digitbigintcalculator.htm (just type *x* and click "prime?")
-
-https://www.bigprimes.net/primalitytest
-
-http://www.proftnj.com/calcprem.htm
-
-https://www.archimedes-lab.org/primOmatic.html
-
-http://www.sonic.net/~undoc/java/PrimeCalc.html
+1. https://primes.utm.edu/curios/includes/primetest.php
+2. https://www.numberempire.com/primenumbers.php
+3. http://www.numbertheory.org/php/lucas.html
+4. http://www.javascripter.net/math/calculators/100digitbigintcalculator.htm (just type *x* and click "prime?")
+5. https://www.bigprimes.net/primalitytest
+6. http://www.proftnj.com/calcprem.htm
+7. https://www.archimedes-lab.org/primOmatic.html
+8. http://www.sonic.net/~undoc/java/PrimeCalc.html
 
 Integer factorizers:
 
