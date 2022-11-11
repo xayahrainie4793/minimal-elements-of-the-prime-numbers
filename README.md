@@ -408,6 +408,28 @@ Condensed table for bases 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17
 |30|2619|OT<sub>34205</sub>|34206|25×30<sup>34205</sup>−1|0|---|
 |36|35284\~35290|7K<sub>26567</sub>Z|26569|(53×36<sup>26568</sup>+101)/7|6|36000|
 
+Tools about this research:
+
+Prime checkers:
+
+https://primes.utm.edu/curios/includes/primetest.php
+
+https://www.numberempire.com/primenumbers.php
+
+http://www.numbertheory.org/php/lucas.html
+
+http://www.javascripter.net/math/calculators/100digitbigintcalculator.htm (just type *x* and click "prime?")
+
+https://www.bigprimes.net/primalitytest
+
+http://www.proftnj.com/calcprem.htm
+
+https://www.archimedes-lab.org/primOmatic.html
+
+http://www.sonic.net/~undoc/java/PrimeCalc.html
+
+Integer factorizers:
+
 For the files in this page:
 
 File "kernel *b*": Data for all known minimal primes in base *b*, expressed as base *b* strings
