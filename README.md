@@ -430,6 +430,38 @@ http://www.sonic.net/~undoc/java/PrimeCalc.html
 
 Integer factorizers:
 
+https://www.numberempire.com/numberfactorizer.php
+
+https://www.alpertron.com.ar/ECM.HTM
+
+http://www.javascripter.net/math/calculators/primefactorscalculator.htm
+
+https://betaprojects.com/calculators/prime_factors.html
+
+https://www.emathhelp.net/calculators/pre-algebra/prime-factorization-calculator/
+
+http://www.numbertheory.org/php/factor.html
+
+https://primefan.tripod.com/Factorer.html
+
+http://www.se16.info/js/factor.htm
+
+http://math.fau.edu/Richman/mla/factor-f.htm
+
+Base converters:
+
+https://baseconvert.com/
+
+https://www.calculand.com/unit-converter/zahlen.php
+
+https://www.cut-the-knot.org/Curriculum/Algorithms/BaseConversion.shtml
+
+http://www.tonymarston.net/php-mysql/converter.html
+
+http://www.kwuntung.net/hkunit/base/base.php (in Chinese)
+
+https://linesegment.web.fc2.com/application/math/numbers/RadixConversion.html (in Japanese)
+
 For the files in this page:
 
 File "kernel *b*": Data for all known minimal primes in base *b*, expressed as base *b* strings
