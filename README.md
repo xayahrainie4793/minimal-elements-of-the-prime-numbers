@@ -419,13 +419,19 @@ Condensed table for bases 2 ≤ *b* ≤ 36: (the bases *b* = 11, 13, 16, 17, 19,
 Related links:
 
 https://primes.utm.edu/primes/lists/all.txt (top definitely primes)
+
 https://primes.utm.edu/primes/lists/short.txt (definitely primes with ≥ 800000 decimal digits)
+
 https://primes.utm.edu/primes/download.php (index page of top definitely primes)
+
 https://primes.utm.edu/primes/search.php (search page of top definitely primes)
+
 https://primes.utm.edu/primes/search.php?Advanced=1 (advanced search page of top definitely primes)
+
 https://primes.utm.edu/primes/search_proth.php (search page of top definitely primes with the form *k*×*b*<sup>*n*</sup>±1)
 
 http://www.primenumbers.net/prptop/prptop.php (top probable primes)
+
 http://www.primenumbers.net/prptop/searchform.php (search page of top probable primes)
 
 Tools about this research:
