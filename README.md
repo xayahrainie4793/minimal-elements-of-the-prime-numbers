@@ -416,6 +416,11 @@ Condensed table for bases 2 ≤ *b* ≤ 36: (the bases *b* = 11, 13, 16, 17, 19,
 |35|||||||
 |36|35284\~35290|7K<sub>26567</sub>Z|26569|(53×36<sup>26568</sup>+101)/7|6|36000|
 
+Related links:
+
+https://primes.utm.edu/primes/lists/all.txt (top definitely primes)
+http://www.primenumbers.net/prptop/prptop.php (top probable primes)
+
 Tools about this research:
 
 Prime checkers:
