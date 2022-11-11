@@ -423,37 +423,24 @@ Prime checkers:
 
 Integer factorizers:
 
-https://www.numberempire.com/numberfactorizer.php
-
-https://www.alpertron.com.ar/ECM.HTM
-
-http://www.javascripter.net/math/calculators/primefactorscalculator.htm
-
-https://betaprojects.com/calculators/prime_factors.html
-
-https://www.emathhelp.net/calculators/pre-algebra/prime-factorization-calculator/
-
-http://www.numbertheory.org/php/factor.html
-
-https://primefan.tripod.com/Factorer.html
-
-http://www.se16.info/js/factor.htm
-
-http://math.fau.edu/Richman/mla/factor-f.htm
+1. https://www.numberempire.com/numberfactorizer.php
+2. https://www.alpertron.com.ar/ECM.HTM
+3. http://www.javascripter.net/math/calculators/primefactorscalculator.htm
+4. https://betaprojects.com/calculators/prime_factors.html
+5. https://www.emathhelp.net/calculators/pre-algebra/prime-factorization-calculator/
+6. http://www.numbertheory.org/php/factor.html
+7. https://primefan.tripod.com/Factorer.html
+8. http://www.se16.info/js/factor.htm
+9. http://math.fau.edu/Richman/mla/factor-f.htm
 
 Base converters:
 
-https://baseconvert.com/
-
-https://www.calculand.com/unit-converter/zahlen.php
-
-https://www.cut-the-knot.org/Curriculum/Algorithms/BaseConversion.shtml
-
-http://www.tonymarston.net/php-mysql/converter.html
-
-http://www.kwuntung.net/hkunit/base/base.php (in Chinese)
-
-https://linesegment.web.fc2.com/application/math/numbers/RadixConversion.html (in Japanese)
+1. https://baseconvert.com/
+2. https://www.calculand.com/unit-converter/zahlen.php
+3. https://www.cut-the-knot.org/Curriculum/Algorithms/BaseConversion.shtml
+4. http://www.tonymarston.net/php-mysql/converter.html
+5. http://www.kwuntung.net/hkunit/base/base.php (in Chinese)
+6. https://linesegment.web.fc2.com/application/math/numbers/RadixConversion.html (in Japanese)
 
 For the files in this page:
 
