@@ -428,7 +428,7 @@ https://primes.utm.edu/primes/search.php (search page of top definitely primes)
 
 https://primes.utm.edu/primes/search.php?Advanced=1 (advanced search page of top definitely primes)
 
-https://primes.utm.edu/primes/search_proth.php (search page of top definitely primes with the form *k*×*b*<sup>*n*</sup>±1)
+https://primes.utm.edu/primes/search_proth.php (search page of top definitely primes of the form *k*×*b*<sup>*n*</sup>±1)
 
 http://www.primenumbers.net/prptop/prptop.php (top probable primes)
 
