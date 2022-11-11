@@ -330,13 +330,13 @@ Primality certificates (https://en.wikipedia.org/wiki/Primality_certificate, htt
 |13|3185|10<sub>1295</sub>181|13<sup>1298</sup>+274|http://factordb.com/cert.php?id=1100000002615445013|
 |13|3186|9<sub>1362</sub>5|(3×13<sup>1363</sup>−19)/4|http://factordb.com/cert.php?id=1100000002321017776|
 |13|3187|7<sub>1504</sub>1|(7×13<sup>1505</sup>−79)/12|http://factordb.com/cert.php?id=1100000002320890755|
-|13|3188|930<sub>1551</sub>1|120×13<sup>1552</sup>+1|proven prime by N−1 test (https://primes.utm.edu/prove/prove3_1.html), since N−1 is trivially fully factored|
+|13|3188|930<sub>1551</sub>1|120×13<sup>1552</sup>+1|proven prime by *N*−1 test (https://primes.utm.edu/prove/prove3_1.html), since *N*−1 is trivially fully factored|
 |13|3189|720<sub>2297</sub>2|93×13<sup>2298</sup>+2|http://factordb.com/cert.php?id=1100000002632396910|
 |13|3190|1770<sub>2703</sub>17|267×13<sup>2705</sup>+20|http://factordb.com/cert.php?id=1100000003590430825|
-|13|3191|390<sub>6266</sub>1|48×13<sup>6267</sup>+1|proven prime by N−1 test (https://primes.utm.edu/prove/prove3_1.html), since N−1 is trivially fully factored|
+|13|3191|390<sub>6266</sub>1|48×13<sup>6267</sup>+1|proven prime by *N*−1 test (https://primes.utm.edu/prove/prove3_1.html), since *N*−1 is trivially fully factored|
 |13|3192|B0<sub>6540</sub>BBA|11×13<sup>6543</sup>+2012|http://factordb.com/cert.php?id=1100000002616382906|
 |13|3193|C<sub>10631</sub>92|13<sup>10633</sup>−50|http://factordb.com/cert.php?id=1100000003590493750|
-|14|650|4D<sub>19698</sub>|5×14<sup>19698</sup>−1|proven prime by N+1 test (https://primes.utm.edu/prove/prove3_2.html), since N+1 is trivially fully factored|
+|14|650|4D<sub>19698</sub>|5×14<sup>19698</sup>−1|proven prime by *N*+1 test (https://primes.utm.edu/prove/prove3_2.html), since *N*+1 is trivially fully factored|
 |16|2337|D9<sub>1052</sub>|(68×16<sup>1052</sup>−3)/5|http://factordb.com/cert.php?id=1100000002321036020|
 |16|2338|FAF<sub>1062</sub>45|251×16<sup>1064</sup>−187|http://factordb.com/cert.php?id=1100000003588387610|
 |16|2339|F8<sub>1517</sub>F|(233×16<sup>1518</sup>+97)/15|http://factordb.com/cert.php?id=1100000000633744824|
@@ -357,7 +357,7 @@ Primality certificates (https://en.wikipedia.org/wiki/Primality_certificate, htt
 |24|3405|N<sub>2644</sub>LLN|24<sup>2647</sup>−1201|http://factordb.com/cert.php?id=1100000003593270089|
 |24|3406|D<sub>2698</sub>LD|(13×24<sup>2700</sup>+4403)/23|http://factordb.com/cert.php?id=1100000003593269876|
 |24|3407|A0<sub>2951</sub>8ID|10×24<sup>2954</sup>+5053|http://factordb.com/cert.php?id=1100000003593269654|
-|24|3408|88N<sub>5951</sub>|201×24<sup>5951</sup>−1|proven prime by N+1 test (https://primes.utm.edu/prove/prove3_2.html), since N+1 is trivially fully factored|
+|24|3408|88N<sub>5951</sub>|201×24<sup>5951</sup>−1|proven prime by *N*+1 test (https://primes.utm.edu/prove/prove3_2.html), since *N*+1 is trivially fully factored|
 |24|3409|N00N<sub>8129</sub>LN|13249×24<sup>8131</sup>−49|http://factordb.com/cert.php?id=1100000003593391606|
 |28|25513|70<sub>748</sub>M5|7×28<sup>750</sup>+621|http://factordb.com/cert.php?id=1100000003850161956
 |28|25514|4A0<sub>804</sub>B|122×28<sup>805</sup>+11|http://factordb.com/cert.php?id=1100000003850161957
@@ -372,9 +372,9 @@ Primality certificates (https://en.wikipedia.org/wiki/Primality_certificate, htt
 |28|25523|5<sub>3746</sub>8P|(5×28<sup>3748</sup>+2803)/27|http://factordb.com/cert.php?id=1100000003850161974
 |28|25524|QO<sub>4239</sub>69|(242×28<sup>4241</sup>−4679)/9|http://factordb.com/cert.php?id=1100000000840839934
 |28|25525|D0<sub>5267</sub>77D|13×28<sup>5270</sup>+5697|http://factordb.com/cert.php?id=1100000003850151420
-|30|2616|C0<sub>1022</sub>1|12×30<sup>1023</sup>+1|proven prime by N−1 test (https://primes.utm.edu/prove/prove3_1.html), since N−1 is trivially fully factored|
+|30|2616|C0<sub>1022</sub>1|12×30<sup>1023</sup>+1|proven prime by *N*−1 test (https://primes.utm.edu/prove/prove3_1.html), since *N*−1 is trivially fully factored|
 |30|2617|5<sub>4882</sub>J|(5×30<sup>4883</sup>+401)/29|http://factordb.com/cert.php?id=1100000002327649423|
-|30|2619|OT<sub>34205</sub>|25×30<sup>34205</sup>−1|proven prime by N+1 test (https://primes.utm.edu/prove/prove3_2.html), since N+1 is trivially fully factored|
+|30|2619|OT<sub>34205</sub>|25×30<sup>34205</sup>−1|proven prime by *N*+1 test (https://primes.utm.edu/prove/prove3_2.html), since *N*+1 is trivially fully factored|
 
 Condensed table for bases 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 26, 28, 30, 36: (the bases 11, 13, 16, 17, 19, 21, 22, 23, 26, 28, 30, 36 data assumes the primality of the probable primes)
 
