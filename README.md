@@ -434,7 +434,7 @@ http://www.primenumbers.net/prptop/prptop.php (top probable primes)
 
 http://www.primenumbers.net/prptop/searchform.php (search page of top probable primes)
 
-Tools about this research:
+Tools about this research: (in fact, you can also use Wolfram Alpha (https://www.wolframalpha.com/) or online Magma calculator (http://magma.maths.usyd.edu.au/calc/)) 
 
 Prime checkers:
 
