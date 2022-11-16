@@ -320,11 +320,15 @@ There are also unproven probable primes (however, in this project our results as
 
 All these numbers are strong probable primes (https://en.wikipedia.org/wiki/Strong_pseudoprime, https://primes.utm.edu/glossary/xpage/StrongPRP.html, https://mathworld.wolfram.com/StrongPseudoprime.html) to bases 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61 (see https://oeis.org/A014233), and strong Lucas probable primes (https://en.wikipedia.org/wiki/Lucas_pseudoprime#Strong_Lucas_pseudoprimes, https://mathworld.wolfram.com/StrongLucasPseudoprime.html) with parameters (*P*, *Q*) defined by Selfridge's Method *A* (see https://oeis.org/A217255), and trial factored to 10<sup>16</sup> (thus, all these numbers are Baillie–PSW probable primes.
 
-Primality certificates (https://en.wikipedia.org/wiki/Primality_certificate, https://primes.utm.edu/glossary/xpage/Certificate.html, https://mathworld.wolfram.com/PrimalityCertificate.html) for large proven primes (> 10<sup>1000</sup>) for bases *b* = 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 18, 20, 22, 24, 28, 30:
+Primality certificates (https://en.wikipedia.org/wiki/Primality_certificate, https://primes.utm.edu/glossary/xpage/Certificate.html, https://mathworld.wolfram.com/PrimalityCertificate.html) for large proven primes (> 10<sup>300</sup>) for bases *b* = 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 18, 20, 22, 24, 28, 30:
 
 |*b*|index of this minimal prime in base *b*|base-*b* form of the minimal prime|algebraic ((*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1)) form of the minimal prime|primality certificate for the minimal prime|
 |:---|:---|:---|:---|:---|
+|9|149|76<sub>329</sub>2|(31×9<sup>330</sup>−19)/4|http://factordb.com/cert.php?id=1100000002359003642|
+|9|150|27<sub>686</sub>07|(23×9<sup>688</sup>−511)/8|http://factordb.com/cert.php?id=1100000002495467486|
 |9|151|30<sub>1158</sub>11|3×9<sup>1160</sup>+10|http://factordb.com/cert.php?id=1100000002376318423|
+|11|1065|A<sub>713</sub>58|11<sup>715</sup>−58|http://factordb.com/cert.php?id=1100000003576826487|
+|11|1066|7<sub>759</sub>44|(7×11<sup>761</sup>−367)/10|http://factordb.com/cert.php?id=1100000002505568840|
 |11|1067|557<sub>1011</sub>|(607×11<sup>1011</sup>−7)/10|http://factordb.com/cert.php?id=1100000002361376522|
 |13|3184|9<sub>968</sub>B|(3×13<sup>969</sup>+5)/4|http://factordb.com/cert.php?id=1100000000258566244|
 |13|3185|10<sub>1295</sub>181|13<sup>1298</sup>+274|http://factordb.com/cert.php?id=1100000002615445013|
@@ -345,6 +349,8 @@ Primality certificates (https://en.wikipedia.org/wiki/Primality_certificate, htt
 |16|2342|90<sub>3542</sub>91|9×16<sup>3544</sup>+145|http://factordb.com/cert.php?id=1100000000633424191|
 |16|2343|5BC<sub>3700</sub>D|(459×16<sup>3701</sup>+1)/5|http://factordb.com/cert.php?id=1100000000993764322|
 |16|2344|D0B<sub>17804</sub>|(3131×16<sup>17804</sup>−11)/15|http://factordb.com/cert.php?id=1100000003589278511|
+|18|547|80<sub>298</sub>B|8×18<sup>299</sup>+11|http://factordb.com/cert.php?id=1100000002355574745|
+|18|548|H<sub>766</sub>FH|18<sup>768</sup>−37|http://factordb.com/cert.php?id=1100000003590430490|
 |18|549|C0<sub>6268</sub>C5|12×18<sup>6270</sup>+221|http://factordb.com/cert.php?id=1100000003590442437|
 |20|3312|50<sub>1163</sub>AJ|5×20<sup>1165</sup>+219|http://factordb.com/cert.php?id=1100000003590502412|
 |20|3313|CD<sub>2449</sub>|(241×20<sup>2449</sup>−13)/19|http://factordb.com/cert.php?id=1100000002325393915|
