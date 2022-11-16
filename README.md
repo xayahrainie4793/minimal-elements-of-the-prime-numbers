@@ -468,6 +468,37 @@ Base converters:
 5. http://www.kwuntung.net/hkunit/base/base.php (in Chinese)
 6. https://linesegment.web.fc2.com/application/math/numbers/RadixConversion.html (in Japanese)
 
+List of small primes:
+
+1. https://primes.utm.edu/lists/small/1000.txt
+2. https://primes.utm.edu/lists/small/10000.txt
+3. https://primes.utm.edu/lists/small/100000.txt
+4. https://primes.utm.edu/lists/small/millions/
+5. https://oeis.org/A000040/a000040.txt
+6. https://oeis.org/A000040/b000040_1.txt
+7. https://oeis.org/A000040/a000040_1B.7z
+8. https://metanumbers.com/prime-numbers
+9. https://www2.cs.arizona.edu/icon/oddsends/primes.htm
+10. http://noe-education.org/D11102.php (in French)
+11. https://archive.ph/dFHCI (in Italian)
+12. https://primefan.tripod.com/500Primes1.html
+13. https://www.gutenberg.org/files/65/65.txt
+14. http://www.primos.mat.br/indexen.html
+15. https://www.walter-fendt.de/html5/men/primenumbers_en.htm
+16. http://www.rsok.com/~jrm/printprimes.html
+17. https://jocelyn.quizz.chat/np/cache/index.html
+18. https://en.wikipedia.org/wiki/List_of_prime_numbers#The_first_1000_prime_numbers
+
+Lists of factorizations of small integers:
+
+1. http://primefan.tripod.com/500factored.html
+2. http://www.sosmath.com/tables/factor/factor.html
+3. https://en.wikipedia.org/wiki/Table_of_prime_factors
+
+Lists of small integers in various bases:
+
+1. https://en.wikipedia.org/wiki/Table_of_bases
+
 For the files in this page:
 
 File "kernel *b*": Data for all known minimal primes in base *b*, expressed as base *b* strings
