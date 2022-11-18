@@ -440,7 +440,7 @@ Condensed table for bases 2 ≤ *b* ≤ 36: (the bases *b* = 11, 13, 16, 17, 19,
 |33|||||||
 |34|||||||
 |35|||||||
-|36|35284\~35290|7K<sub>26567</sub>Z<br>J<sub>10117</sub>LJ<br>VL0<sub>7258</sub>J<br>EO0<sub>6177</sub>V<br>FZ<sub>5777</sub>3P<br>T09<sub>4618</sub>1<br>RY<sub>4562</sub>H<br>OZ<sub>3932</sub>AZ<br>4<sub>3925</sub>V<br>CNS<sub>3424</sub>J|26569<br>10119<br>7261<br>6180<br>5780<br>4621<br>4564<br>3935<br>3926<br>3427|(53×36<sup>26568</sup>+101)/7<br>(19×36<sup>10119</sup>+2501)/35<br>1137×36<sup>7259</sup>+19<br>528×36<sup>6178</sup>+31<br>16×36<sup>5779</sup>−1163<br>(36549×36<sup>4619</sub>−289)/35<br>(979×36<sup>4563</sup>−629)/35<br>25×36<sup>3934</sup>−901<br>(4×36<sup>3926</sup>+941)/35<br>(81904×36<sup>3425</sup>−49)/5|6|36000|
+|36|35284\~35290|7K<sub>26567</sub>Z<br>J<sub>10117</sub>LJ<br>VL0<sub>7258</sub>J<br>EO0<sub>6177</sub>V<br>FZ<sub>5777</sub>3P<br>T09<sub>4618</sub>1<br>RY<sub>4562</sub>H<br>OZ<sub>3932</sub>AZ<br>4<sub>3925</sub>V<br>CNS<sub>3424</sub>J|26569<br>10119<br>7261<br>6180<br>5780<br>4621<br>4564<br>3935<br>3926<br>3427|(53×36<sup>26568</sup>+101)/7<br>(19×36<sup>10119</sup>+2501)/35<br>1137×36<sup>7259</sup>+19<br>528×36<sup>6178</sup>+31<br>16×36<sup>5779</sup>−1163<br>(36549×36<sup>4619</sup>−289)/35<br>(979×36<sup>4563</sup>−629)/35<br>25×36<sup>3934</sup>−901<br>(4×36<sup>3926</sup>+941)/35<br>(81904×36<sup>3425</sup>−49)/5|6|36000|
 
 Related links:
 
