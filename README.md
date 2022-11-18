@@ -392,15 +392,15 @@ Primality certificates (https://en.wikipedia.org/wiki/Primality_certificate, htt
 
 Condensed table for bases 2 ≤ *b* ≤ 36: (the bases *b* = 11, 13, 16, 17, 19, 21\~23, 25\~36 data assumes the primality of the probable primes)
 
-|*b*|number of minimal primes base *b*|base-*b* form of the top 5 known minimal prime base *b*|length of the top 5 known minimal prime base *b*|algebraic ((*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1)) form of the top 5 known minimal prime base *b*|number of unsolved families in base *b*|searching limit of length for the unsolved families in base *b* (if there are different searching limits for the unsolved families in base *b*, choose the lowest searching limit)
+|*b*|number of minimal primes base *b*|base-*b* form of the top 10 known minimal prime base *b*|length of the top 10 known minimal prime base *b*|algebraic ((*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1)) form of the top 10 known minimal prime base *b*|number of unsolved families in base *b*|searching limit of length for the unsolved families in base *b* (if there are different searching limits for the unsolved families in base *b*, choose the lowest searching limit)
 |:---|:---|:---|:---|:---|:---|:---|
 |2|1|11|2|3|0|---|
 |3|3|111<br>21<br>12|3<br>2<br>2|13<br>7<br>5|0|---|
 |4|5|221<br>31<br>23<br>13<br>11|3<br>2<br>2<br>2<br>2|41<br>13<br>11<br>7<br>5|0|---|
-|5|22|10<sub>93</sub>13<br>300031<br>44441<br>33331<br>33001|96<br>6<br>5<br>5<br>5|5<sup>95</sup>+8<br>9391<br>3121<br>2341<br>2251|0|---|
-|6|11|40041<br>4441<br>4401<br>51<br>45|5<br>4<br>4<br>2<br>2|5209<br>1033<br>1009<br>31<br>29|0|---|
-|7|71|3<sub>16</sub>1<br>510<sub>7</sub>1<br>3<sub>6</sub>01<br>1100021<br>531101|17<br>10<br>8<br>7<br>6|(7<sup>17</sup>−5)/2<br>36×7<sup>8</sup>+1<br>(7<sup>8</sup>−47)/2<br>134471<br>91631|0|---|
-|8|75|4<sub>220</sub>7<br>5<sub>13</sub>25<br>7<sub>12</sub>1<br>77774<sub>6</sub>1<br>74<sub>7</sub>1|221<br>15<br>13<br>11<br>9|(4×8<sup>221</sup>+17)/7<br>(5×8<sup>15</sup>−173)/7<br>8<sup>13</sup>−7<br>(28669×8<sup>7</sup>−25)/7<br>(53×8<sup>8</sup>−25)/7|0|---|
+|5|22|10<sub>93</sub>13<br>300031<br>44441<br>33331<br>33001<br>30301<br>14444<br>10103<br>3101<br>414|96<br>6<br>5<br>5<br>5<br>5<br>5<br>5<br>4<br>3|5<sup>95</sup>+8<br>9391<br>3121<br>2341<br>2251<br>1951<br>1249<br>653<br>401<br>109|0|---|
+|6|11|40041<br>4441<br>4401<br>51<br>45<br>35<br>31<br>25<br>21<br>15|5<br>4<br>4<br>2<br>2<br>2<br>2<br>2<br>2<br>2|5209<br>1033<br>1009<br>31<br>29<br>23<br>19<br>17<br>13<br>11|0|---|
+|7|71|3<sub>16</sub>1<br>510<sub>7</sub>1<br>3<sub>6</sub>01<br>1100021<br>531101<br>351101<br>300053<br>150001<br>100121<br>40054|17<br>10<br>8<br>7<br>6<br>6<br>6<br>6<br>6<br>5|(7<sup>17</sup>−5)/2<br>36×7<sup>8</sup>+1<br>(7<sup>8</sup>−47)/2<br>134471<br>91631<br>62819<br>50459<br>28813<br>16871<br>9643|0|---|
+|8|75|4<sub>220</sub>7<br>5<sub>13</sub>25<br>7<sub>12</sub>1<br>77774<sub>6</sub>1<br>74<sub>7</sub>1<br>4<sub>8</sub>1<br>55555025<br>5550525<br>5500525<br>4444477|221<br>15<br>13<br>11<br>9<br>9<br>8<br>7<br>7<br>7|(4×8<sup>221</sup>+17)/7<br>(5×8<sup>15</sup>−173)/7<br>8<sup>13</sup>−7<br>(28669×8<sup>7</sup>−25)/7<br>(53×8<sup>8</sup>−25)/7<br>(4×8<sup>9</sup>−25)/7<br>11983381<br>1495381<br>1474901<br>1198399|0|---|
 |9|151|30<sub>1158</sub>11<br>27<sub>686</sub>07<br>76<sub>329</sub>2<br>561<sub>36</sub><br>10<sub>25</sub>57|1161<br>689<br>331<br>38<br>28|3×9<sup>1160</sup>+10<br>(23×9<sup>688</sup>−511)/8<br>(31×9<sup>330</sup>−19)/4<br>(409×9<sup>36</sup>−1)/8<br>9<sup>27</sup>+52|0|---|
 |10|77|50<sub>28</sub>27<br>5<sub>11</sub>1<br>80555551<br>66600049<br>66000049|31<br>12<br>8<br>8<br>8|5×10<sup>30</sup>+27<br>(5×10<sup>12</sup>−41)/9<br>80555551<br>66600049<br>66000049|0|---|
 |11|1068|57<sub>62668</sub><br>557<sub>1011</sub><br>7<sub>759</sub>44<br>A<sub>713</sub>58<br>85<sub>220</sub>05|62669<br>1013<br>761<br>715<br>223|(57×11<sup>62668</sup>−7)/10<br>(607×11<sup>1011</sup>−7)/10<br>(7×11<sup>761</sup>−367)/10<br>11<sup>715</sup>−58<br>(17×11<sup>222</sup>−111)/2|0|---|
