@@ -346,6 +346,9 @@ Primality certificates (https://en.wikipedia.org/wiki/Primality_certificate, htt
 |13|3178|B7<sub>486</sub>|(139×13<sup>486</sup>−7)/12|http://factordb.com/cert.php?id=1100000002321015892|
 |13|3179|B<sub>563</sub>C|(11×13<sup>564</sup>+1)/12|proven prime by *N*−1 test (https://primes.utm.edu/prove/prove3_1.html), since *N*−1 is 11/12×(13<sup>564</sup>−1), thus factor *N*−1 is equivalent to factor 13<sup>564</sup>−1, and for the factorization of 13<sup>564</sup>−1, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSingleEntry?Base=13&Exp=564&c0=-&EN=|
 |13|3180|1B<sub>576</sub>|(23×13<sup>576</sup>−11)/12|proven prime by *N*−1 test (https://primes.utm.edu/prove/prove3_1.html), since *N*−1 is 23/12×(13<sup>576</sup>−1), thus factor *N*−1 is equivalent to factor 13<sup>576</sup>−1, and for the factorization of 13<sup>576</sup>−1, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSingleEntry?Base=13&Exp=576&c0=-&EN=|
+|13|3181|80<sub>693</sub>87|8×13<sup>695</sup>+111|http://factordb.com/cert.php?id=1100000002615636527|
+|13|3182|CC5<sub>713</sub>|(2021×13<sup>713</sup>−5)/12|http://factordb.com/cert.php?id=1100000002615627353|
+|13|3183|B<sub>834</sub>74|(11×13<sup>836</sup>−719)/12|http://factordb.com/cert.php?id=1100000003590430871|
 |13|3184|9<sub>968</sub>B|(3×13<sup>969</sup>+5)/4|http://factordb.com/cert.php?id=1100000000258566244|
 |13|3185|10<sub>1295</sub>181|13<sup>1298</sup>+274|http://factordb.com/cert.php?id=1100000002615445013|
 |13|3186|9<sub>1362</sub>5|(3×13<sup>1363</sup>−19)/4|http://factordb.com/cert.php?id=1100000002321017776|
@@ -356,6 +359,7 @@ Primality certificates (https://en.wikipedia.org/wiki/Primality_certificate, htt
 |13|3191|390<sub>6266</sub>1|48×13<sup>6267</sup>+1|proven prime by *N*−1 test (https://primes.utm.edu/prove/prove3_1.html), since *N*−1 is trivially fully factored|
 |13|3192|B0<sub>6540</sub>BBA|11×13<sup>6543</sup>+2012|http://factordb.com/cert.php?id=1100000002616382906|
 |13|3193|C<sub>10631</sub>92|13<sup>10633</sup>−50|http://factordb.com/cert.php?id=1100000003590493750|
+|14|649|34D<sub>708</sub>|47×14<sup>708</sup>−1|proven prime by *N*+1 test (https://primes.utm.edu/prove/prove3_2.html), since *N*+1 is trivially fully factored|
 |14|650|4D<sub>19698</sub>|5×14<sup>19698</sup>−1|proven prime by *N*+1 test (https://primes.utm.edu/prove/prove3_2.html), since *N*+1 is trivially fully factored|
 |16|2337|D9<sub>1052</sub>|(68×16<sup>1052</sup>−3)/5|http://factordb.com/cert.php?id=1100000002321036020|
 |16|2338|FAF<sub>1062</sub>45|251×16<sup>1064</sup>−187|http://factordb.com/cert.php?id=1100000003588387610|
