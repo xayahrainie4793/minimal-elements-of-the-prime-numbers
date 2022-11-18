@@ -330,14 +330,14 @@ Primality certificates (https://en.wikipedia.org/wiki/Primality_certificate, htt
 |11|1065|A<sub>713</sub>58|11<sup>715</sup>−58|http://factordb.com/cert.php?id=1100000003576826487|
 |11|1066|7<sub>759</sub>44|(7×11<sup>761</sup>−367)/10|http://factordb.com/cert.php?id=1100000002505568840|
 |11|1067|557<sub>1011</sub>|(607×11<sup>1011</sup>−7)/10|http://factordb.com/cert.php?id=1100000002361376522|
-|13|3165|50<sub>270</sub>44|5×13<sup>272</sup>+56|http://factordb.com/cert.php?id=1100000002632397005
-|13|3166|9<sub>271</sub>095|(3×13<sup>274</sup>−6103)/4|http://factordb.com/cert.php?id=1100000003590431654
-|13|3167|10<sub>286</sub>7771|13<sup>290</sup>+16654|http://factordb.com/cert.php?id=1100000003590431633
-|13|3168|9<sub>308</sub>1|(3×13<sup>309</sup>−35)/4|proven prime by *N*−1 test (https://primes.utm.edu/prove/prove3_1.html), *N*−1 is 39/4×(13<sup>308</sup>−1), thus factor *N*−1 is equivalent to factor 13<sup>308</sup>−1, and for the factorization of 13<sup>308</sup>−1, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSingleEntry?Base=13&Exp=308&c0=-&EN=
-|13|3169|B<sub>341</sub>C4|(11×13<sup>343</sup>+61)/12|http://factordb.com/cert.php?id=1100000003590431618
-|13|3170|8B<sub>343</sub>|(107×13<sup>343</sup>−11)/12|http://factordb.com/cert.php?id=1100000002321018736
-|13|3171|710<sub>371</sub>111|92×13<sup>374</sup>+183|http://factordb.com/cert.php?id=1100000003590431609
-|13|3172|75<sub>375</sub>7|(89×13<sup>376</sup>+19)/12|http://factordb.com/cert.php?id=1100000003590431596
+|13|3165|50<sub>270</sub>44|5×13<sup>272</sup>+56|http://factordb.com/cert.php?id=1100000002632397005|
+|13|3166|9<sub>271</sub>095|(3×13<sup>274</sup>−6103)/4|http://factordb.com/cert.php?id=1100000003590431654|
+|13|3167|10<sub>286</sub>7771|13<sup>290</sup>+16654|http://factordb.com/cert.php?id=1100000003590431633|
+|13|3168|9<sub>308</sub>1|(3×13<sup>309</sup>−35)/4|proven prime by *N*−1 test (https://primes.utm.edu/prove/prove3_1.html), *N*−1 is 39/4×(13<sup>308</sup>−1), thus factor *N*−1 is equivalent to factor 13<sup>308</sup>−1, and for the factorization of 13<sup>308</sup>−1, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSingleEntry?Base=13&Exp=308&c0=-&EN=|
+|13|3169|B<sub>341</sub>C4|(11×13<sup>343</sup>+61)/12|http://factordb.com/cert.php?id=1100000003590431618|
+|13|3170|8B<sub>343</sub>|(107×13<sup>343</sup>−11)/12|http://factordb.com/cert.php?id=1100000002321018736|
+|13|3171|710<sub>371</sub>111|92×13<sup>374</sup>+183|http://factordb.com/cert.php?id=1100000003590431609|
+|13|3172|75<sub>375</sub>7|(89×13<sup>376</sup>+19)/12|http://factordb.com/cert.php?id=1100000003590431596|
 |13|3184|9<sub>968</sub>B|(3×13<sup>969</sup>+5)/4|http://factordb.com/cert.php?id=1100000000258566244|
 |13|3185|10<sub>1295</sub>181|13<sup>1298</sup>+274|http://factordb.com/cert.php?id=1100000002615445013|
 |13|3186|9<sub>1362</sub>5|(3×13<sup>1363</sup>−19)/4|http://factordb.com/cert.php?id=1100000002321017776|
