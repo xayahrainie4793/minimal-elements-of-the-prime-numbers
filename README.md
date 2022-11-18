@@ -434,7 +434,7 @@ Condensed table for bases 2 ≤ *b* ≤ 36: (the bases *b* = 11, 13, 16, 17, 19,
 |27|||||||
 |28|25528\~25529|O4O<sub>94535</sub>9<br>5OA<sub>31238</sub>F<br>N6<sub>24051</sub>LR<br>D0<sub>5267</sub>77D<br>QO<sub>4239</sub>69<br>5<sub>3746</sub>8P<br>G0<sub>1899</sub>AN<br>A<sub>1423</sub>6F<br>5I<sub>1370</sub>F<br>5<sub>1332</sub>P8P|94538<br>31241<br>24054<br>5271<br>4242<br>3748<br>1902<br>1425<br>1372<br>1335|(6092×28<sup>94536</sup>−143)/9<br>(4438×28<sup>31239</sup>+125)/27<br>(209×28<sup>24053</sup>+3967)/9<br>13×28<sup>5270</sup>+5697<br>(242×28<sup>4241</sup>−4679)/9<br>(5×28<sup>3748</sup>+2803)/27<br>16×28<sup>1901</sup>+303<br>(10×28<sup>1425</sup>−2899)/27<br>(17×28<sup>1371</sup>−11)/3<br>(5×28<sup>1335</sup>+426163)/27|1|543202|
 |29|||||||
-|30|2619|OT<sub>34205</sub><br>I0<sub>24608</sub>D<br>5<sub>4882</sub>J<br>C0<sub>1022</sub>1<br>M0<sub>547</sub>SS7|34206<br>24610<br>4883<br>1024<br>551|25×30<sup>34205</sup>−1<br>18×30<sup>24609</sup>+13<br>(5×30<sup>4883</sup>+401)/29<br>12×30<sup>1023</sup>+1<br>22×30<sup>550</sup>+26047|0|---|
+|30|2619|OT<sub>34205</sub><br>I0<sub>24608</sub>D<br>5<sub>4882</sub>J<br>C0<sub>1022</sub>1<br>M0<sub>547</sub>SS7<br>M<sub>241</sub>QB<br>AN<sub>206</sub><br>50<sub>164</sub>B<br>J<sub>153</sub>QJ<br>J<sub>94</sub>QQJ|34206<br>24610<br>4883<br>1024<br>551<br>243<br>207<br>166<br>155<br>97|25×30<sup>34205</sup>−1<br>18×30<sup>24609</sup>+13<br>(5×30<sup>4883</sup>+401)/29<br>12×30<sup>1023</sup>+1<br>22×30<sup>550</sup>+26047<br>(22×30<sup>243</sup>+3139)/29<br>(313×30<sup>206</sup>−23)/29<br>5×30<sup>165</sup>+11<br>(19×30<sup>155</sup>+6071)/29<br>(19×30<sup>97</sup>+188771)/29|0|---|
 |31|||||||
 |32|||||||
 |33|||||||
