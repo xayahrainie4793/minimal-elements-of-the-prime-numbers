@@ -187,18 +187,18 @@ Some *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base
 |34|5{X}|always divisible by some element of {5,7}|
 |34|S{X}|always divisible by some element of {5,7}|
 |34|{X}5|always divisible by some element of {5,7}|
-|9|{1}|difference-of-squares factorization|
-|8|1{0}1|sum-of-cubes factorization|
-|9|3{1}|difference-of-squares factorization|
-|9|3{8}|difference-of-squares factorization|
-|9|{8}5|difference-of-squares factorization|
-|9|3{8}35|difference-of-squares factorization|
-|16|8{F}|difference-of-squares factorization|
-|16|{F}7|difference-of-squares factorization|
-|16|{4}1|difference-of-squares factorization|
-|16|B{4}1|difference-of-squares factorization|
-|16|1{5}|difference-of-squares factorization|
-|16|8{5}|difference-of-squares factorization|
+|9|{1}|difference-of-squares factorization<br>(9<sup>*n*</sup>−1)/8 = (3<sup>*n*</sup>−1) × (3<sup>*n*</sup>+1) / 8|
+|8|1{0}1|sum-of-cubes factorization<br>8<sup>*n*</sup>+1 = (2<sup>*n*</sup>+1) × (4<sup>*n*</sup>−2<sup>*n*</sup>+1)|
+|9|3{1}|difference-of-squares factorization<br>(25×9<sup>*n*</sup>−1)/8 = (5×3<sup>*n*</sup>−1) × (5×3<sup>*n*</sup>+1) / 8|
+|9|3{8}|difference-of-squares factorization<br>4×9<sup>*n*</sup>−1 = (2×3<sup>*n*</sup>−1) × (2×3<sup>*n*</sup>+1)|
+|9|{8}5|difference-of-squares factorization<br>9<sup>*n*</sup>−4 = (3<sup>*n*</sup>−2) × (3<sup>*n*</sup>+2)|
+|9|3{8}35|difference-of-squares factorization<br>4×9<sup>*n*</sup>−49 = (2×3<sup>*n*</sup>−7) × (2×3<sup>*n*</sup>+7)|
+|16|8{F}|difference-of-squares factorization<br>9×16<sup>*n*</sup>−1 = (3×4<sup>*n*</sup>−1) × (3×4<sup>*n*</sup>+1)|
+|16|{F}7|difference-of-squares factorization<br>16<sup>*n*</sup>−9 = (4<sup>*n*</sup>−3) × (4<sup>*n*</sup>+3)|
+|16|{4}1|difference-of-squares factorization<br>(4×16<sup>*n*</sup>−49)/15 = (2×4<sup>*n*</sup>−7) × (2×4<sup>*n*</sup>+7) / 15|
+|16|B{4}1|difference-of-squares factorization<br>(169×16<sup>*n*</sup>−49)/15 = (13×4<sup>*n*</sup>−7) × (13×4<sup>*n*</sup>+7) / 15|
+|16|1{5}|difference-of-squares factorization<br>(4×16<sup>*n*</sup>−1)/3 = (2×4<sup>*n*</sup>−1) × (2×4<sup>*n*</sup>+1) / 3|
+|16|8{5}|difference-of-squares factorization<br>(25×16<sup>*n*</sup>−1)/3 = (5×4<sup>*n*</sup>−1) × (5×4<sup>*n*</sup>+1) / 3|
 |16|10{5}|difference-of-squares factorization|
 |16|A1{5}|difference-of-squares factorization|
 |16|7{3}|difference-of-squares factorization|
