@@ -232,20 +232,21 @@ Some *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base
 |27|7{Q}|difference-of-cubes factorization<br>8×27<sup>*n*</sup>−1 = (2×3<sup>*n*</sup>−1) × (4×9<sup>*n*</sup>+2×3<sup>*n*</sup>+1)|
 |27|{Q}J|difference-of-cubes factorization<br>27<sup>*n*</sup>−8 = (3<sup>*n*</sup>−2) × (9<sup>*n*</sup>+2×3<sup>*n*</sup>+4)|
 |27|9{G}|difference-of-cubes factorization<br>(125×27<sup>*n*</sup>−8)/13 = (5×3<sup>*n*</sup>−2) × (25×9<sup>*n*</sup>+10×3<sup>*n*</sup>+4) / 13|
-|32|1{0}1|sum-of-5th-powers factorization|
-|32|{1}|difference-of-5th-powers factorization|
-|36|3{7}|difference-of-squares factorization|
-|36|3{Z}|difference-of-squares factorization|
-|36|8{Z}|difference-of-squares factorization|
-|36|O{Z}|difference-of-squares factorization|
-|36|{Z}B|difference-of-squares factorization|
-|36|8{Z}B|difference-of-squares factorization|
-|36|F{Z}B|difference-of-squares factorization|
-|36|O{5}|difference-of-squares factorization|
-|36|O{7}|difference-of-squares factorization|
-|36|{9}1|difference-of-squares factorization|
-|36|T{9}1|difference-of-squares factorization|
-|36|{S}J|difference-of-squares factorization|
+|32|1{0}1|sum-of-5th-powers factorization<br>32<sup>*n*</sup>+1 = (2<sup>*n*</sup>+1) × (16<sup>*n*</sup>−8<sup>*n*</sup>+4<sup>*n*</sup>−2<sup>*n*</sup>+1)|
+|32|{1}|difference-of-5th-powers factorization<br>(32<sup>*n*</sup>−1)/31 = (2<sup>*n*</sup>−1) × (16<sup>*n*</sup>+8<sup>*n*</sup>+4<sup>*n*</sup>+2<sup>*n*</sup>+1) / 31|
+|36|3{7}|difference-of-squares factorization<br>(16×36<sup>*n*</sup>−1)/5 = (4×6<sup>*n*</sup>−1) × (4×6<sup>*n*</sup>+1) / 5|
+|36|3{Z}|difference-of-squares factorization<br>4×36<sup>*n*</sup>−1 = (2×6<sup>*n*</sup>−1) × (2×6<sup>*n*</sup>+1)|
+|36|8{Z}|difference-of-squares factorization<br>9×36<sup>*n*</sup>−1 = (3×6<sup>*n*</sup>−1) × (3×6<sup>*n*</sup>+1)|
+|36|O{Z}|difference-of-squares factorization<br>25×36<sup>*n*</sup>−1 = (5×6<sup>*n*</sup>−1) × (5×6<sup>*n*</sup>+1)|
+|36|{Z}B|difference-of-squares factorization<br>36<sup>*n*</sup>−25 = (6<sup>*n*</sup>−5) × (6<sup>*n*</sup>+5)|
+|36|8{Z}B|difference-of-squares factorization<br>9×36<sup>*n*</sup>−25 = (3×6<sup>*n*</sup>−5) × (3×6<sup>*n*</sup>+5)|
+|36|F{Z}B|difference-of-squares factorization<br>16×36<sup>*n*</sup>−25 = (4×6<sup>*n*</sup>−5) × (4×6<sup>*n*</sup>+5)|
+|36|O{5}|difference-of-squares factorization<br>(169×36<sup>*n*</sup>−1)/7 = (13×6<sup>*n*</sup>−1) × (13×6<sup>*n*</sup>+1) / 7|
+|36|O{7}|difference-of-squares factorization<br>(121×36<sup>*n*</sup>−1)/5 = (11×6<sup>*n*</sup>−1) × (11×6<sup>*n*</sup>+1) / 5|
+|36|{9}1|difference-of-squares factorization<br>(9×36<sup>*n*</sup>−289)/35 = (3×6<sup>*n*</sup>−17) × (3×6<sup>*n*</sup>+17) / 35|
+|36|T{9}1|difference-of-squares factorization<br>(1024×36<sup>*n*</sup>−289)/35 = (32×6<sup>*n*</sup>−17) × (32×6<sup>*n*</sup>+17) / 35|
+|36|{K}H|difference-of-squares factorization<br>(4×36<sup>*n*</sup>−25)/7 = (2×6<sup>*n*</sup>−5) × (2×6<sup>*n*</sup>+5) / 7|
+|36|{S}J|difference-of-squares factorization<br>(4×36<sup>*n*</sup>−49)/5 = (2×6<sup>*n*</sup>−7) × (2×6<sup>*n*</sup>+7) / 5|
 |14|8{D}|combine of factor 5 and difference-of-squares factorization|
 |12|{B}9B|combine of factor 13 and difference-of-squares factorization|
 |14|{D}5|combine of factor 5 and difference-of-squares factorization|
