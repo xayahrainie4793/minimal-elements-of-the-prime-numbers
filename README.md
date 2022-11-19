@@ -199,17 +199,17 @@ Some *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base
 |16|B{4}1|difference-of-squares factorization<br>(169×16<sup>*n*</sup>−49)/15 = (13×4<sup>*n*</sup>−7) × (13×4<sup>*n*</sup>+7) / 15|
 |16|1{5}|difference-of-squares factorization<br>(4×16<sup>*n*</sup>−1)/3 = (2×4<sup>*n*</sup>−1) × (2×4<sup>*n*</sup>+1) / 3|
 |16|8{5}|difference-of-squares factorization<br>(25×16<sup>*n*</sup>−1)/3 = (5×4<sup>*n*</sup>−1) × (5×4<sup>*n*</sup>+1) / 3|
-|16|10{5}|difference-of-squares factorization|
-|16|A1{5}|difference-of-squares factorization|
-|16|7{3}|difference-of-squares factorization|
-|16|3{F}AF|difference-of-squares factorization|
-|16|30{F}AF|difference-of-squares factorization|
-|16|3{F}A0F|difference-of-squares factorization|
-|16|30{F}A0F|difference-of-squares factorization|
-|16|{5}45|difference-of-squares factorization|
-|16|{C}B|difference-of-squares factorization|
-|16|{C}D|Aurifeuillian factorization of *x*<sup>4</sup>+4×*y*<sup>4</sup>|
-|16|{C}DD|Aurifeuillian factorization of *x*<sup>4</sup>+4×*y*<sup>4</sup>|
+|16|10{5}|difference-of-squares factorization<br>(49×16<sup>*n*</sup>−1)/3 = (7×4<sup>*n*</sup>−1) × (7×4<sup>*n*</sup>+1) / 3|
+|16|A1{5}|difference-of-squares factorization<br>(484×16<sup>*n*</sup>−1)/3 = (22×4<sup>*n*</sup>−1) × (22×4<sup>*n*</sup>+1) / 3|
+|16|7{3}|difference-of-squares factorization<br>(36×16<sup>*n*</sup>−1)/5 = (6×4<sup>*n*</sup>−1) × (6×4<sup>*n*</sup>+1) / 5|
+|16|3{F}AF|difference-of-squares factorization<br>4×16<sup>*n*</sup>−81 = (2×4<sup>*n*</sup>−9) × (2×4<sup>*n*</sup>+9)|
+|16|30{F}AF|difference-of-squares factorization<br>49×16<sup>*n*</sup>−81 = (7×4<sup>*n*</sup>−9) × (7×4<sup>*n*</sup>+9)|
+|16|3{F}A0F|difference-of-squares factorization<br>4×16<sup>*n*</sup>−1521 = (2×4<sup>*n*</sup>−39) × (2×4<sup>*n*</sup>+39)|
+|16|30{F}A0F|difference-of-squares factorization<br>49×16<sup>*n*</sup>−1521 = (7×4<sup>*n*</sup>−39) × (7×4<sup>*n*</sup>+39)|
+|16|{5}45|difference-of-squares factorization<br>(16<sup>*n*</sup>−49)/3 = (4<sup>*n*</sup>−7) × (4<sup>*n*</sup>+7) / 3|
+|16|{C}B|difference-of-squares factorization<br>(4×16<sup>*n*</sup>−9)/5 = (2×4<sup>*n*</sup>−3) × (2×4<sup>*n*</sup>+3) / 5|
+|16|{C}D|Aurifeuillian factorization of *x*<sup>4</sup>+4×*y*<sup>4</sup><br>(4×16<sup>*n*</sup>+1)/5 = (2×4<sup>*n*</sup>−2×2<sup>*n*</sup>+1) × (2×4<sup>*n*</sup>+2×2<sup>*n*</sup>+1) / 5|
+|16|{C}DD|Aurifeuillian factorization of *x*<sup>4</sup>+4×*y*<sup>4</sup><br>(4×16<sup>*n*</sup>+81)/5 = (2×4<sup>*n*</sup>−6×2<sup>*n*</sup>+9) × (2×4<sup>*n*</sup>+6×2<sup>*n*</sup>+9) / 5|
 |25|{1}|difference-of-squares factorization|
 |25|2{1}|difference-of-squares factorization|
 |25|5{1}|difference-of-squares factorization|
