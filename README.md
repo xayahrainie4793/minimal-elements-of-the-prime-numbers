@@ -362,6 +362,14 @@ Primality certificates (https://en.wikipedia.org/wiki/Primality_certificate, htt
 |13|3193|C<sub>10631</sub>92|13<sup>10633</sup>−50|http://factordb.com/cert.php?id=1100000003590493750|
 |14|649|34D<sub>708</sub>|47×14<sup>708</sup>−1|proven prime by *N*+1 test (https://primes.utm.edu/prove/prove3_2.html), since *N*+1 is trivially fully factored|
 |14|650|4D<sub>19698</sub>|5×14<sup>19698</sup>−1|proven prime by *N*+1 test (https://primes.utm.edu/prove/prove3_2.html), since *N*+1 is trivially fully factored|
+|16|2329|D4<sub>263</sub>D|(199×16<sup>264</sup>+131)/15|http://factordb.com/cert.php?id=1100000002468170238|
+|16|2330|E0<sub>261</sub>4DD|14×16<sup>264</sup>+1245|http://factordb.com/cert.php?id=1100000003588388352|
+|16|2331|8C0<sub>290</sub>ED|140×16<sup>292</sup>+237|http://factordb.com/cert.php?id=1100000003588388307|
+|16|2332|DA<sub>305</sub>5|(41×16<sup>306</sup>−17)/3|http://factordb.com/cert.php?id=1100000003588388284|
+|16|2333|CE80<sub>422</sub>D|3304×16<sup>423</sup>+13|http://factordb.com/cert.php?id=1100000003588388257|
+|16|2334|5F<sub>544</sub>6F|6×16<sup>546</sup>−145|http://factordb.com/cert.php?id=1100000002604723967|
+|16|2335|88F<sub>545</sub>|137×16<sup>545</sup>−1|proven prime by *N*+1 test (https://primes.utm.edu/prove/prove3_2.html), since *N*+1 is trivially fully factored|
+|16|2336|BE0<sub>792</sub>BB|190×16<sup>794</sup>+187|http://factordb.com/cert.php?id=1100000003588387938|
 |16|2337|D9<sub>1052</sub>|(68×16<sup>1052</sup>−3)/5|http://factordb.com/cert.php?id=1100000002321036020|
 |16|2338|FAF<sub>1062</sub>45|251×16<sup>1064</sup>−187|http://factordb.com/cert.php?id=1100000003588387610|
 |16|2339|F8<sub>1517</sub>F|(233×16<sup>1518</sup>+97)/15|http://factordb.com/cert.php?id=1100000000633744824|
