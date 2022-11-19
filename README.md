@@ -176,17 +176,17 @@ Some *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base
 |27|JP{0}1|always divisible by some element of {5,7,73}<br>divisible by 7 if the length is even, divisible by 5 if the length is == 1 mod 4, divisible by 73 if the length is == 3 mod 4|
 |27|1{0}JP|always divisible by some element of {5,7,73}<br>divisible by 7 if the length is odd, divisible by 5 if the length is == 2 mod 4, divisible by 73 if the length is == 0 mod 4|
 |30|A{0}9J|always divisible by some element of {7,13,19,31}<br>divisible by 7 if the length is == 0 mod 3, divisible by 13 if the length is == 1 mod 6, divisible by 19 if the length is == 2 mod 3, divisible by 31 if the length is == 0 mod 2|
-|32|A{0}1|always divisible by some element of {3,11}|
-|32|N{0}1|always divisible by some element of {3,11}|
-|32|9{V}|always divisible by some element of {3,11}|
-|32|M{V}|always divisible by some element of {3,11}|
-|32|1{0}N|always divisible by some element of {3,11}|
-|32|{V}9|always divisible by some element of {3,11}|
-|32|8{0}V|always divisible by some element of {3,5,41}|
-|34|6{0}1|always divisible by some element of {5,7}|
-|34|5{X}|always divisible by some element of {5,7}|
-|34|S{X}|always divisible by some element of {5,7}|
-|34|{X}5|always divisible by some element of {5,7}|
+|32|A{0}1|always divisible by some element of {3,11}<br>divisible by 3 if the length is even, divisible by 11 if the length is odd|
+|32|N{0}1|always divisible by some element of {3,11}<br>divisible by 3 if the length is odd, divisible by 11 if the length is even|
+|32|9{V}|always divisible by some element of {3,11}<br>divisible by 3 if the length is odd, divisible by 11 if the length is even|
+|32|M{V}|always divisible by some element of {3,11}<br>divisible by 3 if the length is even, divisible by 11 if the length is odd|
+|32|1{0}N|always divisible by some element of {3,11}<br>divisible by 3 if the length is odd, divisible by 11 if the length is even|
+|32|{V}9|always divisible by some element of {3,11}<br>divisible by 3 if the length is odd, divisible by 11 if the length is even|
+|32|8{0}V|always divisible by some element of {3,5,41}<br>divisible by 3 if the length is odd, divisible by 5 if the length is == 0 mod 4, divisible by 41 if the length is == 2 mod 4|
+|34|6{0}1|always divisible by some element of {5,7}<br>divisible by 5 if the length is even, divisible by 7 if the length is odd|
+|34|5{X}|always divisible by some element of {5,7}<br>divisible by 5 if the length is odd, divisible by 7 if the length is even|
+|34|S{X}|always divisible by some element of {5,7}<br>divisible by 5 if the length is even, divisible by 7 if the length is odd|
+|34|{X}5|always divisible by some element of {5,7}<br>divisible by 5 if the length is odd, divisible by 7 if the length is even|
 |9|{1}|difference-of-squares factorization<br>(9<sup>*n*</sup>−1)/8 = (3<sup>*n*</sup>−1) × (3<sup>*n*</sup>+1) / 8|
 |8|1{0}1|sum-of-cubes factorization<br>8<sup>*n*</sup>+1 = (2<sup>*n*</sup>+1) × (4<sup>*n*</sup>−2<sup>*n*</sup>+1)|
 |9|3{1}|difference-of-squares factorization<br>(25×9<sup>*n*</sup>−1)/8 = (5×3<sup>*n*</sup>−1) × (5×3<sup>*n*</sup>+1) / 8|
