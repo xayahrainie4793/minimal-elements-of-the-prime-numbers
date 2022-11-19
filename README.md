@@ -164,18 +164,18 @@ Some *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base
 |16|{8}F|always divisible by some element of {3,7,13}<br>divisible by 3 if the length is == 1 mod 3, divisible by 7 if the length is == 0 mod 3, divisible by 13 if the length is == 2 mod 3|
 |17|7F{0}D|always divisible by some element of {3,5,29}<br>divisible by 3 if the length is even, divisible by 5 if the length is == 1 mod 4, divisible by 29 if the length is == 3 mod 4|
 |17|D{0}7F|always divisible by some element of {3,5,29}<br>divisible by 3 if the length is odd, divisible by 5 if the length is == 2 mod 4, divisible by 29 if the length is == 0 mod 4|
-|20|8{0}1|always divisible by some element of {3,7}|
-|20|D{0}1|always divisible by some element of {3,7}|
-|20|7{J}|always divisible by some element of {3,7}|
-|20|C{J}|always divisible by some element of {3,7}|
-|20|1{0}D|always divisible by some element of {3,7}|
-|20|{J}7|always divisible by some element of {3,7}|
-|21|{7}D|always divisible by some element of {2,13,17}|
-|23|7L{0}1|always divisible by some element of {3,5,53}|
-|23|1{0}7L|always divisible by some element of {3,5,53}|
-|27|JP{0}1|always divisible by some element of {5,7,73}|
-|27|1{0}JP|always divisible by some element of {5,7,73}|
-|30|A{0}9J|always divisible by some element of {7,13,19,31}|
+|20|8{0}1|always divisible by some element of {3,7}<br>divisible by 3 if the length is odd, divisible by 7 if the length is even|
+|20|D{0}1|always divisible by some element of {3,7}<br>divisible by 3 if the length is even, divisible by 7 if the length is odd|
+|20|7{J}|always divisible by some element of {3,7}<br>divisible by 3 if the length is even, divisible by 7 if the length is odd|
+|20|C{J}|always divisible by some element of {3,7}<br>divisible by 3 if the length is odd, divisible by 7 if the length is even|
+|20|1{0}D|always divisible by some element of {3,7}<br>divisible by 3 if the length is even, divisible by 7 if the length is odd|
+|20|{J}7|always divisible by some element of {3,7}<br>divisible by 3 if the length is even, divisible by 7 if the length is odd|
+|21|{7}D|always divisible by some element of {2,13,17}<br>divisible by 2 if the length is even, divisible by 13 if the length is == 1 mod 4, divisible by 17 if the length is == 3 mod 4|
+|23|7L{0}1|always divisible by some element of {3,5,53}<br>divisible by 3 if the length is even, divisible by 5 if the length is == 1 mod 4, divisible by 53 if the length is == 3 mod 4|
+|23|1{0}7L|always divisible by some element of {3,5,53}<br>divisible by 3 if the length is odd, divisible by 5 if the length is == 2 mod 4, divisible by 53 if the length is == 0 mod 4|
+|27|JP{0}1|always divisible by some element of {5,7,73}<br>divisible by 7 if the length is even, divisible by 5 if the length is == 1 mod 4, divisible by 73 if the length is == 3 mod 4|
+|27|1{0}JP|always divisible by some element of {5,7,73}<br>divisible by 7 if the length is odd, divisible by 5 if the length is == 2 mod 4, divisible by 73 if the length is == 0 mod 4|
+|30|A{0}9J|always divisible by some element of {7,13,19,31}<br>divisible by 7 if the length is == 0 mod 3, divisible by 13 if the length is == 1 mod 6, divisible by 19 if the length is == 2 mod 3, divisible by 31 if the length is == 0 mod 2|
 |32|A{0}1|always divisible by some element of {3,11}|
 |32|N{0}1|always divisible by some element of {3,11}|
 |32|9{V}|always divisible by some element of {3,11}|
