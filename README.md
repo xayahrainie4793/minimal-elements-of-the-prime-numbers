@@ -210,28 +210,28 @@ Some *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base
 |16|{C}B|difference-of-squares factorization<br>(4×16<sup>*n*</sup>−9)/5 = (2×4<sup>*n*</sup>−3) × (2×4<sup>*n*</sup>+3) / 5|
 |16|{C}D|Aurifeuillian factorization of *x*<sup>4</sup>+4×*y*<sup>4</sup><br>(4×16<sup>*n*</sup>+1)/5 = (2×4<sup>*n*</sup>−2×2<sup>*n*</sup>+1) × (2×4<sup>*n*</sup>+2×2<sup>*n*</sup>+1) / 5|
 |16|{C}DD|Aurifeuillian factorization of *x*<sup>4</sup>+4×*y*<sup>4</sup><br>(4×16<sup>*n*</sup>+81)/5 = (2×4<sup>*n*</sup>−6×2<sup>*n*</sup>+9) × (2×4<sup>*n*</sup>+6×2<sup>*n*</sup>+9) / 5|
-|25|{1}|difference-of-squares factorization|
-|25|2{1}|difference-of-squares factorization|
-|25|5{1}|difference-of-squares factorization|
-|25|7{1}|difference-of-squares factorization|
-|25|C{1}|difference-of-squares factorization|
-|25|F{1}|difference-of-squares factorization|
-|25|M{1}|difference-of-squares factorization|
-|25|1F{1}|difference-of-squares factorization|
-|25|1{3}|difference-of-squares factorization|
-|25|1{8}|difference-of-squares factorization|
-|25|5{8}|difference-of-squares factorization|
-|25|A{3}|difference-of-squares factorization|
-|25|L{8}|difference-of-squares factorization|
-|25|{3}2|difference-of-squares factorization|
-|25|{8}3|difference-of-squares factorization|
-|25|{8}7|difference-of-squares factorization|
-|27|8{0}1|sum-of-cubes factorization|
-|27|1{0}8|sum-of-cubes factorization|
-|27|{D}E|sum-of-cubes factorization|
-|27|7{Q}|difference-of-cubes factorization|
-|27|{Q}J|difference-of-cubes factorization|
-|27|9{G}|difference-of-cubes factorization|
+|25|{1}|difference-of-squares factorization<br>(25<sup>*n*</sup>−1)/24 = (5<sup>*n*</sup>−1) × (5<sup>*n*</sup>+1) / 24|
+|25|2{1}|difference-of-squares factorization<br>(49×25<sup>*n*</sup>−1)/24 = (7×5<sup>*n*</sup>−1) × (7×5<sup>*n*</sup>+1) / 24|
+|25|5{1}|difference-of-squares factorization<br>(121×25<sup>*n*</sup>−1)/24 = (11×5<sup>*n*</sup>−1) × (11×5<sup>*n*</sup>+1) / 24|
+|25|7{1}|difference-of-squares factorization<br>(169×25<sup>*n*</sup>−1)/24 = (13×5<sup>*n*</sup>−1) × (13×5<sup>*n*</sup>+1) / 24|
+|25|C{1}|difference-of-squares factorization<br>(289×25<sup>*n*</sup>−1)/24 = (17×5<sup>*n*</sup>−1) × (17×5<sup>*n*</sup>+1) / 24|
+|25|F{1}|difference-of-squares factorization<br>(361×25<sup>*n*</sup>−1)/24 = (19×5<sup>*n*</sup>−1) × (19×5<sup>*n*</sup>+1) / 24|
+|25|M{1}|difference-of-squares factorization<br>(529×25<sup>*n*</sup>−1)/24 = (23×5<sup>*n*</sup>−1) × (23×5<sup>*n*</sup>+1) / 24|
+|25|1F{1}|difference-of-squares factorization<br>(961×25<sup>*n*</sup>−1)/24 = (31×5<sup>*n*</sup>−1) × (31×5<sup>*n*</sup>+1) / 24|
+|25|1{3}|difference-of-squares factorization<br>(9×25<sup>*n*</sup>−1)/8 = (3×5<sup>*n*</sup>−1) × (3×5<sup>*n*</sup>+1) / 8|
+|25|1{8}|difference-of-squares factorization<br>(4×25<sup>*n*</sup>−1)/3 = (2×5<sup>*n*</sup>−1) × (2×5<sup>*n*</sup>+1) / 3|
+|25|5{8}|difference-of-squares factorization<br>(16×25<sup>*n*</sup>−1)/3 = (4×5<sup>*n*</sup>−1) × (4×5<sup>*n*</sup>+1) / 3|
+|25|A{3}|difference-of-squares factorization<br>(81×25<sup>*n*</sup>−1)/8 = (9×5<sup>*n*</sup>−1) × (9×5<sup>*n*</sup>+1) / 8|
+|25|L{8}|difference-of-squares factorization<br>(64×25<sup>*n*</sup>−1)/3 = (8×5<sup>*n*</sup>−1) × (8×5<sup>*n*</sup>+1) / 3|
+|25|{3}2|difference-of-squares factorization<br>(25<sup>*n*</sup>−9)/8 = (5<sup>*n*</sup>−3) × (5<sup>*n*</sup>+3) / 8|
+|25|{8}3|difference-of-squares factorization<br>(25<sup>*n*</sup>−16)/3 = (5<sup>*n*</sup>−4) × (5<sup>*n*</sup>+4) / 3|
+|25|{8}7|difference-of-squares factorization<br>(25<sup>*n*</sup>−4)/3 = (5<sup>*n*</sup>−2) × (5<sup>*n*</sup>+2) / 3|
+|27|8{0}1|sum-of-cubes factorization<br>8×27<sup>*n*</sup>+1 = (2×3<sup>*n*</sup>+1) × (4×9<sup>*n*</sup>−2×3<sup>*n*</sup>+1)|
+|27|1{0}8|sum-of-cubes factorization<br>27<sup>*n*</sup>+8 = (3<sup>*n*</sup>+2) × (9<sup>*n*</sup>−2×3<sup>*n*</sup>+4)|
+|27|{D}E|sum-of-cubes factorization<br>(27<sup>*n*</sup>+1)/2 = (3<sup>*n*</sup>+1) × (9<sup>*n*</sup>−3<sup>*n*</sup>+1) / 2|
+|27|7{Q}|difference-of-cubes factorization<br>8×27<sup>*n*</sup>−1 = (2×3<sup>*n*</sup>−1) × (4×9<sup>*n*</sup>+2×3<sup>*n*</sup>+1)|
+|27|{Q}J|difference-of-cubes factorization<br>27<sup>*n*</sup>−8 = (3<sup>*n*</sup>−2) × (9<sup>*n*</sup>+2×3<sup>*n*</sup>+4)|
+|27|9{G}|difference-of-cubes factorization<br>(125×27<sup>*n*</sup>−8)/13 = (5×3<sup>*n*</sup>−2) × (25×9<sup>*n*</sup>+10×3<sup>*n*</sup>+4) / 13|
 |32|1{0}1|sum-of-5th-powers factorization|
 |32|{1}|difference-of-5th-powers factorization|
 |36|3{7}|difference-of-squares factorization|
