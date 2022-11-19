@@ -157,13 +157,13 @@ Some *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base
 |14|{D}3|always divisible by some element of {3,5}<br>divisible by 3 if the length is odd, divisible by 5 if the length is even|
 |14|{4}9|always divisible by some element of {3,5}<br>divisible by 3 if the length is odd, divisible by 5 if the length is even|
 |14|{8}5|always divisible by some element of {3,5}<br>divisible by 3 if the length is even, divisible by 5 if the length is odd|
-|8|6{4}7|always divisible by some element of {3,5,13} (special example, as the numbers with length ≥ 222 in this family contain "prime > b" subsequence, this prime is 4<sub>220</sub>7)|
-|13|3{0}95|always divisible by some element of {5,7,17}|
-|13|95{0}3|always divisible by some element of {5,7,17}|
-|16|{4}D|always divisible by some element of {3,7,13}|
-|16|{8}F|always divisible by some element of {3,7,13}|
-|17|7F{0}D|always divisible by some element of {3,5,29}|
-|17|D{0}7F|always divisible by some element of {3,5,29}|
+|8|6{4}7|always divisible by some element of {3,5,13}<br>divisible by 3 if the length is odd, divisible by 5 if the length is == 2 mod 4, divisible by 13 if the length is == 0 mod 4<br>(special example, as the numbers with length ≥ 222 in this family contain "prime > b" subsequence, this prime is 4<sub>220</sub>7)|
+|13|3{0}95|always divisible by some element of {5,7,17}<br>divisible by 7 if the length is even, divisible by 5 if the length is == 1 mod 4, divisible by 17 if the length is == 3 mod 4|
+|13|95{0}3|always divisible by some element of {5,7,17}<br>divisible by 7 if the length is odd, divisible by 5 if the length is == 2 mod 4, divisible by 17 if the length is == 0 mod 4|
+|16|{4}D|always divisible by some element of {3,7,13}<br>divisible by 3 if the length is == 0 mod 3, divisible by 7 if the length is == 2 mod 3, divisible by 13 if the length is == 1 mod 3|
+|16|{8}F|always divisible by some element of {3,7,13}<br>divisible by 3 if the length is == 1 mod 3, divisible by 7 if the length is == 0 mod 3, divisible by 13 if the length is == 2 mod 3|
+|17|7F{0}D|always divisible by some element of {3,5,29}<br>divisible by 3 if the length is even, divisible by 5 if the length is == 1 mod 4, divisible by 29 if the length is == 3 mod 4|
+|17|D{0}7F|always divisible by some element of {3,5,29}<br>divisible by 3 if the length is odd, divisible by 5 if the length is == 2 mod 4, divisible by 29 if the length is == 0 mod 4|
 |20|8{0}1|always divisible by some element of {3,7}|
 |20|D{0}1|always divisible by some element of {3,7}|
 |20|7{J}|always divisible by some element of {3,7}|
