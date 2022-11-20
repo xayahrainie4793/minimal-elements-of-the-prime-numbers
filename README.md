@@ -402,6 +402,13 @@ Primality certificates (https://en.wikipedia.org/wiki/Primality_certificate, htt
 |22|7988|77E<sub>348</sub>K7|(485×22<sup>350</sup>+373)/3|http://factordb.com/cert.php?id=1100000003591369779|
 |22|7989|J<sub>379</sub>KJ|(19×22<sup>381</sup>+443)/21|http://factordb.com/cert.php?id=1100000003591369027|
 |22|7990|J<sub>388</sub>EJ|(19×22<sup>390</sup>−2329)/21|http://factordb.com/cert.php?id=1100000003591367729|
+|22|7991|DJ<sub>400</sub>|(292×22<sup>400</sup>−19)/21|http://factordb.com/cert.php?id=1100000002325880110|
+|22|7992|E<sub>404</sub>K7|(2×22<sup>406</sup>+373)/3|http://factordb.com/cert.php?id=1100000003591366298|
+|22|7993|66F<sub>453</sub>B3|(971×22<sup>455</sup>−705)/7|http://factordb.com/cert.php?id=1100000003591365809|
+|22|7994|L0<sub>454</sub>B63|21×22<sup>457</sup>+5459|http://factordb.com/cert.php?id=1100000003591365331|
+|22|7995|L<sub>483</sub>G3|22<sup>485</sup>−129|http://factordb.com/cert.php?id=1100000003591364730|
+|22|7996|E60<sub>496</sub>L|314×22<sup>497</sup>+21|http://factordb.com/cert.php?id=1100000000632703239|
+|22|7997|I<sub>626</sub>AF|(6×22<sup>628</sup>−1259)/7|http://factordb.com/cert.php?id=1100000000632724334|
 |22|7998|K0<sub>760</sub>EC1|20×22<sup>763</sup>+7041|http://factordb.com/cert.php?id=1100000000632724415|
 |22|7999|J0<sub>767</sub>IGGJ|19×22<sup>771</sup>+199779|http://factordb.com/cert.php?id=1100000003591362567|
 |22|8000|7<sub>959</sub>K7|(22<sup>961</sup>+857)/3|http://factordb.com/cert.php?id=1100000003591361817|
