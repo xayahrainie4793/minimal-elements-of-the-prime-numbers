@@ -247,11 +247,11 @@ Some *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base
 |36|T{9}1|difference-of-squares factorization<br>(1024×36<sup>*n*</sup>−289)/35 = (32×6<sup>*n*</sup>−17) × (32×6<sup>*n*</sup>+17) / 35|
 |36|{K}H|difference-of-squares factorization<br>(4×36<sup>*n*</sup>−25)/7 = (2×6<sup>*n*</sup>−5) × (2×6<sup>*n*</sup>+5) / 7|
 |36|{S}J|difference-of-squares factorization<br>(4×36<sup>*n*</sup>−49)/5 = (2×6<sup>*n*</sup>−7) × (2×6<sup>*n*</sup>+7) / 5|
-|14|8{D}|combine of factor 5 and difference-of-squares factorization|
-|12|{B}9B|combine of factor 13 and difference-of-squares factorization|
-|14|{D}5|combine of factor 5 and difference-of-squares factorization|
-|17|1{9}|combine of factor 2 and difference-of-squares factorization|
-|17|7{9}|combine of factor 2 and difference-of-squares factorization|
+|14|8{D}|combine of factor 5 and difference-of-squares factorization<br>even length is divisible by 5, odd length has factorization 9×14<sup>2×*n*</sup>−1 = (3×14<sup>*n*</sup>−1) × (3×14<sup>*n*</sup>+1)|
+|12|{B}9B|combine of factor 13 and difference-of-squares factorization<br>odd length is divisible by 13, even length has factorization 12<sup>2×*n*</sup>−25 = (12<sup>*n*</sup>−5) × (12<sup>*n*</sup>+5)|
+|14|{D}5|combine of factor 5 and difference-of-squares factorization<br>odd length is divisible by 5, even length has factorization 14<sup>2×*n*</sup>−9 = (14<sup>*n*</sup>−3) × (14<sup>*n*</sup>+3)|
+|17|1{9}|combine of factor 2 and difference-of-squares factorization<br>even length is divisible by 2, odd length has factorization (25×17<sup>2×*n*</sup>−9)/16 = (5×17<sup>*n*</sup>−3) × (5×17<sup>*n*</sup>+3) / 16|
+|17|7{9}|combine of factor 2 and difference-of-squares factorization<br>even length is divisible by 2, odd length has factorization (121×17<sup>2×*n*</sup>−9)/16 = (11×17<sup>*n*</sup>−3) × (11×17<sup>*n*</sup>+3) / 16|
 |17|{9}2|combine of factor 2 and difference-of-squares factorization|
 |17|{9}8|combine of factor 2 and difference-of-squares factorization|
 |19|1{6}|combine of factor 5 and difference-of-squares factorization|
