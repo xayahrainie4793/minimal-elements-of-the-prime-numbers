@@ -258,16 +258,16 @@ Some *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base
 |19|{6}5|combine of factor 5 and difference-of-squares factorization<br>odd length is divisible by 5, even length has factorization (19<sup>2×*n*</sup>−4)/3 = (19<sup>*n*</sup>−2) × (19<sup>*n*</sup>+2) / 3|
 |19|7{2}|combine of factor 5 and difference-of-squares factorization<br>even length is divisible by 5, odd length has factorization (64×19<sup>2×*n*</sup>−1)/9 = (8×19<sup>*n*</sup>−1) × (8×19<sup>*n*</sup>+1) / 9|
 |19|89{6}|combine of factor 5 and difference-of-squares factorization<br>even length is divisible by 5, odd length has factorization (484×19<sup>2×*n*</sup>−1)/3 = (22×19<sup>*n*</sup>−1) × (22×19<sup>*n*</sup>+1) / 3|
-|24|3{N}|combine of factor 5 and difference-of-squares factorization|
-|24|5{N}|combine of factor 5 and difference-of-squares factorization|
-|24|8{N}|combine of factor 5 and difference-of-squares factorization|
-|24|{6}1|combine of factor 5 and difference-of-squares factorization|
-|24|{N}LN|combine of factor 5 and difference-of-squares factorization|
-|33|F{W}|combine of factor 17 and difference-of-squares factorization|
-|33|{W}H|combine of factor 17 and difference-of-squares factorization|
-|34|1{B}|combine of factor 5 and difference-of-squares factorization|
-|34|8{X}|combine of factor 5 and difference-of-squares factorization|
-|34|{X}P|combine of factor 5 and difference-of-squares factorization|
+|24|3{N}|combine of factor 5 and difference-of-squares factorization<br>even length is divisible by 5, odd length has factorization 4×24<sup>2×*n*</sup>−1 = (2×24<sup>*n*</sup>−1) × (2×24<sup>*n*</sup>+1)|
+|24|5{N}|combine of factor 5 and difference-of-squares factorization<br>odd length is divisible by 5, even length has factorization 6×24<sup>2×*n*+1</sup>−1 = (12×24<sup>*n*</sup>−1) × (12×24<sup>*n*</sup>+1)|
+|24|8{N}|combine of factor 5 and difference-of-squares factorization<br>even length is divisible by 5, odd length has factorization 9×24<sup>2×*n*</sup>−1 = (3×24<sup>*n*</sup>−1) × (3×24<sup>*n*</sup>+1)|
+|24|{6}1|combine of factor 5 and difference-of-squares factorization<br>even length is divisible by 5, odd length has factorization (6×24<sup>2×*n*+1</sup>−121)/23 = (12×24<sup>*n*</sup>−11) × (12×24<sup>*n*</sup>+11) / 23|
+|24|{N}LN|combine of factor 5 and difference-of-squares factorization<br>odd length is divisible by 5, even length has factorization 24<sup>2×*n*</sup>−49 = (24<sup>*n*</sup>−7) × (24<sup>*n*</sup>+7)|
+|33|F{W}|combine of factor 17 and difference-of-squares factorization<br>even length is divisible by 17, odd length has factorization 16×33<sup>2×*n*</sup>−1 = (4×33<sup>*n*</sup>−1) × (4×33<sup>*n*</sup>+1)|
+|33|{W}H|combine of factor 17 and difference-of-squares factorization<br>odd length is divisible by 17, even length has factorization 33<sup>2×*n*</sup>−16 = (33<sup>*n*</sup>−4) × (33<sup>*n*</sup>+4)|
+|34|1{B}|combine of factor 5 and difference-of-squares factorization<br>even length is divisible by 5, odd length has factorization (4×34<sup>2×*n*</sup>−1)/3 = (2×34<sup>*n*</sup>−1) × (2×34<sup>*n*</sup>+1) / 3|
+|34|8{X}|combine of factor 5 and difference-of-squares factorization<br>even length is divisible by 5, odd length has factorization 9×34<sup>2×*n*</sup>−1 = (3×34<sup>*n*</sup>−1) × (3×34<sup>*n*</sup>+1)|
+|34|{X}P|combine of factor 5 and difference-of-squares factorization<br>odd length is divisible by 5, even length has factorization 34<sup>2×*n*</sup>−9 = (34<sup>*n*</sup>−3) × (34<sup>*n*</sup>+3)|
 
 Also families which contain only one very small prime > *b*:
 
