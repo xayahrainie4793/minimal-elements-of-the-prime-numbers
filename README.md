@@ -381,6 +381,17 @@ Primality certificates (https://en.wikipedia.org/wiki/Primality_certificate, htt
 |18|547|80<sub>298</sub>B|8×18<sup>299</sup>+11|http://factordb.com/cert.php?id=1100000002355574745|
 |18|548|H<sub>766</sub>FH|18<sup>768</sup>−37|http://factordb.com/cert.php?id=1100000003590430490|
 |18|549|C0<sub>6268</sub>C5|12×18<sup>6270</sup>+221|http://factordb.com/cert.php?id=1100000003590442437|
+|20|3301|H<sub>247</sub>A0H|(17×20<sup>250</sup>−59677)/19|http://factordb.com/cert.php?id=1100000003590502619|
+|20|3302|7<sub>249</sub>A7|(7×20<sup>251</sup>+1133)/19|http://factordb.com/cert.php?id=1100000003590502602|
+|20|3303|J7<sub>270</sub>|(368×20<sup>270</sup>−7)/19|http://factordb.com/cert.php?id=1100000002325395462|
+|20|3304|J<sub>330</sub>CCC7|20<sup>334</sup>−58953|http://factordb.com/cert.php?id=1100000003590502572|
+|20|3305|40<sub>387</sub>404B|4×20<sup>391</sup>+32091|http://factordb.com/cert.php?id=1100000003590502563|
+|20|3306|EC0<sub>429</sub>7|292×20<sup>430</sup>+7|http://factordb.com/cert.php?id=1100000002633348702|
+|20|3307|G<sub>447</sub>99|(16×20<sup>449</sup>−2809)/19|http://factordb.com/cert.php?id=1100000000840126753|
+|20|3308|3A<sub>527</sub>3|(67×20<sup>528</sup>−143)/19|http://factordb.com/cert.php?id=1100000003590502531|
+|20|3309|E<sub>566</sub>C7|(14×20<sup>568</sup>−907)/19|http://factordb.com/cert.php?id=1100000003590502516|
+|20|3310|JCJ<sub>629</sub>|393×20<sup>629</sup>−1|proven prime by *N*+1 test (https://primes.utm.edu/prove/prove3_2.html), since *N*+1 is trivially fully factored|
+|20|3311|J<sub>655</sub>05J|20<sup>658</sup>−7881|http://factordb.com/cert.php?id=1100000003590502490|
 |20|3312|50<sub>1163</sub>AJ|5×20<sup>1165</sup>+219|http://factordb.com/cert.php?id=1100000003590502412|
 |20|3313|CD<sub>2449</sub>|(241×20<sup>2449</sup>−13)/19|http://factordb.com/cert.php?id=1100000002325393915|
 |20|3314|G0<sub>6269</sub>D|16×20<sup>6270</sup>+13|http://factordb.com/cert.php?id=1100000003590539457|
