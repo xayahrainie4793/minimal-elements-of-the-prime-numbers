@@ -46,31 +46,21 @@ The third reason for excluding the primes ≤ *b* is that starting with *b*+1 ma
 
 This problem covers finding the smallest prime of these forms in the same base *b* (or proving that such prime does not exist): (while the original minimal prime problem does not cover some of these forms for some bases (or all bases) *b*)
 
-(*b*<sup>*n*</sup>−1)/(*b*−1) with *n* ≥ 2 (see http://www.fermatquotient.com/PrimSerien/GenRepu.txt, https://archive.ph/tf7jx, http://www.primenumbers.net/Henri/us/MersFermus.htm, https://www.ams.org/journals/mcom/1993-61-204/S0025-5718-1993-1185243-9/S0025-5718-1993-1185243-9.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_4.pdf), https://oeis.org/A084740, https://oeis.org/A084738, https://oeis.org/A065854, https://oeis.org/A279068, https://oeis.org/A128164, https://oeis.org/A285642)
-
-*b*<sup>*n*</sup>+1 with *n* ≥ 1 (see http://jeppesn.dk/generalized-fermat.html, http://www.noprimeleftbehind.net/crus/GFN-primes.htm, http://yves.gallot.pagesperso-orange.fr/primes/index.html, http://yves.gallot.pagesperso-orange.fr/primes/results.html, http://yves.gallot.pagesperso-orange.fr/primes/stat.html, https://oeis.org/A228101, https://oeis.org/A079706, https://oeis.org/A084712, https://oeis.org/A123669)
-
-(*b*<sup>*n*</sup>+1)/2 (for odd *b*) with *n* ≥ 2 (see http://www.fermatquotient.com/PrimSerien/GenFermOdd.txt)
-
-2×*b*<sup>*n*</sup>+1 with *n* ≥ 1 (see https://mersenneforum.org/showthread.php?t=6918, https://mersenneforum.org/showthread.php?t=19725, https://oeis.org/A119624, https://oeis.org/A253178, https://oeis.org/A098872)
-
-2×*b*<sup>*n*</sup>−1 with *n* ≥ 1 (see https://mersenneforum.org/showthread.php?t=24576, https://www.mersenneforum.org/attachment.php?attachmentid=20976&d=1567314217, https://oeis.org/A119591, https://oeis.org/A098873)
-
-*b*<sup>*n*</sup>+2 with *n* ≥ 1 (see https://oeis.org/A138066, https://oeis.org/A084713, https://oeis.org/A138067)
-
-*b*<sup>*n*</sup>−2 with *n* ≥ 2 (see https://www.primepuzzles.net/puzzles/puzz_887.htm, https://oeis.org/A250200, https://oeis.org/A255707, https://oeis.org/A084714, https://oeis.org/A292201)
-
-(*b*−1)×*b*<sup>*n*</sup>+1 with *n* ≥ 1 (see https://www.rieselprime.de/ziki/Williams_prime_MP_least, https://www.rieselprime.de/ziki/Williams_prime_MP_table, https://sites.google.com/view/williams-primes, http://www.bitman.name/math/table/477, https://oeis.org/A305531, https://oeis.org/A087139)
-
-(*b*−1)×*b*<sup>*n*</sup>−1 with *n* ≥ 1 (see https://harvey563.tripod.com/wills.txt, https://www.rieselprime.de/ziki/Williams_prime_MM_least, https://www.rieselprime.de/ziki/Williams_prime_MM_table, https://sites.google.com/view/williams-primes, http://matwbn.icm.edu.pl/ksiazki/aa/aa39/aa3912.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_9.pdf), https://www.ams.org/journals/mcom/2000-69-232/S0025-5718-00-01212-6/S0025-5718-00-01212-6.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_10.pdf), http://www.bitman.name/math/table/484, https://oeis.org/A122396)
-
-*b*<sup>*n*</sup>+(*b*−1) with *n* ≥ 1 (see https://sites.google.com/view/williams-primes, https://oeis.org/A076845, https://oeis.org/A076846, https://oeis.org/A078178, https://oeis.org/A078179)
-
-*b*<sup>*n*</sup>−(*b*−1) with *n* ≥ 2 (see https://sites.google.com/view/williams-primes, https://cs.uwaterloo.ca/journals/JIS/VOL3/mccranie.html, http://www.bitman.name/math/table/435, https://oeis.org/A113516, https://oeis.org/A343589)
-
-*k*×*b*<sup>*n*</sup>+1 for all *k* ≤ 12 with *n* ≥ 1 (see https://www.rieselprime.de/ziki/Proth_prime_small_bases_least_n, https://mersenneforum.org/showthread.php?t=10354)
-
-*k*×*b*<sup>*n*</sup>−1 for all *k* ≤ 12 with *n* ≥ 1 (see https://www.rieselprime.de/ziki/Riesel_prime_small_bases_least_n, https://mersenneforum.org/showthread.php?t=10354)
+|family|smallest allowed *n*|reference
+|:---|:---|:---|
+|(*b*<sup>*n*</sup>−1)/(*b*−1)|2|http://www.fermatquotient.com/PrimSerien/GenRepu.txt, https://archive.ph/tf7jx, http://www.primenumbers.net/Henri/us/MersFermus.htm, https://www.ams.org/journals/mcom/1993-61-204/S0025-5718-1993-1185243-9/S0025-5718-1993-1185243-9.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_4.pdf), https://oeis.org/A084740, https://oeis.org/A084738, https://oeis.org/A065854, https://oeis.org/A279068, https://oeis.org/A128164, https://oeis.org/A285642|
+|*b*<sup>*n*</sup>+1|1|http://jeppesn.dk/generalized-fermat.html, http://www.noprimeleftbehind.net/crus/GFN-primes.htm, http://yves.gallot.pagesperso-orange.fr/primes/index.html, http://yves.gallot.pagesperso-orange.fr/primes/results.html, http://yves.gallot.pagesperso-orange.fr/primes/stat.html, https://oeis.org/A228101, https://oeis.org/A079706, https://oeis.org/A084712, https://oeis.org/A123669|
+|(*b*<sup>*n*</sup>+1)/2 (for odd *b*)|2|http://www.fermatquotient.com/PrimSerien/GenFermOdd.txt|
+|2×*b*<sup>*n*</sup>+1|1|https://mersenneforum.org/showthread.php?t=6918, https://mersenneforum.org/showthread.php?t=19725, https://oeis.org/A119624, https://oeis.org/A253178, https://oeis.org/A098872|
+|2×*b*<sup>*n*</sup>−1|1|https://mersenneforum.org/showthread.php?t=24576, https://www.mersenneforum.org/attachment.php?attachmentid=20976&d=1567314217, https://oeis.org/A119591, https://oeis.org/A098873|
+|*b*<sup>*n*</sup>+2|1|https://oeis.org/A138066, https://oeis.org/A084713, https://oeis.org/A138067|
+|*b*<sup>*n*</sup>−2|2|https://www.primepuzzles.net/puzzles/puzz_887.htm, https://oeis.org/A250200, https://oeis.org/A255707, https://oeis.org/A084714, https://oeis.org/A292201|
+|(*b*−1)×*b*<sup>*n*</sup>+1|1|https://www.rieselprime.de/ziki/Williams_prime_MP_least, https://www.rieselprime.de/ziki/Williams_prime_MP_table, https://sites.google.com/view/williams-primes, http://www.bitman.name/math/table/477, https://oeis.org/A305531, https://oeis.org/A087139|
+|(*b*−1)×*b*<sup>*n*</sup>−1|1|https://harvey563.tripod.com/wills.txt, https://www.rieselprime.de/ziki/Williams_prime_MM_least, https://www.rieselprime.de/ziki/Williams_prime_MM_table, https://sites.google.com/view/williams-primes, http://matwbn.icm.edu.pl/ksiazki/aa/aa39/aa3912.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_9.pdf), https://www.ams.org/journals/mcom/2000-69-232/S0025-5718-00-01212-6/S0025-5718-00-01212-6.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_10.pdf), http://www.bitman.name/math/table/484, https://oeis.org/A122396|
+|*b*<sup>*n*</sup>+(*b*−1)|1|https://sites.google.com/view/williams-primes, https://oeis.org/A076845, https://oeis.org/A076846, https://oeis.org/A078178, https://oeis.org/A078179|
+|*b*<sup>*n*</sup>−(*b*−1)|2|https://sites.google.com/view/williams-primes, https://cs.uwaterloo.ca/journals/JIS/VOL3/mccranie.html, http://www.bitman.name/math/table/435, https://oeis.org/A113516, https://oeis.org/A343589|
+|*k*×*b*<sup>*n*</sup>+1 for all 2 ≤ *k* ≤ 12|1|https://www.rieselprime.de/ziki/Proth_prime_small_bases_least_n, https://mersenneforum.org/showthread.php?t=10354|
+|*k*×*b*<sup>*n*</sup>−1 for all 2 ≤ *k* ≤ 12|1|https://www.rieselprime.de/ziki/Riesel_prime_small_bases_least_n, https://mersenneforum.org/showthread.php?t=10354|
 
 (below (as well as the "left *b*" files), family "12{3}45" means sequence {1245, 12345, 123345, 1233345, 12333345, 123333345, ...}, where the members are expressed as base *b* strings, like the numbers in https://stdkmd.net/nrr/aaaab.htm, https://stdkmd.net/nrr/abbbb.htm, https://stdkmd.net/nrr/aaaba.htm, https://stdkmd.net/nrr/abaaa.htm, https://stdkmd.net/nrr/abbba.htm, https://stdkmd.net/nrr/abbbc.htm, https://stdkmd.net/nrr/prime/primecount.txt, https://stdkmd.net/nrr/prime/primedifficulty.txt, e.g. 1{3} (in decimal) is the numbers in https://stdkmd.net/nrr/1/13333.htm, and {1}3 (in decimal) is the numbers in https://stdkmd.net/nrr/1/11113.htm)
 
