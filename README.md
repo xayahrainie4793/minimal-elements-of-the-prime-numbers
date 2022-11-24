@@ -47,7 +47,7 @@ The third reason for excluding the primes ≤ *b* is that starting with *b*+1 ma
 This problem covers finding the smallest prime of these forms in the same base *b* (or proving that such prime does not exist): (while the original minimal prime problem does not cover some of these forms for some bases (or all bases) *b*)
 
 |family|smallest allowed *n*|*OEIS* sequences for the smallest *n* such that this form is prime|references
-|:---|:---|:---|
+|:---|:---|:---|:---|
 |(*b*<sup>*n*</sup>−1)/(*b*−1)|2|https://oeis.org/A084740<br>https://oeis.org/A084738 (corresponding primes)<br>https://oeis.org/A065854 (prime *b*)<br>https://oeis.org/A279068 (prime *b*, corresponding primes)<br>https://oeis.org/A128164 (*n* = 2 not allowed)<br>https://oeis.org/A285642 (*n* = 2 not allowed, corresponding primes)|http://www.fermatquotient.com/PrimSerien/GenRepu.txt<br>https://archive.ph/tf7jx<br>http://www.primenumbers.net/Henri/us/MersFermus.htm<br>https://www.ams.org/journals/mcom/1993-61-204/S0025-5718-1993-1185243-9/S0025-5718-1993-1185243-9.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_4.pdf)|
 |*b*<sup>*n*</sup>+1|1|https://oeis.org/A228101 (*log*<sub>2</sub> of *n*), https://oeis.org/A079706, https://oeis.org/A084712 (corresponding primes), https://oeis.org/A123669 (*n* = 1 not allowed, corresponding primes)|http://jeppesn.dk/generalized-fermat.html<br>http://www.noprimeleftbehind.net/crus/GFN-primes.htm<br>http://yves.gallot.pagesperso-orange.fr/primes/index.html<br>http://yves.gallot.pagesperso-orange.fr/primes/results.html<br>http://yves.gallot.pagesperso-orange.fr/primes/stat.html|
 |(*b*<sup>*n*</sup>+1)/2 (for odd *b*)|2||http://www.fermatquotient.com/PrimSerien/GenFermOdd.txt|
