@@ -265,12 +265,12 @@ Also families which contain only one very small prime > *b*:
 
 |*b*|family|why this family contains only one prime > *b*|
 |:---|:---|:---|
-|4|{1}|difference-of-squares factorization, but 11 is prime, and 11 is the only prime > *b* in this family<br>(4<sup>*n*</sup>−1)/3 = (2<sup>*n*</sup>−1) × (2<sup>*n*</sup>+1) / 3|
-|8|{1}|difference-of-cubes factorization, but 111 is prime, and 111 is the only prime > *b* in this family<br>(8<sup>*n*</sup>−1)/7 = (2<sup>*n*</sup>−1) × (4<sup>*n*</sup>+2<sup>*n*</sup>+1) / 7|
-|16|{1}|difference-of-squares factorization, but 11 is prime, and 11 is the only prime > *b* in this family<br>(16<sup>*n*</sup>−1)/15 = (4<sup>*n*</sup>−1) × (4<sup>*n*</sup>+1) / 15|
-|27|{1}|difference-of-cubes factorization, but 111 is prime, and 111 is the only prime > *b* in this family<br>(27<sup>*n*</sup>−1)/26 = (3<sup>*n*</sup>−1) × (9<sup>*n*</sup>+3<sup>*n*</sup>+1) / 26|
-|27|{G}7|difference-of-cubes factorization, but G7 is prime, and G7 is the only prime > *b* in this family<br>(8×27<sup>*n*</sup>−125)/13 = (2×3<sup>*n*</sup>−5) × (4×9<sup>*n*</sup>+10×3<sup>*n*</sup>+25) / 13|
-|36|{1}|difference-of-squares factorization, but 11 is prime, and 11 is the only prime > *b* in this family<br>(36<sup>*n*</sup>−1)/35 = (6<sup>*n*</sup>−1) × (6<sup>*n*</sup>+1) / 35|
+|4|{1}|difference-of-squares factorization<br>but 11 is prime, and 11 is the only prime > *b* in this family<br>(4<sup>*n*</sup>−1)/3 = (2<sup>*n*</sup>−1) × (2<sup>*n*</sup>+1) / 3|
+|8|{1}|difference-of-cubes factorization<br>but 111 is prime, and 111 is the only prime > *b* in this family<br>(8<sup>*n*</sup>−1)/7 = (2<sup>*n*</sup>−1) × (4<sup>*n*</sup>+2<sup>*n*</sup>+1) / 7|
+|16|{1}|difference-of-squares factorization<br>but 11 is prime, and 11 is the only prime > *b* in this family<br>(16<sup>*n*</sup>−1)/15 = (4<sup>*n*</sup>−1) × (4<sup>*n*</sup>+1) / 15|
+|27|{1}|difference-of-cubes factorization<br>but 111 is prime, and 111 is the only prime > *b* in this family<br>(27<sup>*n*</sup>−1)/26 = (3<sup>*n*</sup>−1) × (9<sup>*n*</sup>+3<sup>*n*</sup>+1) / 26|
+|27|{G}7|difference-of-cubes factorization<br>but G7 is prime, and G7 is the only prime > *b* in this family<br>(8×27<sup>*n*</sup>−125)/13 = (2×3<sup>*n*</sup>−5) × (4×9<sup>*n*</sup>+10×3<sup>*n*</sup>+25) / 13|
+|36|{1}|difference-of-squares factorization<br>but 11 is prime, and 11 is the only prime > *b* in this family<br>(36<sup>*n*</sup>−1)/35 = (6<sup>*n*</sup>−1) × (6<sup>*n*</sup>+1) / 35|
 
 Some *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base *b*, *y* is a digit in base *b*) families could not be proven to contain no primes > *b* (by covering congruence, algebraic factorization, or combine of them) but no primes > *b* could be found in the family, even after searching through numbers with over 50000 digits. In such a case, the only way to proceed is to test the primality of larger and larger numbers of such form and hope a prime is eventually discovered.
 
