@@ -28,6 +28,6 @@ If O4O<sub>94535</sub>9 (base 28) is in fact composite, then O4{O}9 will be an a
 
 If I0<sub>24608</sub>D (base 30) is in fact composite, then I{0}D will be an additional unsolved family for base 30.
 
-The "primoinput" files are the input files for *Primo* (http://www.ellipsa.eu/public/primo/primo.html, http://www.rieselprime.de/dl/Primo309.zip, https://primes.utm.edu/bios/page.php?id=46, https://www.rieselprime.de/ziki/Primo, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/primo-433-lx64) (local copied from *factordb* (http://factordb.com/)), they should be renamed to ".in" files before inputting to *Primo*.
+The "primoinput" files are the input files for *Primo* (http://www.ellipsa.eu/public/primo/primo.html, http://www.rieselprime.de/dl/Primo309.zip, https://primes.utm.edu/bios/page.php?id=46, https://www.rieselprime.de/ziki/Primo, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/primo-433-lx64) (local copy from *factordb* (http://factordb.com/)), they should be renamed to ".in" files before inputting to *Primo*.
 
 e.g. File "primoinput11_1068" is the input files for *Primo* for the 1068th minimal prime in base 11, i.e. the input files for *Primo* for the prime 57<sub>62668</sub> in base 11, which equals the PRP (57×11<sup>62668</sup>−7)/10.
