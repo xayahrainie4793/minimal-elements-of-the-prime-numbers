@@ -54,7 +54,7 @@ This problem covers finding the smallest prime of these forms in the same base *
 |2×*b*<sup>*n*</sup>+1|1|https://oeis.org/A119624<br>https://oeis.org/A253178 (only bases which have possible primes)<br>https://oeis.org/A098872 (*b* divisible by 6)|https://mersenneforum.org/showthread.php?t=6918<br>https://mersenneforum.org/showthread.php?t=19725|
 |2×*b*<sup>*n*</sup>−1|1|https://oeis.org/A119591<br>https://oeis.org/A098873 (*b* divisible by 6)|https://mersenneforum.org/showthread.php?t=24576, https://www.mersenneforum.org/attachment.php?attachmentid=20976&d=1567314217|
 |*b*<sup>*n*</sup>+2|1|https://oeis.org/A138066<br>https://oeis.org/A084713 (corresponding primes)<br>https://oeis.org/A138067 (*n* = 1 not allowed)|
-|*b*<sup>*n*</sup>−2|2|https://oeis.org/A250200<br>https://oeis.org/A255707 (*n* = 1 allowed)<br>https://oeis.org/A084714 (*n* = 1 allowed, corresponding primes)<br>https://oeis.org/A292201 (prime *b*, *n* = 1 allowed)|https://www.primepuzzles.net/puzzles/puzz_887.htm|
+|*b*<sup>*n*</sup>−2|2|https://oeis.org/A250200<br>https://oeis.org/A255707 (*n* = 1 allowed)<br>https://oeis.org/A084714 (*n* = 1 allowed, corresponding primes)<br>https://oeis.org/A292201 (prime *b*, *n* = 1 allowed)|https://www.primepuzzles.net/puzzles/puzz_887.htm (*n* = 1 allowed)|
 |3×*b*<sup>*n*</sup>+1|1|https://oeis.org/A098877 (*b* divisible by 6)||
 |3×*b*<sup>*n*</sup>−1|1|https://oeis.org/A098876 (*b* divisible by 6)||
 |2×*b*<sup>*n*</sup>+3|1||https://www.primegrid.com/forum_thread.php?id=9538|
