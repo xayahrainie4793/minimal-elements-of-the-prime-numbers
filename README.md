@@ -447,7 +447,7 @@ Primality certificates (https://en.wikipedia.org/wiki/Primality_certificate, htt
 
 Condensed table for bases 2 ≤ *b* ≤ 36: (the bases *b* = 11, 13, 16, 17, 19, 21\~23, 25\~36 data assumes the primality of the probable primes) (This data assumes that a number > 10<sup>25000</sup> which has passed the Miller–Rabin primality tests to all prime bases *p* < 64 and has passed the Baillie–PSW primality test and has trial factored to 2<sup>64</sup> is in fact prime, since in some cases (e.g. *b* = 11) a candidate for minimal prime base *b* is too large to be proven prime rigorously)
 
-|*b*|number of minimal primes base *b*|base-*b* form of the top 10 known minimal prime base *b*|length of the top 10 known minimal prime base *b*|algebraic ((*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1)) form of the top 10 known minimal prime base *b*|number of unsolved families in base *b*|searching limit of length for the unsolved families in base *b* (if there are different searching limits for the unsolved families in base *b*, choose the lowest searching limit)
+|*b*|number of minimal primes base *b*|base-*b* form of the top 10 known minimal prime base *b* (write "*d*<sub>*n*</sub> if there are 5 or more (*n*) consecutive same digits *d*)|length of the top 10 known minimal prime base *b*|algebraic ((*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1)) form of the top 10 known minimal prime base *b*|number of unsolved families in base *b*|searching limit of length for the unsolved families in base *b* (if there are different searching limits for the unsolved families in base *b*, choose the lowest searching limit)
 |:---|:---|:---|:---|:---|:---|:---|
 |2|1|11|2|3|0|–|
 |3|3|111<br>21<br>12|3<br>2<br>2|13<br>7<br>5|0|–|
