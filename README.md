@@ -57,6 +57,7 @@ This problem covers finding the smallest prime of these forms in the same base *
 |*b*<sup>*n*</sup>−2|2|https://oeis.org/A250200<br>https://oeis.org/A255707 (*n* = 1 allowed)<br>https://oeis.org/A084714 (*n* = 1 allowed, corresponding primes)<br>https://oeis.org/A292201 (prime *b*, *n* = 1 allowed)|https://www.primepuzzles.net/puzzles/puzz_887.htm (*n* = 1 allowed)|
 |3×*b*<sup>*n*</sup>+1|1|https://oeis.org/A098877 (*b* divisible by 6)||
 |3×*b*<sup>*n*</sup>−1|1|https://oeis.org/A098876 (*b* divisible by 6)||
+|10×*b*<sup>*n*</sup>+1|1|https://oeis.org/A088782<br>https://oeis.org/A088622 (corresponding primes)||
 |2×*b*<sup>*n*</sup>+3|1||https://www.primegrid.com/forum_thread.php?id=9538|
 |*b*<sup>*n*</sup>/2+1 (for even *b*)|2||https://www.primegrid.com/forum_thread.php?id=9538|
 |(*b*−1)×*b*<sup>*n*</sup>+1|1|https://oeis.org/A305531<br>https://oeis.org/A087139 (prime *b*, *n* replaced by *n*+1)|https://www.rieselprime.de/ziki/Williams_prime_MP_least<br>https://www.rieselprime.de/ziki/Williams_prime_MP_table<br>https://sites.google.com/view/williams-primes, http://www.bitman.name/math/table/477|
