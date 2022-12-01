@@ -118,13 +118,13 @@ Some *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base
 |7|3{0}5|always divisible by 2|
 |7|5{0}1|always divisible by 2|
 |7|5{0}3|always divisible by 2|
-|7|1{0}1{0}1|always divisible by 3 (non-simple family)|
-|7|1{0}3{0}5|always divisible by 3 (non-simple family)|
-|7|1{0}5{0}3|always divisible by 3 (non-simple family)|
-|7|3{0}1{0}5|always divisible by 3 (non-simple family)|
-|7|3{0}5{0}1|always divisible by 3 (non-simple family)|
-|7|5{0}1{0}3|always divisible by 3 (non-simple family)|
-|7|5{0}3{0}1|always divisible by 3 (non-simple family)|
+|7|1{0}1{0}1|always divisible by 3<br>(non-simple family)|
+|7|1{0}3{0}5|always divisible by 3<br>(non-simple family)|
+|7|1{0}5{0}3|always divisible by 3<br>(non-simple family)|
+|7|3{0}1{0}5|always divisible by 3<br>(non-simple family)|
+|7|3{0}5{0}1|always divisible by 3<br>(non-simple family)|
+|7|5{0}1{0}3|always divisible by 3<br>(non-simple family)|
+|7|5{0}3{0}1|always divisible by 3<br>(non-simple family)|
 |8|2{0}5|always divisible by 7|
 |8|4{0}3|always divisible by 7|
 |8|6{0}1|always divisible by 7|
