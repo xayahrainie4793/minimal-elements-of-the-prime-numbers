@@ -138,14 +138,20 @@ Some *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base
 |16|2{C}3|always divisible by 7|
 |21|B0{H}6H|always divisible by 4637|
 |9|{1}5|always divisible by some element of {2,5}<br>divisible by 2 if the length is even, divisible by 5 if the length is odd|
+|9|{1}61|always divisible by some element of {2,5}<br>divisible by 2 if the length is even, divisible by 5 if the length is odd|
 |9|2{7}|always divisible by some element of {2,5}<br>divisible by 2 if the length is odd, divisible by 5 if the length is even|
+|9|{3}5|always divisible by some element of {2,5}<br>divisible by 2 if the length is even, divisible by 5 if the length is odd|
 |9|{3}8|always divisible by some element of {2,5}<br>divisible by 2 if the length is odd, divisible by 5 if the length is even|
+|9|{3}05|always divisible by some element of {2,5}<br>divisible by 2 if the length is odd, divisible by 5 if the length is even|
 |9|5{1}|always divisible by some element of {2,5}<br>divisible by 2 if the length is even, divisible by 5 if the length is odd|
 |9|5{7}|always divisible by some element of {2,5}<br>divisible by 2 if the length is even, divisible by 5 if the length is odd|
+|9|6{1}|always divisible by some element of {2,5}<br>divisible by 2 if the length is odd, divisible by 5 if the length is even|
 |9|{7}2|always divisible by some element of {2,5}<br>divisible by 2 if the length is odd, divisible by 5 if the length is even|
 |9|{7}5|always divisible by some element of {2,5}<br>divisible by 2 if the length is even, divisible by 5 if the length is odd|
-|9|{1}6{1}|always divisible by some element of {2,5} (non-simple family)<br>divisible by 2 if the length is odd, divisible by 5 if the length is even|
-|9|{3}{0}5|always divisible by some element of {2,5} (non-simple family)<br>divisible by 2 if the number of 3's is odd, divisible by 5 if the number of 3's is even|
+|9|{7}05|always divisible by some element of {2,5}<br>divisible by 2 if the length is odd, divisible by 5 if the length is even|
+|9|{1}6{1}|always divisible by some element of {2,5}<br>(non-simple family)<br>divisible by 2 if the length is odd, divisible by 5 if the length is even|
+|9|{3}{0}5|always divisible by some element of {2,5}<br>(non-simple family)<br>divisible by 2 if the number of 3's is odd, divisible by 5 if the number of 3's is even|
+|9|{7}{0}5|always divisible by some element of {2,5}<br>(non-simple family)<br>divisible by 2 if the number of 7's is odd, divisible by 5 if the number of 7's is even|
 |11|2{5}|always divisible by some element of {2,3}<br>divisible by 2 if the length is odd, divisible by 3 if the length is even|
 |11|3{5}|always divisible by some element of {2,3}<br>divisible by 2 if the length is even, divisible by 3 if the length is odd|
 |11|3{7}|always divisible by some element of {2,3}<br>divisible by 2 if the length is even, divisible by 3 if the length is odd|
