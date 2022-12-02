@@ -113,17 +113,15 @@ Some *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base
 |6|4{0}1|always divisible by 5|
 |7|1{0}1|always divisible by 2|
 |7|1{0}3|always divisible by 2|
-|7|1{0}5|always divisible by 2|
+|7|1{0}5|always divisible by 6|
 |7|3{0}1|always divisible by 2|
 |7|3{0}5|always divisible by 2|
-|7|5{0}1|always divisible by 2|
+|7|5{0}1|always divisible by 6|
 |7|5{0}3|always divisible by 2|
 |7|1{0}2|always divisible by 3|
 |7|2{0}1|always divisible by 3|
 |7|4{0}5|always divisible by 3|
 |7|5{0}4|always divisible by 3|
-|7|1{0}5|always divisible by 6|
-|7|5{0}1|always divisible by 6|
 |7|1{0}1{0}1|always divisible by 3<br>(non-simple family)|
 |7|1{0}3{0}5|always divisible by 3<br>(non-simple family)|
 |7|1{0}5{0}3|always divisible by 3<br>(non-simple family)|
