@@ -90,10 +90,10 @@ Some *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base
 |*b*|family|why this family contain no primes > *b*|
 |:---|:---|:---|
 |10|2{0}1|always divisible by 3|
-|10|2{0}7|always divisible by 9|
+|10|2{0}7|always divisible by 3|
 |10|5{0}1|always divisible by 3|
 |10|5{0}7|always divisible by 3|
-|10|8{0}1|always divisible by 9|
+|10|8{0}1|always divisible by 3|
 |10|8{0}7|always divisible by 3|
 |10|28{0}7|always divisible by 7|
 |10|4{6}9|always divisible by 7|
@@ -113,10 +113,10 @@ Some *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base
 |6|4{0}1|always divisible by 5|
 |7|1{0}1|always divisible by 2|
 |7|1{0}3|always divisible by 2|
-|7|1{0}5|always divisible by 6|
+|7|1{0}5|always divisible by 2|
 |7|3{0}1|always divisible by 2|
 |7|3{0}5|always divisible by 2|
-|7|5{0}1|always divisible by 6|
+|7|5{0}1|always divisible by 2|
 |7|5{0}3|always divisible by 2|
 |7|1{0}2|always divisible by 3|
 |7|2{0}1|always divisible by 3|
