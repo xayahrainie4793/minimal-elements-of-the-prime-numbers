@@ -190,6 +190,7 @@ Some *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base
 |23|1{0}7L|always divisible by some element of {3,5,53}<br>divisible by 3 if the length is odd, divisible by 5 if the length is == 2 mod 4, divisible by 53 if the length is == 0 mod 4|
 |27|JP{0}1|always divisible by some element of {5,7,73}<br>divisible by 7 if the length is even, divisible by 5 if the length is == 1 mod 4, divisible by 73 if the length is == 3 mod 4|
 |27|1{0}JP|always divisible by some element of {5,7,73}<br>divisible by 7 if the length is odd, divisible by 5 if the length is == 2 mod 4, divisible by 73 if the length is == 0 mod 4|
+|27|J{0}2|always divisible by some element of {5,7,73}<br>divisible by 7 if the length is odd, divisible by 5 if the length is == 2 mod 4, divisible by 73 if the length is == 0 mod 4|
 |30|A{0}9J|always divisible by some element of {7,13,19,31}<br>divisible by 7 if the length is == 0 mod 3, divisible by 13 if the length is == 1 mod 6, divisible by 19 if the length is == 2 mod 3, divisible by 31 if the length is == 0 mod 2|
 |32|A{0}1|always divisible by some element of {3,11}<br>divisible by 3 if the length is even, divisible by 11 if the length is odd|
 |32|N{0}1|always divisible by some element of {3,11}<br>divisible by 3 if the length is odd, divisible by 11 if the length is even|
@@ -290,6 +291,7 @@ Also families which contain only one very small prime > *b*:
 
 |*b*|family|why this family contains only one prime > *b*|
 |:---|:---|:---|
+|27|2{0}J|always divisible by some element of {5,7,73}<br>but 2J is prime, and 2J is the only prime > *b* in this family<br>divisible by 7 if the length is odd, divisible by 5 if the length is == 0 mod 4, divisible by 73 if the length is == 2 mod 4|
 |4|{1}|difference-of-squares factorization<br>but 11 is prime, and 11 is the only prime > *b* in this family<br>(4<sup>*n*</sup>−1)/3 = (2<sup>*n*</sup>−1) × (2<sup>*n*</sup>+1) / 3|
 |8|{1}|difference-of-cubes factorization<br>but 111 is prime, and 111 is the only prime > *b* in this family<br>(8<sup>*n*</sup>−1)/7 = (2<sup>*n*</sup>−1) × (4<sup>*n*</sup>+2<sup>*n*</sup>+1) / 7|
 |16|{1}|difference-of-squares factorization<br>but 11 is prime, and 11 is the only prime > *b* in this family<br>(16<sup>*n*</sup>−1)/15 = (4<sup>*n*</sup>−1) × (4<sup>*n*</sup>+1) / 15|
