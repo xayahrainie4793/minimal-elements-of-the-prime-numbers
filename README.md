@@ -90,10 +90,10 @@ Some *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base
 |*b*|family|why this family contain no primes > *b*|
 |:---|:---|:---|
 |10|2{0}1|always divisible by 3|
-|10|2{0}7|always divisible by 3|
+|10|2{0}7|always divisible by 3<br>in fact, always divisible by 9|
 |10|5{0}1|always divisible by 3|
 |10|5{0}7|always divisible by 3|
-|10|8{0}1|always divisible by 3|
+|10|8{0}1|always divisible by 3<br>in fact, always divisible by 9|
 |10|8{0}7|always divisible by 3|
 |10|28{0}7|always divisible by 7|
 |10|4{6}9|always divisible by 7|
@@ -106,17 +106,17 @@ Some *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base
 |3|1{0}1|always divisible by 2|
 |4|2{0}1|always divisible by 3|
 |5|1{0}1|always divisible by 2|
-|5|1{0}3|always divisible by 2|
-|5|3{0}1|always divisible by 2|
+|5|1{0}3|always divisible by 2<br>in fact, always divisible by 4|
+|5|3{0}1|always divisible by 2<br>in fact, always divisible by 4|
 |5|11{0}3|always divisible by 3|
 |5|3{0}11|always divisible by 3|
 |6|4{0}1|always divisible by 5|
 |7|1{0}1|always divisible by 2|
 |7|1{0}3|always divisible by 2|
-|7|1{0}5|always divisible by 2|
+|7|1{0}5|always divisible by 2<br>in fact, always divisible by 6|
 |7|3{0}1|always divisible by 2|
 |7|3{0}5|always divisible by 2|
-|7|5{0}1|always divisible by 2|
+|7|5{0}1|always divisible by 2<br>in fact, always divisible by 6|
 |7|5{0}3|always divisible by 2|
 |7|1{0}2|always divisible by 3|
 |7|2{0}1|always divisible by 3|
@@ -222,7 +222,7 @@ Some *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base
 |16|30{F}AF|difference-of-squares factorization<br>49×16<sup>*n*</sup>−81 = (7×4<sup>*n*</sup>−9) × (7×4<sup>*n*</sup>+9)|
 |16|3{F}A0F|difference-of-squares factorization<br>4×16<sup>*n*</sup>−1521 = (2×4<sup>*n*</sup>−39) × (2×4<sup>*n*</sup>+39)|
 |16|30{F}A0F|difference-of-squares factorization<br>49×16<sup>*n*</sup>−1521 = (7×4<sup>*n*</sup>−39) × (7×4<sup>*n*</sup>+39)|
-|16|{3}23|difference-of-squares factorization<br>(16<sup>*n*</sup>−81)/5 = (4<sup>*n*</sup>−9) × (4<sup>*n*</sup>+9) / 5|
+|16|{3}23|difference-of-squares factorization<br>(16<sup>*n*</sup>−81)/5 = (4<sup>*n*</sup>−9) × (4<sup>*n*</sup>+9) / 5<br>in fact, difference-of-4th-powers factorization<br>(16<sup>*n*</sup>−81)/5 = (2<sup>*n*</sup>−3) × (2<sup>*n*</sup>+3) × (4<sup>*n*</sup>+9) / 5|
 |16|{5}45|difference-of-squares factorization<br>(16<sup>*n*</sup>−49)/3 = (4<sup>*n*</sup>−7) × (4<sup>*n*</sup>+7) / 3|
 |16|{C}B|difference-of-squares factorization<br>(4×16<sup>*n*</sup>−9)/5 = (2×4<sup>*n*</sup>−3) × (2×4<sup>*n*</sup>+3) / 5|
 |16|{C}D|Aurifeuillian factorization of *x*<sup>4</sup>+4×*y*<sup>4</sup><br>(4×16<sup>*n*</sup>+1)/5 = (2×4<sup>*n*</sup>−2×2<sup>*n*</sup>+1) × (2×4<sup>*n*</sup>+2×2<sup>*n*</sup>+1) / 5|
