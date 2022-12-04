@@ -222,6 +222,7 @@ Some *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base
 |16|30{F}AF|difference-of-squares factorization<br>49×16<sup>*n*</sup>−81 = (7×4<sup>*n*</sup>−9) × (7×4<sup>*n*</sup>+9)|
 |16|3{F}A0F|difference-of-squares factorization<br>4×16<sup>*n*</sup>−1521 = (2×4<sup>*n*</sup>−39) × (2×4<sup>*n*</sup>+39)|
 |16|30{F}A0F|difference-of-squares factorization<br>49×16<sup>*n*</sup>−1521 = (7×4<sup>*n*</sup>−39) × (7×4<sup>*n*</sup>+39)|
+|16|{3}23|difference-of-squares factorization<br>(16<sup>*n*</sup>−81)/5 = (4<sup>*n*</sup>−9) × (4<sup>*n*</sup>+9) / 5|
 |16|{5}45|difference-of-squares factorization<br>(16<sup>*n*</sup>−49)/3 = (4<sup>*n*</sup>−7) × (4<sup>*n*</sup>+7) / 3|
 |16|{C}B|difference-of-squares factorization<br>(4×16<sup>*n*</sup>−9)/5 = (2×4<sup>*n*</sup>−3) × (2×4<sup>*n*</sup>+3) / 5|
 |16|{C}D|Aurifeuillian factorization of *x*<sup>4</sup>+4×*y*<sup>4</sup><br>(4×16<sup>*n*</sup>+1)/5 = (2×4<sup>*n*</sup>−2×2<sup>*n*</sup>+1) × (2×4<sup>*n*</sup>+2×2<sup>*n*</sup>+1) / 5|
