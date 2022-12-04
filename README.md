@@ -242,6 +242,9 @@ Some *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base
 |25|{3}2|difference-of-squares factorization<br>(25<sup>*n*</sup>−9)/8 = (5<sup>*n*</sup>−3) × (5<sup>*n*</sup>+3) / 8|
 |25|{8}3|difference-of-squares factorization<br>(25<sup>*n*</sup>−16)/3 = (5<sup>*n*</sup>−4) × (5<sup>*n*</sup>+4) / 3|
 |25|{8}7|difference-of-squares factorization<br>(25<sup>*n*</sup>−4)/3 = (5<sup>*n*</sup>−2) × (5<sup>*n*</sup>+2) / 3|
+|25|{3}2I|difference-of-squares factorization<br>(25<sup>*n*</sup>−81)/8 = (5<sup>*n*</sup>−9) × (5<sup>*n*</sup>+9) / 8|
+|25|{8}5I|difference-of-squares factorization<br>(25<sup>*n*</sup>−196)/3 = (5<sup>*n*</sup>−14) × (5<sup>*n*</sup>+14) / 3|
+|25|{8}7C|difference-of-squares factorization<br>(25<sup>*n*</sup>−64)/3 = (5<sup>*n*</sup>−8) × (5<sup>*n*</sup>+8) / 3|
 |27|8{0}1|sum-of-cubes factorization<br>8×27<sup>*n*</sup>+1 = (2×3<sup>*n*</sup>+1) × (4×9<sup>*n*</sup>−2×3<sup>*n*</sup>+1)|
 |27|1{0}8|sum-of-cubes factorization<br>27<sup>*n*</sup>+8 = (3<sup>*n*</sup>+2) × (9<sup>*n*</sup>−2×3<sup>*n*</sup>+4)|
 |27|{D}E|sum-of-cubes factorization<br>(27<sup>*n*</sup>+1)/2 = (3<sup>*n*</sup>+1) × (9<sup>*n*</sup>−3<sup>*n*</sup>+1) / 2|
