@@ -199,6 +199,7 @@ Some *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base
 |32|1{0}N|always divisible by some element of {3,11}<br>divisible by 3 if the length is odd, divisible by 11 if the length is even|
 |32|{V}9|always divisible by some element of {3,11}<br>divisible by 3 if the length is odd, divisible by 11 if the length is even|
 |32|8{0}V|always divisible by some element of {3,5,41}<br>divisible by 3 if the length is odd, divisible by 5 if the length is == 0 mod 4, divisible by 41 if the length is == 2 mod 4|
+|32|{G}L|always divisible by some element of {3,5,41}<br>divisible by 3 if the length is odd, divisible by 5 if the length is == 0 mod 4, divisible by 41 if the length is == 2 mod 4|
 |34|6{0}1|always divisible by some element of {5,7}<br>divisible by 5 if the length is even, divisible by 7 if the length is odd|
 |34|5{X}|always divisible by some element of {5,7}<br>divisible by 5 if the length is odd, divisible by 7 if the length is even|
 |34|S{X}|always divisible by some element of {5,7}<br>divisible by 5 if the length is even, divisible by 7 if the length is odd|
