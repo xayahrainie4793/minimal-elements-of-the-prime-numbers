@@ -154,6 +154,8 @@ Some *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base
 |9|{7}5|always divisible by some element of {2,5}<br>divisible by 2 if the length is even, divisible by 5 if the length is odd|
 |9|{7}05|always divisible by some element of {2,5}<br>divisible by 2 if the length is odd, divisible by 5 if the length is even|
 |9|{1}6{1}|always divisible by some element of {2,5}<br>(non-simple family)<br>divisible by 2 if the length is odd, divisible by 5 if the length is even|
+|9|{7}2{7}|always divisible by some element of {2,5}<br>(non-simple family)<br>divisible by 2 if the length is odd, divisible by 5 if the length is even|
+|9|5{0}{7}|always divisible by some element of {2,5}<br>(non-simple family)<br>divisible by 2 if the number of 7's is odd, divisible by 5 if the number of 7's is even|
 |9|{3}{0}5|always divisible by some element of {2,5}<br>(non-simple family)<br>divisible by 2 if the number of 3's is odd, divisible by 5 if the number of 3's is even|
 |9|{7}{0}5|always divisible by some element of {2,5}<br>(non-simple family)<br>divisible by 2 if the number of 7's is odd, divisible by 5 if the number of 7's is even|
 |11|2{5}|always divisible by some element of {2,3}<br>divisible by 2 if the length is odd, divisible by 3 if the length is even|
@@ -164,6 +166,8 @@ Some *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base
 |11|{5}3|always divisible by some element of {2,3}<br>divisible by 2 if the length is even, divisible by 3 if the length is odd|
 |11|{7}3|always divisible by some element of {2,3}<br>divisible by 2 if the length is even, divisible by 3 if the length is odd|
 |11|{7}4|always divisible by some element of {2,3}<br>divisible by 2 if the length is odd, divisible by 3 if the length is even|
+|11|3{0}{5}|always divisible by some element of {2,3}<br>(non-simple family)<br>divisible by 2 if the number of 5's is odd, divisible by 3 if the number of 5's is even|
+|11|{5}{0}3|always divisible by some element of {2,3}<br>(non-simple family)<br>divisible by 2 if the number of 5's is odd, divisible by 3 if the number of 5's is even|
 |14|4{0}1|always divisible by some element of {3,5}<br>divisible by 3 if the length is even, divisible by 5 if the length is odd|
 |14|B{0}1|always divisible by some element of {3,5}<br>divisible by 3 if the length is odd, divisible by 5 if the length is even|
 |14|3{D}|always divisible by some element of {3,5}<br>divisible by 3 if the length is odd, divisible by 5 if the length is even|
