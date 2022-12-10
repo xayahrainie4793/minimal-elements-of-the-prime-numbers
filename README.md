@@ -188,6 +188,7 @@ Some *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base
 |21|{7}D|always divisible by some element of {2,13,17}<br>divisible by 2 if the length is even, divisible by 13 if the length is == 1 mod 4, divisible by 17 if the length is == 3 mod 4|
 |23|7L{0}1|always divisible by some element of {3,5,53}<br>divisible by 3 if the length is even, divisible by 5 if the length is == 1 mod 4, divisible by 53 if the length is == 3 mod 4|
 |23|1{0}7L|always divisible by some element of {3,5,53}<br>divisible by 3 if the length is odd, divisible by 5 if the length is == 2 mod 4, divisible by 53 if the length is == 0 mod 4|
+|23|{D}GA|always divisible by some element of {2,5,7,37,79}<br>divisible by 2 if the length is even, divisible by 5 if the length is == 3 mod 4, divisible by 7 if the length is == 2 mod 3, divisible by 37 if the length is == 9 mod 12, divisible by 79 if the length is == 1 mod 3|
 |27|JP{0}1|always divisible by some element of {5,7,73}<br>divisible by 7 if the length is even, divisible by 5 if the length is == 1 mod 4, divisible by 73 if the length is == 3 mod 4|
 |27|1{0}JP|always divisible by some element of {5,7,73}<br>divisible by 7 if the length is odd, divisible by 5 if the length is == 2 mod 4, divisible by 73 if the length is == 0 mod 4|
 |27|J{0}2|always divisible by some element of {5,7,73}<br>divisible by 7 if the length is odd, divisible by 5 if the length is == 2 mod 4, divisible by 73 if the length is == 0 mod 4|
