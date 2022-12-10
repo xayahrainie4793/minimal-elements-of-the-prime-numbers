@@ -162,10 +162,18 @@ Some *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base
 |11|3{5}|always divisible by some element of {2,3}<br>divisible by 2 if the length is even, divisible by 3 if the length is odd|
 |11|3{7}|always divisible by some element of {2,3}<br>divisible by 2 if the length is even, divisible by 3 if the length is odd|
 |11|4{7}|always divisible by some element of {2,3}<br>divisible by 2 if the length is odd, divisible by 3 if the length is even|
+|11|8{5}|always divisible by some element of {2,3}<br>divisible by 2 if the length is odd, divisible by 3 if the length is even|
+|11|9{5}|always divisible by some element of {2,3}<br>divisible by 2 if the length is even, divisible by 3 if the length is odd|
+|11|9{7}|always divisible by some element of {2,3}<br>divisible by 2 if the length is even, divisible by 3 if the length is odd|
+|11|A{7}|always divisible by some element of {2,3}<br>divisible by 2 if the length is odd, divisible by 3 if the length is even|
 |11|{5}2|always divisible by some element of {2,3}<br>divisible by 2 if the length is odd, divisible by 3 if the length is even|
 |11|{5}3|always divisible by some element of {2,3}<br>divisible by 2 if the length is even, divisible by 3 if the length is odd|
 |11|{7}3|always divisible by some element of {2,3}<br>divisible by 2 if the length is even, divisible by 3 if the length is odd|
 |11|{7}4|always divisible by some element of {2,3}<br>divisible by 2 if the length is odd, divisible by 3 if the length is even|
+|11|{5}8|always divisible by some element of {2,3}<br>divisible by 2 if the length is odd, divisible by 3 if the length is even|
+|11|{5}9|always divisible by some element of {2,3}<br>divisible by 2 if the length is even, divisible by 3 if the length is odd|
+|11|{7}9|always divisible by some element of {2,3}<br>divisible by 2 if the length is even, divisible by 3 if the length is odd|
+|11|{7}A|always divisible by some element of {2,3}<br>divisible by 2 if the length is odd, divisible by 3 if the length is even|
 |11|3{0}{5}|always divisible by some element of {2,3}<br>(non-simple family)<br>divisible by 2 if the number of 5's is odd, divisible by 3 if the number of 5's is even|
 |11|{5}{0}3|always divisible by some element of {2,3}<br>(non-simple family)<br>divisible by 2 if the number of 5's is odd, divisible by 3 if the number of 5's is even|
 |14|4{0}1|always divisible by some element of {3,5}<br>divisible by 3 if the length is even, divisible by 5 if the length is odd|
