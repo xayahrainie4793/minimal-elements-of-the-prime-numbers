@@ -142,6 +142,7 @@ Some *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base
 |16|2{C}3|always divisible by 7|
 |21|B0{H}6H|always divisible by 4637|
 |28|4{O}9|always divisible by 11|
+|28|D{6}R|always divisible by 17|
 |28|N{6}R|always divisible by 11|
 |9|{1}5|always divisible by some element of {2,5}<br>divisible by 2 if the length is even, divisible by 5 if the length is odd|
 |9|{1}61|always divisible by some element of {2,5}<br>divisible by 2 if the length is even, divisible by 5 if the length is odd|
