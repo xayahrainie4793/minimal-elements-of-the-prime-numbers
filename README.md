@@ -292,6 +292,8 @@ Some *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base
 |36|{K}H|difference-of-squares factorization<br>(4×36<sup>*n*</sup>−25)/7 = (2×6<sup>*n*</sup>−5) × (2×6<sup>*n*</sup>+5) / 7|
 |36|{K}IH|difference-of-squares factorization<br>(4×36<sup>*n*</sup>−529)/7 = (2×6<sup>*n*</sup>−23) × (2×6<sup>*n*</sup>+23) / 7|
 |36|{S}J|difference-of-squares factorization<br>(4×36<sup>*n*</sup>−49)/5 = (2×6<sup>*n*</sup>−7) × (2×6<sup>*n*</sup>+7) / 5|
+|36|{S}GJ|difference-of-squares factorization<br>(4×36<sup>*n*</sup>−2209)/5 = (2×6<sup>*n*</sup>−47) × (2×6<sup>*n*</sup>+47) / 5|
+|36|{S}IJ|difference-of-squares factorization<br>(4×36<sup>*n*</sup>−1849)/5 = (2×6<sup>*n*</sup>−43) × (2×6<sup>*n*</sup>+43) / 5|
 |14|8{D}|combine of factor 5 and difference-of-squares factorization<br>even length is divisible by 5, odd length has factorization 9×14<sup>2×*n*</sup>−1 = (3×14<sup>*n*</sup>−1) × (3×14<sup>*n*</sup>+1)|
 |12|{B}9B|combine of factor 13 and difference-of-squares factorization<br>odd length is divisible by 13, even length has factorization 12<sup>2×*n*</sup>−25 = (12<sup>*n*</sup>−5) × (12<sup>*n*</sup>+5)|
 |14|{D}5|combine of factor 5 and difference-of-squares factorization<br>odd length is divisible by 5, even length has factorization 14<sup>2×*n*</sup>−9 = (14<sup>*n*</sup>−3) × (14<sup>*n*</sup>+3)|
