@@ -295,7 +295,6 @@ Some *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base
 |36|3{K}IH|difference-of-squares factorization<br>(25×36<sup>*n*</sup>−529)/7 = (5×6<sup>*n*</sup>−23) × (5×6<sup>*n*</sup>+23) / 7|
 |36|B{K}IH|difference-of-squares factorization<br>(81×36<sup>*n*</sup>−529)/7 = (9×6<sup>*n*</sup>−23) × (9×6<sup>*n*</sup>+23) / 7|
 |36|{S}J|difference-of-squares factorization<br>(4×36<sup>*n*</sup>−49)/5 = (2×6<sup>*n*</sup>−7) × (2×6<sup>*n*</sup>+7) / 5|
-|36|{S}GJ|difference-of-squares factorization<br>(4×36<sup>*n*</sup>−2209)/5 = (2×6<sup>*n*</sup>−47) × (2×6<sup>*n*</sup>+47) / 5|
 |36|{S}IJ|difference-of-squares factorization<br>(4×36<sup>*n*</sup>−1849)/5 = (2×6<sup>*n*</sup>−43) × (2×6<sup>*n*</sup>+43) / 5|
 |36|1{S}J|difference-of-squares factorization<br>(9×36<sup>*n*</sup>−49)/5 = (3×6<sup>*n*</sup>−7) × (3×6<sup>*n*</sup>+7) / 5|
 |36|C{S}J|difference-of-squares factorization<br>(64×36<sup>*n*</sup>−49)/5 = (8×6<sup>*n*</sup>−7) × (8×6<sup>*n*</sup>+7) / 5|
