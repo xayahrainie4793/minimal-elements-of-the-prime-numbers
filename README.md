@@ -289,6 +289,9 @@ Some *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base
 |36|T{9}1|difference-of-squares factorization<br>(1024×36<sup>*n*</sup>−289)/35 = (32×6<sup>*n*</sup>−17) × (32×6<sup>*n*</sup>+17) / 35|
 |36|{G}D|difference-of-squares factorization<br>(16×36<sup>*n*</sup>−121)/35 = (4×6<sup>*n*</sup>−11) × (4×6<sup>*n*</sup>+11) / 35|
 |36|{G}8D|difference-of-squares factorization<br>(16×36<sup>*n*</sup>−10201)/35 = (4×6<sup>*n*</sup>−101) × (4×6<sup>*n*</sup>+101) / 35|
+|36|R{G}D|difference-of-squares factorization<br>(961×36<sup>*n*</sup>−121)/35 = (31×6<sup>*n*</sup>−11) × (31×6<sup>*n*</sup>+11) / 35|
+|36|3{G}8D|difference-of-squares factorization<br>(121×36<sup>*n*</sup>−10201)/35 = (11×6<sup>*n*</sup>−101) × (11×6<sup>*n*</sup>+101) / 35|
+|36|R{G}8D|difference-of-squares factorization<br>(961×36<sup>*n*</sup>−10201)/35 = (31×6<sup>*n*</sup>−101) × (31×6<sup>*n*</sup>+101) / 35|
 |36|{K}H|difference-of-squares factorization<br>(4×36<sup>*n*</sup>−25)/7 = (2×6<sup>*n*</sup>−5) × (2×6<sup>*n*</sup>+5) / 7|
 |36|{K}IH|difference-of-squares factorization<br>(4×36<sup>*n*</sup>−529)/7 = (2×6<sup>*n*</sup>−23) × (2×6<sup>*n*</sup>+23) / 7|
 |36|B{K}H|difference-of-squares factorization<br>(81×36<sup>*n*</sup>−25)/7 = (9×6<sup>*n*</sup>−5) × (9×6<sup>*n*</sup>+5) / 7|
