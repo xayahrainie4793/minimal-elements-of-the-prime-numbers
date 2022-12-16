@@ -574,51 +574,65 @@ Other researches for the digits of the primes:
 
 Left-truncatable primes (https://en.wikipedia.org/wiki/Truncatable_prime, https://primes.utm.edu/glossary/xpage/LeftTruncatablePrime.html, https://mathworld.wolfram.com/TruncatablePrime.html), i.e. every nonempty suffix is prime:
 
-http://primerecords.dk/left-truncatable.txt (base 10)
-
-http://chesswanks.com/num/LTPs/ (bases 3 to 120)
-
-https://www.ams.org/journals/mcom/1977-31-137/S0025-5718-1977-0427213-2/S0025-5718-1977-0427213-2.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_28.pdf) (bases 3 to 11)
-
-https://oeis.org/A103443 (largest left-truncatable prime in base *b*)
-
-https://oeis.org/A103463 (length of the largest left-truncatable prime in base *b*)
-
-https://oeis.org/A076623 (number of left-truncatable primes in base *b*)
+1. http://primerecords.dk/left-truncatable.txt (base 10)
+2. http://chesswanks.com/num/LTPs/ (bases 3 to 120)
+3. https://www.ams.org/journals/mcom/1977-31-137/S0025-5718-1977-0427213-2/S0025-5718-1977-0427213-2.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_28.pdf) (bases 3 to 11)
+4. https://oeis.org/A103443 (largest left-truncatable prime in base *b*)
+5. https://oeis.org/A103463 (length of the largest left-truncatable prime in base *b*)
+6. https://oeis.org/A076623 (number of left-truncatable primes in base *b*)
 
 Right-truncatable primes (https://en.wikipedia.org/wiki/Truncatable_prime, https://primes.utm.edu/glossary/xpage/RightTruncatablePrime.html, https://mathworld.wolfram.com/TruncatablePrime.html), i.e. every nonempty prefix is prime:
 
-http://primerecords.dk/right-truncatable.txt (base 10)
-
-http://fatphil.org/maths/rtp/rtp.html (bases 3 to 90)
-
-https://www.ams.org/journals/mcom/1977-31-137/S0025-5718-1977-0427213-2/S0025-5718-1977-0427213-2.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_28.pdf) (bases 3 to 15)
-
-https://oeis.org/A023107 (largest right-truncatable prime in base *b*)
-
-https://oeis.org/A103483 (length of the largest right-truncatable prime in base *b*)
-
-https://oeis.org/A076586 (number of right-truncatable primes in base *b*)
+1. http://primerecords.dk/right-truncatable.txt (base 10)
+2. http://fatphil.org/maths/rtp/rtp.html (bases 3 to 90)
+3. https://www.ams.org/journals/mcom/1977-31-137/S0025-5718-1977-0427213-2/S0025-5718-1977-0427213-2.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_28.pdf) (bases 3 to 15)
+4. https://oeis.org/A023107 (largest right-truncatable prime in base *b*)
+5. https://oeis.org/A103483 (length of the largest right-truncatable prime in base *b*)
+6. https://oeis.org/A076586 (number of right-truncatable primes in base *b*)
 
 Other researches for the minimal elements of other subsets of positive integers written in the positional numeral system with radix *b*, as digit strings with subsequence ordering:
 
-https://oeis.org/A111055 (primes == 1 mod 4)
+Primes == 1 mod 4:
 
-https://oeis.org/A111056 (primes == 3 mod 4)
+1. https://www.primepuzzles.net/puzzles/puzz_178.htm
+2. https://oeis.org/A111055
 
-https://oeis.org/A071070 (composites)
+Primes == 3 mod 4:
 
-https://oeis.org/A130448 (squares)
+1. https://www.primepuzzles.net/puzzles/puzz_178.htm
+2. https://oeis.org/A111056
 
-https://oeis.org/A071073 (multiples of 3)
+Palindromic primes:
 
-https://oeis.org/A071072 (multiples of 4)
+1. https://www.primepuzzles.net/puzzles/puzz_178.htm
+2. https://oeis.org/A114835
 
-https://oeis.org/A071071/a071071.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_13.pdf) (powers of 2)
+Composites:
 
-https://arxiv.org/pdf/1607.01548.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_14.pdf) (sums of three squares, quadratic residues mod 6, quadratic residues mod 7, range of Euler’s totient function, range of "Euler’s totient function + 3", range of Dedekind psi function, perfect numbers)
+1. https://oeis.org/A071070
 
-https://nntdm.net/papers/nntdm-25/NNTDM-25-1-036-047.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_15.pdf) (range of "Euler’s totient function + *n*", for 0 ≤ *n* ≤ 5)
+Squares:
+
+1. http://recursed.blogspot.com/2006/12/prime-game.html
+2. https://oeis.org/A130448
+
+Powers of 2:
+
+1. https://oeis.org/A071071/a071071.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_13.pdf)
+2. https://oeis.org/A071071
+
+Multiples of 3:
+
+1. https://oeis.org/A071073
+
+Multiples of 4:
+
+1. https://oeis.org/A071072
+
+Other sets:
+
+1. https://arxiv.org/pdf/1607.01548.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_14.pdf) (sums of three squares, quadratic residues mod 6, quadratic residues mod 7, range of Euler’s totient function, range of "Euler’s totient function + 3", range of Dedekind psi function, perfect numbers)
+2. https://nntdm.net/papers/nntdm-25/NNTDM-25-1-036-047.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_15.pdf) (range of "Euler’s totient function + *n*", for 0 ≤ *n* ≤ 5)
 
 Tools about this research: (in fact, you can also use Wolfram Alpha (https://www.wolframalpha.com/) or online Magma calculator (http://magma.maths.usyd.edu.au/calc/)) 
 
