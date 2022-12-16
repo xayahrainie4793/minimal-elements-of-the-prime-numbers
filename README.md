@@ -570,6 +570,32 @@ http://www.primenumbers.net/prptop/prptop.php (top probable primes)
 
 http://www.primenumbers.net/prptop/searchform.php (search page of top probable primes)
 
+Other researches for the digits of the primes:
+
+Left-truncatable primes (https://en.wikipedia.org/wiki/Truncatable_prime, https://primes.utm.edu/glossary/xpage/LeftTruncatablePrime.html, https://mathworld.wolfram.com/TruncatablePrime.html), i.e. every nonempty suffix is prime:
+
+http://primerecords.dk/left-truncatable.txt (base 10)
+
+http://chesswanks.com/num/LTPs/ (bases 2 to 120)
+
+https://oeis.org/A103443 (largest left-truncatable prime in base *b*)
+
+https://oeis.org/A103463 (length of the largest left-truncatable prime in base *b*)
+
+https://oeis.org/A076623 (number of left-truncatable primes in base *b*)
+
+Right-truncatable primes (https://en.wikipedia.org/wiki/Truncatable_prime, https://primes.utm.edu/glossary/xpage/RightTruncatablePrime.html, https://mathworld.wolfram.com/TruncatablePrime.html), i.e. every nonempty prefix is prime:
+
+http://primerecords.dk/right-truncatable.txt (base 10)
+
+http://fatphil.org/maths/RightTruncatablePrimes.html (bases 2 to 90)
+
+https://oeis.org/A023107 (largest right-truncatable prime in base *b*)
+
+https://oeis.org/A103483 (length of the largest right-truncatable prime in base *b*)
+
+https://oeis.org/A076586 (number of right-truncatable primes in base *b*)
+
 Tools about this research: (in fact, you can also use Wolfram Alpha (https://www.wolframalpha.com/) or online Magma calculator (http://magma.maths.usyd.edu.au/calc/)) 
 
 Prime checkers:
