@@ -665,8 +665,10 @@ Base converters:
 2. https://www.calculand.com/unit-converter/zahlen.php
 3. https://www.cut-the-knot.org/Curriculum/Algorithms/BaseConversion.shtml
 4. http://www.tonymarston.net/php-mysql/converter.html
-5. http://www.kwuntung.net/hkunit/base/base.php (in Chinese)
-6. https://linesegment.web.fc2.com/application/math/numbers/RadixConversion.html (in Japanese)
+5. http://math.fau.edu/Richman/mla/convert.htm
+6. https://www.dcode.fr/base-n-convert
+8. http://www.kwuntung.net/hkunit/base/base.php (in Chinese)
+9. https://linesegment.web.fc2.com/application/math/numbers/RadixConversion.html (in Japanese)
 
 List of small primes:
 
