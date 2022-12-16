@@ -576,7 +576,9 @@ Left-truncatable primes (https://en.wikipedia.org/wiki/Truncatable_prime, https:
 
 http://primerecords.dk/left-truncatable.txt (base 10)
 
-http://chesswanks.com/num/LTPs/ (bases 2 to 120)
+http://chesswanks.com/num/LTPs/ (bases 3 to 120)
+
+https://www.ams.org/journals/mcom/1977-31-137/S0025-5718-1977-0427213-2/S0025-5718-1977-0427213-2.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_28.pdf) (bases 3 to 11)
 
 https://oeis.org/A103443 (largest left-truncatable prime in base *b*)
 
@@ -588,13 +590,35 @@ Right-truncatable primes (https://en.wikipedia.org/wiki/Truncatable_prime, https
 
 http://primerecords.dk/right-truncatable.txt (base 10)
 
-http://fatphil.org/maths/RightTruncatablePrimes.html (bases 2 to 90)
+http://fatphil.org/maths/RightTruncatablePrimes.html (bases 3 to 90)
+
+https://www.ams.org/journals/mcom/1977-31-137/S0025-5718-1977-0427213-2/S0025-5718-1977-0427213-2.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_28.pdf) (bases 3 to 15)
 
 https://oeis.org/A023107 (largest right-truncatable prime in base *b*)
 
 https://oeis.org/A103483 (length of the largest right-truncatable prime in base *b*)
 
 https://oeis.org/A076586 (number of right-truncatable primes in base *b*)
+
+Other researches for the minimal elements of other subsets of positive integers written in the positional numeral system with radix *b*, as digit strings with subsequence ordering:
+
+https://oeis.org/A111055 (primes == 1 mod 4)
+
+https://oeis.org/A111056 (primes == 3 mod 4)
+
+https://oeis.org/A071070 (composites)
+
+https://oeis.org/A130448 (squares)
+
+https://oeis.org/A071073 (multiples of 3)
+
+https://oeis.org/A071072 (multiples of 4)
+
+https://oeis.org/A071071/a071071.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_13.pdf) (powers of 2)
+
+https://arxiv.org/pdf/1607.01548.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_14.pdf) (sums of three squares, quadratic residues mod 6, quadratic residues mod 7, range of Euler’s totient function, range of "Euler’s totient function + 3", range of Dedekind psi function, perfect numbers)
+
+https://nntdm.net/papers/nntdm-25/NNTDM-25-1-036-047.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_15.pdf) (range of "Euler’s totient function + *n*", for 0 ≤ *n* ≤ 5)
 
 Tools about this research: (in fact, you can also use Wolfram Alpha (https://www.wolframalpha.com/) or online Magma calculator (http://magma.maths.usyd.edu.au/calc/)) 
 
