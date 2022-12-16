@@ -590,7 +590,7 @@ Right-truncatable primes (https://en.wikipedia.org/wiki/Truncatable_prime, https
 
 http://primerecords.dk/right-truncatable.txt (base 10)
 
-http://fatphil.org/maths/RightTruncatablePrimes.html (bases 3 to 90)
+http://fatphil.org/maths/rtp/rtp.html (bases 3 to 90)
 
 https://www.ams.org/journals/mcom/1977-31-137/S0025-5718-1977-0427213-2/S0025-5718-1977-0427213-2.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_28.pdf) (bases 3 to 15)
 
