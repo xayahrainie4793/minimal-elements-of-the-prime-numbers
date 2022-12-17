@@ -492,6 +492,16 @@ Primality certificates (https://en.wikipedia.org/wiki/Primality_certificate, htt
 |28|25488|64O<sub>217</sub>9|(1556×28<sup>218</sup>−143)/9|http://factordb.com/cert.php?id=1100000000840840215|
 |28|25489|G0<sub>217</sub>A0N|16×28<sup>220</sup>+7863|http://factordb.com/cert.php?id=1100000003850161938|
 |28|25490|55OA<sub>226</sub>F|(110278×28<sup>227</sup>+125)/27|http://factordb.com/cert.php?id=1100000003850161939|
+|28|25491|L0<sub>229</sub>Q3|21×28<sup>231</sup>+731|http://factordb.com/cert.php?id=1100000003850161940|
+|28|25492|B0<sub>231</sub>7ID|11×28<sup>234</sup>+6005|http://factordb.com/cert.php?id=1100000003850161941|
+|28|25493|PM<sub>233</sub>B|(697×28<sup>234</sup>−319)/27|http://factordb.com/cert.php?id=1100000003850161942|
+|28|25494|K0<sub>238</sub>OF|20×28<sup>240</sup>+687|http://factordb.com/cert.php?id=1100000000840840142|
+|28|25495|I<sub>262</sub>E3|(2×28<sup>264</sup>−383)/3|http://factordb.com/cert.php?id=1100000003850161943|
+|28|25496|C5A<sub>273</sub>F|(9217×28<sup>274</sup>+125)/27|http://factordb.com/cert.php?id=1100000003850161944|
+|28|25497|J0<sub>276</sub>IMB|19×28<sup>279</sup>+14739|http://factordb.com/cert.php?id=1100000003850161945|
+|28|25498|F0<sub>282</sub>QAP|15×28<sup>285</sup>+20689|http://factordb.com/cert.php?id=1100000000840840006|
+|28|25499|M0<sub>296</sub>KKN|22×28<sup>299</sup>+16263|http://factordb.com/cert.php?id=1100000003850161946|
+|28|25500|C<sub>310</sub>43|(4×28<sup>312</sup>−2101)/9|http://factordb.com/cert.php?id=1100000003850161947|
 |28|25513|70<sub>748</sub>M5|7×28<sup>750</sup>+621|http://factordb.com/cert.php?id=1100000003850161956|
 |28|25514|4A0<sub>804</sub>B|122×28<sup>805</sup>+11|http://factordb.com/cert.php?id=1100000003850161957|
 |28|25515|LK<sub>925</sub>F|(587×28<sup>926</sup>−155)/27|http://factordb.com/cert.php?id=1100000000840839978|
