@@ -30,7 +30,7 @@ the 2619th minimal prime in base 30, OT<sub>34205</sub>, which equals 25×30<sup
 
 the 35237th minimal prime in base 36, P8Z<sub>390</sub>, which equals 909×36<sup>390</sup>−1, *N*+1 is trivially fully factored
 
-Also, there are no primality certificates for these primes in *factordb* because although they are > 10<sup>299</sup>, but their *N*−1 or *N*+1 is fully factored (but not trivially fully factored) and the largest prime factor is < 10<sup>299</sup> (primes < 10<sup>299</sup> are automatically proven primes in *factordb*):
+Also, there are no primality certificates for these primes in *factordb* because although they are > 10<sup>299</sup>, but their *N*−1 or *N*+1 is fully factored (but not trivially fully factored, however, only need trial factoring to 10<sup>8</sup>) and the largest prime factor is < 10<sup>299</sup> (primes < 10<sup>299</sup> are automatically proven primes in *factordb*):
 
 the 2328th minimal prime in base 16, 880<sub>246</sub>7, which equals 136×16<sup>247</sup>+7, with 300 digits, and *N*−1 is 2<sup>3</sup>×3×7×13×25703261×(289-digit prime)
 
