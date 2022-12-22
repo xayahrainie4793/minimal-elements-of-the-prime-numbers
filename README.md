@@ -361,7 +361,7 @@ We have completely solved this problem for bases *b* = 2, 3, 4, 5, 6, 7, 8, 9, 1
 
 We are unable to determine if the families *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base *b*, *y* is a digit in base *b*) listed in the "left *b*" files (see the condensed table below for the searching limit of these families) contain a prime (only count the numbers > *b*) or not (even if we allow probable primes), i.e. these families have no known prime (or probable prime) members > *b*, nor can they be ruled out as only containing composites (only count the numbers > *b*) (by covering congruence, algebraic factorization, or combine of them), and all of these families are expected to contain a prime > *b* (in fact, expected to contain infinitely many primes), since there is a heuristic argument (https://en.wikipedia.org/wiki/Heuristic_argument, https://primes.utm.edu/glossary/xpage/Heuristic.html, https://mathworld.wolfram.com/Heuristic.html) that all families which cannot be ruled out as only containing composites or only containing finitely many primes (by covering congruence, algebraic factorization, or combine of them) contain infinitely many primes, since by the prime number theorem (https://en.wikipedia.org/wiki/Prime_number_theorem, https://primes.utm.edu/glossary/xpage/PrimeNumberThm.html, https://mathworld.wolfram.com/PrimeNumberTheorem.html) the chance (https://en.wikipedia.org/wiki/Probability, https://mathworld.wolfram.com/Probability.html) that a random (https://en.wikipedia.org/wiki/Random_number, https://mathworld.wolfram.com/RandomNumber.html) *n*-digit base *b* number is prime is approximately (https://en.wikipedia.org/wiki/Asymptotic_analysis, https://primes.utm.edu/glossary/xpage/AsymptoticallyEqual.html, https://mathworld.wolfram.com/Asymptotic.html) 1/*n* (more accurately, the chance is approximately 1/(*n*×*ln*(*b*)), where *ln* is the natural logarithm (https://en.wikipedia.org/wiki/Natural_logarithm, https://primes.utm.edu/glossary/xpage/Log.html, https://mathworld.wolfram.com/NaturalLogarithm.html). If one conjectures the numbers *x*{*y*}*z* behave similarly you would expect 1/1 + 1/2 + 1/3 + 1/4 + ... = ∞ (https://en.wikipedia.org/wiki/Harmonic_series_(mathematics), https://mathworld.wolfram.com/HarmonicSeries.html) primes of the form *x*{*y*}*z* (of course, this does not always happen, since some *x*{*y*}*z* families can be ruled out as only containing composites (only count the numbers > *b*) (by covering congruence, algebraic factorization, or combine of them), but it is at least a reasonable conjecture in the absence of evidence to the contrary).
 
-There are also unproven probable primes (however, in this project our results assume that they are in fact primes, since they are > 10<sup>25000</sup> and the probability that they are in fact composite is < 10<sup>−2000</sup>, see https://primes.utm.edu/notes/prp_prob.html), the unproven probable primes for bases *b* = 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 18, 20, 22, 24, 28, 30 are:
+There are also unproven probable primes (however, in this project our results assume that they are in fact primes, since they are > 10<sup>25000</sup> and the probability that they are in fact composite is < 10<sup>−2000</sup>, see https://primes.utm.edu/notes/prp_prob.html), the unproven probable primes for bases *b* = 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 18, 20, 22, 24, 26, 28, 30, 36 are:
 
 |*b*|index of this minimal prime in base *b* (assuming the primality of all probable primes in base *b*)|base-*b* form of the unproven probable prime	algebraic ((*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1)) form of the unproven probable prime|
 |:---|:---|:---|
@@ -373,10 +373,17 @@ There are also unproven probable primes (however, in this project our results as
 |16|2346|4<sub>72785</sub>DD|(4×16<sup>72787</sup>+2291)/15|
 |16|2347|3<sub>116137</sub>AF|(16<sup>116139</sup>+619)/5|
 |22|8003|BK<sub>22001</sub>5|(251×22<sup>22002</sup>−335)/21|
+|26|25250|5<sub>19391</sub>6F|(26<sup>19393</sup>+179)/5|
+|26|25251|7<sub>20279</sub>OL|(7×26<sup>20281</sup>+11393)/25|
+|26|25252|LD0<sub>20975</sub>7|559×26<sup>20976</sup>+7|
+|26|25253|6K<sub>23300</sub>5|(34×26<sup>23301</sup>−79)/5|
 |28|25526|N6<sub>24051</sub>LR|(209×28<sup>24053</sup>+3967)/9|
 |28|25527|5OA<sub>31238</sub>F|(4438×28<sup>31239</sup>+125)/27|
 |28|25528|O4O<sub>94535</sub>9|(6092×28<sup>94536</sup>−143)/9|
 |30|2618|I0<sub>24608</sub>D|18×30<sup>24609</sup>+13|
+|36|35284|7K<sub>26567</sub>Z|(53×36<sup>26568</sup>+101)/7|
+|36|35285|S0<sub>75007</sub>8H|28×36<sup>75009</sup>+305|
+|36|35286|P<sub>81993</sub>SZ|(5×36<sup>81995</sup>+821)/7|
 
 All these numbers are strong probable primes (https://en.wikipedia.org/wiki/Strong_pseudoprime, https://primes.utm.edu/glossary/xpage/StrongPRP.html, https://mathworld.wolfram.com/StrongPseudoprime.html) to bases 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61 (see https://oeis.org/A014233), and strong Lucas probable primes (https://en.wikipedia.org/wiki/Lucas_pseudoprime#Strong_Lucas_pseudoprimes, https://mathworld.wolfram.com/StrongLucasPseudoprime.html) with parameters (*P*, *Q*) defined by Selfridge's Method *A* (see https://oeis.org/A217255), and trial factored to 10<sup>16</sup> (thus, all these numbers are Baillie–PSW probable primes.
 
