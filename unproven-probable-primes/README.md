@@ -36,6 +36,14 @@ If 3<sub>116137</sub>AF (base 16) is in fact composite, then {3}AF will be an ad
 
 If BK<sub>22001</sub>5 (base 22) is in fact composite, then B{K}5 will be an additional unsolved family for base 22.
 
+If 5<sub>19391</sub>6F (base 26) is in fact composite, then {5}6F will be an additional unsolved family for base 26.
+
+If 7<sub>20279</sub>OL (base 26) is in fact composite, then {7}OL will be an additional unsolved family for base 26.
+
+If LD0<sub>20975</sub>7 (base 26) is in fact composite, then LD{0}7 will be an additional unsolved family for base 26.
+
+If 6K<sub>23300</sub>5 (base 26) is in fact composite, then 6{K}5 will be an additional unsolved family for base 26.
+
 If N6<sub>24051</sub>LR (base 28) is in fact composite, then N{6}LR will be an additional unsolved family for base 28.
 
 If 5OA<sub>31238</sub>F (base 28) is in fact composite, then 5O{A}F will be an additional unsolved family for base 28 (unless a prime in the family O{A}F is known, since the family 5O{A}F is covered by the unsolved family O{A}F (if the prime in the family 5O{A}F has longer length than the prime in the family O{A}F) (i.e. the family O{A}F is a subfamily of the family 5O{A}F), and there is still a possibility that the smallest prime in the family 5O{A}F has longer length than the smallest prime in the family O{A}F, thus we still cannot definitely say that there are 25529 minimal primes in base 28 even if we assume the heuristic argument (https://en.wikipedia.org/wiki/Heuristic_argument, https://primes.utm.edu/glossary/xpage/Heuristic.html, https://mathworld.wolfram.com/Heuristic.html) that all unsolved families have a prime).
@@ -43,6 +51,12 @@ If 5OA<sub>31238</sub>F (base 28) is in fact composite, then 5O{A}F will be an a
 If O4O<sub>94535</sub>9 (base 28) is in fact composite, then O4{O}9 will be an additional unsolved family for base 28.
 
 If I0<sub>24608</sub>D (base 30) is in fact composite, then I{0}D will be an additional unsolved family for base 30.
+
+If 7K<sub>26567</sub>Z (base 36) is in fact composite, then 7{K}Z will be an additional unsolved family for base 36.
+
+If S0<sub>75007</sub>8H (base 36) is in fact composite, then S{0}8H will be an additional unsolved family for base 36.
+
+If P<sub>81993</sub>SZ (base 36) is in fact composite, then {P}SZ will be an additional unsolved family for base 36.
 
 The "primoinput" files are the input files for *Primo* (http://www.ellipsa.eu/public/primo/primo.html, http://www.rieselprime.de/dl/Primo309.zip, https://primes.utm.edu/bios/page.php?id=46, https://www.rieselprime.de/ziki/Primo, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/primo-433-lx64) (local copy from *factordb* (http://factordb.com/)), they should be renamed to ".in" files before inputting to *Primo*. (there is no input files for *Primo* for the PRP 95<sub>197420</sub> in base 13 (which equals the PRP (113×13<sup>197420</sup>−5)/12) since this PRP is too large (>10<sup>149999</sup>) to be PRP-tested in *factordb*, and *factordb* does not have input files for *Primo* for numbers with status (http://factordb.com/status.html) "U", *factordb* only has input files for *Primo* for numbers with status "PRP")
 
