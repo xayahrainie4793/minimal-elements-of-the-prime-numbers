@@ -44,6 +44,10 @@ If LD0<sub>20975</sub>7 (base 26) is in fact composite, then LD{0}7 will be an a
 
 If 6K<sub>23300</sub>5 (base 26) is in fact composite, then 6{K}5 will be an additional unsolved family for base 26.
 
+If J0<sub>44303</sub>KCB (base 26) is in fact composite, then J{0}KCB will be an additional unsolved family for base 26.
+
+If M0<sub>61186</sub>2BB (base 26) is in fact composite, then M{0}2BB will be an additional unsolved family for base 26.
+
 If N6<sub>24051</sub>LR (base 28) is in fact composite, then N{6}LR will be an additional unsolved family for base 28.
 
 If 5OA<sub>31238</sub>F (base 28) is in fact composite, then 5O{A}F will be an additional unsolved family for base 28 (unless a prime in the family O{A}F is known, since the family 5O{A}F is covered by the unsolved family O{A}F (if the prime in the family 5O{A}F has longer length than the prime in the family O{A}F) (i.e. the family O{A}F is a subfamily of the family 5O{A}F), and there is still a possibility that the smallest prime in the family 5O{A}F has longer length than the smallest prime in the family O{A}F, thus we still cannot definitely say that there are 25529 minimal primes in base 28 even if we assume the heuristic argument (https://en.wikipedia.org/wiki/Heuristic_argument, https://primes.utm.edu/glossary/xpage/Heuristic.html, https://mathworld.wolfram.com/Heuristic.html) that all unsolved families have a prime).
