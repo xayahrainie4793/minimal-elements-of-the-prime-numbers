@@ -2,6 +2,8 @@ These are the *Primo* (http://www.ellipsa.eu/public/primo/primo.html, http://www
 
 e.g. File "certificate9_149" is the primality certificate for the 149th minimal prime in base 9, i.e. the primality certificate for the prime 76<sub>329</sub>2 in base 9, which equals the prime (31×9<sup>330</sup>−19)/4.
 
+The large minimal primes in base *b* are of the form (*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1) for some *a*, *b*, *c*, *n* such that *a* ≥ 1, *b* ≥ 2 (*b* is the base), *c* ≠ 0, *gcd*(*a*,*c*) = 1, *gcd*(*b*,*c*) = 1. The large numbers (i.e. numbers with large *n*) can be easily proven primes if and only if *c* = ±1 and *gcd*(*a*+*c*,*b*−1) = 1.
+
 Primes which either *N*−1 or *N*+1 is trivially fully factored (i.e. primes of the form *k*×*b*<sup>*n*</sup>±1, with small *k*) do not need primality certificates, since they can be easily proven primes using *N*−1 test (https://primes.utm.edu/prove/prove3_1.html) or *N*+1 test (https://primes.utm.edu/prove/prove3_2.html), these primes are:
 
 the 3176th minimal prime in base 13, 81010<sub>415</sub>1, which equals 17746×13<sup>416</sup>+1, *N*−1 is trivially fully factored
