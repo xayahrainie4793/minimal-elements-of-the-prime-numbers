@@ -193,6 +193,10 @@ Some *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base
 |20|C{J}|always divisible by some element of {3,7}<br>divisible by 3 if the length is odd, divisible by 7 if the length is even|
 |20|1{0}D|always divisible by some element of {3,7}<br>divisible by 3 if the length is even, divisible by 7 if the length is odd|
 |20|{J}7|always divisible by some element of {3,7}<br>divisible by 3 if the length is even, divisible by 7 if the length is odd|
+|25|D{1}|always divisible by some element of {2,13}<br>divisible by 2 if the length is even, divisible by 13 if the length is odd|
+|25|E{1}|always divisible by some element of {2,13}<br>divisible by 2 if the length is odd, divisible by 13 if the length is even|
+|25|1E{1}|always divisible by some element of {2,13}<br>divisible by 2 if the length is odd, divisible by 13 if the length is even|
+|25|1F{1}|always divisible by some element of {2,13}<br>divisible by 2 if the length is even, divisible by 13 if the length is odd|
 |32|A{0}1|always divisible by some element of {3,11}<br>divisible by 3 if the length is even, divisible by 11 if the length is odd|
 |32|N{0}1|always divisible by some element of {3,11}<br>divisible by 3 if the length is odd, divisible by 11 if the length is even|
 |32|9{V}|always divisible by some element of {3,11}<br>divisible by 3 if the length is odd, divisible by 11 if the length is even|
@@ -254,7 +258,9 @@ Some *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base
 |25|C{1}|difference-of-squares factorization<br>(289×25<sup>*n*</sup>−1)/24 = (17×5<sup>*n*</sup>−1) × (17×5<sup>*n*</sup>+1) / 24|
 |25|F{1}|difference-of-squares factorization<br>(361×25<sup>*n*</sup>−1)/24 = (19×5<sup>*n*</sup>−1) × (19×5<sup>*n*</sup>+1) / 24|
 |25|M{1}|difference-of-squares factorization<br>(529×25<sup>*n*</sup>−1)/24 = (23×5<sup>*n*</sup>−1) × (23×5<sup>*n*</sup>+1) / 24|
-|25|1F{1}|difference-of-squares factorization<br>(961×25<sup>*n*</sup>−1)/24 = (31×5<sup>*n*</sup>−1) × (31×5<sup>*n*</sup>+1) / 24|
+|25|27{1}|difference-of-squares factorization<br>(1369×25<sup>*n*</sup>−1)/24 = (37×5<sup>*n*</sup>−1) × (37×5<sup>*n*</sup>+1) / 24|
+|25|7C{1}|difference-of-squares factorization<br>(4489×25<sup>*n*</sup>−1)/24 = (67×5<sup>*n*</sup>−1) × (67×5<sup>*n*</sup>+1) / 24|
+|25|D5{1}|difference-of-squares factorization<br>(7921×25<sup>*n*</sup>−1)/24 = (89×5<sup>*n*</sup>−1) × (89×5<sup>*n*</sup>+1) / 24|
 |25|1{3}|difference-of-squares factorization<br>(9×25<sup>*n*</sup>−1)/8 = (3×5<sup>*n*</sup>−1) × (3×5<sup>*n*</sup>+1) / 8|
 |25|1{8}|difference-of-squares factorization<br>(4×25<sup>*n*</sup>−1)/3 = (2×5<sup>*n*</sup>−1) × (2×5<sup>*n*</sup>+1) / 3|
 |25|5{8}|difference-of-squares factorization<br>(16×25<sup>*n*</sup>−1)/3 = (4×5<sup>*n*</sup>−1) × (4×5<sup>*n*</sup>+1) / 3|
