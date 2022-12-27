@@ -520,6 +520,9 @@ Primality certificates (https://en.wikipedia.org/wiki/Primality_certificate, htt
 |28|25507|J<sub>363</sub>H|(19×28<sup>364</sup>−73)/27|http://factordb.com/cert.php?id=1100000002611724460|
 |28|25508|4B<sub>381</sub>|(119×28<sup>381</sup>−11)/27|http://factordb.com/cert.php?id=1100000002611724588|
 |28|25509|EB0<sub>405</sub>1|403×28<sup>406</sup>+1|proven prime by *N*−1 test (https://primes.utm.edu/prove/prove3_1.html), since *N*−1 is trivially fully factored|
+|28|25510|AN<sub>461</sub>|(293×28<sup>461</sup>−23)/27|http://factordb.com/cert.php?id=1100000002611724556|
+|28|25511|4O<sub>614</sub>09|(44×28<sup>616</sup>−6191)/9|http://factordb.com/cert.php?id=1100000000840839989|
+|28|25512|2D<sub>641</sub>|(67×28<sup>641</sup>−13)/27|http://factordb.com/cert.php?id=1100000002611725341|
 |28|25513|70<sub>748</sub>M5|7×28<sup>750</sup>+621|http://factordb.com/cert.php?id=1100000003850161956|
 |28|25514|4A0<sub>804</sub>B|122×28<sup>805</sup>+11|http://factordb.com/cert.php?id=1100000003850161957|
 |28|25515|LK<sub>925</sub>F|(587×28<sup>926</sup>−155)/27|http://factordb.com/cert.php?id=1100000000840839978|
