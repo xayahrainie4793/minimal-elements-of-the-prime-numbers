@@ -369,7 +369,7 @@ There are also unproven probable primes (however, in this project our results as
 |13|3194|C5<sub>23755</sub>C|(149×13<sup>23756</sup>+79)/12|
 |13|3195|80<sub>32017</sub>111|8×13<sup>32020</sup>+183|
 |13|3196|95<sub>197420</sub>|(113×13<sup>197420</sup>−5)/12|
-|16|2345|DB<sub>32234</sub>|206×16<sup>32234</sup>−11)/15|
+|16|2345|DB<sub>32234</sub>|(206×16<sup>32234</sup>−11)/15|
 |16|2346|4<sub>72785</sub>DD|(4×16<sup>72787</sup>+2291)/15|
 |16|2347|3<sub>116137</sub>AF|(16<sup>116139</sup>+619)/5|
 |22|8003|BK<sub>22001</sub>5|(251×22<sup>22002</sup>−335)/21|
