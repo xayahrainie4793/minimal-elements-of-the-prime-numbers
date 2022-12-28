@@ -720,7 +720,8 @@ List of small primes:
 15. https://www.walter-fendt.de/html5/men/primenumbers_en.htm
 16. http://www.rsok.com/~jrm/printprimes.html
 17. https://jocelyn.quizz.chat/np/cache/index.html
-18. https://en.wikipedia.org/wiki/List_of_prime_numbers#The_first_1000_prime_numbers
+18. https://faculty.lynchburg.edu/~nicely/gaps/gaplist.html (the longest list ever calculated (but unlikely other lists here, not all stored), see https://primes.utm.edu/notes/faq/LongestList.html)
+19. https://en.wikipedia.org/wiki/List_of_prime_numbers#The_first_1000_prime_numbers
 
 Lists of factorizations of small integers:
 
