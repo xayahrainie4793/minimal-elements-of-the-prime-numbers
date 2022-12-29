@@ -47,7 +47,7 @@ The third reason for excluding the primes ≤ *b* is that starting with *b*+1 ma
 This problem covers finding the smallest prime of these forms in the same base *b* (or proving that such prime does not exist): (while the original minimal prime problem does not cover some of these forms for some bases (or all bases) *b*)
 
 |family|smallest allowed *n*|*OEIS* sequences for the smallest *n* such that this form is prime|references
-|:---|:---|:---|:---|
+|---|---|---|---|
 |(*b*<sup>*n*</sup>−1)/(*b*−1)|2|https://oeis.org/A084740<br>https://oeis.org/A084738 (corresponding primes)<br>https://oeis.org/A065854 (prime *b*)<br>https://oeis.org/A279068 (prime *b*, corresponding primes)<br>https://oeis.org/A128164 (*n* = 2 not allowed)<br>https://oeis.org/A285642 (*n* = 2 not allowed, corresponding primes)|http://www.fermatquotient.com/PrimSerien/GenRepu.txt<br>https://web.archive.org/web/20021111141203/http://www.users.globalnet.co.uk/~aads/primes.html<br>http://www.primenumbers.net/Henri/us/MersFermus.htm<br>https://www.ams.org/journals/mcom/1993-61-204/S0025-5718-1993-1185243-9/S0025-5718-1993-1185243-9.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_4.pdf)|
 |*b*<sup>*n*</sup>+1|1|https://oeis.org/A228101 (*log*<sub>2</sub> of *n*)<br>https://oeis.org/A079706<br>https://oeis.org/A084712 (corresponding primes)<br>https://oeis.org/A123669 (*n* = 1 not allowed, corresponding primes)|http://jeppesn.dk/generalized-fermat.html<br>http://www.noprimeleftbehind.net/crus/GFN-primes.htm<br>http://yves.gallot.pagesperso-orange.fr/primes/index.html<br>http://yves.gallot.pagesperso-orange.fr/primes/results.html<br>http://yves.gallot.pagesperso-orange.fr/primes/stat.html|
 |(*b*<sup>*n*</sup>+1)/2 (for odd *b*)|2||http://www.fermatquotient.com/PrimSerien/GenFermOdd.txt|
@@ -88,7 +88,7 @@ In fact, this problem covers finding the smallest prime of these form in the sam
 Some *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base *b*, *y* is a digit in base *b*) families can be proven to contain no primes > *b*, by covering congruence (http://irvinemclean.com/maths/siercvr.htm, http://web.archive.org/web/20060925100410/http://www.glasgowg43.freeserve.co.uk/siernums.htm, https://en.wikipedia.org/wiki/Covering_set, https://mathworld.wolfram.com/SierpinskisCompositeNumberTheorem.html), algebraic factorization (https://en.wikipedia.org/wiki/Factorization_of_polynomials, https://mathworld.wolfram.com/PolynomialFactorization.html), or combine of them, e.g. (only list the families which all numbers do not contain "prime > *b*" subsequence) (see post https://mersenneforum.org/showpost.php?p=594923&postcount=231 for the factor pattern for some of these families) (for the case of covering congruence, we can show that the corresponding numbers are > all elements in the sets if the corresponding numbers are > *b*, thus these factorizations are nontrivial; and for the case of algebraic factorization, we can show that both factors are > 1 if the corresponding numbers are > *b*, thus these factorizations are nontrivial; for the case of combine of them, we can show that for the part of covering congruence, the corresponding numbers are > all elements in the sets if the corresponding numbers are > *b*, and for the part of algebraic factorization, both factors are > 1 if the corresponding numbers are > *b*, thus these factorizations are nontrivial)
 
 |*b*|family|why this family contain no primes > *b*|
-|:---|:---|:---|
+|---|---|---|
 |10|2{0}1|always divisible by 3|
 |10|2{0}7|always divisible by 3<br>(in fact, always divisible by 9)|
 |10|5{0}1|always divisible by 3|
@@ -342,7 +342,7 @@ Some *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base
 Also families which contain only one very small prime > *b*:
 
 |*b*|family|why this family contains only one prime > *b*|
-|:---|:---|:---|
+|---|---|---|
 |27|2{0}J|always divisible by some element of {5,7,73}<br>but 2J is prime, and 2J is the only prime > *b* in this family<br>divisible by 7 if the length is odd, divisible by 5 if the length is == 0 mod 4, divisible by 73 if the length is == 2 mod 4|
 |4|{1}|difference-of-squares factorization<br>but 11 is prime, and 11 is the only prime > *b* in this family<br>(4<sup>*n*</sup>−1)/3 = (2<sup>*n*</sup>−1) × (2<sup>*n*</sup>+1) / 3|
 |8|{1}|difference-of-cubes factorization<br>but 111 is prime, and 111 is the only prime > *b* in this family<br>(8<sup>*n*</sup>−1)/7 = (2<sup>*n*</sup>−1) × (4<sup>*n*</sup>+2<sup>*n*</sup>+1) / 7|
@@ -370,7 +370,7 @@ We are unable to determine if the families *x*{*y*}*z* (where *x* and *z* are st
 There are also unproven probable primes (however, in this project our results assume that they are in fact primes, since they are > 10<sup>25000</sup> and the probability that they are in fact composite is < 10<sup>−2000</sup>, see https://primes.utm.edu/notes/prp_prob.html), the unproven probable primes for bases *b* = 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 18, 20, 22, 24, 26, 28, 30, 36 (the solved or near-solved bases, i.e. the bases *b* with ≤ 10 unsolved families) are:
 
 |*b*|index of this minimal prime in base *b* (assuming the primality of all probable primes in base *b*)|base-*b* form of the unproven probable prime|algebraic ((*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1)) form of the unproven probable prime|
-|:---|:---|:---|:---|
+|---|---|---|---|
 |11|1068|57<sub>62668</sub>|(57×11<sup>62668</sup>−7)/10|
 |13|3194|C5<sub>23755</sub>C|(149×13<sup>23756</sup>+79)/12|
 |13|3195|80<sub>32017</sub>111|8×13<sup>32020</sup>+183|
@@ -396,7 +396,7 @@ All these numbers are strong probable primes (https://en.wikipedia.org/wiki/Stro
 Primality certificates (https://en.wikipedia.org/wiki/Primality_certificate, https://primes.utm.edu/glossary/xpage/Certificate.html, https://mathworld.wolfram.com/PrimalityCertificate.html) for large proven primes (> 10<sup>299</sup>) for bases *b* = 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 18, 20, 22, 24, 26, 28, 30, 36 (the solved or near-solved bases, i.e. the bases *b* with ≤ 10 unsolved families):
 
 |*b*|index of this minimal prime in base *b*|base-*b* form of the minimal prime|algebraic ((*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1)) form of the minimal prime|primality certificate for the minimal prime|
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 |9|149|76<sub>329</sub>2|(31×9<sup>330</sup>−19)/4|http://factordb.com/cert.php?id=1100000002359003642|
 |9|150|27<sub>686</sub>07|(23×9<sup>688</sup>−511)/8|http://factordb.com/cert.php?id=1100000002495467486|
 |9|151|30<sub>1158</sub>11|3×9<sup>1160</sup>+10|http://factordb.com/cert.php?id=1100000002376318423|
@@ -546,7 +546,7 @@ Primality certificates (https://en.wikipedia.org/wiki/Primality_certificate, htt
 Condensed table for bases 2 ≤ *b* ≤ 36: (the bases *b* = 11, 13, 16, 17, 19, 21\~23, 25\~36 data assumes the primality of the probable primes) (This data assumes that a number > 10<sup>25000</sup> which has passed the Miller–Rabin primality tests to all prime bases *p* < 64 and has passed the Baillie–PSW primality test and has trial factored to 10<sup>16</sup> is in fact prime, since in some cases (e.g. *b* = 11) a candidate for minimal prime base *b* is too large to be proven prime rigorously)
 
 |*b*|number of minimal primes base *b*|base-*b* form of the top 10 known minimal prime base *b* (write "*d*<sub>*n*</sub>" if there are 5 or more (*n*) consecutive same digits *d*)|length of the top 10 known minimal prime base *b*|algebraic ((*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1)) form of the top 10 known minimal prime base *b*|number of unsolved families in base *b*|searching limit of length for the unsolved families in base *b* (if there are different searching limits for the unsolved families in base *b*, choose the lowest searching limit)
-|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|
 |2|1|11|2|3|0|–|
 |3|3|111<br>21<br>12|3<br>2<br>2|13<br>7<br>5|0|–|
 |4|5|221<br>31<br>23<br>13<br>11|3<br>2<br>2<br>2<br>2|41<br>13<br>11<br>7<br>5|0|–|
