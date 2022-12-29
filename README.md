@@ -701,9 +701,10 @@ Base converters:
 7. http://www.kwuntung.net/hkunit/base/base.php (in Chinese)
 8. https://linesegment.web.fc2.com/application/math/numbers/RadixConversion.html (in Japanese)
 
-Expression generator (only support base 10 forms):
+Expression generators:
 
-1. https://stdkmd.net/nrr/exprgen.htm
+1. https://stdkmd.net/nrr/exprgen.htm (only support base 10 forms)
+2. https://www.numberempire.com/simplifyexpression.php (e.g. for the form 5{7} in base 11, type "5\*11^n+7\*(11^n-1)/10")
 
 List of small primes:
 
