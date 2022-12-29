@@ -701,6 +701,10 @@ Base converters:
 7. http://www.kwuntung.net/hkunit/base/base.php (in Chinese)
 8. https://linesegment.web.fc2.com/application/math/numbers/RadixConversion.html (in Japanese)
 
+Expression generator (only support base 10 forms):
+
+1. https://stdkmd.net/nrr/exprgen.htm
+
 List of small primes:
 
 1. https://primes.utm.edu/lists/small/1000.txt
