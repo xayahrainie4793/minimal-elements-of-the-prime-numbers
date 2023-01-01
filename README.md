@@ -436,7 +436,7 @@ Primality certificates (https://en.wikipedia.org/wiki/Primality_certificate, htt
 |13|3193|C<sub>10631</sub>92|13<sup>10633</sup>−50|http://factordb.com/index.php?id=1100000003590493750|http://factordb.com/cert.php?id=1100000003590493750|
 |14|649|34D<sub>708</sub>|47×14<sup>708</sup>−1|http://factordb.com/index.php?id=1100000001540144903|proven prime by *N*+1 test (https://primes.utm.edu/prove/prove3_2.html), since *N*+1 is trivially fully factored|
 |14|650|4D<sub>19698</sub>|5×14<sup>19698</sup>−1|http://factordb.com/index.php?id=1100000000884560233|proven prime by *N*+1 test (https://primes.utm.edu/prove/prove3_2.html), since *N*+1 is trivially fully factored|
-|16|2328|880<sub>246</sub>7|136×16<sup>247</sup>+7|http://factordb.com/index.php?id=1100000002468140199|proven prime by *N*−1 test (https://primes.utm.edu/prove/prove3_1.html), *N*−1 is 2<sup>3</sup>×3×7×13×25703261×(289-digit prime)
+|16|2328|880<sub>246</sub>7|136×16<sup>247</sup>+7|http://factordb.com/index.php?id=1100000002468140199|proven prime by *N*−1 test (https://primes.utm.edu/prove/prove3_1.html), *N*−1 is 2<sup>3</sup>×3×7×13×25703261×(289-digit prime)|
 |16|2329|D4<sub>263</sub>D|(199×16<sup>264</sup>+131)/15|http://factordb.com/index.php?id=1100000002468170238|http://factordb.com/cert.php?id=1100000002468170238|
 |16|2330|E0<sub>261</sub>4DD|14×16<sup>264</sup>+1245|http://factordb.com/index.php?id=1100000003588388352|http://factordb.com/cert.php?id=1100000003588388352|
 |16|2331|8C0<sub>290</sub>ED|140×16<sup>292</sup>+237|http://factordb.com/index.php?id=1100000003588388307|http://factordb.com/cert.php?id=1100000003588388307|
@@ -499,6 +499,7 @@ Primality certificates (https://en.wikipedia.org/wiki/Primality_certificate, htt
 |24|3407|A0<sub>2951</sub>8ID|10×24<sup>2954</sup>+5053|http://factordb.com/cert.php?id=1100000003593269654|
 |24|3408|88N<sub>5951</sub>|201×24<sup>5951</sup>−1|proven prime by *N*+1 test (https://primes.utm.edu/prove/prove3_2.html), since *N*+1 is trivially fully factored|
 |24|3409|N00N<sub>8129</sub>LN|13249×24<sup>8131</sup>−49|http://factordb.com/cert.php?id=1100000003593391606|
+|28|25485|JN<sub>206</sub>|(536×28<sup>206</sup>−23)/27|proven prime by *N*−1 test (https://primes.utm.edu/prove/prove3_1.html), *N*−1 is 2×1061×1171×74311×(289-digit prime)|
 |28|25486|3<sub>211</sub>M9|(28<sup>213</sup>+4841)/9|http://factordb.com/cert.php?id=1100000003850161936|
 |28|25487|HD0<sub>213</sub>D|489×28<sup>214</sup>+13|http://factordb.com/cert.php?id=1100000003850161937|
 |28|25488|64O<sub>217</sub>9|(1556×28<sup>218</sup>−143)/9|http://factordb.com/cert.php?id=1100000000840840215|
