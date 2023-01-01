@@ -598,11 +598,17 @@ Condensed table for bases 2 ≤ *b* ≤ 36: (the bases *b* = 11, 13, 16, 17, 19,
 |35|||||||
 |36|35286\~35290|P<sub>81993</sub>SZ<br>S0<sub>75007</sub>8H<br>7K<sub>26567</sub>Z<br>J<sub>10117</sub>LJ<br>VL0<sub>7258</sub>J<br>EO0<sub>6177</sub>V<br>FZ<sub>5777</sub>3P<br>T09<sub>4618</sub>1<br>RY<sub>4562</sub>H<br>OZ<sub>3932</sub>AZ|81995<br>75010<br>26569<br>10119<br>7261<br>6180<br>5780<br>4621<br>4564<br>3935|(5×36<sup>81995</sup>+821)/7<br>28×36<sup>75009</sup>+305<br>(53×36<sup>26568</sup>+101)/7<br>(19×36<sup>10119</sup>+2501)/35<br>1137×36<sup>7259</sup>+19<br>528×36<sup>6178</sup>+31<br>16×36<sup>5779</sup>−1163<br>(36549×36<sup>4619</sup>−289)/35<br>(979×36<sup>4563</sup>−629)/35<br>25×36<sup>3934</sup>−901|4|100000|
 
-Related links:
+Links for top (probable) primes:
 
 https://primes.utm.edu/primes/lists/all.txt (top definitely primes)
 
+https://primes.utm.edu/primes/lists/all.pdf (top definitely primes, pdf version)
+
 https://primes.utm.edu/primes/lists/short.txt (definitely primes with ≥ 800000 decimal digits)
+
+https://primes.utm.edu/primes/lists/short.pdf (definitely primes with ≥ 800000 decimal digits, pdf version)
+
+https://primes.utm.edu/primes/search.php?OnList=all&Number=1000000&Style=HTML (all numbers in the list of top definitely primes)
 
 https://primes.utm.edu/primes/download.php (index page of top definitely primes)
 
@@ -612,9 +618,19 @@ https://primes.utm.edu/primes/search.php?Advanced=1 (advanced search page of top
 
 https://primes.utm.edu/primes/search_proth.php (search page of top definitely primes of the form *k*×*b*<sup>*n*</sup>±1)
 
+https://primes.utm.edu/bios/newprover.php (submit page of top definitely primes, create a new prover account)
+
+https://primes.utm.edu/bios/newcode.php (submit page of top definitely primes, create a new prover code)
+
+https://primes.utm.edu/bios/index.php (index of the provers and programs and projects of top definitely primes)
+
 http://www.primenumbers.net/prptop/prptop.php (top probable primes)
 
 http://www.primenumbers.net/prptop/searchform.php (search page of top probable primes)
+
+http://www.primenumbers.net/prptop/searchform.php?form=%3F&action=Search (all numbers in the list of top probable primes)
+
+http://www.primenumbers.net/prptop/submit.php (submit page of top probable primes)
 
 Other researches for the digits of the primes:
 
