@@ -371,33 +371,33 @@ We are unable to determine if the families *x*{*y*}*z* (where *x* and *z* are st
 
 There are also unproven probable primes (however, in this project our results assume that they are in fact primes, since they are > 10<sup>25000</sup> and the probability that they are in fact composite is < 10<sup>−2000</sup>, see https://primes.utm.edu/notes/prp_prob.html), the unproven probable primes for bases *b* = 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 18, 20, 22, 24, 26, 28, 30, 36 (the solved or near-solved bases, i.e. the bases *b* with ≤ 10 unsolved families) are:
 
-|*b*|index of this minimal prime in base *b* (assuming the primality of all probable primes in base *b*)|base-*b* form of the unproven probable prime|algebraic ((*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1)) form of the unproven probable prime|
-|---|---|---|---|
-|11|1068|57<sub>62668</sub>|(57×11<sup>62668</sup>−7)/10|
-|13|3194|C5<sub>23755</sub>C|(149×13<sup>23756</sup>+79)/12|
-|13|3195|80<sub>32017</sub>111|8×13<sup>32020</sup>+183|
-|13|3196|95<sub>197420</sub>|(113×13<sup>197420</sup>−5)/12|
-|16|2345|DB<sub>32234</sub>|(206×16<sup>32234</sup>−11)/15|
-|16|2346|4<sub>72785</sub>DD|(4×16<sup>72787</sup>+2291)/15|
-|16|2347|3<sub>116137</sub>AF|(16<sup>116139</sup>+619)/5|
-|22|8003|BK<sub>22001</sub>5|(251×22<sup>22002</sup>−335)/21|
-|26|25250|5<sub>19391</sub>6F|(26<sup>19393</sup>+179)/5|
-|26|25251|7<sub>20279</sub>OL|(7×26<sup>20281</sup>+11393)/25|
-|26|25252|LD0<sub>20975</sub>7|559×26<sup>20976</sup>+7|
-|26|25253|6K<sub>23300</sub>5|(34×26<sup>23301</sup>−79)/5|
-|28|25526|N6<sub>24051</sub>LR|(209×28<sup>24053</sup>+3967)/9|
-|28|25527|5OA<sub>31238</sub>F|(4438×28<sup>31239</sup>+125)/27|
-|28|25528|O4O<sub>94535</sub>9|(6092×28<sup>94536</sup>−143)/9|
-|30|2618|I0<sub>24608</sub>D|18×30<sup>24609</sup>+13|
-|36|35284|7K<sub>26567</sub>Z|(53×36<sup>26568</sup>+101)/7|
-|36|35285|S0<sub>75007</sub>8H|28×36<sup>75009</sup>+305|
-|36|35286|P<sub>81993</sub>SZ|(5×36<sup>81995</sup>+821)/7|
+|*b*|index of this minimal prime in base *b* (assuming the primality of all probable primes in base *b*)|base-*b* form of this unproven probable prime|algebraic ((*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1)) form of this unproven probable prime|*factordb* entry of this unproven probable prime|
+|---|---|---|---|---|
+|11|1068|57<sub>62668</sub>|(57×11<sup>62668</sup>−7)/10|http://factordb.com/index.php?id=1100000003573679860|
+|13|3194|C5<sub>23755</sub>C|(149×13<sup>23756</sup>+79)/12|http://factordb.com/index.php?id=1100000003590647776|
+|13|3195|80<sub>32017</sub>111|8×13<sup>32020</sup>+183|http://factordb.com/index.php?id=1100000000490878060|
+|13|3196|95<sub>197420</sub>|(113×13<sup>197420</sup>−5)/12|http://factordb.com/index.php?id=1100000003943359311|
+|16|2345|DB<sub>32234</sub>|(206×16<sup>32234</sup>−11)/15|http://factordb.com/index.php?id=1100000002383583629|
+|16|2346|4<sub>72785</sub>DD|(4×16<sup>72787</sup>+2291)/15|http://factordb.com/index.php?id=1100000003615909841|
+|16|2347|3<sub>116137</sub>AF|(16<sup>116139</sup>+619)/5|http://factordb.com/index.php?id=1100000003851731988|
+|22|8003|BK<sub>22001</sub>5|(251×22<sup>22002</sup>−335)/21|http://factordb.com/index.php?id=1100000003594696838|
+|26|25250|5<sub>19391</sub>6F|(26<sup>19393</sup>+179)/5|http://factordb.com/index.php?id=1100000003850151202|
+|26|25251|7<sub>20279</sub>OL|(7×26<sup>20281</sup>+11393)/25|http://factordb.com/index.php?id=1100000003892628605|
+|26|25252|LD0<sub>20975</sub>7|559×26<sup>20976</sup>+7|http://factordb.com/index.php?id=1100000003892628658|
+|26|25253|6K<sub>23300</sub>5|(34×26<sup>23301</sup>−79)/5|http://factordb.com/index.php?id=1100000003892628745|
+|28|25526|N6<sub>24051</sub>LR|(209×28<sup>24053</sup>+3967)/9|http://factordb.com/index.php?id=1100000003879667576|
+|28|25527|5OA<sub>31238</sub>F|(4438×28<sup>31239</sup>+125)/27|http://factordb.com/index.php?id=1100000003880455200|
+|28|25528|O4O<sub>94535</sub>9|(6092×28<sup>94536</sup>−143)/9|http://factordb.com/index.php?id=1100000000808118231|
+|30|2618|I0<sub>24608</sub>D|18×30<sup>24609</sup>+13|http://factordb.com/index.php?id=1100000003593967511|
+|36|35284|7K<sub>26567</sub>Z|(53×36<sup>26568</sup>+101)/7|http://factordb.com/index.php?id=1100000003896952461|
+|36|35285|S0<sub>75007</sub>8H|28×36<sup>75009</sup>+305|http://factordb.com/index.php?id=1100000004020085177|
+|36|35286|P<sub>81993</sub>SZ|(5×36<sup>81995</sup>+821)/7|http://factordb.com/index.php?id=1100000002394962083|
 
 All these numbers are strong probable primes (https://en.wikipedia.org/wiki/Strong_pseudoprime, https://primes.utm.edu/glossary/xpage/StrongPRP.html, https://mathworld.wolfram.com/StrongPseudoprime.html) to bases 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61 (see https://oeis.org/A014233), and strong Lucas probable primes (https://en.wikipedia.org/wiki/Lucas_pseudoprime#Strong_Lucas_pseudoprimes, https://mathworld.wolfram.com/StrongLucasPseudoprime.html) with parameters (*P*, *Q*) defined by Selfridge's Method *A* (see https://oeis.org/A217255), and trial factored to 10<sup>16</sup> (thus, all these numbers are Baillie–PSW probable primes.
 
 Primality certificates (https://en.wikipedia.org/wiki/Primality_certificate, https://primes.utm.edu/glossary/xpage/Certificate.html, https://mathworld.wolfram.com/PrimalityCertificate.html, http://factordb.com/certoverview.php) for large proven primes (> 10<sup>299</sup>) for bases *b* = 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 18, 20, 22, 24, 26, 28, 30, 36 (the solved or near-solved bases, i.e. the bases *b* with ≤ 10 unsolved families):
 
-|*b*|index of this minimal prime in base *b*|base-*b* form of the minimal prime|algebraic ((*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1)) form of the minimal prime|primality certificate for the minimal prime|
+|*b*|index of this minimal prime in base *b*|base-*b* form of this minimal prime|algebraic ((*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1)) form of this minimal prime|primality certificate for this minimal prime|
 |---|---|---|---|---|
 |9|149|76<sub>329</sub>2|(31×9<sup>330</sup>−19)/4|http://factordb.com/cert.php?id=1100000002359003642|
 |9|150|27<sub>686</sub>07|(23×9<sup>688</sup>−511)/8|http://factordb.com/cert.php?id=1100000002495467486|
