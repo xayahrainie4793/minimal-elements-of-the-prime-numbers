@@ -735,8 +735,9 @@ Base converters:
 4. https://www.cut-the-knot.org/Curriculum/Algorithms/BaseConversion.shtml
 5. http://www.tonymarston.net/php-mysql/converter.html
 6. http://math.fau.edu/Richman/mla/convert.htm
-7. http://www.kwuntung.net/hkunit/base/base.php (in Chinese)
-8. https://linesegment.web.fc2.com/application/math/numbers/RadixConversion.html (in Japanese)
+7. https://web.archive.org/web/20190629223750/http://thedevtoolkit.com/tools/base_conversion
+8. http://www.kwuntung.net/hkunit/base/base.php (in Chinese)
+9. https://linesegment.web.fc2.com/application/math/numbers/RadixConversion.html (in Japanese)
 
 Expression generators:
 
