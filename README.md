@@ -528,7 +528,7 @@ Primality certificates (https://en.wikipedia.org/wiki/Primality_certificate, htt
 |26|25177|6J<sub>225</sub>|(169×26<sup>225</sup>−19)/25|http://factordb.com/index.php?id=1100000002328050895|http://factordb.com/cert.php?id=1100000002328050895|
 |26|25178|O<sub>228</sub>5|(24×26<sup>229</sup>−499)/5|http://factordb.com/index.php?id=1100000002328059255|http://factordb.com/cert.php?id=1100000002328059255|
 |26|25179|K0<sub>230</sub>K0IP|20×26<sup>234</sup>+352013|http://factordb.com/index.php?id=1100000000840631669|http://factordb.com/cert.php?id=1100000000840631669|
-|26|25180|B0<sub>236</sub>OB|11×26<sup>238</sup>635|http://factordb.com/index.php?id=1100000002634136234|http://factordb.com/cert.php?id=1100000002634136234|
+|26|25180|B0<sub>236</sub>OB|11×26<sup>238</sup>+635|http://factordb.com/index.php?id=1100000002634136234|http://factordb.com/cert.php?id=1100000002634136234|
 |28|25485|JN<sub>206</sub>|(536×28<sup>206</sup>−23)/27|proven prime by *N*−1 test (https://primes.utm.edu/prove/prove3_1.html), *N*−1 is 2×1061×1171×74311×(289-digit prime)|
 |28|25486|3<sub>211</sub>M9|(28<sup>213</sup>+4841)/9|http://factordb.com/cert.php?id=1100000003850161936|
 |28|25487|HD0<sub>213</sub>D|489×28<sup>214</sup>+13|http://factordb.com/cert.php?id=1100000003850161937|
