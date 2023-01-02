@@ -768,7 +768,7 @@ List of small primes:
 21. https://web.archive.org/web/20201130071856/http://www.mathematical.com/primelist1to100kk.html
 22. https://web.archive.org/web/20191118082053/http://www.tsm-resources.com/alists/prim.html
 23. https://web.archive.org/web/20090917191047/http://planetmath.org/encyclopedia/FirstThousandPositivePrimeNumbers.html
-24. https://faculty.lynchburg.edu/~nicely/gaps/gaplist.html (the longest list ever calculated (but unlikely other lists here, the primes are not all stored), see https://primes.utm.edu/notes/faq/LongestList.html)
+24. https://faculty.lynchburg.edu/~nicely/gaps/gaplist.html (the longest list ever calculated, with all primes < 2<sup>64</sup> (but unlikely other lists here, the primes are not all stored), see https://primes.utm.edu/notes/faq/LongestList.html)
 25. https://en.wikipedia.org/wiki/List_of_prime_numbers#The_first_1000_prime_numbers
 
 Lists of factorizations of small integers:
