@@ -744,7 +744,7 @@ Integer factorizers:
 12. https://web.archive.org/web/20161004191531/http://britton.disted.camosun.bc.ca/jbprimefactor.htm
 13. http://wims.unice.fr/~wims/en_tool~algebra~factor.en.html
 14. http://www.analyzemath.com/Calculators_3/prime_factors.html
-15. http://www.proftnj.com/calcprem.htm
+15. http://www.proftnj.com/calcprem.htm (in French)
 
 Base converters:
 
