@@ -643,11 +643,15 @@ https://primes.utm.edu/primes/search.php?OnList=all&Number=1000000&Style=HTML (a
 
 https://primes.utm.edu/primes/download.php (index page of top definitely primes)
 
+https://primes.utm.edu/largest.html (the information page of top definitely primes)
+
 https://primes.utm.edu/primes/search.php (search page of top definitely primes)
 
 https://primes.utm.edu/primes/search.php?Advanced=1 (advanced search page of top definitely primes)
 
 https://primes.utm.edu/primes/search_proth.php (search page of top definitely primes of the form *k*×*b*<sup>*n*</sup>±1)
+
+https://primes.utm.edu/top20/index.php (the top 20 definitely primes of certain selected forms)
 
 https://primes.utm.edu/bios/newprover.php (submit page of top definitely primes, create a new prover account)
 
@@ -657,11 +661,15 @@ https://primes.utm.edu/bios/index.php (index of the provers and programs and pro
 
 http://www.primenumbers.net/prptop/prptop.php (top probable primes)
 
+http://www.primenumbers.net/prptop/latest.php (recently found top probable primes)
+
 http://www.primenumbers.net/prptop/searchform.php (search page of top probable primes)
 
 http://www.primenumbers.net/prptop/searchform.php?form=%3F&action=Search (all numbers in the list of top probable primes)
 
 http://www.primenumbers.net/prptop/submit.php (submit page of top probable primes)
+
+http://www.primenumbers.net/prptop/topdisc.php (index of the provers of top probable primes)
 
 Other researches for the digits of the primes:
 
