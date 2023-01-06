@@ -670,6 +670,8 @@ https://primes.utm.edu/primes/search.php?Advanced=1 (advanced search page of top
 
 https://primes.utm.edu/primes/search_proth.php (search page of top definitely primes of the form *k*×*b*<sup>*n*</sup>±1)
 
+https://primes.utm.edu/primes/status.php (verification status page of top definitely primes)
+
 https://primes.utm.edu/top20/index.php (the top 20 definitely primes of certain selected forms)
 
 https://primes.utm.edu/bios/newprover.php (submit page of top definitely primes, create a new prover account)
