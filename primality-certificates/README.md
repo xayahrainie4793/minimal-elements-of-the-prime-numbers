@@ -45,4 +45,4 @@ Although these numbers also have *N*−1 or *N*+1 is product of a Cunningham num
 
 For the files in this page:
 
-File "certificate *b* *n*": The primality certificate for the *n*th minimal prime in base *b* (local copy from *factordb* (http://factordb.com/)), after downloading these files, these files should be renamed to ".out" files, e.g. file "certificate9_149" is the primality certificate for the 149th minimal prime in base 9, i.e. the primality certificate for the prime 76<sub>329</sub>2 in base 9, which equals the prime (31×9<sup>330</sup>−19)/4.
+* File "certificate *b* *n*": The primality certificate for the *n*th minimal prime in base *b* (local copy from *factordb* (http://factordb.com/)), after downloading these files, these files should be renamed to ".out" files, e.g. file "certificate9_149" is the primality certificate for the 149th minimal prime in base 9, i.e. the primality certificate for the prime 76<sub>329</sub>2 in base 9, which equals the prime (31×9<sup>330</sup>−19)/4.
