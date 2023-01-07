@@ -4,39 +4,25 @@ The large minimal primes in base *b* are of the form (*a*×*b*<sup>*n*</sup>+*c*
 
 Primes which either *N*−1 or *N*+1 is trivially fully factored (i.e. primes of the form *k*×*b*<sup>*n*</sup>±1, with small *k*) do not need primality certificates, since they can be easily proven primes using *N*−1 test (https://primes.utm.edu/prove/prove3_1.html, http://factordb.com/nmoverview.php?method=1) or *N*+1 test (https://primes.utm.edu/prove/prove3_2.html, http://factordb.com/nmoverview.php?method=2), these primes are:
 
-the 3176th minimal prime in base 13, 81010<sub>415</sub>1, which equals 17746×13<sup>416</sup>+1, *N*−1 is trivially fully factored
-
-the 3177th minimal prime in base 13, 8110<sub>435</sub>1, which equals 1366×13<sup>436</sup>+1, *N*−1 is trivially fully factored
-
-the 3188th minimal prime in base 13, 930<sub>1551</sub>1, which equals 120×13<sup>1552</sup>+1, *N*−1 is trivially fully factored
-
-the 3191st minimal prime in base 13, 390<sub>6266</sub>1, which equals 48×13<sup>6267</sup>+1, *N*−1 is trivially fully factored
-
-the 649th minimal prime in base 14, 34D<sub>708</sub>, which equals 47×14<sup>708</sup>−1, *N*+1 is trivially fully factored
-
-the 650th minimal prime in base 14, 4D<sub>19698</sub>, which equals 5×14<sup>19698</sup>−1, *N*+1 is trivially fully factored
-
-the 2335th minimal prime in base 16, 88F<sub>545</sub>, which equals 137×16<sup>545</sup>−1, *N*+1 is trivially fully factored
-
-the 3310th minimal prime in base 20, JCJ<sub>629</sub>, which equals 393×20<sup>629</sup>−1, *N*+1 is trivially fully factored
-
-the 3408th minimal prime in base 24, 88N<sub>5951</sub>, which equals 201×24<sup>5951</sup>−1, *N*+1 is trivially fully factored
-
-the 25509th minimal prime in base 28, EB0<sub>405</sub>1, which equals 403×28<sup>406</sup>+1, *N*−1 is trivially fully factored
-
-the 2616th minimal prime in base 30, C0<sub>1022</sub>1, which equals 12×30<sup>1023</sup>+1, *N*−1 is trivially fully factored
-
-the 2619th minimal prime in base 30, OT<sub>34205</sub>, which equals 25×30<sup>34205</sup>−1, *N*+1 is trivially fully factored
-
-the 35237th minimal prime in base 36, P8Z<sub>390</sub>, which equals 909×36<sup>390</sup>−1, *N*+1 is trivially fully factored
+* the 3176th minimal prime in base 13, 81010<sub>415</sub>1, which equals 17746×13<sup>416</sup>+1, *N*−1 is trivially fully factored
+* the 3177th minimal prime in base 13, 8110<sub>435</sub>1, which equals 1366×13<sup>436</sup>+1, *N*−1 is trivially fully factored
+* the 3188th minimal prime in base 13, 930<sub>1551</sub>1, which equals 120×13<sup>1552</sup>+1, *N*−1 is trivially fully factored
+* the 3191st minimal prime in base 13, 390<sub>6266</sub>1, which equals 48×13<sup>6267</sup>+1, *N*−1 is trivially fully factored
+* the 649th minimal prime in base 14, 34D<sub>708</sub>, which equals 47×14<sup>708</sup>−1, *N*+1 is trivially fully factored
+* the 650th minimal prime in base 14, 4D<sub>19698</sub>, which equals 5×14<sup>19698</sup>−1, *N*+1 is trivially fully factored
+* the 2335th minimal prime in base 16, 88F<sub>545</sub>, which equals 137×16<sup>545</sup>−1, *N*+1 is trivially fully factored
+* the 3310th minimal prime in base 20, JCJ<sub>629</sub>, which equals 393×20<sup>629</sup>−1, *N*+1 is trivially fully factored
+* the 3408th minimal prime in base 24, 88N<sub>5951</sub>, which equals 201×24<sup>5951</sup>−1, *N*+1 is trivially fully factored
+* the 25509th minimal prime in base 28, EB0<sub>405</sub>1, which equals 403×28<sup>406</sup>+1, *N*−1 is trivially fully factored
+* the 2616th minimal prime in base 30, C0<sub>1022</sub>1, which equals 12×30<sup>1023</sup>+1, *N*−1 is trivially fully factored
+* the 2619th minimal prime in base 30, OT<sub>34205</sub>, which equals 25×30<sup>34205</sup>−1, *N*+1 is trivially fully factored
+* the 35237th minimal prime in base 36, P8Z<sub>390</sub>, which equals 909×36<sup>390</sup>−1, *N*+1 is trivially fully factored
 
 Also, there are no primality certificates for these primes in *factordb* because although they are > 10<sup>299</sup>, but their *N*−1 or *N*+1 is fully factored (but not trivially fully factored, however, only need trial division (https://en.wikipedia.org/wiki/Trial_division, https://primes.utm.edu/glossary/xpage/TrialDivision.html, https://www.rieselprime.de/ziki/Trial_factoring, https://mathworld.wolfram.com/TrialDivision.html) to 10<sup>8</sup>) and the largest prime factor is < 10<sup>299</sup> (primes < 10<sup>299</sup> are automatically proven primes in *factordb*):
 
-the 2328th minimal prime in base 16, 880<sub>246</sub>7, with 300 decimal digits, *N*−1 is 2<sup>3</sup>×3×7×13×25703261×(289-digit prime)
-
-the 25174th minimal prime in base 26, OL0<sub>214</sub>M9, with 309 decimal digits, *N*−1 is 2<sup>2</sup>×5<sup>2</sup>×7×223×42849349×(296-digit prime)
-
-the 25485th minimal prime in base 28, JN<sub>206</sub>, with 300 decimal digits, *N*−1 is 2×1061×1171×74311×(289-digit prime)
+* the 2328th minimal prime in base 16, 880<sub>246</sub>7, with 300 decimal digits, *N*−1 is 2<sup>3</sup>×3×7×13×25703261×(289-digit prime)
+* the 25174th minimal prime in base 26, OL0<sub>214</sub>M9, with 309 decimal digits, *N*−1 is 2<sup>2</sup>×5<sup>2</sup>×7×223×42849349×(296-digit prime)
+* the 25485th minimal prime in base 28, JN<sub>206</sub>, with 300 decimal digits, *N*−1 is 2×1061×1171×74311×(289-digit prime)
 
 Also the case where *N*−1 or *N*+1 is product of a Cunningham number (of the form *b*<sup>*n*</sup>±1, see https://en.wikipedia.org/wiki/Cunningham_number, https://mathworld.wolfram.com/CunninghamNumber.html, https://en.wikipedia.org/wiki/The_Cunningham_project, https://primes.utm.edu/glossary/xpage/CunninghamProject.html, https://www.rieselprime.de/ziki/Cunningham_project, https://homes.cerias.purdue.edu/~ssw/cun/index.html, https://maths-people.anu.edu.au/~brent/factors.html, http://myfactors.mooo.com/) and a small number, and this Cunningham number is ≥ 1/3 factored (https://en.wikipedia.org/wiki/Integer_factorization, https://www.rieselprime.de/ziki/Factorization, https://mathworld.wolfram.com/PrimeFactorization.html) or this Cunningham number is ≥ 1/4 factored and the number is not very large (say not > 10<sup>100000</sup>), if either *N*−1 or *N*+1 (or both) can be ≥ 1/2 factored, then we can use the Pocklington *N*−1 primality test (https://primes.utm.edu/prove/prove3_1.html, https://en.wikipedia.org/wiki/Pocklington_primality_test, https://www.rieselprime.de/ziki/Pocklington%27s_theorem, https://mathworld.wolfram.com/PocklingtonsTheorem.html, https://stdkmd.net/nrr/pock/, http://factordb.com/nmoverview.php?method=1) (the *N*−1 case) or the Morrison *N*+1 primality test (https://primes.utm.edu/prove/prove3_2.html, http://factordb.com/nmoverview.php?method=2) (the *N*+1 case), if either *N*−1 or *N*+1 (or both) can be ≥ 1/3 factored but neither can be ≥ 1/2 factored, then we can use the Brillhart-Lehmer-Selfridge primality test (https://www.ams.org/journals/mcom/1975-29-130/S0025-5718-1975-0384673-1/S0025-5718-1975-0384673-1.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_23.pdf), https://en.wikipedia.org/wiki/Pocklington_primality_test#Extensions_and_variants), if either *N*−1 or *N*+1 (or both) can be ≥ 1/4 factored but neither can be ≥ 1/3 factored, then we need to use *CHG* (https://mersenneforum.org/attachment.php?attachmentid=21133&d=1571237465, https://primes.utm.edu/bios/page.php?id=797, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/CHG) to prove its primality (see https://mersenneforum.org/showpost.php?p=528149&postcount=3 and https://mersenneforum.org/showpost.php?p=603181&postcount=438), however, unlike Brillhart-Lehmer-Selfridge primality test for the numbers *N* such that *N*−1 or *N*+1 (or both) can be ≥ 1/3 factored can run for arbitrarily large numbers *N* (thus, there are no unproven probable primes *N* such that *N*−1 or *N*+1 (or both) can be ≥ 1/3 factored), *CHG* for the numbers *N* such that either *N*−1 or *N*+1 (or both) can be ≥ 1/4 factored but neither can be ≥ 1/3 factored cannot run for very large *N* (say > 10<sup>100000</sup>), for the examples of the numbers which are proven prime by *CHG*, see https://primes.utm.edu/primes/page.php?id=126454, https://primes.utm.edu/primes/page.php?id=131964, https://primes.utm.edu/primes/page.php?id=123456, https://primes.utm.edu/primes/page.php?id=130933, https://stdkmd.net/nrr/cert/1/ (search for "CHG"), https://stdkmd.net/nrr/cert/2/ (search for "CHG"), https://stdkmd.net/nrr/cert/3/ (search for "CHG"), https://stdkmd.net/nrr/cert/4/ (search for "CHG"), https://stdkmd.net/nrr/cert/5/ (search for "CHG"), https://stdkmd.net/nrr/cert/6/ (search for "CHG"), https://stdkmd.net/nrr/cert/7/ (search for "CHG"), https://stdkmd.net/nrr/cert/8/ (search for "CHG"), https://stdkmd.net/nrr/cert/9/ (search for "CHG"), however, *factordb* (http://factordb.com/) lacks the ability to verify *CHG* proofs, see https://mersenneforum.org/showpost.php?p=608362&postcount=165: (thus these numbers also do not need primality certificates)
 
