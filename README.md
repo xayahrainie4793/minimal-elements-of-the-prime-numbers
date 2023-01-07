@@ -645,9 +645,12 @@ Condensed table for bases 2 ≤ *b* ≤ 36: (the bases *b* = 11, 13, 16, 17, 19,
 Links for top (probable) primes:
 
 * https://primes.utm.edu/primes/lists/all.txt (top definitely primes)
+* https://primes.utm.edu/primes/lists/all.zip (top definitely primes, zipped file)
 * https://primes.utm.edu/primes/lists/all.pdf (top definitely primes, pdf version)
+* https://primes.utm.edu/primes/lists/all_pdf.zip (top definitely primes, pdf version, zipped file)
 * https://primes.utm.edu/primes/lists/short.txt (definitely primes with ≥ 800000 decimal digits)
 * https://primes.utm.edu/primes/lists/short.pdf (definitely primes with ≥ 800000 decimal digits, pdf version)
+* https://primes.utm.edu/primes/lists/short_pdf.zip (definitely primes with ≥ 800000 decimal digits, pdf version, zipped file)
 * https://primes.utm.edu/primes/search.php?OnList=all&Number=1000000&Style=HTML (all numbers in the list of top definitely primes)
 * https://primes.utm.edu/primes/download.php (index page of top definitely primes)
 * https://primes.utm.edu/largest.html (the information page of top definitely primes)
