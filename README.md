@@ -739,6 +739,7 @@ Prime checkers:
 6. http://www.proftnj.com/calcprem.htm
 7. https://www.archimedes-lab.org/primOmatic.html
 8. http://www.sonic.net/~undoc/java/PrimeCalc.html
+9. https://primes.utm.edu/nthprime/ (calculate the *n*th prime)
 
 Integer factorizers:
 
