@@ -419,16 +419,16 @@ We are unable to determine if the families *x*{*y*}*z* (where *x* and *z* are st
 
 There are also unproven probable primes (however, in this project our results assume that they are in fact primes, since they are > 10<sup>25000</sup> and the probability that they are in fact composite is < 10<sup>−2000</sup>, see https://primes.utm.edu/notes/prp_prob.html), the unproven probable primes for bases *b* = 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 18, 20, 22, 24, 26, 28, 30, 36 (the solved or near-solved bases, i.e. the bases *b* with ≤ 10 unsolved families) are:
 
-|*b*|index of this minimal prime in base *b* (assuming the primality of all probable primes in base *b*)|base-*b* form of this unproven probable prime|algebraic ((*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1)) form of this unproven probable prime|*factordb* entry of this unproven probable prime|
-|---|---|---|---|---|
-|11|1068|57<sub>62668</sub>|(57×11<sup>62668</sup>−7)/10|http://factordb.com/index.php?id=1100000003573679860|
-|13|3194|C5<sub>23755</sub>C|(149×13<sup>23756</sup>+79)/12|http://factordb.com/index.php?id=1100000003590647776|
-|13|3195|80<sub>32017</sub>111|8×13<sup>32020</sup>+183|http://factordb.com/index.php?id=1100000000490878060|
-|13|3196|95<sub>197420</sub>|(113×13<sup>197420</sup>−5)/12|http://factordb.com/index.php?id=1100000003943359311|
-|16|2345|DB<sub>32234</sub>|(206×16<sup>32234</sup>−11)/15|http://factordb.com/index.php?id=1100000002383583629|
-|16|2346|4<sub>72785</sub>DD|(4×16<sup>72787</sup>+2291)/15|http://factordb.com/index.php?id=1100000003615909841|
-|16|2347|3<sub>116137</sub>AF|(16<sup>116139</sup>+619)/5|http://factordb.com/index.php?id=1100000003851731988|
-|22|8003|BK<sub>22001</sub>5|(251×22<sup>22002</sup>−335)/21|http://factordb.com/index.php?id=1100000003594696838|
+|*b*|index of this minimal prime in base *b* (assuming the primality of all probable primes in base *b*)|base-*b* form of this unproven probable prime|algebraic ((*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1)) form of this unproven probable prime|*factordb* entry of this unproven probable prime|*Primo* input file of this unproven probable prime|
+|---|---|---|---|---|---|
+|11|1068|57<sub>62668</sub>|(57×11<sup>62668</sup>−7)/10|http://factordb.com/index.php?id=1100000003573679860|http://factordb.com/cert.php?id=1100000003573679860&inputfile|
+|13|3194|C5<sub>23755</sub>C|(149×13<sup>23756</sup>+79)/12|http://factordb.com/index.php?id=1100000003590647776|http://factordb.com/cert.php?id=1100000003590647776&inputfile|
+|13|3195|80<sub>32017</sub>111|8×13<sup>32020</sup>+183|http://factordb.com/index.php?id=1100000000490878060|http://factordb.com/cert.php?id=1100000000490878060&inputfile|
+|13|3196|95<sub>197420</sub>|(113×13<sup>197420</sup>−5)/12|http://factordb.com/index.php?id=1100000003943359311|(no *Primo* input file, since this unproven probable prime is too large (> 10<sup>149999</sup>) to be PRP-tested in *factordb*, and *factordb* does not have *Primo* input file for numbers with status (http://factordb.com/status.html) "U" (i.e. in http://factordb.com/listtype.php?t=2), factordb only has *Primo* input file for numbers with status "PRP" (i.e. in http://factordb.com/listtype.php?t=1))
+|16|2345|DB<sub>32234</sub>|(206×16<sup>32234</sup>−11)/15|http://factordb.com/index.php?id=1100000002383583629|http://factordb.com/cert.php?id=1100000002383583629&inputfile|
+|16|2346|4<sub>72785</sub>DD|(4×16<sup>72787</sup>+2291)/15|http://factordb.com/index.php?id=1100000003615909841|http://factordb.com/cert.php?id=1100000003615909841&inputfile|
+|16|2347|3<sub>116137</sub>AF|(16<sup>116139</sup>+619)/5|http://factordb.com/index.php?id=1100000003851731988|http://factordb.com/cert.php?id=1100000003851731988&inputfile|
+|22|8003|BK<sub>22001</sub>5|(251×22<sup>22002</sup>−335)/21|http://factordb.com/index.php?id=1100000003594696838|http://factordb.com/cert.php?id=1100000003594696838&inputfile|
 |26|25250|5<sub>19391</sub>6F|(26<sup>19393</sup>+179)/5|http://factordb.com/index.php?id=1100000003850151202|
 |26|25251|7<sub>20279</sub>OL|(7×26<sup>20281</sup>+11393)/25|http://factordb.com/index.php?id=1100000003892628605|
 |26|25252|LD0<sub>20975</sub>7|559×26<sup>20976</sup>+7|http://factordb.com/index.php?id=1100000003892628658|
