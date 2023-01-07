@@ -96,19 +96,13 @@ This problem covers finding the smallest prime of these forms in the same base *
 
 In fact, this problem covers finding the smallest prime of these form in the same base *b*: (where *x*, *y*, *z* are any digits in base *b*)
 
-*x*{0}*y*
-
-*x*{*y*} (unless *y* = 1) (see https://stdkmd.net/nrr/abbbb.htm)
-
-{*x*}*y* (unless *x* = 1) (see https://stdkmd.net/nrr/aaaab.htm)
-
-*x*{0}*yz* (unless there is a prime of the form *x*{0}*y* or *x*{0}*z*)
-
-*xy*{0}*z* (unless there is a prime of the form *x*{0}*z* or *y*{0}*z*)
-
-*xy*{*x*} (unless either *x* = 1 or there is a prime of the form *y*{*x*} (or both)) (see https://stdkmd.net/nrr/abaaa.htm)
-
-{*x*}*yx* (unless either *x* = 1 or there is a prime of the form {*x*}*y* (or both)) (see https://stdkmd.net/nrr/aaaba.htm)
+* *x*{0}*y*
+* *x*{*y*} (unless *y* = 1) (see https://stdkmd.net/nrr/abbbb.htm)
+* {*x*}*y* (unless *x* = 1) (see https://stdkmd.net/nrr/aaaab.htm)
+* *x*{0}*yz* (unless there is a prime of the form *x*{0}*y* or *x*{0}*z*)
+* *xy*{0}*z* (unless there is a prime of the form *x*{0}*z* or *y*{0}*z*)
+* *xy*{*x*} (unless either *x* = 1 or there is a prime of the form *y*{*x*} (or both)) (see https://stdkmd.net/nrr/abaaa.htm)
+* {*x*}*yx* (unless either *x* = 1 or there is a prime of the form {*x*}*y* (or both)) (see https://stdkmd.net/nrr/aaaba.htm)
 
 Proving that "the set of the minimal elements of the base *b* representations of the prime numbers > *b* under the subsequence ordering" = the set *S* is equivalent to:
 
