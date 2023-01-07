@@ -429,17 +429,17 @@ There are also unproven probable primes (however, in this project our results as
 |16|2346|4<sub>72785</sub>DD|(4×16<sup>72787</sup>+2291)/15|http://factordb.com/index.php?id=1100000003615909841|http://factordb.com/cert.php?id=1100000003615909841&inputfile|
 |16|2347|3<sub>116137</sub>AF|(16<sup>116139</sup>+619)/5|http://factordb.com/index.php?id=1100000003851731988|http://factordb.com/cert.php?id=1100000003851731988&inputfile|
 |22|8003|BK<sub>22001</sub>5|(251×22<sup>22002</sup>−335)/21|http://factordb.com/index.php?id=1100000003594696838|http://factordb.com/cert.php?id=1100000003594696838&inputfile|
-|26|25250|5<sub>19391</sub>6F|(26<sup>19393</sup>+179)/5|http://factordb.com/index.php?id=1100000003850151202|
-|26|25251|7<sub>20279</sub>OL|(7×26<sup>20281</sup>+11393)/25|http://factordb.com/index.php?id=1100000003892628605|
-|26|25252|LD0<sub>20975</sub>7|559×26<sup>20976</sup>+7|http://factordb.com/index.php?id=1100000003892628658|
-|26|25253|6K<sub>23300</sub>5|(34×26<sup>23301</sup>−79)/5|http://factordb.com/index.php?id=1100000003892628745|
-|28|25526|N6<sub>24051</sub>LR|(209×28<sup>24053</sup>+3967)/9|http://factordb.com/index.php?id=1100000003879667576|
-|28|25527|5OA<sub>31238</sub>F|(4438×28<sup>31239</sup>+125)/27|http://factordb.com/index.php?id=1100000003880455200|
-|28|25528|O4O<sub>94535</sub>9|(6092×28<sup>94536</sup>−143)/9|http://factordb.com/index.php?id=1100000000808118231|
-|30|2618|I0<sub>24608</sub>D|18×30<sup>24609</sup>+13|http://factordb.com/index.php?id=1100000003593967511|
-|36|35284|7K<sub>26567</sub>Z|(53×36<sup>26568</sup>+101)/7|http://factordb.com/index.php?id=1100000003896952461|
-|36|35285|S0<sub>75007</sub>8H|28×36<sup>75009</sup>+305|http://factordb.com/index.php?id=1100000004020085177|
-|36|35286|P<sub>81993</sub>SZ|(5×36<sup>81995</sup>+821)/7|http://factordb.com/index.php?id=1100000002394962083|
+|26|25250|5<sub>19391</sub>6F|(26<sup>19393</sup>+179)/5|http://factordb.com/index.php?id=1100000003850151202|http://factordb.com/cert.php?id=1100000003850151202&inputfile|
+|26|25251|7<sub>20279</sub>OL|(7×26<sup>20281</sup>+11393)/25|http://factordb.com/index.php?id=1100000003892628605|http://factordb.com/cert.php?id=1100000003892628605&inputfile|
+|26|25252|LD0<sub>20975</sub>7|559×26<sup>20976</sup>+7|http://factordb.com/index.php?id=1100000003892628658|http://factordb.com/cert.php?id=1100000003892628658&inputfile|
+|26|25253|6K<sub>23300</sub>5|(34×26<sup>23301</sup>−79)/5|http://factordb.com/index.php?id=1100000003892628745|http://factordb.com/cert.php?id=1100000003892628745&inputfile|
+|28|25526|N6<sub>24051</sub>LR|(209×28<sup>24053</sup>+3967)/9|http://factordb.com/index.php?id=1100000003879667576|http://factordb.com/cert.php?id=1100000003879667576&inputfile|
+|28|25527|5OA<sub>31238</sub>F|(4438×28<sup>31239</sup>+125)/27|http://factordb.com/index.php?id=1100000003880455200|http://factordb.com/cert.php?id=1100000003880455200&inputfile|
+|28|25528|O4O<sub>94535</sub>9|(6092×28<sup>94536</sup>−143)/9|http://factordb.com/index.php?id=1100000000808118231|http://factordb.com/cert.php?id=1100000000808118231&inputfile|
+|30|2618|I0<sub>24608</sub>D|18×30<sup>24609</sup>+13|http://factordb.com/index.php?id=1100000003593967511|http://factordb.com/cert.php?id=1100000003593967511&inputfile|
+|36|35284|7K<sub>26567</sub>Z|(53×36<sup>26568</sup>+101)/7|http://factordb.com/index.php?id=1100000003896952461|http://factordb.com/cert.php?id=1100000003896952461&inputfile|
+|36|35285|S0<sub>75007</sub>8H|28×36<sup>75009</sup>+305|http://factordb.com/index.php?id=1100000004020085177|http://factordb.com/cert.php?id=1100000004020085177&inputfile|
+|36|35286|P<sub>81993</sub>SZ|(5×36<sup>81995</sup>+821)/7|http://factordb.com/index.php?id=1100000002394962083|http://factordb.com/cert.php?id=1100000002394962083&inputfile|
 
 All these numbers are strong probable primes (https://en.wikipedia.org/wiki/Strong_pseudoprime, https://primes.utm.edu/glossary/xpage/StrongPRP.html, https://mathworld.wolfram.com/StrongPseudoprime.html) to bases 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61 (see https://oeis.org/A014233), and strong Lucas probable primes (https://en.wikipedia.org/wiki/Lucas_pseudoprime#Strong_Lucas_pseudoprimes, https://mathworld.wolfram.com/StrongLucasPseudoprime.html) with parameters (*P*, *Q*) defined by Selfridge's Method *A* (see https://oeis.org/A217255), and trial factored to 10<sup>16</sup> (thus, all these numbers are Baillie–PSW probable primes.
 
