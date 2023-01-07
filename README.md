@@ -644,47 +644,27 @@ Condensed table for bases 2 ≤ *b* ≤ 36: (the bases *b* = 11, 13, 16, 17, 19,
 
 Links for top (probable) primes:
 
-https://primes.utm.edu/primes/lists/all.txt (top definitely primes)
-
-https://primes.utm.edu/primes/lists/all.pdf (top definitely primes, pdf version)
-
-https://primes.utm.edu/primes/lists/short.txt (definitely primes with ≥ 800000 decimal digits)
-
-https://primes.utm.edu/primes/lists/short.pdf (definitely primes with ≥ 800000 decimal digits, pdf version)
-
-https://primes.utm.edu/primes/search.php?OnList=all&Number=1000000&Style=HTML (all numbers in the list of top definitely primes)
-
-https://primes.utm.edu/primes/download.php (index page of top definitely primes)
-
-https://primes.utm.edu/largest.html (the information page of top definitely primes)
-
-https://primes.utm.edu/primes/search.php (search page of top definitely primes)
-
-https://primes.utm.edu/primes/search.php?Advanced=1 (advanced search page of top definitely primes)
-
-https://primes.utm.edu/primes/search_proth.php (search page of top definitely primes of the form *k*×*b*<sup>*n*</sup>±1)
-
-https://primes.utm.edu/primes/status.php (verification status page of top definitely primes)
-
-https://primes.utm.edu/top20/index.php (the top 20 definitely primes of certain selected forms)
-
-https://primes.utm.edu/bios/newprover.php (submit page of top definitely primes, create a new prover account)
-
-https://primes.utm.edu/bios/newcode.php (submit page of top definitely primes, create a new prover code)
-
-https://primes.utm.edu/bios/index.php (index of the provers and programs and projects of top definitely primes)
-
-http://www.primenumbers.net/prptop/prptop.php (top probable primes)
-
-http://www.primenumbers.net/prptop/latest.php (recently found top probable primes)
-
-http://www.primenumbers.net/prptop/searchform.php (search page of top probable primes)
-
-http://www.primenumbers.net/prptop/searchform.php?form=%3F&action=Search (all numbers in the list of top probable primes)
-
-http://www.primenumbers.net/prptop/submit.php (submit page of top probable primes)
-
-http://www.primenumbers.net/prptop/topdisc.php (index of the provers of top probable primes)
+* https://primes.utm.edu/primes/lists/all.txt (top definitely primes)
+* https://primes.utm.edu/primes/lists/all.pdf (top definitely primes, pdf version)
+* https://primes.utm.edu/primes/lists/short.txt (definitely primes with ≥ 800000 decimal digits)
+* https://primes.utm.edu/primes/lists/short.pdf (definitely primes with ≥ 800000 decimal digits, pdf version)
+* https://primes.utm.edu/primes/search.php?OnList=all&Number=1000000&Style=HTML (all numbers in the list of top definitely primes)
+* https://primes.utm.edu/primes/download.php (index page of top definitely primes)
+* https://primes.utm.edu/largest.html (the information page of top definitely primes)
+* https://primes.utm.edu/primes/search.php (search page of top definitely primes)
+* https://primes.utm.edu/primes/search.php?Advanced=1 (advanced search page of top definitely primes)
+* https://primes.utm.edu/primes/search_proth.php (search page of top definitely primes of the form *k*×*b*<sup>*n*</sup>±1)
+* https://primes.utm.edu/primes/status.php (verification status page of top definitely primes)
+* https://primes.utm.edu/top20/index.php (the top 20 definitely primes of certain selected forms)
+* https://primes.utm.edu/bios/newprover.php (submit page of top definitely primes, create a new prover account)
+* https://primes.utm.edu/bios/newcode.php (submit page of top definitely primes, create a new prover code)
+* https://primes.utm.edu/bios/index.php (index of the provers and programs and projects of top definitely primes)
+* http://www.primenumbers.net/prptop/prptop.php (top probable primes)
+* http://www.primenumbers.net/prptop/latest.php (recently found top probable primes)
+* http://www.primenumbers.net/prptop/searchform.php (search page of top probable primes)
+* http://www.primenumbers.net/prptop/searchform.php?form=%3F&action=Search (all numbers in the list of top probable primes)
+* http://www.primenumbers.net/prptop/submit.php (submit page of top probable primes)
+* http://www.primenumbers.net/prptop/topdisc.php (index of the provers of top probable primes)
 
 Other researches for the digits of the primes:
 
@@ -838,8 +818,7 @@ Lists of small integers in various bases:
 
 For the files in this page:
 
-File "kernel *b*": Data for all known minimal primes in base *b*, expressed as base *b* strings
-
-File "left *b*": *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base *b*, *y* is a digit in base *b*) families in base *b* such that we were unable to determine if they contain a prime > *b* or not (i.e. *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base *b*, *y* is a digit in base *b*) families in base *b* such that no prime member > *b* could be found, nor could the family be ruled out as only containing composites (only count the numbers > *b*)), these families are sorted by "the length *n* number in these families, from the smallest number to the largest number, this *n* is large enough such that *n* replaced to any larger number does not affect the sorting" (e.g. for base 17, we sort with B{0}B3 -> B{0}DB -> {B}2BE -> {B}2E -> {B}E9 -> {B}EE, since in this case 7 digits is enough, B0000B3 < B0000DB < BBBB2BE < BBBBB2E < BBBBBE9 < BBBBBEE, if the 7 replaced to any larger number, this result of the sorting will not change)
+* File "kernel *b*": Data for all known minimal primes in base *b*, expressed as base *b* strings
+* File "left *b*": *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base *b*, *y* is a digit in base *b*) families in base *b* such that we were unable to determine if they contain a prime > *b* or not (i.e. *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base *b*, *y* is a digit in base *b*) families in base *b* such that no prime member > *b* could be found, nor could the family be ruled out as only containing composites (only count the numbers > *b*)), these families are sorted by "the length *n* number in these families, from the smallest number to the largest number, this *n* is large enough such that *n* replaced to any larger number does not affect the sorting" (e.g. for base 17, we sort with B{0}B3 -> B{0}DB -> {B}2BE -> {B}2E -> {B}E9 -> {B}EE, since in this case 7 digits is enough, B0000B3 < B0000DB < BBBB2BE < BBBBB2E < BBBBBE9 < BBBBBEE, if the 7 replaced to any larger number, this result of the sorting will not change)
 
 See my article about this research: https://docs.google.com/document/d/e/2PACX-1vQct6Hx-IkJd5-iIuDuOKkKdw2teGmmHW-P75MPaxqBXB37u0odFBml5rx0PoLa0odTyuW67N_vn96J/pub
