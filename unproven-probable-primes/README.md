@@ -24,50 +24,29 @@ All these numbers are strong probable primes (https://en.wikipedia.org/wiki/Stro
 
 A reference of many types of pseudoprimes: http://ntheory.org/pseudoprimes.html; also a reference of data for all base 2 Fermat pseudoprimes < 2<sup>64</sup>: http://www.cecm.sfu.ca/Pseudoprimes/index-2-to-64.html; also examples of strong pseudoprimes to many bases: https://www.ams.org/journals/mcom/1993-61-204/S0025-5718-1993-1192971-8/S0025-5718-1993-1192971-8.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_41.pdf), https://arxiv.org/pdf/1207.0063.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_42.pdf), https://arxiv.org/pdf/1509.00864.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_43.pdf), https://www.sciencedirect.com/science/article/pii/S0747717185710425?via%3Dihub (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_44.pdf), https://primes.utm.edu/curios/page.php?number_id=4265, https://primes.utm.edu/prove/prove2_3.html, https://faculty.lynchburg.edu/~nicely/misc/mpzspsp.html, http://factordb.com/prooffailed.php, https://oeis.org/A072276, https://oeis.org/A056915, https://oeis.org/A074773; also a research of pseudoprimes: http://www.numericana.com/answer/pseudo.htm
 
-If 57<sub>62668</sub> (base 11) is in fact composite, then 5{7} will be an additional unsolved family for base 11.
-
-If C5<sub>23755</sub>C (base 13) is in fact composite, then C{5}C will be an additional unsolved family for base 13.
-
-If 80<sub>32017</sub>111 (base 13) is in fact composite, then 8{0}111 will be an additional unsolved family for base 13.
-
-If 95<sub>197420</sub> (base 13) is in fact composite, then 9{5} will be an additional unsolved family for base 13.
-
-If DB<sub>32234</sub> (base 16) is in fact composite, then D{B} will be an additional unsolved family for base 16.
-
-If 4<sub>72785</sub>DD (base 16) is in fact composite, then {4}DD will be an additional unsolved family for base 16.
-
-If 3<sub>116137</sub>AF (base 16) is in fact composite, then {3}AF will be an additional unsolved family for base 16.
-
-If BK<sub>22001</sub>5 (base 22) is in fact composite, then B{K}5 will be an additional unsolved family for base 22.
-
-If 5<sub>19391</sub>6F (base 26) is in fact composite, then {5}6F will be an additional unsolved family for base 26.
-
-If 7<sub>20279</sub>OL (base 26) is in fact composite, then {7}OL will be an additional unsolved family for base 26.
-
-If LD0<sub>20975</sub>7 (base 26) is in fact composite, then LD{0}7 will be an additional unsolved family for base 26.
-
-If 6K<sub>23300</sub>5 (base 26) is in fact composite, then 6{K}5 will be an additional unsolved family for base 26.
-
-If J0<sub>44303</sub>KCB (base 26) is in fact composite, then J{0}KCB will be an additional unsolved family for base 26.
-
-If M0<sub>61186</sub>2BB (base 26) is in fact composite, then M{0}2BB will be an additional unsolved family for base 26.
-
-If N6<sub>24051</sub>LR (base 28) is in fact composite, then N{6}LR will be an additional unsolved family for base 28.
-
-If 5OA<sub>31238</sub>F (base 28) is in fact composite, then 5O{A}F will be an additional unsolved family for base 28 (unless a prime in the family O{A}F is known, since the family 5O{A}F is covered by the unsolved family O{A}F (if the prime in the family 5O{A}F has longer length than the prime in the family O{A}F) (i.e. the family O{A}F is a subfamily of the family 5O{A}F), and there is still a possibility that the smallest prime in the family 5O{A}F has longer length than the smallest prime in the family O{A}F, thus we still cannot definitely say that there are 25529 minimal primes in base 28 even if we assume the heuristic argument (https://en.wikipedia.org/wiki/Heuristic_argument, https://primes.utm.edu/glossary/xpage/Heuristic.html, https://mathworld.wolfram.com/Heuristic.html) that all unsolved families have a prime, this is reasonable, references: https://primes.utm.edu/mersenne/heuristic.html, https://primes.utm.edu/notes/faq/NextMersenne.html, https://web.archive.org/web/20100628035147/http://www.math.niu.edu/~rusin/known-math/98/exp_primes).
-
-If O4O<sub>94535</sub>9 (base 28) is in fact composite, then O4{O}9 will be an additional unsolved family for base 28.
-
-If I0<sub>24608</sub>D (base 30) is in fact composite, then I{0}D will be an additional unsolved family for base 30.
-
-If 7K<sub>26567</sub>Z (base 36) is in fact composite, then 7{K}Z will be an additional unsolved family for base 36.
-
-If S0<sub>75007</sub>8H (base 36) is in fact composite, then S{0}8H will be an additional unsolved family for base 36.
-
-If P<sub>81993</sub>SZ (base 36) is in fact composite, then {P}SZ will be an additional unsolved family for base 36.
+* If 57<sub>62668</sub> (base 11) is in fact composite, then 5{7} will be an additional unsolved family for base 11.
+* If C5<sub>23755</sub>C (base 13) is in fact composite, then C{5}C will be an additional unsolved family for base 13.
+* If 80<sub>32017</sub>111 (base 13) is in fact composite, then 8{0}111 will be an additional unsolved family for base 13.
+* If 95<sub>197420</sub> (base 13) is in fact composite, then 9{5} will be an additional unsolved family for base 13.
+* If DB<sub>32234</sub> (base 16) is in fact composite, then D{B} will be an additional unsolved family for base 16.
+* If 4<sub>72785</sub>DD (base 16) is in fact composite, then {4}DD will be an additional unsolved family for base 16.
+* If 3<sub>116137</sub>AF (base 16) is in fact composite, then {3}AF will be an additional unsolved family for base 16.
+* If BK<sub>22001</sub>5 (base 22) is in fact composite, then B{K}5 will be an additional unsolved family for base 22.
+* If 5<sub>19391</sub>6F (base 26) is in fact composite, then {5}6F will be an additional unsolved family for base 26.
+* If 7<sub>20279</sub>OL (base 26) is in fact composite, then {7}OL will be an additional unsolved family for base 26.
+* If LD0<sub>20975</sub>7 (base 26) is in fact composite, then LD{0}7 will be an additional unsolved family for base 26.
+* If 6K<sub>23300</sub>5 (base 26) is in fact composite, then 6{K}5 will be an additional unsolved family for base 26.
+* If J0<sub>44303</sub>KCB (base 26) is in fact composite, then J{0}KCB will be an additional unsolved family for base 26.
+* If M0<sub>61186</sub>2BB (base 26) is in fact composite, then M{0}2BB will be an additional unsolved family for base 26.
+* If N6<sub>24051</sub>LR (base 28) is in fact composite, then N{6}LR will be an additional unsolved family for base 28.
+* If 5OA<sub>31238</sub>F (base 28) is in fact composite, then 5O{A}F will be an additional unsolved family for base 28 (unless a prime in the family O{A}F is known, since the family 5O{A}F is covered by the unsolved family O{A}F (if the prime in the family 5O{A}F has longer length than the prime in the family O{A}F) (i.e. the family O{A}F is a subfamily of the family 5O{A}F), and there is still a possibility that the smallest prime in the family 5O{A}F has longer length than the smallest prime in the family O{A}F, thus we still cannot definitely say that there are 25529 minimal primes in base 28 even if we assume the heuristic argument (https://en.wikipedia.org/wiki/Heuristic_argument, https://primes.utm.edu/glossary/xpage/Heuristic.html, https://mathworld.wolfram.com/Heuristic.html) that all unsolved families have a prime, this is reasonable, references: https://primes.utm.edu/mersenne/heuristic.html, https://primes.utm.edu/notes/faq/NextMersenne.html, https://web.archive.org/web/20100628035147/http://www.math.niu.edu/~rusin/known-math/98/exp_primes).
+* If O4O<sub>94535</sub>9 (base 28) is in fact composite, then O4{O}9 will be an additional unsolved family for base 28.
+* If I0<sub>24608</sub>D (base 30) is in fact composite, then I{0}D will be an additional unsolved family for base 30.
+* If 7K<sub>26567</sub>Z (base 36) is in fact composite, then 7{K}Z will be an additional unsolved family for base 36.
+* If S0<sub>75007</sub>8H (base 36) is in fact composite, then S{0}8H will be an additional unsolved family for base 36.
+* If P<sub>81993</sub>SZ (base 36) is in fact composite, then {P}SZ will be an additional unsolved family for base 36.
 
 For the files in this page:
 
-File "unprovenPRP *b*": The unproven probable primes which are minimal primes in base *b* (assuming their primality), expressed as base *b* strings with *x*(*y*^*n*)*z* format (which in the *README* files it is denoted as "*xy*<sub>*n*</sub>*z*") (*y*^*n* means *n* copies of *y*, e.g. 34(5^6)78 is 3455555578)
-
-File "primoinput *b* *n*": The input file for *Primo* for the *n*th minimal prime in base *b* (http://www.ellipsa.eu/public/primo/primo.html, http://www.rieselprime.de/dl/Primo309.zip, https://primes.utm.edu/bios/page.php?id=46, https://www.rieselprime.de/ziki/Primo, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/primo-433-lx64, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/Primo309) (local copy from *factordb* (http://factordb.com/)), they should be renamed to ".in" files before inputting to *Primo*, e.g. file "primoinput11_1068" is the input file for *Primo* for the 1068th minimal prime in base 11, i.e. the input file for *Primo* for the PRP 57<sub>62668</sub> in base 11, which equals the PRP (57×11<sup>62668</sup>−7)/10. (Note: There is no input file for *Primo* for the PRP 95<sub>197420</sub> in base 13 (which equals the PRP (113×13<sup>197420</sup>−5)/12) since this PRP is too large (>10<sup>149999</sup>) to be PRP-tested in *factordb*, and *factordb* does not have input file for *Primo* for numbers with status (http://factordb.com/status.html) "U" (i.e. in http://factordb.com/listtype.php?t=2), *factordb* only has input file for *Primo* for numbers with status "PRP" (i.e. in http://factordb.com/listtype.php?t=1))
+* File "unprovenPRP *b*": The unproven probable primes which are minimal primes in base *b* (assuming their primality), expressed as base *b* strings with *x*(*y*^*n*)*z* format (which in the *README* files it is denoted as "*xy*<sub>*n*</sub>*z*") (*y*^*n* means *n* copies of *y*, e.g. 34(5^6)78 is 3455555578)
+* File "primoinput *b* *n*": The input file for *Primo* for the *n*th minimal prime in base *b* (http://www.ellipsa.eu/public/primo/primo.html, http://www.rieselprime.de/dl/Primo309.zip, https://primes.utm.edu/bios/page.php?id=46, https://www.rieselprime.de/ziki/Primo, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/primo-433-lx64, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/Primo309) (local copy from *factordb* (http://factordb.com/)), they should be renamed to ".in" files before inputting to *Primo*, e.g. file "primoinput11_1068" is the input file for *Primo* for the 1068th minimal prime in base 11, i.e. the input file for *Primo* for the PRP 57<sub>62668</sub> in base 11, which equals the PRP (57×11<sup>62668</sup>−7)/10. (Note: There is no input file for *Primo* for the PRP 95<sub>197420</sub> in base 13 (which equals the PRP (113×13<sup>197420</sup>−5)/12) since this PRP is too large (>10<sup>149999</sup>) to be PRP-tested in *factordb*, and *factordb* does not have input file for *Primo* for numbers with status (http://factordb.com/status.html) "U" (i.e. in http://factordb.com/listtype.php?t=2), *factordb* only has input file for *Primo* for numbers with status "PRP" (i.e. in http://factordb.com/listtype.php?t=1))
