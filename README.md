@@ -645,6 +645,7 @@ Links for top (probable) primes:
 * https://primes.utm.edu/primes/search.php?OnList=all&Number=1000000&Style=HTML (all numbers in the list of top definitely primes)
 * https://primes.utm.edu/primes/download.php (index page of top definitely primes)
 * https://primes.utm.edu/largest.html (the information page of top definitely primes)
+* https://primes.utm.edu/notes/by_year.html (the information page of the largest known prime by year)
 * https://primes.utm.edu/primes/search.php (search page of top definitely primes)
 * https://primes.utm.edu/primes/search.php?Advanced=1 (advanced search page of top definitely primes)
 * https://primes.utm.edu/primes/search_proth.php (search page of top definitely primes of the form *k*×*b*<sup>*n*</sup>±1)
