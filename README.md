@@ -648,6 +648,7 @@ Links for top (probable) primes:
 * https://primes.utm.edu/primes/search_proth.php (search page of top definitely primes of the form *k*×*b*<sup>*n*</sup>±1)
 * https://primes.utm.edu/primes/status.php (verification status page of top definitely primes)
 * https://primes.utm.edu/top20/index.php (the top 20 definitely primes of certain selected forms)
+* https://primes.utm.edu/bios/submission.php (submit page of top definitely primes)
 * https://primes.utm.edu/bios/newprover.php (submit page of top definitely primes, create a new prover account)
 * https://primes.utm.edu/bios/newcode.php (submit page of top definitely primes, create a new prover code)
 * https://primes.utm.edu/bios/index.php (index of the provers and programs and projects of top definitely primes)
