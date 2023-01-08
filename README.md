@@ -736,7 +736,7 @@ Prime checkers:
 3. http://www.numbertheory.org/php/lucas.html
 4. http://www.javascripter.net/math/calculators/100digitbigintcalculator.htm (just type *x* and click "prime?")
 5. https://www.bigprimes.net/primalitytest
-6. http://www.proftnj.com/calcprem.htm
+6. http://www.proftnj.com/calcprem.htm (in French) (use the box "Rechercher si un nombre est premier" and click "Rechercher")
 7. https://www.archimedes-lab.org/primOmatic.html
 8. http://www.sonic.net/~undoc/java/PrimeCalc.html
 9. https://primes.utm.edu/nthprime/ (calculate the *n*th prime)
@@ -758,7 +758,7 @@ Integer factorizers:
 12. https://web.archive.org/web/20161004191531/http://britton.disted.camosun.bc.ca/jbprimefactor.htm
 13. http://wims.unice.fr/~wims/en_tool~algebra~factor.en.html
 14. http://www.analyzemath.com/Calculators_3/prime_factors.html
-15. http://www.proftnj.com/calcprem.htm (in French)
+15. http://www.proftnj.com/calcprem.htm (in French) (use the box "Factoriser un nombre" and click "Factoriser")
 
 Base converters:
 
