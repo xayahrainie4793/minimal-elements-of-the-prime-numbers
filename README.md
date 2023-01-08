@@ -763,8 +763,8 @@ Integer factorizers:
 Base converters:
 
 1. https://baseconvert.com/
-2. https://www.dcode.fr/base-n-convert
-3. https://www.calculand.com/unit-converter/zahlen.php
+2. https://www.calculand.com/unit-converter/zahlen.php
+3. https://www.dcode.fr/base-n-convert
 4. https://www.cut-the-knot.org/Curriculum/Algorithms/BaseConversion.shtml
 5. http://www.tonymarston.net/php-mysql/converter.html
 6. http://math.fau.edu/Richman/mla/convert.htm
