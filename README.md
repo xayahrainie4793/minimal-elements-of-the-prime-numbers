@@ -736,9 +736,9 @@ Prime checkers:
 3. http://www.numbertheory.org/php/lucas.html
 4. http://www.javascripter.net/math/calculators/100digitbigintcalculator.htm (just type *x* and click "prime?")
 5. https://www.bigprimes.net/primalitytest
-6. http://www.proftnj.com/calcprem.htm (in French) (use the box "Rechercher si un nombre est premier" and click "Rechercher")
-7. https://www.archimedes-lab.org/primOmatic.html
-8. http://www.sonic.net/~undoc/java/PrimeCalc.html
+6. https://www.archimedes-lab.org/primOmatic.html
+7. http://www.sonic.net/~undoc/java/PrimeCalc.html
+8. http://www.proftnj.com/calcprem.htm (in French) (use the box "Rechercher si un nombre est premier" and click "Rechercher")
 9. https://primes.utm.edu/nthprime/ (calculate the *n*th prime)
 10. http://factordb.com/nextprime.php (calculate the next (probable) prime above *N*)
 
