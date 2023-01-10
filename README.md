@@ -822,21 +822,21 @@ Lists of small integers in various bases:
 
 1. https://en.wikipedia.org/wiki/Table_of_bases
 
-Also, programs related to this research:
+Also, programs related to this research: (some of these programs can also be downloaded in http://www.fermatsearch.org/download.php or https://www.mersenne.org/download/freeware.php)
 
-Primality testing programs (https://www.rieselprime.de/ziki/Primality_testing_program):
+Primality testing (https://en.wikipedia.org/wiki/Primality_test, https://www.rieselprime.de/ziki/Primality_test, https://mathworld.wolfram.com/PrimalityTest.html) programs (https://www.rieselprime.de/ziki/Primality_testing_program):
 
 1. *LLR* (http://jpenne.free.fr/index2.html, https://primes.utm.edu/bios/page.php?id=431, https://www.rieselprime.de/ziki/LLR, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/llr403win64, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/llr403linux64)
 2. *PFGW* (https://sourceforge.net/projects/openpfgw/, https://primes.utm.edu/bios/page.php?id=175, https://www.rieselprime.de/ziki/PFGW, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/pfgw_win_4.0.3)
 3. *PRIMO* (http://www.ellipsa.eu/public/primo/primo.html, http://www.rieselprime.de/dl/Primo309.zip, https://primes.utm.edu/bios/page.php?id=46, https://www.rieselprime.de/ziki/Primo, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/primo-433-lx64, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/Primo309)
 4. *CHG* (https://mersenneforum.org/attachment.php?attachmentid=21133&d=1571237465, https://primes.utm.edu/bios/page.php?id=797, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/CHG)
 
-Sieving programs (https://www.rieselprime.de/ziki/Sieving_program):
+Sieving (https://www.rieselprime.de/ziki/Sieving, https://www.rieselprime.de/ziki/Sieving_a_range_of_sequences, https://mathworld.wolfram.com/Sieve.html) programs (https://www.rieselprime.de/ziki/Sieving_program):
 
 1. *SRSIEVE* (https://www.bc-team.org/app.php/dlext/?cat=3, http://web.archive.org/web/20160922072340/https://sites.google.com/site/geoffreywalterreynolds/programs/, http://www.rieselprime.de/dl/CRUS_pack.zip, https://primes.utm.edu/bios/page.php?id=905, https://www.rieselprime.de/ziki/Srsieve, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/srsieve_1.1.4, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/sr1sieve_1.4.6, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/sr2sieve_2.0.0, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/srbsieve)
 2. *MTSIEVE* (https://sourceforge.net/projects/mtsieve/, https://primes.utm.edu/bios/page.php?id=449, https://www.rieselprime.de/ziki/Mtsieve, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/mtsieve_2.3.3)
 
-Factoring programs (https://www.rieselprime.de/ziki/Factoring_program):
+Integer factoring (https://en.wikipedia.org/wiki/Integer_factorization, https://www.rieselprime.de/ziki/Factorization, https://mathworld.wolfram.com/PrimeFactorization.html) programs (https://www.rieselprime.de/ziki/Factoring_program):
 
 1. *GMP*-*ECM* (https://web.archive.org/web/20210803045418/https://gforge.inria.fr/projects/ecm, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/ecm704dev-svn2990-win64, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/ecm704dev-svn2990-linux64, https://www.rieselprime.de/ziki/GMP-ECM)
 2. *MSIEVE* (https://sourceforge.net/projects/msieve, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/msieve153_win64)
