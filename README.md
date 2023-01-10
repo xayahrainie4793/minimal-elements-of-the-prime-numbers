@@ -820,6 +820,26 @@ Lists of small integers in various bases:
 
 1. https://en.wikipedia.org/wiki/Table_of_bases
 
+Also, programs related to this research:
+
+Primality testing programs (https://www.rieselprime.de/ziki/Primality_testing_program):
+
+1. *LLR* (http://jpenne.free.fr/index2.html, https://primes.utm.edu/bios/page.php?id=431, https://www.rieselprime.de/ziki/LLR, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/llr403win64, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/llr403linux64)
+2. *PFGW* (https://sourceforge.net/projects/openpfgw/, https://primes.utm.edu/bios/page.php?id=175, https://www.rieselprime.de/ziki/PFGW, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/pfgw_win_4.0.3)
+3. *PRIMO* (http://www.ellipsa.eu/public/primo/primo.html, http://www.rieselprime.de/dl/Primo309.zip, https://primes.utm.edu/bios/page.php?id=46, https://www.rieselprime.de/ziki/Primo, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/primo-433-lx64, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/Primo309)
+4. *CHG* (https://mersenneforum.org/attachment.php?attachmentid=21133&d=1571237465, https://primes.utm.edu/bios/page.php?id=797, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/CHG)
+
+Sieving programs (https://www.rieselprime.de/ziki/Sieving_program):
+
+1. *SRSIEVE* (https://www.bc-team.org/app.php/dlext/?cat=3, http://web.archive.org/web/20160922072340/https://sites.google.com/site/geoffreywalterreynolds/programs/, http://www.rieselprime.de/dl/CRUS_pack.zip, https://primes.utm.edu/bios/page.php?id=905, https://www.rieselprime.de/ziki/Srsieve, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/srsieve_1.1.4, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/sr1sieve_1.4.6, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/sr2sieve_2.0.0, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/srbsieve)
+2. *MTSIEVE* (https://sourceforge.net/projects/mtsieve/, https://primes.utm.edu/bios/page.php?id=449, https://www.rieselprime.de/ziki/Mtsieve, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/mtsieve_2.3.3)
+
+Factoring programs (https://www.rieselprime.de/ziki/Factoring_program):
+
+1. *GMP*-*ECM* (https://web.archive.org/web/20210803045418/https://gforge.inria.fr/projects/ecm, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/ecm704dev-svn2990-win64, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/ecm704dev-svn2990-linux64, https://www.rieselprime.de/ziki/GMP-ECM)
+2. *GGNFS* (http://sourceforge.net/projects/ggnfs, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/GGNFS)
+3. *CADO*-*NFS* (https://web.archive.org/web/20210506173015/http://cado-nfs.gforge.inria.fr/index.html, https://www.rieselprime.de/ziki/CADO-NFS, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/cado-nfs-2.3.0)
+
 For the files in this page:
 
 * File "kernel *b*": Data for all known minimal primes in base *b*, expressed as base *b* strings
