@@ -727,7 +727,7 @@ Other sets:
 1. https://arxiv.org/pdf/1607.01548.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_14.pdf) (sums of three squares, quadratic residues mod 6, quadratic residues mod 7, range of Euler’s totient function, range of "Euler’s totient function + 3", range of Dedekind psi function, perfect numbers)
 2. https://nntdm.net/papers/nntdm-25/NNTDM-25-1-036-047.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_15.pdf) (range of "Euler’s totient function + *n*", for 0 ≤ *n* ≤ 5)
 
-Tools about this research: (in fact, you can also use Wolfram Alpha (https://www.wolframalpha.com/) or online Magma calculator (http://magma.maths.usyd.edu.au/calc/) or Pari/GP (https://pari.math.u-bordeaux.fr/)) 
+Tools about this research: (in fact, you can also use *Wolfram Alpha* (https://www.wolframalpha.com/) or online *Magma* calculator (http://magma.maths.usyd.edu.au/calc/) or *Pari*/*GP* (https://pari.math.u-bordeaux.fr/) or *Wolfram Mathematica* (https://www.wolfram.com/mathematica/) or *Maple* (https://www.maplesoft.com/) 
 
 Prime checkers:
 
