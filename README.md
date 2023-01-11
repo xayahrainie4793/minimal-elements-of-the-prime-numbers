@@ -125,26 +125,26 @@ Some *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base
 |---|---|---|---|---|
 |10|2{0}1|2×10<sup>*n*+1</sup>+1 (*n* ≥ 0)|always divisible by 3|http://factordb.com/index.php?query=2*10%5E%28n%2B1%29%2B1&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |10|2{0}7|2×10<sup>*n*+1</sup>+7 (*n* ≥ 0)|always divisible by 3<br>(in fact, always divisible by 9)|http://factordb.com/index.php?query=2*10%5E%28n%2B1%29%2B7&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
-|10|5{0}1|always divisible by 3|
-|10|5{0}7|always divisible by 3|
-|10|8{0}1|always divisible by 3<br>(in fact, always divisible by 9)|
-|10|8{0}7|always divisible by 3|
-|10|28{0}7|always divisible by 7|
-|10|4{6}9|always divisible by 7|
-|10|families ending with 0, 2, 4, 6, or 8|always divisible by 2|
-|10|families ending with 0 or 5|always divisible by 5|
-|10|{0,3,6,9}|always divisible by 3<br>(non-simple family)|
-|10|{0,7}|always divisible by 7<br>(non-simple family)|
-|any base (*b*)|families ending with digits *d* which are not coprime to *b*|always divisible by *gcd*(*d*,*b*)|
-|any base (*b*)|families whose digits all have a common factor *d* > 1|always divisible by *d*|
-|3|1{0}1|always divisible by 2|
-|4|2{0}1|always divisible by 3|
-|5|1{0}1|always divisible by 2|
-|5|1{0}3|always divisible by 2<br>(in fact, always divisible by 4)|
-|5|3{0}1|always divisible by 2<br>(in fact, always divisible by 4)|
-|5|11{0}3|always divisible by 3|
-|5|3{0}11|always divisible by 3|
-|6|4{0}1|always divisible by 5|
+|10|5{0}1|5×10<sup>*n*+1</sup>+1 (*n* ≥ 0)|always divisible by 3|http://factordb.com/index.php?query=5*10%5E%28n%2B1%29%2B1&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|10|5{0}7|5×10<sup>*n*+1</sup>+7 (*n* ≥ 0)|always divisible by 3|http://factordb.com/index.php?query=5*10%5E%28n%2B1%29%2B7&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|10|8{0}1|8×10<sup>*n*+1</sup>+1 (*n* ≥ 0)|always divisible by 3<br>(in fact, always divisible by 9)|http://factordb.com/index.php?query=8*10%5E%28n%2B1%29%2B1&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|10|8{0}7|8×10<sup>*n*+1</sup>+7 (*n* ≥ 0)|always divisible by 3|http://factordb.com/index.php?query=8*10%5E%28n%2B1%29%2B7&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|10|28{0}7|28×10<sup>*n*+1</sup>+7 (*n* ≥ 0)|always divisible by 7|http://factordb.com/index.php?query=28*10%5E%28n%2B1%29%2B7&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|10|4{6}9|(14×10<sup>*n*+1</sup>+7)/3 (*n* ≥ 0)|always divisible by 7|http://factordb.com/index.php?query=%2814*10%5E%28n%2B1%29%2B7%29%2F3&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|10|families ending with 0, 2, 4, 6, or 8|–|always divisible by 2|–|
+|10|families ending with 0 or 5|–|always divisible by 5|–|
+|10|{0,3,6,9}|–|always divisible by 3<br>(non-simple family)|–|
+|10|{0,7}|–|always divisible by 7<br>(non-simple family)|–|
+|any base (*b*)|families ending with digits *d* which are not coprime to *b*|–|always divisible by *gcd*(*d*,*b*)|–|
+|any base (*b*)|families whose digits all have a common factor *d* > 1|–|always divisible by *d*|–|
+|3|1{0}1|3<sup>*n*+1</sup>+1 (*n* ≥ 0)|always divisible by 2|http://factordb.com/index.php?query=3%5E%28n%2B1%29%2B1&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|4|2{0}1|2×4<sup>*n*+1</sup>+1 (*n* ≥ 0)|always divisible by 3|http://factordb.com/index.php?query=2*4%5E%28n%2B1%29%2B1&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|5|1{0}1|5<sup>*n*+1</sup>+1 (*n* ≥ 0)|always divisible by 2|http://factordb.com/index.php?query=5%5E%28n%2B1%29%2B1&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|5|1{0}3|5<sup>*n*+1</sup>+3 (*n* ≥ 0)|always divisible by 2<br>(in fact, always divisible by 4)|http://factordb.com/index.php?query=5%5E%28n%2B1%29%2B3&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|5|3{0}1|3×5<sup>*n*+1</sup>+1 (*n* ≥ 0)|always divisible by 2<br>(in fact, always divisible by 4)|http://factordb.com/index.php?query=3*5%5E%28n%2B1%29%2B1&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|5|11{0}3|6×5<sup>*n*+1</sup>+3 (*n* ≥ 0)|always divisible by 3|http://factordb.com/index.php?query=6*5%5E%28n%2B1%29%2B3&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|5|3{0}11|3×5<sup>*n*+2</sup>+6 (*n* ≥ 0)|always divisible by 3|http://factordb.com/index.php?query=3*5%5E%28n%2B2%29%2B6&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|6|4{0}1|4×6<sup>*n*+1</sup>+1 (*n* ≥ 0)|always divisible by 5|http://factordb.com/index.php?query=4*6%5E%28n%2B1%29%2B1&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |7|1{0}1|always divisible by 2|
 |7|1{0}3|always divisible by 2|
 |7|1{0}5|always divisible by 2<br>(in fact, always divisible by 6)|
