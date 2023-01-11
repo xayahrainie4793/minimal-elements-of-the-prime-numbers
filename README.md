@@ -437,6 +437,7 @@ All these numbers are strong probable primes (https://en.wikipedia.org/wiki/Stro
 The unsolved families for bases *b* = 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 18, 20, 22, 24, 26, 28, 30, 36 (the solved or near-solved bases, i.e. the bases *b* with ≤ 10 unsolved families) and the factorization of the numbers in these families:
 
 |*b*|base-*b* form of the unsolved family|algebraic ((*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1)) form of the unsolved family|current searching limit of length of this family|factorization of the numbers in this family|
+|---|---|---|---|---|
 |13|A{3}A|(41×13<sup>*n*+1</sup>+27)/4|358000|http://factordb.com/index.php?query=%2841*13%5E%28n%2B1%29%2B27%29%2F4&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |26|85{M}B|(5347×26<sup>*n*+1</sup>−297)/25|100000|http://factordb.com/index.php?query=%285347*26%5E%28n%2B1%29-297%29%2F25&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |26|{A}6F|(2×26<sup>*n*+2</sup>−497)/5|100000|http://factordb.com/index.php?query=%282*26%5E%28n%2B2%29-497%29%2F5&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
