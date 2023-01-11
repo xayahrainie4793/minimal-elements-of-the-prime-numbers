@@ -753,14 +753,15 @@ Integer factorizers:
 5. https://www.emathhelp.net/calculators/pre-algebra/prime-factorization-calculator/
 6. http://www.numbertheory.org/php/factor.html
 7. https://primefan.tripod.com/Factorer.html
-8. http://www.se16.info/js/factor.htm
-9. http://math.fau.edu/Richman/mla/factor-f.htm
-10. http://www.rsok.com/~jrm/factor.html
-11. http://www.brennen.net/primes/FactorApplet.html (need run with Java)
-12. https://web.archive.org/web/20161004191531/http://britton.disted.camosun.bc.ca/jbprimefactor.htm
-13. http://wims.unice.fr/~wims/en_tool~algebra~factor.en.html
-14. http://www.analyzemath.com/Calculators_3/prime_factors.html
-15. http://www.proftnj.com/calcprem.htm (in French) (use the box "Factoriser un nombre" and click "Factoriser")
+8. https://www.calculatorsoup.com/calculators/math/prime-factors.php
+9. http://www.se16.info/js/factor.htm
+10. http://math.fau.edu/Richman/mla/factor-f.htm
+11. http://www.rsok.com/~jrm/factor.html
+12. http://www.brennen.net/primes/FactorApplet.html (need run with Java)
+13. https://web.archive.org/web/20161004191531/http://britton.disted.camosun.bc.ca/jbprimefactor.htm
+14. http://wims.unice.fr/~wims/en_tool~algebra~factor.en.html
+15. http://www.analyzemath.com/Calculators_3/prime_factors.html
+16. http://www.proftnj.com/calcprem.htm (in French) (use the box "Factoriser un nombre" and click "Factoriser")
 
 Base converters:
 
@@ -789,23 +790,25 @@ List of small primes:
 6. https://oeis.org/A000040/b000040_1.txt
 7. https://oeis.org/A000040/a000040_1B.7z
 8. https://metanumbers.com/prime-numbers
-9. https://www2.cs.arizona.edu/icon/oddsends/primes.htm
-10. http://noe-education.org/D11102.php (in French)
-11. https://web.archive.org/web/20060513054350/http://www.walter-fendt.de/m14i/primes_i.htm (in Italian)
-12. https://primefan.tripod.com/500Primes1.html
-13. https://www.gutenberg.org/files/65/65.txt
-14. http://www.primos.mat.br/indexen.html
-15. https://www.walter-fendt.de/html5/men/primenumbers_en.htm
-16. http://www.rsok.com/~jrm/printprimes.html
-17. http://www.numbertheory.org/php/prime_generator.html
-18. https://jocelyn.quizz.chat/np/cache/index.html (in French)
-19. http://www.sosmath.com/tables/prime/prime.html
-20. https://www.bigprimes.net/archive/prime
-21. https://web.archive.org/web/20201130071856/http://www.mathematical.com/primelist1to100kk.html
-22. https://web.archive.org/web/20191118082053/http://www.tsm-resources.com/alists/prim.html
-23. https://web.archive.org/web/20090917191047/http://planetmath.org/encyclopedia/FirstThousandPositivePrimeNumbers.html
-24. https://faculty.lynchburg.edu/~nicely/gaps/gaplist.html (the longest list ever calculated, with all primes < 2<sup>64</sup> (but unlikely other lists here, the primes are not all stored), see https://primes.utm.edu/notes/faq/LongestList.html)
-25. https://en.wikipedia.org/wiki/List_of_prime_numbers#The_first_1000_prime_numbers
+9. https://www.calculatorsoup.com/calculators/math/prime-numbers.php
+10. https://www2.cs.arizona.edu/icon/oddsends/primes.htm
+11. https://cdn1.byjus.com/wp-content/uploads/2021/10/Prime-Numbers-from-1-to-1000.png
+12. http://noe-education.org/D11102.php (in French)
+13. https://web.archive.org/web/20060513054350/http://www.walter-fendt.de/m14i/primes_i.htm (in Italian)
+14. https://primefan.tripod.com/500Primes1.html
+15. https://www.gutenberg.org/files/65/65.txt
+16. http://www.primos.mat.br/indexen.html
+17. https://www.walter-fendt.de/html5/men/primenumbers_en.htm
+18. http://www.rsok.com/~jrm/printprimes.html
+19. http://www.numbertheory.org/php/prime_generator.html
+20. https://jocelyn.quizz.chat/np/cache/index.html (in French)
+21. http://www.sosmath.com/tables/prime/prime.html
+22. https://www.bigprimes.net/archive/prime
+23. https://web.archive.org/web/20201130071856/http://www.mathematical.com/primelist1to100kk.html
+24. https://web.archive.org/web/20191118082053/http://www.tsm-resources.com/alists/prim.html
+25. https://web.archive.org/web/20090917191047/http://planetmath.org/encyclopedia/FirstThousandPositivePrimeNumbers.html
+26. https://faculty.lynchburg.edu/~nicely/gaps/gaplist.html (the longest list ever calculated, with all primes < 2<sup>64</sup> (but unlikely other lists here, the primes are not all stored), see https://primes.utm.edu/notes/faq/LongestList.html)
+27. https://en.wikipedia.org/wiki/List_of_prime_numbers#The_first_1000_prime_numbers
 
 Lists of factorizations of small integers:
 
