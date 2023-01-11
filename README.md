@@ -124,7 +124,7 @@ Some *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base
 |*b*|family|algebraic ((*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1)) form of this family (*n* is the number of digits in the "{}", also the lower bound of *n* to make the numbers > *b*)|why this family contain no primes > *b*|factorization of the numbers in this family|
 |---|---|---|---|---|
 |10|2{0}1|2×10<sup>*n*+1</sup>+1 (*n* ≥ 0)|always divisible by 3|http://factordb.com/index.php?query=2*10%5E%28n%2B1%29%2B1&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
-|10|2{0}7|always divisible by 3<br>(in fact, always divisible by 9)|
+|10|2{0}7|2×10<sup>*n*+1</sup>+7 (*n* ≥ 0)|always divisible by 3<br>(in fact, always divisible by 9)|http://factordb.com/index.php?query=2*10%5E%28n%2B1%29%2B7&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |10|5{0}1|always divisible by 3|
 |10|5{0}7|always divisible by 3|
 |10|8{0}1|always divisible by 3<br>(in fact, always divisible by 9)|
