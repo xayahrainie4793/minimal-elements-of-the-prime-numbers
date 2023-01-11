@@ -754,14 +754,15 @@ Integer factorizers:
 6. http://www.numbertheory.org/php/factor.html
 7. https://primefan.tripod.com/Factorer.html
 8. https://www.calculatorsoup.com/calculators/math/prime-factors.php
-9. http://www.se16.info/js/factor.htm
-10. http://math.fau.edu/Richman/mla/factor-f.htm
-11. http://www.rsok.com/~jrm/factor.html
-12. http://www.brennen.net/primes/FactorApplet.html (need run with Java)
-13. https://web.archive.org/web/20161004191531/http://britton.disted.camosun.bc.ca/jbprimefactor.htm
-14. http://wims.unice.fr/~wims/en_tool~algebra~factor.en.html
-15. http://www.analyzemath.com/Calculators_3/prime_factors.html
-16. http://www.proftnj.com/calcprem.htm (in French) (use the box "Factoriser un nombre" and click "Factoriser")
+9. https://www.calculator.net/prime-factorization-calculator.html
+10. http://www.se16.info/js/factor.htm
+11. http://math.fau.edu/Richman/mla/factor-f.htm
+12. http://www.rsok.com/~jrm/factor.html
+13. http://www.brennen.net/primes/FactorApplet.html (need run with Java)
+14. https://web.archive.org/web/20161004191531/http://britton.disted.camosun.bc.ca/jbprimefactor.htm
+15. http://wims.unice.fr/~wims/en_tool~algebra~factor.en.html
+16. http://www.analyzemath.com/Calculators_3/prime_factors.html
+17. http://www.proftnj.com/calcprem.htm (in French) (use the box "Factoriser un nombre" and click "Factoriser")
 
 Base converters:
 
