@@ -185,11 +185,11 @@ Some *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base
 |28|4{O}9|always divisible by 11|
 |28|D{6}R|always divisible by 17|
 |28|N{6}R|always divisible by 11|
-|9|{1}5|always divisible by some element of {2,5}<br>divisible by 2 if the length is even, divisible by 5 if the length is odd|
-|9|{1}61|always divisible by some element of {2,5}<br>divisible by 2 if the length is even, divisible by 5 if the length is odd|
-|9|2{7}|always divisible by some element of {2,5}<br>divisible by 2 if the length is odd, divisible by 5 if the length is even|
-|9|{3}5|always divisible by some element of {2,5}<br>divisible by 2 if the length is even, divisible by 5 if the length is odd|
-|9|{3}8|always divisible by some element of {2,5}<br>divisible by 2 if the length is odd, divisible by 5 if the length is even|
+|9|{1}5|(9<sup>*n*+1</sup>+31)/8|always divisible by some element of {2,5}<br>divisible by 2 if the length is even, divisible by 5 if the length is odd|http://factordb.com/index.php?query=%289%5E%28n%2B1%29%2B31%29%2F8&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|9|{1}61|(9<sup>*n*+2</sup>+359)/8|always divisible by some element of {2,5}<br>divisible by 2 if the length is even, divisible by 5 if the length is odd|http://factordb.com/index.php?query=%289%5E%28n%2B2%29%2B359%29%2F8&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|9|2{7}|(23×9<sup>*n*</sup>−7)/8|always divisible by some element of {2,5}<br>divisible by 2 if the length is odd, divisible by 5 if the length is even|http://factordb.com/index.php?query=%2823*9%5En-7%29%2F8&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|9|{3}5|(3×9<sup>*n*</sup>+13)/8|always divisible by some element of {2,5}<br>divisible by 2 if the length is even, divisible by 5 if the length is odd|http://factordb.com/index.php?query=%283*9%5E%28n%2B1%29%2B13%29%2F8&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|9|{3}8|(3×9<sup>*n*</sup>+37)/8|always divisible by some element of {2,5}<br>divisible by 2 if the length is odd, divisible by 5 if the length is even|http://factordb.com/index.php?query=%283*9%5E%28n%2B1%29%2B37%29%2F8&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |9|{3}05|always divisible by some element of {2,5}<br>divisible by 2 if the length is odd, divisible by 5 if the length is even|
 |9|5{1}|always divisible by some element of {2,5}<br>divisible by 2 if the length is even, divisible by 5 if the length is odd|
 |9|5{7}|always divisible by some element of {2,5}<br>divisible by 2 if the length is even, divisible by 5 if the length is odd|
