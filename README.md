@@ -180,6 +180,8 @@ Some *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base
 |8|44{0}3|always divisible by 3|
 |8|6{0}11|always divisible by 3|
 |9|{7}62|always divisible by 7|
+|9|2{7}5|always divisible by 23|
+|9|5{7}2|always divisible by 47|
 |12|A{0}21|always divisible by 5|
 |13|C{A}5|always divisible by 7|
 |14|40{4}9|always divisible by 61|
