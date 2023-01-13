@@ -214,8 +214,8 @@ Some *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base
 |9|{7}{0}5|–|always divisible by some element of {2,5}<br>(non-simple family)<br>divisible by 2 if the number of 7's is odd, divisible by 5 if the number of 7's is even|–|
 |11|2{5}|(5×11<sup>*n*</sup>−1)/2 (*n* ≥ 1)|always divisible by some element of {2,3}<br>divisible by 2 if *n* is even, divisible by 3 if *n* is odd|http://factordb.com/index.php?query=%285*11%5En-1%29%2F2&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |11|3{5}|(7×11<sup>*n*</sup>−1)/2 (*n* ≥ 1)|always divisible by some element of {2,3}<br>divisible by 2 if *n* is odd, divisible by 3 if *n* is even|http://factordb.com/index.php?query=%287*11%5En-1%29%2F2&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
-|11|3{7}|always divisible by some element of {2,3}<br>divisible by 2 if the length is even, divisible by 3 if the length is odd|
-|11|4{7}|always divisible by some element of {2,3}<br>divisible by 2 if the length is odd, divisible by 3 if the length is even|
+|11|3{7}|(37×11<sup>*n*</sup>−7)/10 (*n* ≥ 1)|always divisible by some element of {2,3}<br>divisible by 2 if *n* is odd, divisible by 3 if *n* is even|http://factordb.com/index.php?query=%2837*11%5En-7%29%2F10&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|11|4{7}|(47×11<sup>*n*</sup>−7)/10 (*n* ≥ 1)|always divisible by some element of {2,3}<br>divisible by 2 if *n* is even, divisible by 3 if *n* is odd|http://factordb.com/index.php?query=%2847*11%5En-7%29%2F10&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |11|8{5}|always divisible by some element of {2,3}<br>divisible by 2 if the length is odd, divisible by 3 if the length is even|
 |11|9{5}|always divisible by some element of {2,3}<br>divisible by 2 if the length is even, divisible by 3 if the length is odd|
 |11|9{7}|always divisible by some element of {2,3}<br>divisible by 2 if the length is even, divisible by 3 if the length is odd|
