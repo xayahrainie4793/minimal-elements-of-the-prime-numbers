@@ -182,6 +182,10 @@ Some *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base
 |9|{7}62|always divisible by 7|
 |9|2{7}5|always divisible by 23|
 |9|5{7}2|always divisible by 47|
+|11|2{5}3|always divisible by 5<br>(in fact, always divisible by 25)|
+|11|3{5}2|always divisible by 5<br>(in fact, always divisible by 35)|
+|11|3{7}4|always divisible by 37|
+|11|4{7}3|always divisible by 47|
 |12|A{0}21|always divisible by 5|
 |13|C{A}5|always divisible by 7|
 |14|40{4}9|always divisible by 61|
