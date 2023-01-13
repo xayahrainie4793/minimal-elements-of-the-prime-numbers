@@ -813,7 +813,7 @@ Expression generators:
 1. https://stdkmd.net/nrr/exprgen.htm (only support base 10 forms)
 2. https://www.numberempire.com/simplifyexpression.php (e.g. for the form 5{7} in base 11, type "5\*11^n+7\*(11^n-1)/10")
 
-List of small primes:
+Lists of small primes: (we can find the first elements in the set of the minimal elements of the base *b* representations of the prime numbers > *b* under the subsequence ordering in these lists, e.g. for base *b* = 10, we can use the 7th list, which has the first 10<sup>9</sup> primes, and test whether they are minimal primes or not (also use these lists, find whether the subsequences of these primes are in these lists), then we can find all elements but the largest element (5000000000000000000000000000027) in the set of the minimal elements of the base 10 representations of the prime numbers > 10 under the subsequence ordering, i.e. we can find the first 76 elements of this set, also, these lists can be used for trial division (https://en.wikipedia.org/wiki/Trial_division, https://primes.utm.edu/glossary/xpage/TrialDivision.html, https://www.rieselprime.de/ziki/Trial_factoring, https://mathworld.wolfram.com/TrialDivision.html) to test whether a large number in the unsolved families have small prime factors and can remove it before using Baillie–PSW primality test)
 
 1. https://primes.utm.edu/lists/small/1000.txt
 2. https://primes.utm.edu/lists/small/10000.txt
