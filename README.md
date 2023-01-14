@@ -858,7 +858,7 @@ Lists of small integers in various bases:
 
 1. https://en.wikipedia.org/wiki/Table_of_bases
 
-Also, programs related to this research: (some of these programs can also be downloaded in http://www.fermatsearch.org/download.php or https://www.mersenne.org/download/freeware.php)
+Also, programs related to this research: (some of these programs can also be downloaded in http://www.fermatsearch.org/download.php or https://www.mersenne.org/download/freeware.php or https://download.mersenne.ca/) (some of these programs need to use *GMP* (https://gmplib.org/))
 
 Primality (or probable primality) testing (https://en.wikipedia.org/wiki/Primality_test, https://www.rieselprime.de/ziki/Primality_test, https://mathworld.wolfram.com/PrimalityTest.html, https://primes.utm.edu/prove/index.html) programs (https://www.rieselprime.de/ziki/Primality_testing_program):
 
@@ -878,6 +878,9 @@ Integer factoring (https://en.wikipedia.org/wiki/Integer_factorization, https://
 2. *MSIEVE* (https://sourceforge.net/projects/msieve, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/msieve153_win64)
 3. *GGNFS* (http://sourceforge.net/projects/ggnfs, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/GGNFS)
 4. *CADO*-*NFS* (https://web.archive.org/web/20210506173015/http://cado-nfs.gforge.inria.fr/index.html, https://www.rieselprime.de/ziki/CADO-NFS, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/cado-nfs-2.3.0)
+5. *YAFU* (http://bbuhrow.googlepages.com/home, https://github.com/bbuhrow/yafu, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/YAFU)
+6. *YTOOLS* (https://github.com/bbuhrow/ytools)
+7. *YSIEVE* (https://github.com/bbuhrow/ysieve)
 
 For the files in this page:
 
