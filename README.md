@@ -113,17 +113,13 @@ Determining the set of the minimal elements of a arbitrary set of strings under 
 
 The following is a "semi-algorithm" that is guaranteed to produce the minimal elements of a arbitrary set of strings under the subsequence ordering, but it is not so easy to implement:
 
-(1) M = ∅
+1. *M* = *∅* 
+2. while (*L* ≠ *∅*) do
+3. choose *x*, a shortest string in *L*
+4. *M* = *M* ∪ {*x*}
+5. *L* = *L* − *sup*({*x*})
 
-(2) while (L ≠ ∅) do
-
-(3) choose x, a shortest string in L
-
-(4) M = M ∪ {x}
-
-(5) L = L − sup({x})
-
-In practice, for arbitrary L, we cannot feasibly carry out step (5). Instead, we work with L’, some regular overapproximation to L, until we can show L’ = ∅ (which implies L = ∅). In practice, L’ is usually chosen to be a finite union of sets of the form L1L2*L3, where each of L1, L2, L3 is finite. In the case we consider in this paper, we then have to determine whether such a language contains a prime or not.
+In practice, for arbitrary *L*, we cannot feasibly carry out step 5. Instead, we work with L', some regular overapproximation to *L*, until we can show *L*' = *∅* (which implies *L* = *∅*). In practice, *L*' is usually chosen to be a finite union of sets of the form *L*<sub>1</sub>{*L*<sub>2</sub>}*L*<sub>3</sub>, where each of *L*<sub>1</sub>, *L*<sub>2</sub>, *L*<sub>3</sub> is finite. In the case we consider in this project, we then have to determine whether such a family contains a prime > *b* or not.
 
 To solve this problem (i.e. to compute (https://en.wikipedia.org/wiki/Computing) the set of the minimal elements of the base *b* representations of the prime numbers > *b* under the subsequence ordering), we need to determine whether a given family contains a prime. In practice, if family *x*{*Y*}*z* (where *x* and *z* are strings (may be empty) of digits in base *b*, *Y* is a set of digits in base *b*) could not be ruled out as only containing composites and *Y* contains two or more digits, then a relatively small prime > *b* could always be found in this family. Intuitively, this is because there are a large number of small strings in such a family, and at least one is likely to be prime (e.g. there are 2<sup>*n*−2</sup> strings of length *n* in the family 1{3,7}9, and there are over a thousand strings of length 12 in the family 1{3,7}9, thus it is very impossible that these numbers are all composite). In the case *Y* contains only one digit, this family is of the form *x*{*y*}*z*, and there is only a single string of each length > (the length of *x* + the length of *z*), and it is not known if the following decision problem (https://en.wikipedia.org/wiki/Decision_problem, https://mathworld.wolfram.com/DecisionProblem.html) is recursively solvable:
 
