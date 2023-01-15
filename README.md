@@ -830,7 +830,7 @@ Lists of small primes:
 11. https://cdn1.byjus.com/wp-content/uploads/2021/10/Prime-Numbers-from-1-to-1000.png
 12. http://noe-education.org/D11102.php (in French)
 13. https://web.archive.org/web/20060513054350/http://www.walter-fendt.de/m14i/primes_i.htm (in Italian)
-14. https://primefan.tripod.com/500Primes1.html
+14. https://primefan.tripod.com/500Primes1.html **(warning: this site incorrectly includes 1 as a prime and misses the primes 3229 and 3329)**
 15. https://www.gutenberg.org/files/65/65.txt
 16. http://www.primos.mat.br/indexen.html
 17. https://www.walter-fendt.de/html5/men/primenumbers_en.htm
