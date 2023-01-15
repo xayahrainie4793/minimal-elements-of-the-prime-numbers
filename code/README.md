@@ -15,7 +15,6 @@ e.g. for the non-simple family {7}{4}1 in base 8, we can separate it to these fa
 * Family {7}44441, its smallest prime is 7<sub>56</sub>44441 (not minimal prime, since 7<sub>12</sub>1 ◁ 7<sub>56</sub>44441)
 * Family {7}444441, it has no primes since all numbers are divisible by 7
 * Family {7}4444441, its smallest prime is 77774444441
-
 * Family {4}1, its smallest prime is 4<sup>8</sup>1
 * Family 7{4}1, its smallest prime is 74<sup>7</sup>1
 * Family 77{4}1, it has no primes since all numbers are divisible by 5
@@ -35,7 +34,6 @@ For another example, for the non-simple family {8}{3}5 in base 9, we can separat
 * Family {8}3333335, its smallest prime is 8<sub>9</sub>3333335 (not minimal prime, since 8<sub>9</sub>33335 ◁ 8<sub>9</sub>3333335)
 * Family {8}33333335, it has no primes since all numbers are divisible by 2
 * Family {8}333333335, its smallest prime is 8333333335
-
 * Family {3}5, it has no primes since all numbers are divisible by either 2 or 5
 * Family 8{3}5, its smallest prime is 8333333335
 
