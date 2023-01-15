@@ -4,6 +4,8 @@ This set of programs uses many number theoretic (https://en.wikipedia.org/wiki/N
 
 The program "searchpp.cc" is searching the smallest (probable) prime in non-simple families (for the examples of non-simple families, see https://stdkmd.net/nrr/prime/primecount3.htm and https://stdkmd.net/nrr/prime/primecount3.txt (only base 10 families)), non-simple families usually have small primes if they cannot be ruled out as only containing composites by covering congruence, see the section above.
 
+(the section below uses the notation in http://www.wiskundemeisjes.nl/wp-content/uploads/2007/02/minimal.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_12.pdf), i.e. "*X* ◁ *Y*" means "*X* is a subsequence of *Y*")
+
 e.g. for the non-simple family {7}{4}1 in base 8, we can separate it to these families:
 
 * Family {7}1, its smallest prime is 7<sub>12</sub>1
