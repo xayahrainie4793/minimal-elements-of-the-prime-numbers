@@ -18,7 +18,7 @@ e.g. for the non-simple family {7}{4}1 in base *b* = 8, we can separate it to th
 * Family {4}1, its smallest prime is 4<sup>8</sup>1
 * Family 7{4}1, its smallest prime is 74<sup>7</sup>1
 * Family 77{4}1, it has no primes since all numbers are divisible by 5
-* Family 777{4}1, its smallest prime is 7774<sup>11</sup>1 (not minimal prime, since 4<sup>8</sup>1 ◁ 74<sup>7</sup>1)
+* Family 777{4}1, its smallest prime is 7774<sup>11</sup>1 (not minimal prime, since 4<sup>8</sup>1 ◁ 7774<sup>11</sup>1)
 * Family 7777{4}1, its smallest prime is 77774444441
 
 and thus we found that the smallest prime in the non-simple family {7}{4}1 in base 8 is 77774444441
