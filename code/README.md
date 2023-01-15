@@ -15,10 +15,10 @@ e.g. for the non-simple family {7}{4}1 in base *b* = 8, we can separate it to th
 * Family {7}44441, its smallest prime is 7<sub>56</sub>44441 (not minimal prime, since 7<sub>12</sub>1 ◁ 7<sub>56</sub>44441)
 * Family {7}444441, it has no primes since all numbers are divisible by 7
 * Family {7}4444441, its smallest prime is 77774444441
-* Family {4}1, its smallest prime is 4<sup>8</sup>1
-* Family 7{4}1, its smallest prime is 74<sup>7</sup>1
+* Family {4}1, its smallest prime is 4<sub>8</sub>1
+* Family 7{4}1, its smallest prime is 74<sub>7</sub>1
 * Family 77{4}1, it has no primes since all numbers are divisible by 5
-* Family 777{4}1, its smallest prime is 7774<sup>11</sup>1 (not minimal prime, since 4<sup>8</sup>1 ◁ 7774<sup>11</sup>1)
+* Family 777{4}1, its smallest prime is 7774<sub>11</sub>1 (not minimal prime, since 4<sub>8</sub>1 ◁ 7774<sub>11</sub>1)
 * Family 7777{4}1, its smallest prime is 77774444441
 
 and thus we found that the smallest prime in the non-simple family {7}{4}1 in base 8 is 77774444441
