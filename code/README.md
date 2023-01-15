@@ -22,7 +22,7 @@ e.g. for the non-simple family {7}{4}1 in base 8, we can separate it to these fa
 
 and thus we found that the smallest prime in the non-simple family {7}{4}1 in base 8 is 77774444441
 
-also for the non-simple family {8}{3}5 in base 9, we can separate it to these families:
+For another example, for the non-simple family {8}{3}5 in base 9, we can separate it to these families:
 
 * Family {8}5, it has no primes since the numbers can be factored as difference of squares
 * Family {8}35, it has no primes since all numbers are divisible by 2
