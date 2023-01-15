@@ -6,7 +6,7 @@ The program "searchpp.cc" is searching the smallest (probable) prime in non-simp
 
 (the section below uses the notation in http://www.wiskundemeisjes.nl/wp-content/uploads/2007/02/minimal.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_12.pdf), i.e. "*X* ◁ *Y*" means "*X* is a subsequence of *Y*")
 
-e.g. for the non-simple family {7}{4}1 in base 8, we can separate it to these families:
+e.g. for the non-simple family {7}{4}1 in base *b* = 8, we can separate it to these families:
 
 * Family {7}1, its smallest prime is 7<sub>12</sub>1
 * Family {7}41, its smallest prime is 7<sub>79</sub>41 (not minimal prime, since 7<sub>12</sub>1 ◁ 7<sub>79</sub>41)
@@ -23,9 +23,9 @@ e.g. for the non-simple family {7}{4}1 in base 8, we can separate it to these fa
 
 and thus we found that the smallest prime in the non-simple family {7}{4}1 in base 8 is 77774444441
 
-For another example, for the non-simple family {8}{3}5 in base 9, we can separate it to these families:
+For another example, for the non-simple family {8}{3}5 in base *b* = 9, we can separate it to these families:
 
-* Family {8}5, it has no primes since the numbers can be factored as difference of squares
+* Family {8}5, it has no primes since the numbers can be factored as difference of squares (note: since we only count the primes > *b*, thus the prime 5 is not counted)
 * Family {8}35, it has no primes since all numbers are divisible by 2
 * Family {8}335, its smallest prime is 8<sub>19</sub>335
 * Family {8}3335, it has no primes since all numbers are divisible by 2
@@ -34,7 +34,7 @@ For another example, for the non-simple family {8}{3}5 in base 9, we can separat
 * Family {8}3333335, its smallest prime is 8<sub>9</sub>3333335 (not minimal prime, since 8<sub>9</sub>33335 ◁ 8<sub>9</sub>3333335)
 * Family {8}33333335, it has no primes since all numbers are divisible by 2
 * Family {8}333333335, its smallest prime is 8333333335
-* Family {3}5, it has no primes since all numbers are divisible by either 2 or 5
+* Family {3}5, it has no primes since all numbers are divisible by either 2 or 5 (note: since we only count the primes > *b*, thus the prime 5 is not counted)
 * Family 8{3}5, its smallest prime is 8333333335
 
 and thus we found that the smallest prime in the non-simple family {8}{3}5 in base 9 is 8333333335
