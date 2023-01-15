@@ -4,6 +4,24 @@ This set of programs uses many number theoretic (https://en.wikipedia.org/wiki/N
 
 The program "searchpp.cc" is searching the smallest (probable) prime in non-simple families (for the examples of non-simple families, see https://stdkmd.net/nrr/prime/primecount3.htm and https://stdkmd.net/nrr/prime/primecount3.txt (only base 10 families)), non-simple families usually have small primes if they cannot be ruled out as only containing composites by covering congruence, see the section above.
 
+e.g. for the non-simple family {7}{4}1 in base 8, we have:
+
+* Family {7}1, its smallest prime is 7<sup>12</sup>1
+* Family {7}41, its smallest prime is 7<sup>79</sup>41 (not minimal prime)
+* Family {7}441, its smallest prime is 7<sup>84</sup>441 (not minimal prime)
+* Family {7}4441, its smallest prime is 7<sup>233</sup>4441 (not minimal prime)
+* Family {7}44441, its smallest prime is 7<sup>56</sup>44441 (not minimal prime)
+* Family {7}444441, it has no primes since all numbers are divisible by 7
+* Family {7}4444441, its smallest prime is 77774444441
+
+* Family {4}1, its smallest prime is 4<sup>8</sup>1
+* Family 7{4}1, its smallest prime is 74<sup>7</sup>1
+* Family 77{4}1, it has no primes since all numbers are divisible by 5
+* Family 777{4}1, its smallest prime is 7774<sup>11</sup>1 (not minimal prime)
+* Family 7777{4}1, its smallest prime is 77774444441
+
+and thus we found that the smallest prime in the non-simple family {7}{4}1 in base 8 is 77774444441
+
 The program "searchpm.cc" is searching the smallest (probable) prime in simple families up to length 1000.
 
 The program "searchp1.cc" is searching the smallest (probable) prime in simple families extensively, starting with length 1000.
