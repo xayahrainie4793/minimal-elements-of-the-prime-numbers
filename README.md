@@ -699,7 +699,7 @@ Links for top (probable) primes:
 
 Other researches for the digits of the primes:
 
-Left-truncatable primes (https://en.wikipedia.org/wiki/Truncatable_prime, https://primes.utm.edu/glossary/xpage/LeftTruncatablePrime.html, https://mathworld.wolfram.com/TruncatablePrime.html), i.e. every nonempty suffix is prime:
+Left-truncatable primes (https://en.wikipedia.org/wiki/Truncatable_prime, https://primes.utm.edu/glossary/xpage/LeftTruncatablePrime.html, https://mathworld.wolfram.com/TruncatablePrime.html, https://www.numbersaplenty.com/set/truncatable_prime/), i.e. every nonempty suffix is prime:
 
 1. http://primerecords.dk/left-truncatable.txt (base 10)
 2. http://chesswanks.com/num/LTPs/ (bases 3 to 120)
@@ -708,7 +708,7 @@ Left-truncatable primes (https://en.wikipedia.org/wiki/Truncatable_prime, https:
 5. https://oeis.org/A103463 (length of the largest left-truncatable prime in base *b*)
 6. https://oeis.org/A076623 (number of left-truncatable primes in base *b*)
 
-Right-truncatable primes (https://en.wikipedia.org/wiki/Truncatable_prime, https://primes.utm.edu/glossary/xpage/RightTruncatablePrime.html, https://mathworld.wolfram.com/TruncatablePrime.html), i.e. every nonempty prefix is prime:
+Right-truncatable primes (https://en.wikipedia.org/wiki/Truncatable_prime, https://primes.utm.edu/glossary/xpage/RightTruncatablePrime.html, https://mathworld.wolfram.com/TruncatablePrime.html, https://www.numbersaplenty.com/set/truncatable_prime/), i.e. every nonempty prefix is prime:
 
 1. http://primerecords.dk/right-truncatable.txt (base 10)
 2. http://fatphil.org/maths/rtp/rtp.html (bases 3 to 90)
