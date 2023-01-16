@@ -109,40 +109,6 @@ e.g. proving that "the set of the minimal elements of the base 10 representation
 
 (since for base *b* = 10, all these three problems are proved, i.e. all they are theorems, thus, "the set of the minimal elements of the base 10 representations of the prime numbers > 10 under the subsequence ordering" = {11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97, 227, 251, 257, 277, 281, 349, 409, 449, 499, 521, 557, 577, 587, 727, 757, 787, 821, 827, 857, 877, 881, 887, 991, 2087, 2221, 5051, 5081, 5501, 5581, 5801, 5851, 6469, 6949, 8501, 9001, 9049, 9221, 9551, 9649, 9851, 9949, 20021, 20201, 50207, 60649, 80051, 666649, 946669, 5200007, 22000001, 60000049, 66000049, 66600049, 80555551, 555555555551, 5000000000000000000000000000027} is also proved, i.e. "the set of the minimal elements of the base 10 representations of the prime numbers > 10 under the subsequence ordering" = {11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97, 227, 251, 257, 277, 281, 349, 409, 449, 499, 521, 557, 577, 587, 727, 757, 787, 821, 827, 857, 877, 881, 887, 991, 2087, 2221, 5051, 5081, 5501, 5581, 5801, 5851, 6469, 6949, 8501, 9001, 9049, 9221, 9551, 9649, 9851, 9949, 20021, 20201, 50207, 60649, 80051, 666649, 946669, 5200007, 22000001, 60000049, 66000049, 66600049, 80555551, 555555555551, 5000000000000000000000000000027} is also a theorem)
 
-Theorem (https://en.wikipedia.org/wiki/Theorem, https://mathworld.wolfram.com/Theorem.html, https://primes.utm.edu/notes/proofs/): The set of the minimal elements of the base 10 representations of the prime numbers > 10 under the subsequence ordering is {11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97, 227, 251, 257, 277, 281, 349, 409, 449, 499, 521, 557, 577, 587, 727, 757, 787, 821, 827, 857, 877, 881, 887, 991, 2087, 2221, 5051, 5081, 5501, 5581, 5801, 5851, 6469, 6949, 8501, 9001, 9049, 9221, 9551, 9649, 9851, 9949, 20021, 20201, 50207, 60649, 80051, 666649, 946669, 5200007, 22000001, 60000049, 66000049, 66600049, 80555551, 555555555551, 5000000000000000000000000000027}
-
-Proof (https://en.wikipedia.org/wiki/Mathematical_proof, https://mathworld.wolfram.com/Proof.html, https://primes.utm.edu/notes/proofs/): (this proof uses the notation in http://www.wiskundemeisjes.nl/wp-content/uploads/2007/02/minimal.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_12.pdf), i.e. "*X* ◁ *Y*" means "*X* is a subsequence of *Y*")
-
-Assume *p* is a prime > 10, and the last digit of *p* must lie in {1,3,7,9}
-
-Case 1: *p* ends with 1.
-
-In this case we can write *p* = *x*1. If *x* contains 1, 3, 4, 6, or 7, then (respectively) **11** ◁ *p*, **31** ◁ *p*, **41** ◁ *p*, **61** ◁ *p*, or **71** ◁ *p*. Hence we may assume that all digits of *x* are 0, 2, 5, 8, or 9.
-
-Case 1.1: *p* begins with 2.
-
-In this case we can write *p* = 2*y*1. If 5 ◁ *y*, then **251** ◁ *p*. If 8 ◁ *y*, then **281** ◁ *p*. If 9 ◁ *y*, then 29 ◁ *p*. Hence we may assume that all digits of *y* are 0 or 2.
-
-If 22 ◁ *y*, then **2221** ◁ *p*. Hence we may assume *y* contains zero or one 2's.
-
-If *y* contains no 2's, then *p* ∈ 2{0}1. But then, since the sum of the digits of *p* is 3, *p* is divisible by 3, so *p* cannot be prime.
-
-If *y* contains exactly one 2, then we can write *p* = 2*z*2*w*1, where *z*,*w* ∈ {0}. If 0 ◁ *z* and 0 ◁ *w*, then **20201** ◁ *p*. Hence we may assume either *z* or *w* is empty.
-
-If *z* is empty, then *p* ∈ 22{0}1, and the smallest prime *p* ∈ 22{0}1 is **22000001**.
-
-If *w* is empty, then *p* ∈ 2{0}21, and the smallest prime *p* ∈ 2{0}21 is **20021**.
-
-Case 1.2: *p* begins with 5.
-
-In this case we can write *p* = 5*y*1. If 2 ◁ *y*, then **521** ◁ *p*. If 9 ◁ *y*, then 59 ◁ *p*. Hence we may assume that all digits of *y* are 0, 5, or 8.
-
-If 05 ◁ *y*, then **5051** ◁ *p*. If 08 ◁ *y*, then **5081** ◁ *p*. If 50 ◁ *y*, then **5501** ◁ *p*. If 58 ◁ *y*, then **5581** ◁ *p*. If 80 ◁ *y*, then **5801** ◁ *p*. If 85 ◁ *y*, then **5851** ◁ *p*. Hence we may assume that all digits of *y* are the same (0 or 5 or 8).
-
-If 
-
-(You can try to write the proof for bases *b* = 2, 3, 4, 5, 6, 7, 8, 9, 12, of course, the proof for base *b* = 2 is trivial, since all primes *p* > 2 must start and end with 1 in base 2, thus we must have 11 ◁ *p*, however, for some bases *b* like 24, it is almost impossible to write the proof by hand, since base *b* = 24 has too many (3409) minimal primes to write the proof, thus the C++ program code (for computer to compute (https://en.wikipedia.org/wiki/Computing) the proof) is made)
-
 Determining the set of the minimal elements of a arbitrary set of strings under the subsequence ordering is in general unsolvable, and can be difficult even when this set is relatively simple (such as the base *b* representations of the prime numbers > *b*), also, determining the set of the minimal elements of a arbitrary set of strings under the subsequence ordering may be an open problem (https://en.wikipedia.org/wiki/Open_problem, https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_mathematics, https://primes.utm.edu/glossary/xpage/OpenQuestion.html, https://mathworld.wolfram.com/UnsolvedProblems.html, https://primes.utm.edu/notes/conjectures/) or NP-complete (https://en.wikipedia.org/wiki/NP-complete, https://mathworld.wolfram.com/NP-CompleteProblem.html) or an undecidable problem (https://en.wikipedia.org/wiki/Undecidable_problem, https://mathworld.wolfram.com/Undecidable.html), or an example of Gödel's incompleteness theorems (https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems, https://mathworld.wolfram.com/GoedelsFirstIncompletenessTheorem.html) (like the continuum hypothesis (https://en.wikipedia.org/wiki/Continuum_hypothesis, https://mathworld.wolfram.com/ContinuumHypothesis.html) and the halting problem (https://en.wikipedia.org/wiki/Halting_problem, https://mathworld.wolfram.com/HaltingProblem.html)), or as hard as the unsolved problems in mathematics, such as the Riemann hypothesis (https://en.wikipedia.org/wiki/Riemann_hypothesis, https://primes.utm.edu/glossary/xpage/RiemannHypothesis.html, https://mathworld.wolfram.com/RiemannHypothesis.html) and the *abc* conjecture (https://en.wikipedia.org/wiki/Abc_conjecture, https://mathworld.wolfram.com/abcConjecture.html) and the Schinzel's hypothesis *H* (https://en.wikipedia.org/wiki/Schinzel%27s_hypothesis_H, https://mathworld.wolfram.com/SchinzelsHypothesis.html), which are the three famous hard problems in number theory (https://en.wikipedia.org/wiki/Number_theory, https://www.rieselprime.de/ziki/Number_theory, https://mathworld.wolfram.com/NumberTheory.html).
 
 The following is a "semi-algorithm" that is guaranteed to produce the minimal elements of a arbitrary set of strings under the subsequence ordering, but it is not so easy to implement:
