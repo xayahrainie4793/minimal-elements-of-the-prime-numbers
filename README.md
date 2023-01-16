@@ -709,9 +709,25 @@ Links for top (probable) primes: (also pages for the largest known prime: https:
 * http://www.primenumbers.net/prptop/submit.php (submit page of top probable primes)
 * http://www.primenumbers.net/prptop/topdisc.php (index of the provers of top probable primes)
 
-and the search result page for the (probable) primes of special forms: (note: a large number 
+and the search result page for the (probable) primes of special forms: (note: a large prime of the form (*a*×*b*<sup>*n*</sup>+*c*)/*d* with small *a*, *b*, *c*, *d* and large *n* can be easily proven prime if and only if *c* = ±1 and *d* = 1)
 
-* 
+Definitely primes (i.e. *c* = ±1 and *d* = 1):
+
+* *b*<sup>*n*</sup>+1: https://primes.utm.edu/primes/search.php?Description=%5E[[:digit:]]%7B1,%7D%5E[[:digit:]]%7B1,%7D%2B1&OnList=all&Number=1000000&Style=HTML
+* *b*<sup>*n*</sup>−1: https://primes.utm.edu/primes/search.php?Description=%5E[[:digit:]]%7B1,%7D%5E[[:digit:]]%7B1,%7D-1&OnList=all&Number=1000000&Style=HTML
+* *a*×*b*<sup>*n*</sup>+1: https://primes.utm.edu/primes/search.php?Description=[[:digit:]]%7B1,%7D*[[:digit:]]%7B1,%7D%5E[[:digit:]]%7B1,%7D%2B1&OnList=all&Number=1000000&Style=HTML
+* *a*×*b*<sup>*n*</sup>−1: https://primes.utm.edu/primes/search.php?Description=[[:digit:]]%7B1,%7D*[[:digit:]]%7B1,%7D%5E[[:digit:]]%7B1,%7D-1&OnList=all&Number=1000000&Style=HTML
+
+Probable primes (i.e. *c* ≠ ±1 and/or *d* ≠ 1):
+
+* *b*<sup>*n*</sup>+*c*: http://www.primenumbers.net/prptop/searchform.php?form=b%5En%2Bc&action=Search
+* *b*<sup>*n*</sup>−*c*: http://www.primenumbers.net/prptop/searchform.php?form=b%5En-c&action=Search
+* *a*×*b*<sup>*n*</sup>+*c*: http://www.primenumbers.net/prptop/searchform.php?form=a*b%5En%2Bc&action=Search
+* *a*×*b*<sup>*n*</sup>−*c*: http://www.primenumbers.net/prptop/searchform.php?form=a*b%5En-c&action=Search
+* (*b*<sup>*n*</sup>+*c*)/*d*: http://www.primenumbers.net/prptop/searchform.php?form=%28b%5En%2Bc%29%2Fd&action=Search
+* (*b*<sup>*n*</sup>−*c*)/*d*: http://www.primenumbers.net/prptop/searchform.php?form=%28b%5En-c%29%2Fd&action=Search
+* (*a*×*b*<sup>*n*</sup>+*c*)/*d*: http://www.primenumbers.net/prptop/searchform.php?form=%28a*b%5En%2Bc%29%2Fd&action=Search
+* (*a*×*b*<sup>*n*</sup>−*c*)/*d*: http://www.primenumbers.net/prptop/searchform.php?form=%28a*b%5En-c%29%2Fd&action=Search
 
 Other researches for the digits of the primes:
 
