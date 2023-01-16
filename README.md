@@ -129,9 +129,9 @@ If *y* contains no 2's, then *p* ∈ 2{0}1. But then, since the sum of the digit
 
 If *y* contains exactly one 2, then we can write *p* = 2*z*2*w*1, where *z*,*w* ∈ {0}. If 0 ◁ *z* and 0 ◁ *w*, then **20201** ◁ *p*. Hence we may assume either *z* or *w* is empty.
 
-If *z* is empty, then *p* ∈ 22{0}1, and the smallest prime *p* ∈ 22{0}1 is 22000001.
+If *z* is empty, then *p* ∈ 22{0}1, and the smallest prime *p* ∈ 22{0}1 is **22000001**.
 
-If *w* is empty, then *p* ∈ 2{0}21, and the smallest prime *p* ∈ 2{0}21 is 20021.
+If *w* is empty, then *p* ∈ 2{0}21, and the smallest prime *p* ∈ 2{0}21 is **20021**.
 
 (You can try to write the proof for bases *b* = 2, 3, 4, 5, 6, 7, 8, 9, 12, of course, the proof for base *b* = 2 is trivial, since all primes *p* > 2 must start and end with 1 in base 2, thus we must have 11 ◁ *p*, however, for some bases *b* like 24, it is almost impossible to write the proof by hand, since base *b* = 24 has too many (3409) minimal primes to write the proof, thus the C++ program code (for computer to compute (https://en.wikipedia.org/wiki/Computing) the proof) is made)
 
