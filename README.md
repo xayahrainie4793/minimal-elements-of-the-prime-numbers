@@ -318,12 +318,12 @@ The multiplicative order (https://en.wikipedia.org/wiki/Multiplicative_order, ht
 |31|O{5}|always divisible by some element of {2,3,7,19}<br>divisible by 2 if the length is odd, divisible by 3 if the length is == 1 mod 3, divisible by 7 if the length is 2 mod 6, divisible by 19 if the length is == 0 mod 6|
 |32|8{0}V|always divisible by some element of {3,5,41}<br>divisible by 3 if the length is odd, divisible by 5 if the length is == 0 mod 4, divisible by 41 if the length is == 2 mod 4|
 |32|{G}L|always divisible by some element of {3,5,41}<br>divisible by 3 if the length is odd, divisible by 5 if the length is == 0 mod 4, divisible by 41 if the length is == 2 mod 4|
-|9|{1}|difference-of-squares factorization<br>(9<sup>*n*</sup>−1)/8 = (3<sup>*n*</sup>−1) × (3<sup>*n*</sup>+1) / 8|
-|8|1{0}1|sum-of-cubes factorization<br>8<sup>*n*</sup>+1 = (2<sup>*n*</sup>+1) × (4<sup>*n*</sup>−2<sup>*n*</sup>+1)|
-|9|3{1}|difference-of-squares factorization<br>(25×9<sup>*n*</sup>−1)/8 = (5×3<sup>*n*</sup>−1) × (5×3<sup>*n*</sup>+1) / 8|
-|9|3{8}|difference-of-squares factorization<br>4×9<sup>*n*</sup>−1 = (2×3<sup>*n*</sup>−1) × (2×3<sup>*n*</sup>+1)|
-|9|{8}5|difference-of-squares factorization<br>9<sup>*n*</sup>−4 = (3<sup>*n*</sup>−2) × (3<sup>*n*</sup>+2)|
-|9|3{8}35|difference-of-squares factorization<br>4×9<sup>*n*</sup>−49 = (2×3<sup>*n*</sup>−7) × (2×3<sup>*n*</sup>+7)|
+|9|{1}|(9<sup>*n*</sup>−1)/8 (*n* ≥ 2)|difference-of-squares factorization<br>(9<sup>*n*</sup>−1)/8 = (3<sup>*n*</sup>−1) × (3<sup>*n*</sup>+1) / 8|http://factordb.com/index.php?query=%289%5En-1%29%2F8&use=n&n=2&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|8|1{0}1|8<sup>*n*+1</sup>+1 (*n* ≥ 0)|sum-of-cubes factorization<br>8<sup>*n*+1</sup>+1 = (2<sup>*n*+1</sup>+1) × (4<sup>*n*+1</sup>−2<sup>*n*+1</sup>+1)|http://factordb.com/index.php?query=8%5E%28n%2B1%29%2B1&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|9|3{1}|(25×9<sup>*n*</sup>−1)/8 (*n* ≥ 1)|difference-of-squares factorization<br>(25×9<sup>*n*</sup>−1)/8 = (5×3<sup>*n*</sup>−1) × (5×3<sup>*n*</sup>+1) / 8|http://factordb.com/index.php?query=%2825*9%5En-1%29%2F8&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|9|3{8}|4×9<sup>*n*</sup>−1 (*n* ≥ 1)|difference-of-squares factorization<br>4×9<sup>*n*</sup>−1 = (2×3<sup>*n*</sup>−1) × (2×3<sup>*n*</sup>+1)|http://factordb.com/index.php?query=4*9%5En-1&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|9|{8}5|9<sup>*n*+1</sup>−4 (*n* ≥ 1)|difference-of-squares factorization<br>9<sup>*n*+1</sup>−4 = (3<sup>*n*+1</sup>−2) × (3<sup>*n*+1</sup>+2)|http://factordb.com/index.php?query=9%5E%28n%2B1%29-4&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|9|3{8}35|4×9<sup>*n*+2</sup>−49 (*n* ≥ 0)|difference-of-squares factorization<br>4×9<sup>*n*+2</sup>−49 = (2×3<sup>*n*+2</sup>−7) × (2×3<sup>*n*+2</sup>+7)|http://factordb.com/index.php?query=4*9%5E%28n%2B2%29-49&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |16|8{F}|difference-of-squares factorization<br>9×16<sup>*n*</sup>−1 = (3×4<sup>*n*</sup>−1) × (3×4<sup>*n*</sup>+1)|
 |16|{F}7|difference-of-squares factorization<br>16<sup>*n*</sup>−9 = (4<sup>*n*</sup>−3) × (4<sup>*n*</sup>+3)|
 |16|{4}1|difference-of-squares factorization<br>(4×16<sup>*n*</sup>−49)/15 = (2×4<sup>*n*</sup>−7) × (2×4<sup>*n*</sup>+7) / 15|
