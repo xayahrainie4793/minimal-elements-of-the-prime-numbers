@@ -843,13 +843,14 @@ Base converters:
 
 1. https://baseconvert.com/
 2. https://www.calculand.com/unit-converter/zahlen.php
-3. https://www.dcode.fr/base-n-convert
-4. https://www.cut-the-knot.org/Curriculum/Algorithms/BaseConversion.shtml
-5. http://www.tonymarston.net/php-mysql/converter.php
-6. http://math.fau.edu/Richman/mla/convert.htm
-7. https://web.archive.org/web/20190629223750/http://thedevtoolkit.com/tools/base_conversion
-8. http://www.kwuntung.net/hkunit/base/base.php (in Chinese)
-9. https://linesegment.web.fc2.com/application/math/numbers/RadixConversion.html (in Japanese)
+3. http://www.math.com/students/converters/source/base.htm
+4. https://www.dcode.fr/base-n-convert
+5. https://www.cut-the-knot.org/Curriculum/Algorithms/BaseConversion.shtml
+6. http://www.tonymarston.net/php-mysql/converter.php
+7. http://math.fau.edu/Richman/mla/convert.htm
+8. https://web.archive.org/web/20190629223750/http://thedevtoolkit.com/tools/base_conversion
+9. http://www.kwuntung.net/hkunit/base/base.php (in Chinese)
+10. https://linesegment.web.fc2.com/application/math/numbers/RadixConversion.html (in Japanese)
 
 Expression generators:
 
