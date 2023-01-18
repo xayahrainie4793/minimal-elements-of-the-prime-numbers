@@ -358,7 +358,6 @@ We can show that: For the case of covering congruence, the numbers in the family
 |36|8{Z}B|difference-of-squares factorization<br>9×36<sup>*n*</sup>−25 = (3×6<sup>*n*</sup>−5) × (3×6<sup>*n*</sup>+5)|
 |36|F{Z}B|difference-of-squares factorization<br>16×36<sup>*n*</sup>−25 = (4×6<sup>*n*</sup>−5) × (4×6<sup>*n*</sup>+5)|
 |36|{Z}RZ|difference-of-squares factorization<br>36<sup>*n*</sup>−289 = (6<sup>*n*</sup>−17) × (6<sup>*n*</sup>+17)|
-|36|F{Z}RZ|difference-of-squares factorization<br>16×36<sup>*n*</sup>−289 = (4×6<sup>*n*</sup>−17) × (4×6<sup>*n*</sup>+17)|
 |36|O{Z}RZ|difference-of-squares factorization<br>25×36<sup>*n*</sup>−289 = (5×6<sup>*n*</sup>−17) × (5×6<sup>*n*</sup>+17)|
 |36|O{5}|difference-of-squares factorization<br>(169×36<sup>*n*</sup>−1)/7 = (13×6<sup>*n*</sup>−1) × (13×6<sup>*n*</sup>+1) / 7|
 |36|O{7}|difference-of-squares factorization<br>(121×36<sup>*n*</sup>−1)/5 = (11×6<sup>*n*</sup>−1) × (11×6<sup>*n*</sup>+1) / 5|
