@@ -809,12 +809,15 @@ Prime checkers:
 4. http://www.javascripter.net/faq/numberisprime.htm
 5. http://www.javascripter.net/math/primes/millerrabinprimalitytest.htm
 6. http://www.javascripter.net/math/calculators/100digitbigintcalculator.htm (just type *x* and click "prime?")
-7. https://www.bigprimes.net/primalitytest
-8. https://www.archimedes-lab.org/primOmatic.html
-9. http://www.sonic.net/~undoc/java/PrimeCalc.html
-10. http://www.proftnj.com/calcprem.htm (in French) (use the box "Rechercher si un nombre est premier" and click "Rechercher")
-11. https://primes.utm.edu/nthprime/ (calculate the *n*th prime)
-12. http://factordb.com/nextprime.php (calculate the next (probable) prime above *N*)
+7. http://www.math.com/students/calculators/source/prime-number.htm
+8. https://www.calculatorsoup.com/calculators/math/prime-number-calculator.php
+9. https://onlinemathtools.com/test-prime-number
+10. https://www.bigprimes.net/primalitytest
+11. https://www.archimedes-lab.org/primOmatic.html
+12. http://www.sonic.net/~undoc/java/PrimeCalc.html
+13. http://www.proftnj.com/calcprem.htm (in French) (use the box "Rechercher si un nombre est premier" and click "Rechercher")
+14. https://primes.utm.edu/nthprime/ (calculate the *n*th prime)
+15. http://factordb.com/nextprime.php (calculate the next (probable) prime above *N*)
 
 Integer factorizers:
 
