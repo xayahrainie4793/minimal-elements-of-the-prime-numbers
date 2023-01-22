@@ -851,7 +851,7 @@ Prime checkers:
 12. http://www.sonic.net/~undoc/java/PrimeCalc.html
 13. http://www.proftnj.com/calcprem.htm (in French) (use the box "Rechercher si un nombre est premier" and click "Rechercher")
 14. https://primes.utm.edu/nthprime/ (calculate the *n*th prime)
-15. http://factordb.com/nextprime.php (calculate the next (probable) prime above *N*)
+15. http://factordb.com/nextprime.php (calculate the next (probable) prime above *N*, in fact, links 2, 6, 10, 11, 12, 13 can also calculate the next prime above *N*, besides, links 2, 6 can also calculate the previous prime below *N*)
 
 Integer factorizers:
 
@@ -871,7 +871,10 @@ Integer factorizers:
 14. https://web.archive.org/web/20161004191531/http://britton.disted.camosun.bc.ca/jbprimefactor.htm
 15. http://wims.unice.fr/~wims/en_tool~algebra~factor.en.html
 16. http://www.analyzemath.com/Calculators_3/prime_factors.html
-17. http://www.proftnj.com/calcprem.htm (in French) (use the box "Factoriser un nombre" and click "Factoriser")
+17. https://www.archimedes-lab.org/primOmatic.html
+18. http://www.proftnj.com/calcprem.htm (in French) (use the box "Factoriser un nombre" and click "Factoriser")
+19. http://factordb.com/ (online factor database)
+20. http://myfactorcollection.mooo.com:8090/dbio.html (online factor database for numbers of the form *b*<sup>*n*</sup>±1)
 
 Base converters:
 
