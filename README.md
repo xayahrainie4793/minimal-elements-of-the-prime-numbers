@@ -769,7 +769,7 @@ Probable primes (i.e. *c* ≠ ±1 and/or *d* ≠ 1):
 * (*a*×*b*<sup>*n*</sup>+*c*)/*d*: http://www.primenumbers.net/prptop/searchform.php?form=%28a*b%5En%2Bc%29%2Fd&action=Search
 * (*a*×*b*<sup>*n*</sup>−*c*)/*d*: http://www.primenumbers.net/prptop/searchform.php?form=%28a*b%5En-c%29%2Fd&action=Search
 
-References of minimal primes (the original definition, i.e. prime > base (*b*) is not required):
+References of minimal primes (https://en.wikipedia.org/wiki/Minimal_prime_(recreational_mathematics), https://primes.utm.edu/glossary/xpage/MinimalPrime.html) (the original definition, i.e. prime > base (*b*) is not required):
 
 1. http://www.cs.uwaterloo.ca/~shallit/Papers/minimal5.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_11.pdf)
 2. https://cs.uwaterloo.ca/~cbright/reports/mepn.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_17.pdf)
