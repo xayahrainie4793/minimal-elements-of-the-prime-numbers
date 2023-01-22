@@ -769,6 +769,25 @@ Probable primes (i.e. *c* ≠ ±1 and/or *d* ≠ 1):
 * (*a*×*b*<sup>*n*</sup>+*c*)/*d*: http://www.primenumbers.net/prptop/searchform.php?form=%28a*b%5En%2Bc%29%2Fd&action=Search
 * (*a*×*b*<sup>*n*</sup>−*c*)/*d*: http://www.primenumbers.net/prptop/searchform.php?form=%28a*b%5En-c%29%2Fd&action=Search
 
+References of minimal primes (the original definition, i.e. prime > base (*b*) is not required):
+
+1. http://www.cs.uwaterloo.ca/~shallit/Papers/minimal5.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_11.pdf)
+2. https://cs.uwaterloo.ca/~cbright/reports/mepn.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_17.pdf)
+3. https://cs.uwaterloo.ca/~shallit/Papers/br10.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_18.pdf)
+4. https://cs.uwaterloo.ca/~cbright/talks/minimal-slides.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_19.pdf)
+5. https://doi.org/10.1080/10586458.2015.1064048 (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_20.pdf)
+6. https://scholar.colorado.edu/downloads/hh63sw661 (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_16.pdf)
+7. http://recursed.blogspot.com/2006/12/prime-game.html
+8. https://inzitan.blogspot.com/2007/07/prime-game.html (in Spain)
+9. http://www.pourlascience.fr/ewb_pages/a/article-nombres-premiers-inevitables-et-pyramidaux-24978.php (in French)
+10. https://schoolbag.info/mathematics/numbers/66.html
+11. https://math.stackexchange.com/questions/58292/how-to-check-if-an-integer-has-a-prime-number-in-it
+12. https://www.metafilter.com/62794/3-is-an-odd-prime-5-is-an-odd-prime-7-is-an-odd-prime-9-is-a-very-odd-prime
+13. http://villemin.gerard.free.fr/aNombre/TYPMULTI/PremInev.htm
+14. https://www.ocf.berkeley.edu/~wwu/cgi-bin/yabb/YaBB.cgi?board=riddles_medium;action=display;num=1165031124
+15. https://www.primepuzzles.net/puzzles/puzz_178.htm
+16. https://oeis.org/A071062
+
 Other researches for the digits of the primes:
 
 Left-truncatable primes (https://en.wikipedia.org/wiki/Truncatable_prime, https://primes.utm.edu/glossary/xpage/LeftTruncatablePrime.html, https://mathworld.wolfram.com/TruncatablePrime.html, https://www.numbersaplenty.com/set/truncatable_prime/), i.e. every nonempty suffix is prime:
