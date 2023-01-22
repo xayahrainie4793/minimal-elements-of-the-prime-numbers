@@ -898,15 +898,21 @@ Integer factorizers:
 Base converters:
 
 1. https://baseconvert.com/
-2. https://www.calculand.com/unit-converter/zahlen.php
-3. http://www.math.com/students/converters/source/base.htm
-4. https://www.dcode.fr/base-n-convert
-5. https://www.cut-the-knot.org/Curriculum/Algorithms/BaseConversion.shtml
-6. http://www.tonymarston.net/php-mysql/converter.php
-7. http://math.fau.edu/Richman/mla/convert.htm
-8. https://web.archive.org/web/20190629223750/http://thedevtoolkit.com/tools/base_conversion
-9. http://www.kwuntung.net/hkunit/base/base.php (in Chinese)
-10. https://linesegment.web.fc2.com/application/math/numbers/RadixConversion.html (in Japanese)
+2. https://baseconvert.com/high-precision
+3. https://baseconvert.com/ieee-754-floating-point
+4. https://www.calculand.com/unit-converter/zahlen.php?og=Base+2-36&ug=1
+5. https://www.calculand.com/unit-converter/zahlen.php?og=Base62&ug=1
+6. https://www.calculand.com/unit-converter/zahlen.php?og=Base64&ug=1
+7. https://www.calculand.com/unit-converter/zahlen.php?og=Base85&ug=1
+8. https://www.calculand.com/unit-converter/zahlen.php?og=System+calculand&ug=1
+9. http://www.math.com/students/converters/source/base.htm
+10. https://www.dcode.fr/base-n-convert
+11. https://www.cut-the-knot.org/Curriculum/Algorithms/BaseConversion.shtml
+12. http://www.tonymarston.net/php-mysql/converter.php
+13. http://math.fau.edu/Richman/mla/convert.htm
+14. https://web.archive.org/web/20190629223750/http://thedevtoolkit.com/tools/base_conversion
+15. http://www.kwuntung.net/hkunit/base/base.php (in Chinese)
+16. https://linesegment.web.fc2.com/application/math/numbers/RadixConversion.html (in Japanese)
 
 Expression generators:
 
