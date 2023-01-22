@@ -777,17 +777,26 @@ References of minimal primes (https://en.wikipedia.org/wiki/Minimal_prime_(recre
 4. https://cs.uwaterloo.ca/~cbright/talks/minimal-slides.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_19.pdf)
 5. https://doi.org/10.1080/10586458.2015.1064048 (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_20.pdf)
 6. https://scholar.colorado.edu/downloads/hh63sw661 (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_16.pdf)
-7. http://recursed.blogspot.com/2006/12/prime-game.html
-8. https://inzitan.blogspot.com/2007/07/prime-game.html (in Spain)
-9. http://www.pourlascience.fr/ewb_pages/a/article-nombres-premiers-inevitables-et-pyramidaux-24978.php (in French)
-10. https://schoolbag.info/mathematics/numbers/66.html
-11. https://www.microsiervos.com/archivo/ciencia/2-3-5-7-11.html (in Spain)
-12. https://math.stackexchange.com/questions/58292/how-to-check-if-an-integer-has-a-prime-number-in-it
+7. https://github.com/curtisbright/mepn-data
+8. https://github.com/curtisbright/mepn
+9. https://github.com/RaymondDevillers/primes
+10. http://recursed.blogspot.com/2006/12/prime-game.html
+11. https://inzitan.blogspot.com/2007/07/prime-game.html (in Spain)
+12. http://www.pourlascience.fr/ewb_pages/a/article-nombres-premiers-inevitables-et-pyramidaux-24978.php (in French)
 13. http://villemin.gerard.free.fr/aNombre/TYPMULTI/PremInev.htm
-14. https://www.metafilter.com/62794/3-is-an-odd-prime-5-is-an-odd-prime-7-is-an-odd-prime-9-is-a-very-odd-prime
-15. https://www.ocf.berkeley.edu/~wwu/cgi-bin/yabb/YaBB.cgi?board=riddles_medium;action=display;num=1165031124
-16. https://www.primepuzzles.net/puzzles/puzz_178.htm
-17. https://oeis.org/A071062
+14. https://schoolbag.info/mathematics/numbers/66.html
+15. https://www.microsiervos.com/archivo/ciencia/2-3-5-7-11.html (in Spain)
+16. https://math.stackexchange.com/questions/58292/how-to-check-if-an-integer-has-a-prime-number-in-it
+17. https://www.metafilter.com/62794/3-is-an-odd-prime-5-is-an-odd-prime-7-is-an-odd-prime-9-is-a-very-odd-prime
+18. https://www.ocf.berkeley.edu/~wwu/cgi-bin/yabb/YaBB.cgi?board=riddles_medium;action=display;num=1165031124
+19. http://www.bitman.name/math/article/730
+20. http://www.bitman.name/math/table/497
+21. http://www.bitman.name/math/table/498
+22. http://www.bitman.name/math/table/499
+23. http://www.bitman.name/math/table/500
+24. http://www.bitman.name/math/table/501
+25. https://www.primepuzzles.net/puzzles/puzz_178.htm
+26. https://oeis.org/A071062
 
 Other researches for the digits of the primes:
 
@@ -795,19 +804,27 @@ Left-truncatable primes (https://en.wikipedia.org/wiki/Truncatable_prime, https:
 
 1. http://primerecords.dk/left-truncatable.txt (base 10)
 2. http://chesswanks.com/num/LTPs/ (bases 3 to 120)
-3. https://www.ams.org/journals/mcom/1977-31-137/S0025-5718-1977-0427213-2/S0025-5718-1977-0427213-2.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_28.pdf) (bases 3 to 11)
-4. https://oeis.org/A103443 (largest left-truncatable prime in base *b*)
-5. https://oeis.org/A103463 (length of the largest left-truncatable prime in base *b*)
-6. https://oeis.org/A076623 (number of left-truncatable primes in base *b*)
+3. https://rosettacode.org/wiki/Find_largest_left_truncatable_prime_in_a_given_base (bases 3 to 17)
+4. https://www.ams.org/journals/mcom/1977-31-137/S0025-5718-1977-0427213-2/S0025-5718-1977-0427213-2.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_28.pdf) (bases 3 to 11)
+5. http://www.primerecords.dk/left-truncatable.htm (base 10)
+6. http://rosettacode.org/wiki/Truncatable_primes (base 10)
+7. https://www.primepuzzles.net/puzzles/puzz_002.htm (base 10)
+8. https://web.archive.org/web/20041204160717/http://www.wschnei.de/digit-related-numbers/circular-primes.html (base 10)
+9. https://oeis.org/A103443 (largest left-truncatable prime in base *b*)
+10. https://oeis.org/A103463 (length of the largest left-truncatable prime in base *b*)
+11. https://oeis.org/A076623 (number of left-truncatable primes in base *b*)
 
 Right-truncatable primes (https://en.wikipedia.org/wiki/Truncatable_prime, https://primes.utm.edu/glossary/xpage/RightTruncatablePrime.html, https://mathworld.wolfram.com/TruncatablePrime.html, https://www.numbersaplenty.com/set/truncatable_prime/), i.e. every nonempty prefix is prime:
 
 1. http://primerecords.dk/right-truncatable.txt (base 10)
 2. http://fatphil.org/maths/rtp/rtp.html (bases 3 to 90)
 3. https://www.ams.org/journals/mcom/1977-31-137/S0025-5718-1977-0427213-2/S0025-5718-1977-0427213-2.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_28.pdf) (bases 3 to 15)
-4. https://oeis.org/A023107 (largest right-truncatable prime in base *b*)
-5. https://oeis.org/A103483 (length of the largest right-truncatable prime in base *b*)
-6. https://oeis.org/A076586 (number of right-truncatable primes in base *b*)
+4. http://rosettacode.org/wiki/Truncatable_primes (base 10)
+5. https://www.primepuzzles.net/puzzles/puzz_002.htm (base 10)
+6. https://web.archive.org/web/20041204160717/http://www.wschnei.de/digit-related-numbers/circular-primes.html (base 10)
+7. https://oeis.org/A023107 (largest right-truncatable prime in base *b*)
+8. https://oeis.org/A103483 (length of the largest right-truncatable prime in base *b*)
+9. https://oeis.org/A076586 (number of right-truncatable primes in base *b*)
 
 Other researches for the minimal elements of other subsets of positive integers written in the positional numeral system with radix *b*, as digit strings with subsequence ordering:
 
