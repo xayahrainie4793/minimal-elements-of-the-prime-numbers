@@ -781,12 +781,13 @@ References of minimal primes (the original definition, i.e. prime > base (*b*) i
 8. https://inzitan.blogspot.com/2007/07/prime-game.html (in Spain)
 9. http://www.pourlascience.fr/ewb_pages/a/article-nombres-premiers-inevitables-et-pyramidaux-24978.php (in French)
 10. https://schoolbag.info/mathematics/numbers/66.html
-11. https://math.stackexchange.com/questions/58292/how-to-check-if-an-integer-has-a-prime-number-in-it
-12. https://www.metafilter.com/62794/3-is-an-odd-prime-5-is-an-odd-prime-7-is-an-odd-prime-9-is-a-very-odd-prime
+11. https://www.microsiervos.com/archivo/ciencia/2-3-5-7-11.html (in Spain)
+12. https://math.stackexchange.com/questions/58292/how-to-check-if-an-integer-has-a-prime-number-in-it
 13. http://villemin.gerard.free.fr/aNombre/TYPMULTI/PremInev.htm
-14. https://www.ocf.berkeley.edu/~wwu/cgi-bin/yabb/YaBB.cgi?board=riddles_medium;action=display;num=1165031124
-15. https://www.primepuzzles.net/puzzles/puzz_178.htm
-16. https://oeis.org/A071062
+14. https://www.metafilter.com/62794/3-is-an-odd-prime-5-is-an-odd-prime-7-is-an-odd-prime-9-is-a-very-odd-prime
+15. https://www.ocf.berkeley.edu/~wwu/cgi-bin/yabb/YaBB.cgi?board=riddles_medium;action=display;num=1165031124
+16. https://www.primepuzzles.net/puzzles/puzz_178.htm
+17. https://oeis.org/A071062
 
 Other researches for the digits of the primes:
 
