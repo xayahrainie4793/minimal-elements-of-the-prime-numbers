@@ -789,14 +789,15 @@ References of minimal primes (https://en.wikipedia.org/wiki/Minimal_prime_(recre
 16. https://math.stackexchange.com/questions/58292/how-to-check-if-an-integer-has-a-prime-number-in-it (base 10)
 17. https://www.metafilter.com/62794/3-is-an-odd-prime-5-is-an-odd-prime-7-is-an-odd-prime-9-is-a-very-odd-prime (base 10)
 18. https://www.ocf.berkeley.edu/~wwu/cgi-bin/yabb/YaBB.cgi?board=riddles_medium;action=display;num=1165031124 (base 10)
-19. http://www.bitman.name/math/article/730 (in Italian) (bases 2 to 20)
-20. http://www.bitman.name/math/table/497 (in Italian) (bases 2 to 16)
-21. http://www.bitman.name/math/table/498 (in Italian) (base 17)
-22. http://www.bitman.name/math/table/499 (in Italian) (base 18)
-23. http://www.bitman.name/math/table/500 (in Italian) (base 19)
-24. http://www.bitman.name/math/table/501 (in Italian) (base 20)
-25. https://www.primepuzzles.net/puzzles/puzz_178.htm (base 10)
-26. https://oeis.org/A071062 (base 10)
+19. https://logs.esolangs.org/freenode-esoteric/2011-02-04.html (bases 2 to 10)
+20. http://www.bitman.name/math/article/730 (in Italian) (bases 2 to 20)
+21. http://www.bitman.name/math/table/497 (in Italian) (bases 2 to 16)
+22. http://www.bitman.name/math/table/498 (in Italian) (base 17)
+23. http://www.bitman.name/math/table/499 (in Italian) (base 18)
+24. http://www.bitman.name/math/table/500 (in Italian) (base 19)
+25. http://www.bitman.name/math/table/501 (in Italian) (base 20)
+26. https://www.primepuzzles.net/puzzles/puzz_178.htm (base 10)
+27. https://oeis.org/A071062 (base 10)
 
 Other researches for the digits of the primes:
 
