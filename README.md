@@ -793,15 +793,16 @@ References of minimal primes (https://en.wikipedia.org/wiki/Minimal_prime_(recre
 16. https://math.stackexchange.com/questions/58292/how-to-check-if-an-integer-has-a-prime-number-in-it (base 10)
 17. https://www.metafilter.com/62794/3-is-an-odd-prime-5-is-an-odd-prime-7-is-an-odd-prime-9-is-a-very-odd-prime (base 10)
 18. https://www.ocf.berkeley.edu/~wwu/cgi-bin/yabb/YaBB.cgi?board=riddles_medium;action=display;num=1165031124 (base 10)
-19. https://logs.esolangs.org/freenode-esoteric/2011-02-04.html (bases 2 to 10)
-20. http://www.bitman.name/math/article/730 (in Italian) (bases 2 to 20)
-21. http://www.bitman.name/math/table/497 (in Italian) (bases 2 to 16)
-22. http://www.bitman.name/math/table/498 (in Italian) (base 17)
-23. http://www.bitman.name/math/table/499 (in Italian) (base 18)
-24. http://www.bitman.name/math/table/500 (in Italian) (base 19)
-25. http://www.bitman.name/math/table/501 (in Italian) (base 20)
-26. https://www.primepuzzles.net/puzzles/puzz_178.htm (base 10)
-27. https://oeis.org/A071062 (base 10)
+19. https://www.cristal.univ-lille.fr/profil/jdelahay/pls:2002:094.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_100.pdf) (bases 2 to 10) **(warning: the data for base 8 has error, the data misses the primes 444641 and 444444441)**
+20. https://logs.esolangs.org/freenode-esoteric/2011-02-04.html (bases 2 to 10) **(warning: the data for base 8 has error, the data misses the prime 111 and instead wrongly includes the primes 1101, 101111, 600111, 1000011, 1000111, 4411111, 64111111, 601111111, 41111111111111111, and possibly 6111111111111111111111 if the author of this article continues to search)**
+21. http://www.bitman.name/math/article/730 (in Italian) (bases 2 to 20)
+22. http://www.bitman.name/math/table/497 (in Italian) (bases 2 to 16)
+23. http://www.bitman.name/math/table/498 (in Italian) (base 17)
+24. http://www.bitman.name/math/table/499 (in Italian) (base 18)
+25. http://www.bitman.name/math/table/500 (in Italian) (base 19)
+26. http://www.bitman.name/math/table/501 (in Italian) (base 20)
+27. https://www.primepuzzles.net/puzzles/puzz_178.htm (base 10)
+28. https://oeis.org/A071062 (base 10)
 
 Other researches for the digits of the primes:
 
@@ -841,14 +842,14 @@ Primes == 1 mod 4:
 
 1. https://www.primepuzzles.net/puzzles/puzz_178.htm
 2. https://github.com/curtisbright/mepn-data/blob/master/data/primes1mod4/minimal.10.txt
-3. https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/doc_1.doc) **(warning: the data has many errors, the list wrongly including many primes which are not minimal primes, including the largest "minimal 4*k*+1 prime" in the list: 9<sub>**630**</sub>493, this prime is not a minimal 4*k*+1 prime since 9949 is also a prime == 1 mod 4, and 9949 is a subsequence of 9<sub>**630**</sub>493, there are 146 (instead of 173) minimal 4*k*+1 primes and 113 (instead of 138) minimal 4*k*−1 primes, and the largest minimal 4*k*+1 prime is 8<sub>**77**</sub>33 = (8*10<sup>**79**</sup>−503)/9 instead of 9<sub>**630**</sub>493 = 10<sup>**633**</sup>−507)**
+3. https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/doc_1.doc) **(warning: the data has many errors, the data wrongly including many primes which are not minimal primes, including the largest "minimal 4*k*+1 prime" in the list: 9<sub>**630**</sub>493, this prime is not a minimal 4*k*+1 prime since 9949 is also a prime == 1 mod 4, and 9949 is a subsequence of 9<sub>**630**</sub>493, there are 146 (instead of 173) minimal 4*k*+1 primes and 113 (instead of 138) minimal 4*k*−1 primes, and the largest minimal 4*k*+1 prime is 8<sub>**77**</sub>33 = (8*10<sup>**79**</sup>−503)/9 instead of 9<sub>**630**</sub>493 = 10<sup>**633**</sup>−507)**
 4. https://oeis.org/A111055
 
 Primes == 3 mod 4:
 
 1. https://www.primepuzzles.net/puzzles/puzz_178.htm
 2. https://github.com/curtisbright/mepn-data/blob/master/data/primes3mod4/minimal.10.txt
-3. https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/doc_1.doc) **(warning: the data has many errors, the list wrongly including many primes which are not minimal primes, including the largest "minimal 4*k*+1 prime" in the list: 9<sub>**630**</sub>493, this prime is not a minimal 4*k*+1 prime since 9949 is also a prime == 1 mod 4, and 9949 is a subsequence of 9<sub>**630**</sub>493, there are 146 (instead of 173) minimal 4*k*+1 primes and 113 (instead of 138) minimal 4*k*−1 primes, and the largest minimal 4*k*+1 prime is 8<sub>**77**</sub>33 = (8*10<sup>**79**</sup>−503)/9 instead of 9<sub>**630**</sub>493 = 10<sup>**633**</sup>−507)**
+3. https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/doc_1.doc) **(warning: the data has many errors, the data wrongly including many primes which are not minimal primes, including the largest "minimal 4*k*+1 prime" in the list: 9<sub>**630**</sub>493, this prime is not a minimal 4*k*+1 prime since 9949 is also a prime == 1 mod 4, and 9949 is a subsequence of 9<sub>**630**</sub>493, there are 146 (instead of 173) minimal 4*k*+1 primes and 113 (instead of 138) minimal 4*k*−1 primes, and the largest minimal 4*k*+1 prime is 8<sub>**77**</sub>33 = (8*10<sup>**79**</sup>−503)/9 instead of 9<sub>**630**</sub>493 = 10<sup>**633**</sup>−507)**
 4. https://oeis.org/A111056
 
 Palindromic primes:
