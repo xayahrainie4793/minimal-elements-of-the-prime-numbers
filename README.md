@@ -780,7 +780,7 @@ References of minimal primes (https://en.wikipedia.org/wiki/Minimal_prime_(recre
 3. https://cs.uwaterloo.ca/~shallit/Papers/br10.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_18.pdf) (bases 2 to 30)
 4. https://cs.uwaterloo.ca/~cbright/talks/minimal-slides.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_19.pdf) (bases 2 to 30)
 5. https://doi.org/10.1080/10586458.2015.1064048 (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_20.pdf) (bases 2 to 30)
-6. https://scholar.colorado.edu/downloads/hh63sw661 (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_16.pdf) (bases 2 to 10)
+6. https://scholar.colorado.edu/downloads/hh63sw661 (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_16.pdf) (bases 2 to 10) **(warning: the datas for bases 8 and 10 have errors, the data for base 8 misses the prime 6101 and the data for base 10 misses the primes 9001 and 9049 and instead wrongly includes the primes 90001, 90469, and 9000049, and the correct values of *S*<sub>***m***</sub> for bases 8 and 10 are 15 and 26 (instead of 14 and 27), respectively)**
 7. https://github.com/curtisbright/mepn-data (bases 2 to 30)
 8. https://github.com/curtisbright/mepn (bases 2 to 30)
 9. https://github.com/RaymondDevillers/primes (bases 28 to 50)
@@ -840,12 +840,16 @@ Other researches for the minimal elements of other subsets of positive integers 
 Primes == 1 mod 4:
 
 1. https://www.primepuzzles.net/puzzles/puzz_178.htm
-2. https://oeis.org/A111055
+2. https://github.com/curtisbright/mepn-data/blob/master/data/primes1mod4/minimal.10.txt
+3. https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/doc_1.doc) **(warning: the data has many errors, the list wrongly including many primes which are not minimal primes, including the largest "minimal 4*k*+1 prime" in the list: 9<sub>**630**</sub>493, this prime is not a minimal 4*k*+1 prime since 9949 is also a prime == 1 mod 4, and 9949 is a subsequence of 9<sub>**630**</sub>493, there are 146 (instead of 173) minimal 4*k*+1 primes and 113 (instead of 138) minimal 4*k*−1 primes, and the largest minimal 4*k*+1 prime is 8<sub>**77**</sub>33 = (8*10<sup>**79**</sup>−503)/9 instead of 9<sub>**630**</sub>493 = 10<sup>**633**</sup>−507)**
+4. https://oeis.org/A111055
 
 Primes == 3 mod 4:
 
 1. https://www.primepuzzles.net/puzzles/puzz_178.htm
-2. https://oeis.org/A111056
+2. https://github.com/curtisbright/mepn-data/blob/master/data/primes3mod4/minimal.10.txt
+3. https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/doc_1.doc) **(warning: the data has many errors, the list wrongly including many primes which are not minimal primes, including the largest "minimal 4*k*+1 prime" in the list: 9<sub>**630**</sub>493, this prime is not a minimal 4*k*+1 prime since 9949 is also a prime == 1 mod 4, and 9949 is a subsequence of 9<sub>**630**</sub>493, there are 146 (instead of 173) minimal 4*k*+1 primes and 113 (instead of 138) minimal 4*k*−1 primes, and the largest minimal 4*k*+1 prime is 8<sub>**77**</sub>33 = (8*10<sup>**79**</sup>−503)/9 instead of 9<sub>**630**</sub>493 = 10<sup>**633**</sup>−507)**
+4. https://oeis.org/A111056
 
 Palindromic primes:
 
@@ -854,7 +858,9 @@ Palindromic primes:
 
 Composites:
 
-1. https://oeis.org/A071070
+1. https://github.com/curtisbright/mepn-data/tree/master/data/composites
+2. http://www.bitman.name/math/table/501
+3. https://oeis.org/A071070
 
 Squares:
 
