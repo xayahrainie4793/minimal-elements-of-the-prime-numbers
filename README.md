@@ -919,6 +919,7 @@ Integer factorizers:
 18. http://www.proftnj.com/calcprem.htm (in French) (use the box "Factoriser un nombre" and click "Factoriser")
 19. http://factordb.com/ (online factor database)
 20. http://myfactorcollection.mooo.com:8090/dbio.html (online factor database for numbers of the form *b*<sup>*n*</sup>±1)
+21. https://web.archive.org/web/20120722020628/http://homes.cerias.purdue.edu/~ssw/cun/prime.php (online factor database for numbers of the form *b*<sup>*n*</sup>±1 for 2 ≤ *b* ≤ 12)
 
 Base converters:
 
