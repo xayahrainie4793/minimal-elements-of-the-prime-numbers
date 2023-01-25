@@ -860,7 +860,7 @@ Palindromic primes:
 Composites:
 
 1. https://github.com/curtisbright/mepn-data/tree/master/data/composites
-2. http://www.bitman.name/math/table/501
+2. http://www.bitman.name/math/table/504
 3. https://oeis.org/A071070
 
 Squares:
