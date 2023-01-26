@@ -850,12 +850,12 @@ Primes == 3 mod 4:
 1. https://www.primepuzzles.net/puzzles/puzz_178.htm
 2. https://github.com/curtisbright/mepn-data/blob/master/data/primes3mod4/minimal.10.txt
 3. https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/doc_1.doc) **(warning: the data has many errors, the data wrongly including many primes which are not minimal primes, including the largest "minimal 4*k*+1 prime" in the list: 9<sub>**630**</sub>493, this prime is not a minimal 4*k*+1 prime since 9949 is also a prime == 1 mod 4, and 9949 is a subsequence of 9<sub>**630**</sub>493, there are 146 (instead of 173) minimal 4*k*+1 primes and 113 (instead of 138) minimal 4*k*−1 primes, and the largest minimal 4*k*+1 prime is 8<sub>**77**</sub>33 = (8*10<sup>**79**</sup>−503)/9 instead of 9<sub>**630**</sub>493 = 10<sup>**633**</sup>−507)**
-4. https://oeis.org/A111056
+4. https://oeis.org/A111056 **(warning: the b-file does not include the prime 2<sub>**19151**</sub>99)**
 
 Palindromic primes:
 
 1. https://www.primepuzzles.net/puzzles/puzz_178.htm
-2. https://oeis.org/A114835
+2. https://oeis.org/A114835 **(warning: the b-file does not include the probable prime 994<sub>**34019**</sub>99)**
 
 Composites:
 
@@ -929,6 +929,7 @@ Integer factorizers:
 19. http://factordb.com/ (online factor database)
 20. http://myfactorcollection.mooo.com:8090/dbio.html (online factor database for numbers of the form *b*<sup>*n*</sup>±1)
 21. https://web.archive.org/web/20120722020628/http://homes.cerias.purdue.edu/~ssw/cun/prime.php (online factor database for numbers of the form *b*<sup>*n*</sup>±1 for 2 ≤ *b* ≤ 12)
+22. https://web.archive.org/web/20120330032919/http://homes.cerias.purdue.edu/~ssw/cun/clientold.html (online factor database for numbers of the form *b*<sup>*n*</sup>±1 for 2 ≤ *b* ≤ 12)
 
 Base converters:
 
