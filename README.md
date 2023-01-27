@@ -111,7 +111,7 @@ e.g. proving that "the set of the minimal elements of the base 10 representation
 
 Theorem (https://en.wikipedia.org/wiki/Theorem, https://mathworld.wolfram.com/Theorem.html, https://primes.utm.edu/notes/proofs/): The set of the minimal elements of the base 10 representations of the prime numbers > 10 under the subsequence ordering is {11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97, 227, 251, 257, 277, 281, 349, 409, 449, 499, 521, 557, 577, 587, 727, 757, 787, 821, 827, 857, 877, 881, 887, 991, 2087, 2221, 5051, 5081, 5501, 5581, 5801, 5851, 6469, 6949, 8501, 9001, 9049, 9221, 9551, 9649, 9851, 9949, 20021, 20201, 50207, 60649, 80051, 666649, 946669, 5200007, 22000001, 60000049, 66000049, 66600049, 80555551, 555555555551, 5000000000000000000000000000027}
 
-Proof (https://en.wikipedia.org/wiki/Mathematical_proof, https://mathworld.wolfram.com/Proof.html, https://primes.utm.edu/notes/proofs/): (this proof uses the notation in http://www.wiskundemeisjes.nl/wp-content/uploads/2007/02/minimal.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_12.pdf), i.e. "*X* ◁ *Y*" means "*X* is a subsequence of *Y*") (below, *𝜆* is the empty string (https://en.wikipedia.org/wiki/Empty_string))
+Proof (https://en.wikipedia.org/wiki/Mathematical_proof, https://mathworld.wolfram.com/Proof.html, https://primes.utm.edu/notes/proofs/): (this proof uses the notation in http://www.wiskundemeisjes.nl/wp-content/uploads/2007/02/minimal.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_12.pdf), i.e. "*X* ◁ *Y*" means "*X* is a subsequence of *Y*") (below, *𝜆* is the empty string (https://en.wikipedia.org/wiki/Empty_string)) (**bold** for minimal primes)
 
 Assume *p* is a prime > 10, and the last digit of *p* must lie in {1,3,7,9}
 
@@ -160,6 +160,20 @@ If y ∈ {5}, since if 55555555555 ◁ *y*, then 555555555551 ◁ *p*, hence we 
 If y ∈ 0{5}, since if 55555555555 ◁ *y*, then 555555555551 ◁ *p*, hence we may assume *y* ∈ {0,05,055,0555,05555,055555,0555555,05555555,055555555,0555555555,05555555555}, and thus *p* ∈ {801,8051,80551,805551,8055551,80555551,805555551,8055555551,80555555551,805555555551,8055555555551}, and of these numbers only 80555551 and 8055555551 are primes, but 80555551 ◁ 8055555551, thus only **80555551** is minimal prime.
 
 Case 1.4: *p* begins with 9.
+
+In this case we can write p = 9*y*1. If 9 ◁ *y*, then **991** ◁ *p*. Hence we may assume all digits of *y* are 0, 2, 5, or 8.
+
+If 00 ◁ *y*, then **9001** ◁ *p*. If 22 ◁ *y*, then **9221** ◁ *p*. If 55 ◁ *y*, then **9551** ◁ *p*. If 88 ◁ *y*, then 881 ◁ *p*. Hence we may assume *y* contains at most one 0, at most one 2, at most one 5, and at most one 8.
+
+If *y* only contains at most one 0 and does not contain any of {2,5,8}, then *y* ∈ {*𝜆*,0}, and thus *p* ∈ {91,901}, but 91 and 901 are both composite. If *y* only contains at most one 0 and only one of {2,5,8}, then the sum of the digits of *p* is divisible by 3, *p* is divisible by 3, so *p* cannot be prime. Hence we may assume *y* contains at least two of {2,5,8}.
+
+If 25 ◁ *y*, then 251 ◁ *p*. If 28 ◁ *y*, then 281 ◁ *p*. If 52 ◁ *y*, then 521 ◁ *p*. If 82 ◁ *y*, then 821 ◁ *p*. Hence we may assume *y* contains no 2's (since if *y* contains 2, then *y* cannot contain either 5's or 8's, which is a contradiction).
+
+If 85 ◁ *y*, then **9851** ◁ *p*. Hence we may assume *y* ∈ {58,580,508,058}, and thus *p* ∈ {9581,95801,95081,90581}, and of these numbers only 95801 is prime, but 95801 is not minimal prime since 5801 ◁ 95801.
+
+Case 2: *p* ends with 3.
+
+In this case we can write p = *x*3. If *x* contains 1, 2, 4, 5, 7, or 8, then (respectively) **13** ◁ *p*, **23** ◁ *p*, **43** ◁ *p*, **53** ◁ *p*, **73** ◁ *p*, or **83** ◁ *p*. Hence we may assume all digits of *x* are 0, 3, 6, or 9, and thus all digits of *p* are 0, 3, 6, or 9. But then, since the digits of *p* all have a common factor 3, *p* is divisible by 3, so *p* cannot be prime.
 
 (You can try to write the proof for bases *b* = 2, 3, 4, 5, 6, 7, 8, 9, 12, of course, the proof for base *b* = 2 is trivial, since all primes *p* > 2 must start and end with 1 in base 2, thus we must have 11 ◁ *p*, however, for some bases *b* like 24, it is almost impossible to write the proof by hand, since base *b* = 24 has too many (3409) minimal primes to write the proof, thus the C++ program code (for computer to compute (https://en.wikipedia.org/wiki/Computing) the proof) is made)
 
