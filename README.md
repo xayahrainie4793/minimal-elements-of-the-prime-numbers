@@ -203,13 +203,45 @@ If *z* is empty, then *p* ∈ 52{0}7, and the smallest prime *p* ∈ 52{0}7 is *
 
 If *w* is empty, then *p* ∈ 5{0}27, and the smallest prime *p* ∈ 5{0}27 is **5000000000000000000000000000027**.
 
-Case 3.3: p begins with 7.
+Case 3.3: *p* begins with 7.
 
 In this case we can write *p* = 7*y*7. If 2 ◁ *y*, then **727** ◁ *p*. If 5 ◁ *y*, then **757** ◁ *p*. If 8 ◁ *y*, then **787** ◁ *p*. Hence we may assume all digits of *y* are 0 or 7, and thus all digits of *p* are 0 or 7. But then, since the digits of *p* all have a common factor 7, *p* is divisible by 7, so *p* cannot be prime.
 
-Case 3.4: p begins with 8.
+Case 3.4: *p* begins with 8.
 
 In this case we can write *p* = 8*y*7. If 2 ◁ *y*, then **827** ◁ *p*. If 5 ◁ *y*, then **857** ◁ *p*. If 7 ◁ *y*, then **877** ◁ *p*. If 8 ◁ *y*, then **887** ◁ *p*. Hence we may assume *y* ∈ {0}, and thus *p* ∈ 8{0}7. But then, since the sum of the digits of *p* is 15, *p* is divisible by 3, so *p* cannot be prime.
+
+Case 4: *p* ends with 9.
+
+In this case we can write *p* = *x*9. If *x* contains 1, 2, 5, 7, or 8, then (respectively) **19** ◁ *p*, **29** ◁ *p*, **59** ◁ *p*, **79** ◁ *p*, or **89** ◁ *p*. Hence we may assume all digits of *x* are 0, 3, 4, 6, or 9.
+
+If 44 ◁ *x*, then **449** ◁ *p*. Hence we may assume *x* contains zero or one 4's.
+
+If x contains no 4's, then all digits of *x* are 0, 3, 6, or 9, and thus all digits of *p* are 0, 3, 6, or 9. But then, since the digits of *p* all have a common factor 3, *p* is divisible by 3, so *p* cannot be prime. Hence we may assume that *x* contains exactly one 4.
+
+Case 4.1: *p* begins with 3.
+
+In this case we can write *p* = 3*y*4*z*9, where all digits of *y*, *z* are 0, 3, 6, or 9. We must have **349** ◁ *p*.
+
+Case 4.2: *p* begins with 4.
+
+In this case we can write *p* = 4*y*9, where all digits of *y* are 0, 3, 6, or 9. If 0 ◁ *y*, then **409** ◁ *p*. If 3 ◁ *y*, then 43 ◁ *p*. If 9 ◁ *y*, then **499** ◁ *p*. Hence we may assume *y* ∈ {6}, and thus *p* ∈ 4{6}9. But then *p* is divisible by 7, since for *n* ≥ 0 we have 7 × 6<sub>*n*</sub>7 = 46<sub>*n*</sub>9.
+
+Case 4.3: *p* begins with 6.
+
+In this case we can write p = 6*y*4*z*9, where all digits of *y*, *z* are 0, 3, 6, or 9. If 0 ◁ *z*, then 409 ◁ *p*. If 3 ◁ *z*, then 43 ◁ *p*. If 6 ◁ *z*, then **6469** ◁ *p*. If 9 ◁ *z*, then 499 ◁ *p*. Hence we may assume *z* is empty.
+
+If 3 ◁ *y*, then 349 ◁ *p*. If 9 ◁ *y*, then **6949** ◁ *p*. Hence we may assume all digits of *y* are 0 or 6.
+
+If 06 ◁ *y*, then **60649** ◁ *p*. Hence we may assume *y* ∈ {6}{0}.
+
+If 666 ◁ *y*, then **666649** ◁ *p*. If 00000 ◁ *y*, then **60000049** ◁ *p*. Hence we may assume *y* ∈ {*𝜆*,0,00,000,0000,6,60,600,6000,60000,66,660,6600,66000,660000}, and thus *p* ∈ {649,6049,60049,600049,6000049,6649,66049,660049,6600049,66000049,66649,666049,6660049,66600049,666000049}, and of these numbers only **66000049** and **66600049** are primes.
+
+Case 4.4: *p* begins with 9.
+
+In this case we can write p = 9*y*4*z*9, where all digits of *y*, *z* are 0, 3, 6, or 9. If 0 ◁ *y*, then **9049** ◁ *p*. If 3 ◁ *y*, then 349 ◁ *p*. If 6 ◁ *y*, then **9649** ◁ *p*. If 9 ◁ *y*, then **9949** ◁ *p*. Hence we may assume *y* is empty.
+
+If 0 ◁ *z*, then 409 ◁ *p*. If 3 ◁ *z*, then 43 ◁ *p*. If 9 ◁ *z*, then 499 ◁ *p*. Hence we may assume *z* ∈ {6}, and thus *p* ∈ 94{6}9, and the smallest prime *p* ∈ 94{6}9 is 946669.
 
 (You can try to write the proof for bases *b* = 2, 3, 4, 5, 6, 7, 8, 9, 12, of course, the proof for base *b* = 2 is trivial, since all primes *p* > 2 must start and end with 1 in base 2, thus we must have 11 ◁ *p*, however, for some bases *b* like 24, it is almost impossible to write the proof by hand, since base *b* = 24 has too many (3409) minimal primes to write the proof, thus the C++ program code (for computer to compute (https://en.wikipedia.org/wiki/Computing) the proof) is made)
 
