@@ -302,10 +302,18 @@ We can show that: For the case of covering congruence, the numbers in the family
 |11|A{5}2|always divisible by 7|
 |11|A{5}9|always divisible by 7|
 |12|A{0}21|10×12<sup>*n*+2</sup>+25|always divisible by 5|http://factordb.com/index.php?query=10*12%5E%28n%2B2%29%2B25&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|13|3{6}A|always divisible by 7|
+|13|5{A}C|always divisible by 7|
+|13|A{6}3|always divisible by 7|
 |13|C{A}5|always divisible by 7|
+|14|8{6}9|always divisible by 11|
 |14|40{4}9|(732×14<sup>*n*+1</sup>+61)/13 (*n* ≥ 0)|always divisible by 61|http://factordb.com/index.php?query=%28732*14%5E%28n%2B1%29%2B61%29%2F13&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |15|9{6}8|always divisible by 11|
 |16|2{C}3|always divisible by 7|
+|16|A{4}1|always divisible by 7|
+|16|8{C}F|always divisible by 11|
+|16|8{A}F|always divisible by 13|
+|16|A{6}9|always divisible by 13|
 |21|B0{H}6H|(4637×21<sup>*n*+2</sup>−4637)/20 (*n* ≥ 0)|always divisible by 4637|http://factordb.com/index.php?query=%284637*21%5E%28n%2B2%29-4637%29%2F20&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |28|4{O}9|always divisible by 11|
 |28|D{6}R|always divisible by 17|
