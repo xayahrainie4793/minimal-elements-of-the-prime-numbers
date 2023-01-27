@@ -175,6 +175,34 @@ Case 2: *p* ends with 3.
 
 In this case we can write p = *x*3. If *x* contains 1, 2, 4, 5, 7, or 8, then (respectively) **13** ◁ *p*, **23** ◁ *p*, **43** ◁ *p*, **53** ◁ *p*, **73** ◁ *p*, or **83** ◁ *p*. Hence we may assume all digits of *x* are 0, 3, 6, or 9, and thus all digits of *p* are 0, 3, 6, or 9. But then, since the digits of *p* all have a common factor 3, *p* is divisible by 3, so *p* cannot be prime.
 
+Case 3: *p* ends with 7.
+
+In this case we can write *p* = *x*7. If *x* contains 1, 3, 4, 6, or 9, then (respectively) **17** ◁ *p*, **37** ◁ *p*, **47** ◁ *p*, **67** ◁ *p*, or **97** ◁ *p*. Hence we may assume all digits of *x* are 0, 2, 5, 7, or 8.
+
+Case 3.1: *p* begins with 2.
+
+In this case we can write *p* = 2*y*7. If 2 ◁ *y*, then **227** ◁ *p*. If 5 ◁ *y*, then **257** ◁ *p*. If 7 ◁ *y*, then **277** ◁ *p*. Hence we may assume all digits of *y* are 0 or 8.
+
+If 08 ◁ *y*, then **2087** ◁ *p*. If 88 ◁ *y*, then 887 ◁ *p*. Hence we may assume *y* ∈ {0} ∪ 8{0}.
+
+If *y* ∈ {0}, then *p* ∈ 2{0}7. But then, since the sum of the digits of *p* is 9, *p* is divisible by 3, so *p* cannot be prime.
+
+If y ∈ 8{0}, then *p* ∈ 28{0}7. But then *p* is divisible by 7, since for *n* ≥ 0 we have 7 × 40<sub>*n*</sub>1 = 280<sub>*n*</sub>7.
+
+Case 3.2: *p* begins with 5.
+
+In this case we can write *p* = 5*y*7. If 5 ◁ *y*, then **557** ◁ *p*. If 7 ◁ *y*, then **577** ◁ *p*. If 8 ◁ *y*, then **587** ◁ *p*. Hence we may assume all digits of *y* are 0 or 2.
+
+If 22 ◁ *y*, then 227 ◁ *p*. Hence we may assume *y* contains zero or one 2's.
+
+If *y* contains no 2's, then *p* ∈ 5{0}7. But then, since the sum of the digits of *p* is 12, *p* is divisible by 3, so *p* cannot be prime.
+
+If *y* contains exactly one 2, then we can write *p* = 5*z*2*w*7, where *z*,*w* ∈ {0}. If 0 ◁ *z* and 0 ◁ *w*, then **50207** ◁ *p*. Hence we may assume either *z* or *w* is empty.
+
+If *z* is empty, then *p* ∈ 52{0}7, and the smallest prime *p* ∈ 52{0}7 is **5200007**.
+
+If *w* is empty, then *p* ∈ 5{0}27, and the smallest prime *p* ∈ 5{0}27 is **5000000000000000000000000000027**.
+
 (You can try to write the proof for bases *b* = 2, 3, 4, 5, 6, 7, 8, 9, 12, of course, the proof for base *b* = 2 is trivial, since all primes *p* > 2 must start and end with 1 in base 2, thus we must have 11 ◁ *p*, however, for some bases *b* like 24, it is almost impossible to write the proof by hand, since base *b* = 24 has too many (3409) minimal primes to write the proof, thus the C++ program code (for computer to compute (https://en.wikipedia.org/wiki/Computing) the proof) is made)
 
 Determining the set of the minimal elements of a arbitrary set of strings under the subsequence ordering is in general unsolvable, and can be difficult even when this set is relatively simple (such as the base *b* representations of the prime numbers > *b*), also, determining the set of the minimal elements of a arbitrary set of strings under the subsequence ordering may be an open problem (https://en.wikipedia.org/wiki/Open_problem, https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_mathematics, https://primes.utm.edu/glossary/xpage/OpenQuestion.html, https://mathworld.wolfram.com/UnsolvedProblems.html, http://www.numericana.com/answer/open.htm, https://primes.utm.edu/notes/conjectures/) or NP-complete (https://en.wikipedia.org/wiki/NP-complete, https://mathworld.wolfram.com/NP-CompleteProblem.html) or an undecidable problem (https://en.wikipedia.org/wiki/Undecidable_problem, https://mathworld.wolfram.com/Undecidable.html), or an example of Gödel's incompleteness theorems (https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems, https://mathworld.wolfram.com/GoedelsFirstIncompletenessTheorem.html) (like the continuum hypothesis (https://en.wikipedia.org/wiki/Continuum_hypothesis, https://mathworld.wolfram.com/ContinuumHypothesis.html) and the halting problem (https://en.wikipedia.org/wiki/Halting_problem, https://mathworld.wolfram.com/HaltingProblem.html)), or as hard as the unsolved problems in mathematics, such as the Riemann hypothesis (https://en.wikipedia.org/wiki/Riemann_hypothesis, https://primes.utm.edu/glossary/xpage/RiemannHypothesis.html, https://mathworld.wolfram.com/RiemannHypothesis.html, http://www.numericana.com/answer/open.htm#rh) and the *abc* conjecture (https://en.wikipedia.org/wiki/Abc_conjecture, https://mathworld.wolfram.com/abcConjecture.html, http://www.numericana.com/answer/open.htm#abc) and the Schinzel's hypothesis *H* (https://en.wikipedia.org/wiki/Schinzel%27s_hypothesis_H, https://mathworld.wolfram.com/SchinzelsHypothesis.html, http://www.numericana.com/answer/open.htm#h), which are the three famous hard problems in number theory (https://en.wikipedia.org/wiki/Number_theory, https://www.rieselprime.de/ziki/Number_theory, https://mathworld.wolfram.com/NumberTheory.html).
