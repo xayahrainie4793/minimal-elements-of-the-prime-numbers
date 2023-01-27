@@ -256,12 +256,12 @@ We can show that: For the case of covering congruence, the numbers in the family
 |11|3{5}2|always divisible by 5<br>(in fact, always divisible by 35)|
 |11|3{7}4|always divisible by 37|
 |11|4{7}3|always divisible by 47|
-|12|A{0}21|always divisible by 5|
+|12|A{0}21|10×12<sup>*n*+2</sup>+25|always divisible by 5|http://factordb.com/index.php?query=10*12%5E%28n%2B2%29%2B25&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |13|C{A}5|always divisible by 7|
-|14|40{4}9|always divisible by 61|
+|14|40{4}9|(732×14<sup>*n*+1</sup>+61)/13 (*n* ≥ 0)|always divisible by 61|http://factordb.com/index.php?query=%28732*14%5E%28n%2B1%29%2B61%29%2F13&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |15|9{6}8|always divisible by 11|
 |16|2{C}3|always divisible by 7|
-|21|B0{H}6H|always divisible by 4637|
+|21|B0{H}6H|(4637×21<sup>*n*+2</sup>−4637)/20 (*n* ≥ 0)|always divisible by 4637|http://factordb.com/index.php?query=%284637*21%5E%28n%2B2%29-4637%29%2F20&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |28|4{O}9|always divisible by 11|
 |28|D{6}R|always divisible by 17|
 |28|N{6}R|always divisible by 11|
