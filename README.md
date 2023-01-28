@@ -1049,9 +1049,10 @@ Prime checkers:
 10. https://www.bigprimes.net/primalitytest
 11. https://www.archimedes-lab.org/primOmatic.html
 12. http://www.sonic.net/~undoc/java/PrimeCalc.html
-13. http://www.proftnj.com/calcprem.htm (in French) (use the box "Rechercher si un nombre est premier" and click "Rechercher")
-14. https://primes.utm.edu/nthprime/ (calculate the *n*th prime)
-15. http://factordb.com/nextprime.php (calculate the next (probable) prime above *N*, in fact, links 2, 6, 10, 11, 12, 13 can also calculate the next prime above *N*, besides, links 2, 6 can also calculate the previous prime below *N*)
+13. http://www.primzahlen.de/primzahltests/testverfahren.htm (in German)
+14. http://www.proftnj.com/calcprem.htm (in French) (use the box "Rechercher si un nombre est premier" and click "Rechercher")
+15. https://primes.utm.edu/nthprime/ (calculate the *n*th prime)
+16. http://factordb.com/nextprime.php (calculate the next (probable) prime above *N*, in fact, links 2, 6, 10, 11, 12, 13 can also calculate the next prime above *N*, besides, links 2, 6 can also calculate the previous prime below *N*)
 
 Integer factorizers:
 
