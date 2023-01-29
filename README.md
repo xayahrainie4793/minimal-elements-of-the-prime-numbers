@@ -360,17 +360,17 @@ We can show that: For the case of covering congruence, the numbers in the family
 |5|11{0}3|6×5<sup>*n*+1</sup>+3 (*n* ≥ 0)|always divisible by 3|http://factordb.com/index.php?query=6*5%5E%28n%2B1%29%2B3&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |5|3{0}11|3×5<sup>*n*+2</sup>+6 (*n* ≥ 0)|always divisible by 3|http://factordb.com/index.php?query=3*5%5E%28n%2B2%29%2B6&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |6|4{0}1|4×6<sup>*n*+1</sup>+1 (*n* ≥ 0)|always divisible by 5|http://factordb.com/index.php?query=4*6%5E%28n%2B1%29%2B1&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
-|7|1{0}1|always divisible by 2|
-|7|1{0}3|always divisible by 2|
-|7|1{0}5|always divisible by 2<br>(in fact, always divisible by 6)|
-|7|3{0}1|always divisible by 2|
-|7|3{0}5|always divisible by 2|
-|7|5{0}1|always divisible by 2<br>(in fact, always divisible by 6)|
-|7|5{0}3|always divisible by 2|
-|7|1{0}2|always divisible by 3|
-|7|2{0}1|always divisible by 3|
-|7|4{0}5|always divisible by 3|
-|7|5{0}4|always divisible by 3|
+|7|1{0}1|7<sup>*n*+1</sup>+1 (*n* ≥ 0)|always divisible by 2|http://factordb.com/index.php?query=7%5E%28n%2B1%29%2B1&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|7|1{0}3|7<sup>*n*+1</sup>+3 (*n* ≥ 0)|always divisible by 2|http://factordb.com/index.php?query=7%5E%28n%2B1%29%2B3&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|7|1{0}5|7<sup>*n*+1</sup>+5 (*n* ≥ 0)|always divisible by 2<br>(in fact, always divisible by 6)|http://factordb.com/index.php?query=7%5E%28n%2B1%29%2B5&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|7|3{0}1|3×7<sup>*n*+1</sup>+1 (*n* ≥ 0)|always divisible by 2|http://factordb.com/index.php?query=3*7%5E%28n%2B1%29%2B1&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|7|3{0}5|3×7<sup>*n*+1</sup>+5 (*n* ≥ 0)|always divisible by 2|http://factordb.com/index.php?query=3*7%5E%28n%2B1%29%2B5&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|7|5{0}1|5×7<sup>*n*+1</sup>+1 (*n* ≥ 0)|always divisible by 2<br>(in fact, always divisible by 6)|http://factordb.com/index.php?query=5*7%5E%28n%2B1%29%2B1&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|7|5{0}3|5×7<sup>*n*+1</sup>+3 (*n* ≥ 0)|always divisible by 2|http://factordb.com/index.php?query=5*7%5E%28n%2B1%29%2B3&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|7|1{0}2|7<sup>*n*+1</sup>+2 (*n* ≥ 0)|always divisible by 3|http://factordb.com/index.php?query=7%5E%28n%2B1%29%2B2&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|7|2{0}1|2×7<sup>*n*+1</sup>+1 (*n* ≥ 0)|always divisible by 3|http://factordb.com/index.php?query=2*7%5E%28n%2B1%29%2B1&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|7|4{0}5|4×7<sup>*n*+1</sup>+5 (*n* ≥ 0)|always divisible by 3|http://factordb.com/index.php?query=4*7%5E%28n%2B1%29%2B5&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|7|5{0}4|5×7<sup>*n*+1</sup>+4 (*n* ≥ 0)|always divisible by 3|http://factordb.com/index.php?query=5*7%5E%28n%2B1%29%2B4&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |7|1{0}1{0}1|always divisible by 3<br>(non-simple family)|
 |7|1{0}3{0}5|always divisible by 3<br>(non-simple family)|
 |7|1{0}5{0}3|always divisible by 3<br>(non-simple family)|
