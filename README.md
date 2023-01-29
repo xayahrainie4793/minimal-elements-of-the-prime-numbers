@@ -137,7 +137,7 @@ Case 1.2: *p* begins with 5.
 
 In this case we can write *p* = 5*y*1. If 2 ◁ *y*, then **521** ◁ *p*. If 9 ◁ *y*, then 59 ◁ *p*. Hence we may assume all digits of *y* are 0, 5, or 8.
 
-If 05 ◁ *y*, then **5051** ◁ *p*. If 08 ◁ *y*, then **5081** ◁ *p*. If 50 ◁ *y*, then **5501** ◁ *p*. If 58 ◁ *y*, then **5581** ◁ *p*. If 80 ◁ *y*, then **5801** ◁ *p*. If 85 ◁ *y*, then **5851** ◁ *p*. Hence we may assume all digits of *y* are the same (0 or 5 or 8), i.e. *y* ∈ {0} ∪ {5} ∪ {8}.
+If 05 ◁ *y*, then **5051** ◁ *p*. If 08 ◁ *y*, then **5081** ◁ *p*. If 50 ◁ *y*, then **5501** ◁ *p*. If 58 ◁ *y*, then **5581** ◁ *p*. If 80 ◁ *y*, then **5801** ◁ *p*. If 85 ◁ *y*, then **5851** ◁ *p*. Hence we may assume *y* ∈ {0} ∪ {5} ∪ {8}.
 
 If *y* ∈ {0}, then *p* ∈ 5{0}1. But then, since the sum of the digits of *p* is 6, *p* is divisible by 3, so *p* cannot be prime.
 
