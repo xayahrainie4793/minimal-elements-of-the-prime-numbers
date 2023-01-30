@@ -371,8 +371,8 @@ We can show that: For the case of covering congruence, the numbers in the family
 |7|2{0}1|2×7<sup>*n*+1</sup>+1 (*n* ≥ 0)|always divisible by 3|http://factordb.com/index.php?query=2*7%5E%28n%2B1%29%2B1&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |7|4{0}5|4×7<sup>*n*+1</sup>+5 (*n* ≥ 0)|always divisible by 3|http://factordb.com/index.php?query=4*7%5E%28n%2B1%29%2B5&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |7|5{0}4|5×7<sup>*n*+1</sup>+4 (*n* ≥ 0)|always divisible by 3|http://factordb.com/index.php?query=5*7%5E%28n%2B1%29%2B4&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
-|7|1{0}1{0}1|always divisible by 3<br>(non-simple family)|
-|7|1{0}3{0}5|always divisible by 3<br>(non-simple family)|
+|7|1{0}1{0}1|7<sup>*m*+*n*+2</sup>+7<sup>*n*+1</sup>+1|always divisible by 3<br>(non-simple family)|–|
+|7|1{0}3{0}5|7<sup>*m*+*n*+2</sup>+3×7<sup>*n*+1</sup>+5|always divisible by 3<br>(non-simple family)|–|
 |7|1{0}5{0}3|always divisible by 3<br>(non-simple family)|
 |7|3{0}1{0}5|always divisible by 3<br>(non-simple family)|
 |7|3{0}5{0}1|always divisible by 3<br>(non-simple family)|
