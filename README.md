@@ -93,6 +93,8 @@ In fact, this problem covers finding the smallest prime of these form in the sam
 * *xy*{*x*} (unless either *x* = 1 or there is a prime of the form *y*{*x*} (or both)) (see https://stdkmd.net/nrr/abaaa.htm)
 * {*x*}*yx* (unless either *x* = 1 or there is a prime of the form {*x*}*y* (or both)) (see https://stdkmd.net/nrr/aaaba.htm)
 
+The primes in forms *x*{*y*}, {*x*}*y*, *xy*{*x*}, {*x*}*yx* in base *b* are near-repdigit primes (https://primes.utm.edu/glossary/xpage/NearRepdigitPrime.html, https://primes.utm.edu/top20/page.php?id=15, https://oeis.org/A164937, https://stdkmd.net/nrr/#factortables_nr, https://stdkmd.net/nrr/records.htm#nrprime, https://stdkmd.net/nrr/records.htm#nrprp) in base *b*.
+
 Proving that "the set of the minimal elements of the base *b* representations of the prime numbers > *b* under the subsequence ordering" = the set *S* is equivalent to:
 
 * Prove that all elements in *S*, when read as base *b* representation, are primes > *b*.
