@@ -381,13 +381,13 @@ We can show that: For the case of covering congruence, the numbers in the family
 |7|3{0}5{0}1|3×7<sup>*m*+*n*+2</sup>+5×7<sup>*n*+1</sup>+1 (*m*+*n* ≥ 0)|always divisible by 3<br>(non-simple family)|–|
 |7|5{0}1{0}3|5×7<sup>*m*+*n*+2</sup>+7<sup>*n*+1</sup>+3 (*m*+*n* ≥ 0)|always divisible by 3<br>(non-simple family)|–|
 |7|5{0}3{0}1|5×7<sup>*m*+*n*+2</sup>+3×7<sup>*n*+1</sup>+1 (*m*+*n* ≥ 0)|always divisible by 3<br>(non-simple family)|–|
-|7|1{0}1{0}1{0}1|always divisible by 2<br>(non-simple family)|
-|7|1{0}1{0}2|always divisible by 2<br>(non-simple family)|
-|7|1{0}2{0}1|always divisible by 2<br>(non-simple family)|
-|7|2{0}1{0}1|always divisible by 2<br>(non-simple family)|
-|7|4{0}5{0}5|always divisible by 2<br>(non-simple family)|
-|7|5{0}4{0}5|always divisible by 2<br>(non-simple family)|
-|7|5{0}5{0}4|always divisible by 2<br>(non-simple family)|
+|7|1{0}1{0}1{0}1|7<sup>*r*+*m*+*n*+3</sup>+7<sup>*m*+*n*+2</sup>+7<sup>*n*+1</sup>+1 (*r*+*m*+*n* ≥ 0)|always divisible by 2<br>(non-simple family)|–|
+|7|1{0}1{0}2|7<sup>*m*+*n*+2</sup>+7<sup>*n*+1</sup>+2 (*m*+*n* ≥ 0)|always divisible by 2<br>(non-simple family)|–|
+|7|1{0}2{0}1|7<sup>*m*+*n*+2</sup>+2×7<sup>*n*+1</sup>+1 (*m*+*n* ≥ 0)|always divisible by 2<br>(non-simple family)|–|
+|7|2{0}1{0}1|2×7<sup>*m*+*n*+2</sup>+7<sup>*n*+1</sup>+1 (*m*+*n* ≥ 0)|always divisible by 2<br>(non-simple family)|–|
+|7|4{0}5{0}5|4×7<sup>*m*+*n*+2</sup>+5×7<sup>*n*+1</sup>+5 (*m*+*n* ≥ 0)|always divisible by 2<br>(non-simple family)|–|
+|7|5{0}4{0}5|5×7<sup>*m*+*n*+2</sup>+4×7<sup>*n*+1</sup>+5 (*m*+*n* ≥ 0)|always divisible by 2<br>(non-simple family)|–|
+|7|5{0}5{0}4|5×7<sup>*m*+*n*+2</sup>+5×7<sup>*n*+1</sup>+4 (*m*+*n* ≥ 0)|always divisible by 2<br>(non-simple family)|–|
 |8|2{0}5|2×8<sup>*n*+1</sup>+5 (*n* ≥ 0)|always divisible by 7|http://factordb.com/index.php?query=2*8%5E%28n%2B1%29%2B5&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |8|4{0}3|4×8<sup>*n*+1</sup>+3 (*n* ≥ 0)|always divisible by 7|http://factordb.com/index.php?query=4*8%5E%28n%2B1%29%2B3&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |8|6{0}1|6×8<sup>*n*+1</sup>+1 (*n* ≥ 0)|always divisible by 7|http://factordb.com/index.php?query=6*8%5E%28n%2B1%29%2B1&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
