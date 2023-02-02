@@ -400,22 +400,22 @@ We can show that: For the case of covering congruence, the numbers in the family
 |11|A{5}2|(21×11<sup>*n*+1</sup>−7)/2 (*n* ≥ 0)|always divisible by 7|http://factordb.com/index.php?query=%2821*11%5E%28n%2B1%29-7%29%2F2&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |11|A{5}9|(21×11<sup>*n*+1</sup>+7)/2 (*n* ≥ 0)|always divisible by 7|http://factordb.com/index.php?query=%2821*11%5E%28n%2B1%29%2B7%29%2F2&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |12|A{0}21|10×12<sup>*n*+2</sup>+25|always divisible by 5|http://factordb.com/index.php?query=10*12%5E%28n%2B2%29%2B25&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
-|13|3{6}A|always divisible by 7|
-|13|5{A}C|always divisible by 7|
-|13|A{6}3|always divisible by 7|
-|13|C{A}5|always divisible by 7|
-|14|8{6}9|always divisible by 11|
+|13|3{6}A|(7×13<sup>*n*+1</sup>+7)/2 (*n* ≥ 0)|always divisible by 7|http://factordb.com/index.php?query=%287*13%5E%28n%2B1%29%2B7%29%2F2&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|13|5{A}C|(35×13<sup>*n*+1</sup>+7)/6 (*n* ≥ 0)|always divisible by 7|http://factordb.com/index.php?query=%2835*13%5E%28n%2B1%29%2B7%29%2F6&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|13|A{6}3|(21×13<sup>*n*+1</sup>−7)/2 (*n* ≥ 0)|always divisible by 7|http://factordb.com/index.php?query=%2821*13%5E%28n%2B1%29-7%29%2F2&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|13|C{A}5|(77×13<sup>*n*+1</sup>−35)/6 (*n* ≥ 0)|always divisible by 7|http://factordb.com/index.php?query=%2877*13%5E%28n%2B1%29-35%29%2F6&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|14|8{6}9|(110×14<sup>*n*+1</sup>+33)/13 (*n* ≥ 0)|always divisible by 11|http://factordb.com/index.php?query=%28110*14%5E%28n%2B1%29%2B33%29%2F13&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |14|40{4}9|(732×14<sup>*n*+1</sup>+61)/13 (*n* ≥ 0)|always divisible by 61|http://factordb.com/index.php?query=%28732*14%5E%28n%2B1%29%2B61%29%2F13&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
-|15|9{6}8|always divisible by 11|
-|16|2{C}3|always divisible by 7|
-|16|A{4}1|always divisible by 7|
-|16|8{C}F|always divisible by 11|
-|16|8{A}F|always divisible by 13|
-|16|A{6}9|always divisible by 13|
+|15|9{6}8|(66×15<sup>*n*+1</sup>+11)/7 (*n* ≥ 0)|always divisible by 11|http://factordb.com/index.php?query=%2866*15%5E%28n%2B1%29%2B11%29%2F7&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|16|2{C}3|(14×16<sup>*n*+1</sup>−49)/5 (*n* ≥ 0)|always divisible by 7|http://factordb.com/index.php?query=%2814*16%5E%28n%2B1%29-49%29%2F5&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|16|A{4}1|(154×16<sup>*n*+1</sup>−49)/15 (*n* ≥ 0)|always divisible by 7|http://factordb.com/index.php?query=%28154*16%5E%28n%2B1%29-49%29%2F15&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|16|8{C}F|(44×16<sup>*n*+1</sup>+11)/5 (*n* ≥ 0)|always divisible by 11|http://factordb.com/index.php?query=%2844*16%5E%28n%2B1%29%2B11%29%2F5&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|16|8{A}F|(26×16<sup>*n*+1</sup>+13)/3 (*n* ≥ 0)|always divisible by 13|http://factordb.com/index.php?query=%2826*16%5E%28n%2B1%29%2B13%29%2F3&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|16|A{6}9|(52×16<sup>*n*+1</sup>+13)/5 (*n* ≥ 0)|always divisible by 13|http://factordb.com/index.php?query=%2852*16%5E%28n%2B1%29%2B13%29%2F5&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |21|B0{H}6H|(4637×21<sup>*n*+2</sup>−4637)/20 (*n* ≥ 0)|always divisible by 4637|http://factordb.com/index.php?query=%284637*21%5E%28n%2B2%29-4637%29%2F20&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
-|28|4{O}9|always divisible by 11|
-|28|D{6}R|always divisible by 17|
-|28|N{6}R|always divisible by 11|
+|28|4{O}9|(44×28<sup>*n*+1</sup>−143)/9 (*n* ≥ 0)|always divisible by 11|http://factordb.com/index.php?query=%2844*28%5E%28n%2B1%29-143%29%2F9&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|28|N{6}R|(209×28<sup>*n*+1</sup>+187)/9 (*n* ≥ 0)|always divisible by 11|http://factordb.com/index.php?query=%28209*28%5E%28n%2B1%29%2B187%29%2F9&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|28|D{6}R|(119×28<sup>*n*+1</sup>+187)/9 (*n* ≥ 0)|always divisible by 17|http://factordb.com/index.php?query=%28119*28%5E%28n%2B1%29%2B187%29%2F9&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |9|{1}5|(9<sup>*n*+1</sup>+31)/8 (*n* ≥ 1)|always divisible by some element of {2,5}<br>divisible by 2 if *n* is odd, divisible by 5 if *n* is even|http://factordb.com/index.php?query=%289%5E%28n%2B1%29%2B31%29%2F8&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |9|{1}61|(9<sup>*n*+2</sup>+359)/8 (*n* ≥ 0)|always divisible by some element of {2,5}<br>divisible by 2 if *n* is odd, divisible by 5 if *n* is even|http://factordb.com/index.php?query=%289%5E%28n%2B2%29%2B359%29%2F8&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |9|2{7}|(23×9<sup>*n*</sup>−7)/8 (*n* ≥ 1)|always divisible by some element of {2,5}<br>divisible by 2 if *n* is even, divisible by 5 if *n* is odd|http://factordb.com/index.php?query=%2823*9%5En-7%29%2F8&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
