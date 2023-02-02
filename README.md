@@ -396,9 +396,9 @@ We can show that: For the case of covering congruence, the numbers in the family
 |9|{7}62|(7×9<sup>*n*+2</sup>−119)/8 (*n* ≥ 0)|always divisible by 7|http://factordb.com/index.php?query=%287*9%5E%28n%2B2%29-119%29%2F8&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |11|2{5}3|(5×11<sup>*n*+1</sup>−5)/2 (*n* ≥ 0)|always divisible by 5<br>(in fact, always divisible by 25)|http://factordb.com/index.php?query=%285*11%5E%28n%2B1%29-5%29%2F2&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |11|3{5}2|(7×11<sup>*n*+1</sup>−7)/2 (*n* ≥ 0)|always divisible by 5<br>(in fact, always divisible by 35)|http://factordb.com/index.php?query=%287*11%5E%28n%2B1%29-7%29%2F2&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
-|11|3{5}9|(7×11<sup>*n*+1</sup>+7)/2 (*n* ≥ 0)|always divisible by 7|
-|11|A{5}2|(21×11<sup>*n*+1</sup>−7)/2 (*n* ≥ 0)|always divisible by 7|
-|11|A{5}9|(21×11<sup>*n*+1</sup>+7)/2 (*n* ≥ 0)|always divisible by 7|
+|11|3{5}9|(7×11<sup>*n*+1</sup>+7)/2 (*n* ≥ 0)|always divisible by 7|http://factordb.com/index.php?query=%287*11%5E%28n%2B1%29%2B7%29%2F2&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|11|A{5}2|(21×11<sup>*n*+1</sup>−7)/2 (*n* ≥ 0)|always divisible by 7|http://factordb.com/index.php?query=%2821*11%5E%28n%2B1%29-7%29%2F2&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|11|A{5}9|(21×11<sup>*n*+1</sup>+7)/2 (*n* ≥ 0)|always divisible by 7|http://factordb.com/index.php?query=%2821*11%5E%28n%2B1%29%2B7%29%2F2&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |12|A{0}21|10×12<sup>*n*+2</sup>+25|always divisible by 5|http://factordb.com/index.php?query=10*12%5E%28n%2B2%29%2B25&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |13|3{6}A|always divisible by 7|
 |13|5{A}C|always divisible by 7|
