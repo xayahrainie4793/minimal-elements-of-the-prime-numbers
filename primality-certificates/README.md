@@ -36,6 +36,25 @@ The Cunningham numbers *b*<sup>*n*</sup>±1 has algebraic factorization to produ
 * the 25199th minimal prime in base 26, 9K<sub>343</sub>AP, *N*+1 is 6370×*R*<sub>344</sub>(26), thus factor *N*+1 is equivalent to factor 26<sup>344</sup>−1, and for the factorization of 26<sup>344</sup>−1, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSingleEntry?Base=26&Exp=344&c0=-&EN=
 * the 25200th minimal prime in base 26, 8<sub>354</sub>1, *N*−1 is 208×*R*<sub>354</sub>(26), thus factor *N*−1 is equivalent to factor 26<sup>354</sup>−1, and for the factorization of 26<sup>354</sup>−1, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSingleEntry?Base=26&Exp=354&c0=-&EN=
 
+(in the tables below, *Φ* is the cyclotomic polynomial (https://en.wikipedia.org/wiki/Cyclotomic_polynomial, https://mathworld.wolfram.com/CyclotomicPolynomial.html, http://www.numericana.com/answer/polynomial.htm#cyclotomic))
+
+For the number 13<sup>308</sup>−1, it is the product of *Φ*<sub>*d*</sub>(*b*) with positive integers *d* dividing 308 (i.e. *d* = 1, 2, 4, 7, 11, 14, 22, 28, 44, 77, 154, 308), and the factorization of *Φ*<sub>*d*</sub>(*b*) for these positive integers *d* are:
+
+|from|factorization|
+|---|---|
+|*Φ*<sub>1</sub>(13)|2<sup>2</sup> × 3|
+|*Φ*<sub>2</sub>(13)|2 × 7|
+|*Φ*<sub>4</sub>(13)|2 × 5 × 17|
+|*Φ*<sub>7</sub>(13)|5229043|
+|*Φ*<sub>11</sub>(13)|23 × 419 × 859 × 18041|
+|*Φ*<sub>14</sub>(13)|7 × 29 × 22079|
+|*Φ*<sub>22</sub>(13)|128011456717|
+|*Φ*<sub>28</sub>(13)|23161037562937|
+|*Φ*<sub>44</sub>(13)|5281 × 3577574298489429481|
+|*Φ*<sub>77</sub>(13)|624958606550654822293 × (47-digit prime)|
+|*Φ*<sub>154</sub>(13)|78947177 × (59-digit prime)|
+|*Φ*<sub>308</sub>(13)|7393 × 1702933 × 150324329 × 718377597171850001 × 4209006442599882158485591696242263069 × (61-digit prime)|
+
 Although these numbers also have *N*−1 or *N*+1 is product of a Cunningham number and a small number, but since the corresponding Cunningham numbers are < 25% factored, these numbers still need primality certificates:
 
 * the 151st minimal prime in base 9, 30<sub>1158</sub>11, *N*−1 is 9×*S*<sub>2319</sub>(3), thus factor *N*−1 is equivalent to factor 3<sup>2319</sup>+1, *N*−1 is only 12.693% factored, and for the factorization of 3<sup>2319</sup>+1, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSingleEntry?Base=3&Exp=2319&c0=%2B&EN=
