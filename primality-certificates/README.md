@@ -55,6 +55,49 @@ For the number 13<sup>308</sup>−1, it is the product of *Φ*<sub>*d*</sub>(*b*
 |*Φ*<sub>154</sub>(13)|78947177 × (59-digit prime)|
 |*Φ*<sub>308</sub>(13)|7393 × 1702933 × 150324329 × 718377597171850001 × 4209006442599882158485591696242263069 × (61-digit prime)|
 
+For the number 13<sup>564</sup>−1, it is the product of *Φ*<sub>*d*</sub>(*b*) with positive integers *d* dividing 564 (i.e. *d* = 1, 2, 3, 4, 6, 12, 47, 94, 141, 188, 282, 564), and the factorization of *Φ*<sub>*d*</sub>(*b*) for these positive integers *d* are:
+
+|from|factorization|
+|---|---|
+|*Φ*<sub>1</sub>(13)|2<sup>2</sup> × 3|
+|*Φ*<sub>2</sub>(13)|2 × 7|
+|*Φ*<sub>3</sub>(13)|3 × 61|
+|*Φ*<sub>4</sub>(13)|2 × 5 × 17|
+|*Φ*<sub>6</sub>(13)|157|
+|*Φ*<sub>12</sub>(13)|28393|
+|*Φ*<sub>47</sub>(13)|183959 × 19216136497 × 534280344481909234853671069326391741|
+|*Φ*<sub>94</sub>(13)|498851139881 × 3245178229485124818467952891417691434077|
+|*Φ*<sub>141</sub>(13)|283 × 1693 × 1924651 × 455036140638637 × (76-digit prime)|
+|*Φ*<sub>188</sub>(13)|36097 × 75389 × 99886248944632632917 × (74-digit prime)|
+|*Φ*<sub>282</sub>(13)|590202369266263393 × (85-digit prime)|
+|*Φ*<sub>564</sub>(13)|233628485003849577181 × 94531330515097101267386264339794253977 (*ECM*, *B1* = 3000000, *Sigma* = 2146847123, Group order = 94531330515097101278258000999981510760) × 27969827431131578608318126024627616357147784803797 (*GNFS*) × (98-digit prime)|
+
+For the number 13<sup>576</sup>−1, it is the product of *Φ*<sub>*d*</sub>(*b*) with positive integers *d* dividing 576 (i.e. *d* = 1, 2, 3, 4, 6, 8, 9, 12, 16, 18, 24, 32, 36, 48, 64, 72, 96, 144, 192, 288, 576), and the factorization of *Φ*<sub>*d*</sub>(*b*) for these positive integers *d* are:
+
+|from|factorization|
+|---|---|
+|*Φ*<sub>1</sub>(13)|2<sup>2</sup> × 3|
+|*Φ*<sub>2</sub>(13)|2 × 7|
+|*Φ*<sub>3</sub>(13)|3 × 61|
+|*Φ*<sub>4</sub>(13)|2 × 5 × 17|
+|*Φ*<sub>6</sub>(13)|157|
+|*Φ*<sub>8</sub>(13)|2 × 14281|
+|*Φ*<sub>9</sub>(13)|3 × 1609669|
+|*Φ*<sub>12</sub>(13)|28393|
+|*Φ*<sub>16</sub>(13)|2 × 407865361|
+|*Φ*<sub>18</sub>(13)|19 × 271 × 937|
+|*Φ*<sub>24</sub>(13)|815702161|
+|*Φ*<sub>32</sub>(13)|2 × 2657 × 441281 × 283763713|
+|*Φ*<sub>36</sub>(13)|37 × 428041 × 1471069|
+|*Φ*<sub>48</sub>(13)|1009 × 659481276875569|
+|*Φ*<sub>64</sub>(13)|2 × 193 × 1601 × 10433 × 68675120456139881482562689|
+|*Φ*<sub>72</sub>(13)|73 × 4177 × 181297 × 9818892432332713|
+|*Φ*<sub>96</sub>(13)|97 × 88993 × 127028743393 × 403791981344275297|
+|*Φ*<sub>144</sub>(13)|3889 × 680401 × 29975087953 × 6654909974864689 × 558181416418089697|
+|*Φ*<sub>192</sub>(13)|1153 × 11352931040252580224415980746369 × 14977427998321433931503086910333672833|
+|*Φ*<sub>288</sub>(13)|2017 × 47521 × 54721 × 1590049 × 8299042833797200969471889569 × (61-digit prime)|
+|*Φ*<sub>576</sub>(13)|577 × 6337 × 5247817273269739636080024961 × 5497355933986265726220616321 × 1032606621363411464640473542092061600217962755283816476128113983937 (*GNFS*) × (86-digit prime)|
+
 Although these numbers also have *N*−1 or *N*+1 is product of a Cunningham number and a small number, but since the corresponding Cunningham numbers are < 25% factored, these numbers still need primality certificates:
 
 * the 151st minimal prime in base 9, 30<sub>1158</sub>11, *N*−1 is 9×*S*<sub>2319</sub>(3), thus factor *N*−1 is equivalent to factor 3<sup>2319</sup>+1, *N*−1 is only 12.693% factored, and for the factorization of 3<sup>2319</sup>+1, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSingleEntry?Base=3&Exp=2319&c0=%2B&EN=
