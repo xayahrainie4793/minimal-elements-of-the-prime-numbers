@@ -165,7 +165,7 @@ For the number 13<sup>1504</sup>−1, it is the product of *Φ*<sub>*d*</sub>(13
 |*Φ*<sub>752</sub>(13)|13537 × 1232912541076129 × (391-digit composite with no known proper factors)|
 |*Φ*<sub>1504</sub>(13)|4513 × 9426289921 × (807-digit composite with no known proper factors)|
 
-For the number 16<sup>3543</sup>+1, which equals 2<sup>14172</sup>+1, it is the product of *Φ*<sub>*d*</sub>(2) with positive integers *d* dividing 28344 but not dividing 14172 (i.e. *d* = 8, 24, 9448, 28344), and the factorization of *Φ*<sub>*d*</sub>(2) for these positive integers *d* are:
+For the number 16<sup>3543</sup>+1 = 2<sup>14172</sup>+1, it is the product of *Φ*<sub>*d*</sub>(2) with positive integers *d* dividing 28344 but not dividing 14172 (i.e. *d* = 8, 24, 9448, 28344), and the factorization of *Φ*<sub>*d*</sub>(2) for these positive integers *d* are:
 
 |from|factorization|
 |---|---|
