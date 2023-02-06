@@ -98,6 +98,32 @@ For the number 13<sup>576</sup>−1, it is the product of *Φ*<sub>*d*</sub>(13)
 |*Φ*<sub>288</sub>(13)|2017 × 47521 × 54721 × 1590049 × 8299042833797200969471889569 × (61-digit prime)|
 |*Φ*<sub>576</sub>(13)|577 × 6337 × 5247817273269739636080024961 × 5497355933986265726220616321 × 1032606621363411464640473542092061600217962755283816476128113983937 (*GNFS*) × (86-digit prime)|
 
+For the number 26<sup>344</sup>−1, it is the product of *Φ*<sub>*d*</sub>(26) with positive integers *d* dividing 344 (i.e. *d* = 1, 2, 4, 8, 43, 86, 172, 344), and the factorization of *Φ*<sub>*d*</sub>(26) for these positive integers *d* are:
+
+|from|factorization|
+|---|---|
+|*Φ*<sub>1</sub>(26)|5<sup>2</sup>|
+|*Φ*<sub>2</sub>(26)|3<sup>3</sup>|
+|*Φ*<sub>4</sub>(26)|677|
+|*Φ*<sub>8</sub>(26)|17 × 26881|
+|*Φ*<sub>43</sub>(26)|(60-digit prime)|
+|*Φ*<sub>86</sub>(26)|681293 × (54-digit prime)|
+|*Φ*<sub>172</sub>(26)|173 × 66221 × 97942133 × 338286119038330712762413 × 290239124722842089063959709049053 × (48-digit prime)|
+|*Φ*<sub>344</sub>(26)|259295161 × 14470172263033 × (217-digit prime)|
+
+For the number 26<sup>354</sup>−1, it is the product of *Φ*<sub>*d*</sub>(26) with positive integers *d* dividing 354 (i.e. *d* = 1, 2, 3, 6, 59, 118, 177, 354), and the factorization of *Φ*<sub>*d*</sub>(26) for these positive integers *d* are:
+
+|from|factorization|
+|---|---|
+|*Φ*<sub>1</sub>(26)|5<sup>2</sup>|
+|*Φ*<sub>2</sub>(26)|3<sup>3</sup>|
+|*Φ*<sub>3</sub>(26)|19 × 37|
+|*Φ*<sub>6</sub>(26)|3 × 7 × 31|
+|*Φ*<sub>59</sub>(26)|3541 × 334945708538658924935948356996883525107 × 10265667109489266992108219345733472151257|
+|*Φ*<sub>118</sub>(26)|254250862891621 × (68-digit prime)|
+|*Φ*<sub>177</sub>(26)|47791 × 1311074895191091284466533625050044762267011115706300424823729 × (100-digit prime)|
+|*Φ*<sub>354</sub>(26)|709 × 16441898216641 × (149-digit prime)|
+
 Although these numbers also have *N*−1 or *N*+1 is product of a Cunningham number and a small number, but since the corresponding Cunningham numbers are < 25% factored, these numbers still need primality certificates:
 
 * the 151st minimal prime in base 9, 30<sub>1158</sub>11, *N*−1 is 9×*S*<sub>2319</sub>(3), thus factor *N*−1 is equivalent to factor 3<sup>2319</sup>+1, *N*−1 is only 12.693% factored, and for the factorization of 3<sup>2319</sup>+1, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSingleEntry?Base=3&Exp=2319&c0=%2B&EN=
