@@ -133,6 +133,36 @@ Although these numbers also have *N*−1 or *N*+1 is product of a Cunningham num
 * the 2342nd minimal prime in base 16, 90<sub>3542</sub>91, *N*−1 is 144×*S*<sub>3543</sub>(16), thus factor *N*−1 is equivalent to factor 16<sup>3543</sup>+1, *N*−1 is only 1.255% factored, and for the factorization of 16<sup>3543</sup>+1, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSingleEntry?Base=16&Exp=3543&c0=%2B&EN=
 * the 25240th minimal prime in base 26, 5<sub>1885</sub>4P, *N*+1 is 130×*R*<sub>1886</sub>(26), thus factor *N*+1 is equivalent to factor 26<sup>1886</sup>−1, *N*+1 is only 7.262% factored, and for the factorization of 26<sup>1886</sup>−1, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSingleEntry?Base=26&Exp=1886&c0=-&EN=
 
+(in the tables below, *Φ* is the cyclotomic polynomial (https://en.wikipedia.org/wiki/Cyclotomic_polynomial, https://mathworld.wolfram.com/CyclotomicPolynomial.html, http://www.numericana.com/answer/polynomial.htm#cyclotomic))
+
+(for the prime factors in the tables below, "*ECM*" means the elliptic-curve factorization method (https://en.wikipedia.org/wiki/Lenstra_elliptic-curve_factorization, https://www.rieselprime.de/ziki/Elliptic_curve_method, https://mathworld.wolfram.com/EllipticCurveFactorizationMethod.html, http://www.numericana.com/answer/factoring.htm#ecm, http://factordb.com/listecm.php?c=1, http://www.loria.fr/~zimmerma/ecmnet/, http://www.loria.fr/~zimmerma/records/ecmnet.html, http://www.loria.fr/~zimmerma/records/factor.html, http://www.loria.fr/~zimmerma/records/top50.html, https://stdkmd.net/nrr/records.htm#largefactorecm, http://maths-people.anu.edu.au/~brent/factors.html, http://maths-people.anu.edu.au/~brent/ftp/champs.txt, https://www.alpertron.com.ar/ECM.HTM), "*P*−1" means the Pollard *P*−1 method (https://en.wikipedia.org/wiki/Pollard%27s_p_%E2%88%92_1_algorithm, https://www.rieselprime.de/ziki/P-1_factorization_method, https://mathworld.wolfram.com/Pollardp-1FactorizationMethod.html, http://www.numericana.com/answer/factoring.htm#p-1, http://factordb.com/listecm.php?c=2), "*P*+1" means the Williams *P*+1 method (https://en.wikipedia.org/wiki/Williams%27s_p_%2B_1_algorithm, https://www.rieselprime.de/ziki/P%2B1_factorization_method, https://mathworld.wolfram.com/WilliamspPlus1FactorizationMethod.html, http://www.numericana.com/answer/factoring.htm#p+1, http://factordb.com/listecm.php?c=3), "*SNFS*" means the special number field sieve (https://en.wikipedia.org/wiki/Special_number_field_sieve, https://www.rieselprime.de/ziki/Special_number_field_sieve, https://mathworld.wolfram.com/NumberFieldSieve.html, https://stdkmd.net/nrr/records.htm#BIGSNFS, https://stdkmd.net/nrr/wanted.htm#smallpolynomial), "*GNFS*" means the general number field sieve (https://en.wikipedia.org/wiki/General_number_field_sieve, https://www.rieselprime.de/ziki/General_number_field_sieve, https://mathworld.wolfram.com/NumberFieldSieve.html, https://stdkmd.net/nrr/records.htm#BIGGNFS, https://stdkmd.net/nrr/wanted.htm#suitableforgnfs))
+
+For the number 3<sup>2319</sup>+1, it is the product of *Φ*<sub>*d*</sub>(3) with positive integers *d* dividing 4638 but not dividing 2319 (i.e. *d* = 2, 6, 1546, 4638), and the factorization of *Φ*<sub>*d*</sub>(3) for these positive integers *d* are:
+
+|from|factorization|
+|---|---|
+|*Φ*<sub>2</sub>(3)|2<sup>2</sup>|
+|*Φ*<sub>6*L*</sub>(3)|1|
+|*Φ*<sub>6*M*</sub>(3)|7|
+|*Φ*<sub>1546</sub>(3)|1182691 × 454333843 × 7175619780295897339 × 219067434459114063477547 × 650663511671253931884619 × (288-digit composite with no known proper factors)|
+|*Φ*<sub>4638*L*</sub>(3)|18553 × 2957658597967379799686737984695290731543 × (325-digit composite with no known proper factors)|
+|*Φ*<sub>4638*M*</sub>(3)|4639 × 6716055901 × (356-digit composite with no known proper factors)|
+
+For the number 13<sup>1504</sup>−1, it is the product of *Φ*<sub>*d*</sub>(13) with positive integers *d* dividing 1504 (i.e. *d* = 1, 2, 4, 8, 16, 32, 47, 94, 188, 376, 752, 1504), and the factorization of *Φ*<sub>*d*</sub>(13) for these positive integers *d* are:
+
+|*Φ*<sub>1</sub>(13)|2<sup>2</sup> × 3|
+|*Φ*<sub>2</sub>(13)|2 × 7|
+|*Φ*<sub>4</sub>(13)|2 × 5 × 17|
+|*Φ*<sub>8</sub>(13)|2 × 14281|
+|*Φ*<sub>16</sub>(13)|2 × 407865361|
+|*Φ*<sub>32</sub>(13)|2 × 2657 × 441281 × 283763713|
+|*Φ*<sub>47</sub>(13)|183959 × 19216136497 × 534280344481909234853671069326391741|
+|*Φ*<sub>94</sub>(13)|498851139881 × 3245178229485124818467952891417691434077|
+|*Φ*<sub>188</sub>(13)|36097 × 75389 × 99886248944632632917 × (74-digit prime)|
+|*Φ*<sub>376</sub>(13)|41737 × 553784729353 × 188172028979257 × 398225319299696783138113 × 7663511503164270157006126605793 × 8935170451146532986983277856738508374630999814576686938913 × (62-digit prime)|
+|*Φ*<sub>752</sub>(13)|13537 × 1232912541076129 × (391-digit composite with no known proper factors)|
+|*Φ*<sub>1504</sub>(13)|4513 × 9426289921 × (807-digit composite with no known proper factors)|
+
 For the files in this page:
 
 * File "certificate *b* *n*": The primality certificate for the *n*th minimal prime in base *b* (local copy from *factordb* (http://factordb.com/)), after downloading these files, these files should be renamed to ".out" files, e.g. file "certificate9_149" is the primality certificate for the 149th minimal prime in base 9, i.e. the primality certificate for the prime 76<sub>329</sub>2 in base 9, which equals the prime (31×9<sup>330</sup>−19)/4.
