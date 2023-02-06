@@ -1272,11 +1272,12 @@ Lists of factorizations of small integers:
 1. http://primefan.tripod.com/500factored.html
 2. http://www.sosmath.com/tables/factor/factor.html
 3. http://www.datapointed.net/visualizations/math/factorization/animated-diagrams/
-4. https://oeis.org/A027750/a027750.txt (all (prime or composite or unit) factors of *N*)
-5. http://factorzone.tripod.com/factors.htm (all (prime or composite or unit) factors of *N*)
-6. http://functions.wolfram.com/NumberTheoryFunctions/Divisors/03/02 (all (prime or composite or unit) factors of *N*)
-7. https://en.wikipedia.org/wiki/Table_of_prime_factors
-8. https://en.wikipedia.org/wiki/Table_of_divisors (all (prime or composite or unit) factors of *N*)
+4. https://sites.google.com/view/prime-factorization-of-integer
+5. https://oeis.org/A027750/a027750.txt (all (prime or composite or unit) factors of *N*)
+6. http://factorzone.tripod.com/factors.htm (all (prime or composite or unit) factors of *N*)
+7. http://functions.wolfram.com/NumberTheoryFunctions/Divisors/03/02 (all (prime or composite or unit) factors of *N*)
+8. https://en.wikipedia.org/wiki/Table_of_prime_factors
+9. https://en.wikipedia.org/wiki/Table_of_divisors (all (prime or composite or unit) factors of *N*)
 
 Lists of small integers in various bases:
 
