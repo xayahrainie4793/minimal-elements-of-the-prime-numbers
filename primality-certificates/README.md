@@ -38,7 +38,7 @@ The Cunningham numbers *b*<sup>*n*</sup>±1 has algebraic factorization to produ
 
 (in the tables below, *Φ* is the cyclotomic polynomial (https://en.wikipedia.org/wiki/Cyclotomic_polynomial, https://mathworld.wolfram.com/CyclotomicPolynomial.html, http://www.numericana.com/answer/polynomial.htm#cyclotomic))
 
-For the number 13<sup>308</sup>−1, it is the product of *Φ*<sub>*d*</sub>(*b*) with positive integers *d* dividing 308 (i.e. *d* = 1, 2, 4, 7, 11, 14, 22, 28, 44, 77, 154, 308), and the factorization of *Φ*<sub>*d*</sub>(*b*) for these positive integers *d* are:
+For the number 13<sup>308</sup>−1, it is the product of *Φ*<sub>*d*</sub>(13) with positive integers *d* dividing 308 (i.e. *d* = 1, 2, 4, 7, 11, 14, 22, 28, 44, 77, 154, 308), and the factorization of *Φ*<sub>*d*</sub>(13) for these positive integers *d* are:
 
 |from|factorization|
 |---|---|
@@ -55,7 +55,7 @@ For the number 13<sup>308</sup>−1, it is the product of *Φ*<sub>*d*</sub>(*b*
 |*Φ*<sub>154</sub>(13)|78947177 × (59-digit prime)|
 |*Φ*<sub>308</sub>(13)|7393 × 1702933 × 150324329 × 718377597171850001 × 4209006442599882158485591696242263069 × (61-digit prime)|
 
-For the number 13<sup>564</sup>−1, it is the product of *Φ*<sub>*d*</sub>(*b*) with positive integers *d* dividing 564 (i.e. *d* = 1, 2, 3, 4, 6, 12, 47, 94, 141, 188, 282, 564), and the factorization of *Φ*<sub>*d*</sub>(*b*) for these positive integers *d* are:
+For the number 13<sup>564</sup>−1, it is the product of *Φ*<sub>*d*</sub>(13) with positive integers *d* dividing 564 (i.e. *d* = 1, 2, 3, 4, 6, 12, 47, 94, 141, 188, 282, 564), and the factorization of *Φ*<sub>*d*</sub>(13) for these positive integers *d* are:
 
 |from|factorization|
 |---|---|
@@ -72,7 +72,7 @@ For the number 13<sup>564</sup>−1, it is the product of *Φ*<sub>*d*</sub>(*b*
 |*Φ*<sub>282</sub>(13)|590202369266263393 × (85-digit prime)|
 |*Φ*<sub>564</sub>(13)|233628485003849577181 × 94531330515097101267386264339794253977 (*ECM*, *B1* = 3000000, *Sigma* = 2146847123) × 27969827431131578608318126024627616357147784803797 (*GNFS*) × (98-digit prime)|
 
-For the number 13<sup>576</sup>−1, it is the product of *Φ*<sub>*d*</sub>(*b*) with positive integers *d* dividing 576 (i.e. *d* = 1, 2, 3, 4, 6, 8, 9, 12, 16, 18, 24, 32, 36, 48, 64, 72, 96, 144, 192, 288, 576), and the factorization of *Φ*<sub>*d*</sub>(*b*) for these positive integers *d* are:
+For the number 13<sup>576</sup>−1, it is the product of *Φ*<sub>*d*</sub>(13) with positive integers *d* dividing 576 (i.e. *d* = 1, 2, 3, 4, 6, 8, 9, 12, 16, 18, 24, 32, 36, 48, 64, 72, 96, 144, 192, 288, 576), and the factorization of *Φ*<sub>*d*</sub>(13) for these positive integers *d* are:
 
 |from|factorization|
 |---|---|
