@@ -1030,7 +1030,8 @@ Links for top (probable) primes: (also pages for the largest known prime: https:
 * https://primes.utm.edu/primes/lists/short.txt (definitely primes with ≥ 800000 decimal digits)
 * https://primes.utm.edu/primes/lists/short.pdf (definitely primes with ≥ 800000 decimal digits, pdf version)
 * https://primes.utm.edu/primes/lists/short_pdf.zip (definitely primes with ≥ 800000 decimal digits, pdf version, zipped file)
-* https://primes.utm.edu/primes/search.php?OnList=all&Number=1000000&Style=HTML (all numbers in the list of top definitely primes)
+* https://primes.utm.edu/primes/search.php?OnList=all&Number=1000000&Style=HTML (all numbers in the list of top definitely primes, html version)
+* https://primes.utm.edu/primes/search.php?OnList=all&Number=1000000 (all numbers in the list of top definitely primes, text version)
 * https://primes.utm.edu/primes/download.php (index page of top definitely primes)
 * https://primes.utm.edu/primes/status.php?hours=72 (recently 3 days found top definitely primes)
 * https://primes.utm.edu/primes/status.php?hours=1000 (recently found top definitely primes)
@@ -1251,6 +1252,7 @@ Base converters:
 14. https://web.archive.org/web/20190629223750/http://thedevtoolkit.com/tools/base_conversion
 15. http://www.kwuntung.net/hkunit/base/base.php (in Chinese)
 16. https://linesegment.web.fc2.com/application/math/numbers/RadixConversion.html (in Japanese)
+17. http://factordb.com/index.php?showid=1000000000000000127 (you can change the "showid" to the *ID* for your number)
 
 Expression generators:
 
@@ -1303,6 +1305,7 @@ Lists of factorizations of small integers:
 8. http://functions.wolfram.com/NumberTheoryFunctions/Divisors/03/02 (all (prime or composite or unit) factors of *N*)
 9. https://en.wikipedia.org/wiki/Table_of_prime_factors
 10. https://en.wikipedia.org/wiki/Table_of_divisors (all (prime or composite or unit) factors of *N*)
+11. http://factordb.com/index.php?query=n&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show (from *factordb*)
 
 Lists of small integers in various bases:
 
