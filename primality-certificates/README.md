@@ -126,6 +126,16 @@ For the number 26<sup>354</sup>−1, it is the product of *Φ*<sub>*d*</sub>(26)
 |*Φ*<sub>177</sub>(26)|47791 × 1311074895191091284466533625050044762267011115706300424823729 × (100-digit prime)|
 |*Φ*<sub>354</sub>(26)|709 × 16441898216641 × (149-digit prime)|
 
+Factorization of *N*−1 for the 3168th minimal prime in base 13 (9<sub>308</sub>1) in *factordb*: http://factordb.com/index.php?id=1100000000840126706
+
+Factorization of *N*−1 for the 3179th minimal prime in base 13 (B<sub>563</sub>C) in *factordb*: http://factordb.com/index.php?id=1100000000271764311
+
+Factorization of *N*−1 for the 3180th minimal prime in base 13 (1B<sub>576</sub>) in *factordb*: http://factordb.com/index.php?id=1100000002321021531
+
+Factorization of *N*+1 for the 25199th minimal prime in base 26 (9K<sub>343</sub>AP) in *factordb*: http://factordb.com/index.php?id=1100000000840632232
+
+Factorization of *N*−1 for the 25200th minimal prime in base 26 (8<sub>354</sub>1) in *factordb*: http://factordb.com/index.php?id=1100000000840632623
+
 Although these numbers also have *N*−1 or *N*+1 is product of a Cunningham number and a small number, but since the corresponding Cunningham numbers are < 25% factored, these numbers still need primality certificates:
 
 * the 151st minimal prime in base 9, 30<sub>1158</sub>11, *N*−1 is 9×*S*<sub>2319</sub>(3), thus factor *N*−1 is equivalent to factor 3<sup>2319</sup>+1, *N*−1 is only 12.693% factored, and for the factorization of 3<sup>2319</sup>+1, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSingleEntry?Base=3&Exp=2319&c0=%2B&EN=
