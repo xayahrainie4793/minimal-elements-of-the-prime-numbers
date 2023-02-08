@@ -133,13 +133,13 @@ Although these numbers also have *N*−1 or *N*+1 is product of a Cunningham num
 * the 2342nd minimal prime in base 16, 90<sub>3542</sub>91, *N*−1 is 144×*S*<sub>3543</sub>(16), thus factor *N*−1 is equivalent to factor 16<sup>3543</sup>+1, *N*−1 is only 1.255% factored, and for the factorization of 16<sup>3543</sup>+1, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSingleEntry?Base=16&Exp=3543&c0=%2B&EN=
 * the 25240th minimal prime in base 26, 5<sub>1885</sub>4P, *N*+1 is 130×*R*<sub>1886</sub>(26), thus factor *N*+1 is equivalent to factor 26<sup>1886</sup>−1, *N*+1 is only 7.262% factored, and for the factorization of 26<sup>1886</sup>−1, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSingleEntry?Base=26&Exp=1886&c0=-&EN=
 
-status of *N*−1 for the 151st minimal prime in base 9 (30<sub>1158</sub>11) in *factordb*: http://factordb.com/index.php?id=1100000002376318436
+Factorization status of *N*−1 for the 151st minimal prime in base 9 (30<sub>1158</sub>11) in *factordb*: http://factordb.com/index.php?id=1100000002376318436
 
-status of *N*−1 for the 3187th minimal prime in base 13 (7<sub>1504</sub>1) in *factordb*: http://factordb.com/index.php?id=1100000002320890782
+Factorization status of *N*−1 for the 3187th minimal prime in base 13 (7<sub>1504</sub>1) in *factordb*: http://factordb.com/index.php?id=1100000002320890782
 
-status of *N*−1 for the 2342nd minimal prime in base 16 (90<sub>3542</sub>91) in *factordb*: http://factordb.com/index.php?id=1100000000633424203
+Factorization status of *N*−1 for the 2342nd minimal prime in base 16 (90<sub>3542</sub>91) in *factordb*: http://factordb.com/index.php?id=1100000000633424203
 
-status of *N*+1 for the 25240th minimal prime in base 26 (5<sub>1885</sub>4P) in *factordb*: http://factordb.com/index.php?id=1100000003850159350
+Factorization status of *N*+1 for the 25240th minimal prime in base 26 (5<sub>1885</sub>4P) in *factordb*: http://factordb.com/index.php?id=1100000003850159350
 
 (in the tables below, *Φ* is the cyclotomic polynomial (https://en.wikipedia.org/wiki/Cyclotomic_polynomial, https://mathworld.wolfram.com/CyclotomicPolynomial.html, http://www.numericana.com/answer/polynomial.htm#cyclotomic))
 
