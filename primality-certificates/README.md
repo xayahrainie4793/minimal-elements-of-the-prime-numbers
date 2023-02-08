@@ -42,7 +42,7 @@ The Cunningham numbers *b*<sup>*n*</sup>±1 has algebraic factorization to produ
 
 For the number 13<sup>308</sup>−1, it is the product of *Φ*<sub>*d*</sub>(13) with positive integers *d* dividing 308 (i.e. *d* = 1, 2, 4, 7, 11, 14, 22, 28, 44, 77, 154, 308), and the factorization of *Φ*<sub>*d*</sub>(13) for these positive integers *d* are:
 
-|from|factorization|
+|from|prime factorization|
 |---|---|
 |*Φ*<sub>1</sub>(13)|2<sup>2</sup> × 3|
 |*Φ*<sub>2</sub>(13)|2 × 7|
@@ -59,7 +59,7 @@ For the number 13<sup>308</sup>−1, it is the product of *Φ*<sub>*d*</sub>(13)
 
 For the number 13<sup>564</sup>−1, it is the product of *Φ*<sub>*d*</sub>(13) with positive integers *d* dividing 564 (i.e. *d* = 1, 2, 3, 4, 6, 12, 47, 94, 141, 188, 282, 564), and the factorization of *Φ*<sub>*d*</sub>(13) for these positive integers *d* are:
 
-|from|factorization|
+|from|prime factorization|
 |---|---|
 |*Φ*<sub>1</sub>(13)|2<sup>2</sup> × 3|
 |*Φ*<sub>2</sub>(13)|2 × 7|
@@ -76,7 +76,7 @@ For the number 13<sup>564</sup>−1, it is the product of *Φ*<sub>*d*</sub>(13)
 
 For the number 13<sup>576</sup>−1, it is the product of *Φ*<sub>*d*</sub>(13) with positive integers *d* dividing 576 (i.e. *d* = 1, 2, 3, 4, 6, 8, 9, 12, 16, 18, 24, 32, 36, 48, 64, 72, 96, 144, 192, 288, 576), and the factorization of *Φ*<sub>*d*</sub>(13) for these positive integers *d* are:
 
-|from|factorization|
+|from|prime factorization|
 |---|---|
 |*Φ*<sub>1</sub>(13)|2<sup>2</sup> × 3|
 |*Φ*<sub>2</sub>(13)|2 × 7|
@@ -102,7 +102,7 @@ For the number 13<sup>576</sup>−1, it is the product of *Φ*<sub>*d*</sub>(13)
 
 For the number 26<sup>344</sup>−1, it is the product of *Φ*<sub>*d*</sub>(26) with positive integers *d* dividing 344 (i.e. *d* = 1, 2, 4, 8, 43, 86, 172, 344), and the factorization of *Φ*<sub>*d*</sub>(26) for these positive integers *d* are:
 
-|from|factorization|
+|from|prime factorization|
 |---|---|
 |*Φ*<sub>1</sub>(26)|5<sup>2</sup>|
 |*Φ*<sub>2</sub>(26)|3<sup>3</sup>|
@@ -115,7 +115,7 @@ For the number 26<sup>344</sup>−1, it is the product of *Φ*<sub>*d*</sub>(26)
 
 For the number 26<sup>354</sup>−1, it is the product of *Φ*<sub>*d*</sub>(26) with positive integers *d* dividing 354 (i.e. *d* = 1, 2, 3, 6, 59, 118, 177, 354), and the factorization of *Φ*<sub>*d*</sub>(26) for these positive integers *d* are:
 
-|from|factorization|
+|from|prime factorization|
 |---|---|
 |*Φ*<sub>1</sub>(26)|5<sup>2</sup>|
 |*Φ*<sub>2</sub>(26)|3<sup>3</sup>|
@@ -147,7 +147,7 @@ status of *N*+1 for the 25240th minimal prime in base 26 (5<sub>1885</sub>4P) in
 
 For the number 3<sup>2319</sup>+1, it is the product of *Φ*<sub>*d*</sub>(3) with positive integers *d* dividing 4638 but not dividing 2319 (i.e. *d* = 2, 6, 1546, 4638), and the factorization of *Φ*<sub>*d*</sub>(3) for these positive integers *d* are: (since 6 and 4638 are == 6 mod 12, thus for these two positive integers *d*, *Φ*<sub>*d*</sub>(3) has Aurifeuillian factorization (https://en.wikipedia.org/wiki/Aurifeuillean_factorization, https://www.rieselprime.de/ziki/Aurifeuillian_factor, https://mathworld.wolfram.com/AurifeuilleanFactorization.html, http://www.numericana.com/answer/numbers.htm#aurifeuille, http://pagesperso-orange.fr/colin.barker/lpa/cycl_fac.htm, http://list.seqfan.eu/oldermail/seqfan/2017-March/017363.html, http://myfactorcollection.mooo.com:8090/source/cyclo.cpp, http://myfactorcollection.mooo.com:8090/LCD_2_199, http://myfactorcollection.mooo.com:8090/LCD_2_998, https://stdkmd.net/nrr/repunit/repunitnote.htm#aurifeuillean, https://www.unshlump.com/hcn/aurif.html), and *Φ*<sub>*dL*</sub>(3) and *Φ*<sub>*dM*</sub>(3) are their Aurifeuillian *L* and *M* factors, respectively)
 
-|from|factorization|
+|from|currently known prime factorization|
 |---|---|
 |*Φ*<sub>2</sub>(3)|2<sup>2</sup>|
 |*Φ*<sub>6*L*</sub>(3)|1|
@@ -158,7 +158,7 @@ For the number 3<sup>2319</sup>+1, it is the product of *Φ*<sub>*d*</sub>(3) wi
 
 For the number 13<sup>1504</sup>−1, it is the product of *Φ*<sub>*d*</sub>(13) with positive integers *d* dividing 1504 (i.e. *d* = 1, 2, 4, 8, 16, 32, 47, 94, 188, 376, 752, 1504), and the factorization of *Φ*<sub>*d*</sub>(13) for these positive integers *d* are:
 
-|from|factorization|
+|from|currently known prime factorization|
 |---|---|
 |*Φ*<sub>1</sub>(13)|2<sup>2</sup> × 3|
 |*Φ*<sub>2</sub>(13)|2 × 7|
@@ -175,7 +175,7 @@ For the number 13<sup>1504</sup>−1, it is the product of *Φ*<sub>*d*</sub>(13
 
 For the number 16<sup>3543</sup>+1 = 2<sup>14172</sup>+1, it is the product of *Φ*<sub>*d*</sub>(2) with positive integers *d* dividing 28344 but not dividing 14172 (i.e. *d* = 8, 24, 9448, 28344), and the factorization of *Φ*<sub>*d*</sub>(2) for these positive integers *d* are:
 
-|from|factorization|
+|from|currently known prime factorization|
 |---|---|
 |*Φ*<sub>8</sub>(2)|17|
 |*Φ*<sub>24</sub>(2)|241|
@@ -184,7 +184,7 @@ For the number 16<sup>3543</sup>+1 = 2<sup>14172</sup>+1, it is the product of *
 
 For the number 26<sup>1886</sup>−1, it is the product of *Φ*<sub>*d*</sub>(26) with positive integers *d* dividing 1886 (i.e. *d* = 1, 2, 23, 41, 46, 82, 943, 1886), and the factorization of *Φ*<sub>*d*</sub>(13) for these positive integers *d* are:
 
-|from|factorization|
+|from|currently known prime factorization|
 |---|---|
 |*Φ*<sub>1</sub>(26)|5<sup>2</sup>|
 |*Φ*<sub>2</sub>(26)|3<sup>3</sup>|
