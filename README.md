@@ -1131,6 +1131,7 @@ Definitely primes (i.e. *c* = ±1 and *d* = 1):
 * *a*×34<sup>*n*</sup>−1: https://primes.utm.edu/primes/search.php?Description=[[:digit:]]%7B1,%7D*34%5E[[:digit:]]%7B1,%7D-1&OnList=all&Number=1000000&Style=HTML
 * *a*×35<sup>*n*</sup>+1: https://primes.utm.edu/primes/search.php?Description=[[:digit:]]%7B1,%7D*35%5E[[:digit:]]%7B1,%7D%2B1&OnList=all&Number=1000000&Style=HTML
 * *a*×35<sup>*n*</sup>−1: https://primes.utm.edu/primes/search.php?Description=[[:digit:]]%7B1,%7D*35%5E[[:digit:]]%7B1,%7D-1&OnList=all&Number=1000000&Style=HTML
+* *a*×2<sup>*n*</sup>±1: https://primes.utm.edu/primes/search_proth.php?base=2&min_k=&max_k=&min_n=&max_n=&plus=on&minus=on&number=1000000&search=Start+Search
 
 Probable primes (i.e. *c* ≠ ±1 and/or *d* ≠ 1):
 
