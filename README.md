@@ -1076,15 +1076,14 @@ Definitely primes (i.e. *c* = ±1 and *d* = 1):
 * *b*<sup>*n*</sup>−1: https://primes.utm.edu/primes/search.php?Description=%5E[[:digit:]]%7B1,%7D%5E[[:digit:]]%7B1,%7D-1&OnList=all&Number=1000000&Style=HTML
 * *a*×*b*<sup>*n*</sup>+1: https://primes.utm.edu/primes/search.php?Description=[[:digit:]]%7B1,%7D*[[:digit:]]%7B1,%7D%5E[[:digit:]]%7B1,%7D%2B1&OnList=all&Number=1000000&Style=HTML
 * *a*×*b*<sup>*n*</sup>−1: https://primes.utm.edu/primes/search.php?Description=[[:digit:]]%7B1,%7D*[[:digit:]]%7B1,%7D%5E[[:digit:]]%7B1,%7D-1&OnList=all&Number=1000000&Style=HTML
-
-* *a*×2<sup>*n*</sup>+1: https://primes.utm.edu/primes/search.php?Description=[[:digit:]]%7B1,%7D*2%5E[[:digit:]]%7B1,%7D%2B1&OnList=all&Number=1000000&Style=HTML
-* *a*×2<sup>*n*</sup>−1: https://primes.utm.edu/primes/search.php?Description=[[:digit:]]%7B1,%7D*2%5E[[:digit:]]%7B1,%7D-1&OnList=all&Number=1000000&Style=HTML
-* *a*×3<sup>*n*</sup>+1: https://primes.utm.edu/primes/search.php?Description=[[:digit:]]%7B1,%7D*3%5E[[:digit:]]%7B1,%7D%2B1&OnList=all&Number=1000000&Style=HTML
-* *a*×3<sup>*n*</sup>−1: https://primes.utm.edu/primes/search.php?Description=[[:digit:]]%7B1,%7D*3%5E[[:digit:]]%7B1,%7D-1&OnList=all&Number=1000000&Style=HTML
-* *a*×5<sup>*n*</sup>+1: https://primes.utm.edu/primes/search.php?Description=[[:digit:]]%7B1,%7D*5%5E[[:digit:]]%7B1,%7D%2B1&OnList=all&Number=1000000&Style=HTML
-* *a*×5<sup>*n*</sup>−1: https://primes.utm.edu/primes/search.php?Description=[[:digit:]]%7B1,%7D*5%5E[[:digit:]]%7B1,%7D-1&OnList=all&Number=1000000&Style=HTML
-* *a*×6<sup>*n*</sup>+1: https://primes.utm.edu/primes/search.php?Description=[[:digit:]]%7B1,%7D*6%5E[[:digit:]]%7B1,%7D%2B1&OnList=all&Number=1000000&Style=HTML
-* *a*×6<sup>*n*</sup>−1: https://primes.utm.edu/primes/search.php?Description=[[:digit:]]%7B1,%7D*6%5E[[:digit:]]%7B1,%7D-1&OnList=all&Number=1000000&Style=HTML
+* *a*×2<sup>*n*</sup>+1 (which includes *a*×4<sup>*n*</sup>+1, *a*×8<sup>*n*</sup>+1, *a*×16<sup>*n*</sup>+1, *a*×32<sup>*n*</sup>+1): https://primes.utm.edu/primes/search.php?Description=[[:digit:]]%7B1,%7D*2%5E[[:digit:]]%7B1,%7D%2B1&OnList=all&Number=1000000&Style=HTML
+* *a*×2<sup>*n*</sup>−1 (which includes *a*×4<sup>*n*</sup>−1, *a*×8<sup>*n*</sup>−1, *a*×16<sup>*n*</sup>−1, *a*×32<sup>*n*</sup>−1): https://primes.utm.edu/primes/search.php?Description=[[:digit:]]%7B1,%7D*2%5E[[:digit:]]%7B1,%7D-1&OnList=all&Number=1000000&Style=HTML
+* *a*×3<sup>*n*</sup>+1 (which includes *a*×9<sup>*n*</sup>+1, *a*×27<sup>*n*</sup>+1): https://primes.utm.edu/primes/search.php?Description=[[:digit:]]%7B1,%7D*3%5E[[:digit:]]%7B1,%7D%2B1&OnList=all&Number=1000000&Style=HTML
+* *a*×3<sup>*n*</sup>−1 (which includes *a*×9<sup>*n*</sup>−1, *a*×27<sup>*n*</sup>−1): https://primes.utm.edu/primes/search.php?Description=[[:digit:]]%7B1,%7D*3%5E[[:digit:]]%7B1,%7D-1&OnList=all&Number=1000000&Style=HTML
+* *a*×5<sup>*n*</sup>+1 (which includes *a*×25<sup>*n*</sup>+1): https://primes.utm.edu/primes/search.php?Description=[[:digit:]]%7B1,%7D*5%5E[[:digit:]]%7B1,%7D%2B1&OnList=all&Number=1000000&Style=HTML
+* *a*×5<sup>*n*</sup>−1 (which includes *a*×25<sup>*n*</sup>−1): https://primes.utm.edu/primes/search.php?Description=[[:digit:]]%7B1,%7D*5%5E[[:digit:]]%7B1,%7D-1&OnList=all&Number=1000000&Style=HTML
+* *a*×6<sup>*n*</sup>+1 (which includes *a*×36<sup>*n*</sup>+1): https://primes.utm.edu/primes/search.php?Description=[[:digit:]]%7B1,%7D*6%5E[[:digit:]]%7B1,%7D%2B1&OnList=all&Number=1000000&Style=HTML
+* *a*×6<sup>*n*</sup>−1 (which includes *a*×36<sup>*n*</sup>−1): https://primes.utm.edu/primes/search.php?Description=[[:digit:]]%7B1,%7D*6%5E[[:digit:]]%7B1,%7D-1&OnList=all&Number=1000000&Style=HTML
 * *a*×7<sup>*n*</sup>+1: https://primes.utm.edu/primes/search.php?Description=[[:digit:]]%7B1,%7D*7%5E[[:digit:]]%7B1,%7D%2B1&OnList=all&Number=1000000&Style=HTML
 * *a*×7<sup>*n*</sup>−1: https://primes.utm.edu/primes/search.php?Description=[[:digit:]]%7B1,%7D*7%5E[[:digit:]]%7B1,%7D-1&OnList=all&Number=1000000&Style=HTML
 * *a*×10<sup>*n*</sup>+1: https://primes.utm.edu/primes/search.php?Description=[[:digit:]]%7B1,%7D*10%5E[[:digit:]]%7B1,%7D%2B1&OnList=all&Number=1000000&Style=HTML
@@ -1131,10 +1130,10 @@ Definitely primes (i.e. *c* = ±1 and *d* = 1):
 * *a*×34<sup>*n*</sup>−1: https://primes.utm.edu/primes/search.php?Description=[[:digit:]]%7B1,%7D*34%5E[[:digit:]]%7B1,%7D-1&OnList=all&Number=1000000&Style=HTML
 * *a*×35<sup>*n*</sup>+1: https://primes.utm.edu/primes/search.php?Description=[[:digit:]]%7B1,%7D*35%5E[[:digit:]]%7B1,%7D%2B1&OnList=all&Number=1000000&Style=HTML
 * *a*×35<sup>*n*</sup>−1: https://primes.utm.edu/primes/search.php?Description=[[:digit:]]%7B1,%7D*35%5E[[:digit:]]%7B1,%7D-1&OnList=all&Number=1000000&Style=HTML
-* *a*×2<sup>*n*</sup>±1: https://primes.utm.edu/primes/search_proth.php?base=2&min_k=&max_k=&min_n=&max_n=&plus=on&minus=on&number=1000000&search=Start+Search
-* *a*×3<sup>*n*</sup>±1: https://primes.utm.edu/primes/search_proth.php?base=3&min_k=&max_k=&min_n=&max_n=&plus=on&minus=on&number=1000000&search=Start+Search
-* *a*×5<sup>*n*</sup>±1: https://primes.utm.edu/primes/search_proth.php?base=5&min_k=&max_k=&min_n=&max_n=&plus=on&minus=on&number=1000000&search=Start+Search
-* *a*×6<sup>*n*</sup>±1: https://primes.utm.edu/primes/search_proth.php?base=6&min_k=&max_k=&min_n=&max_n=&plus=on&minus=on&number=1000000&search=Start+Search
+* *a*×2<sup>*n*</sup>±1 (which includes *a*×4<sup>*n*</sup>±1, *a*×8<sup>*n*</sup>±1, *a*×16<sup>*n*</sup>±1, *a*×32<sup>*n*</sup>±1): https://primes.utm.edu/primes/search_proth.php?base=2&min_k=&max_k=&min_n=&max_n=&plus=on&minus=on&number=1000000&search=Start+Search
+* *a*×3<sup>*n*</sup>±1 (which includes *a*×9<sup>*n*</sup>±1, *a*×27<sup>*n*</sup>±1): https://primes.utm.edu/primes/search_proth.php?base=3&min_k=&max_k=&min_n=&max_n=&plus=on&minus=on&number=1000000&search=Start+Search
+* *a*×5<sup>*n*</sup>±1 (which includes *a*×25<sup>*n*</sup>±1): https://primes.utm.edu/primes/search_proth.php?base=5&min_k=&max_k=&min_n=&max_n=&plus=on&minus=on&number=1000000&search=Start+Search
+* *a*×6<sup>*n*</sup>±1 (which includes *a*×36<sup>*n*</sup>±1): https://primes.utm.edu/primes/search_proth.php?base=6&min_k=&max_k=&min_n=&max_n=&plus=on&minus=on&number=1000000&search=Start+Search
 * *a*×7<sup>*n*</sup>±1: https://primes.utm.edu/primes/search_proth.php?base=7&min_k=&max_k=&min_n=&max_n=&plus=on&minus=on&number=1000000&search=Start+Search
 * *a*×10<sup>*n*</sup>±1: https://primes.utm.edu/primes/search_proth.php?base=10&min_k=&max_k=&min_n=&max_n=&plus=on&minus=on&number=1000000&search=Start+Search
 * *a*×11<sup>*n*</sup>±1: https://primes.utm.edu/primes/search_proth.php?base=11&min_k=&max_k=&min_n=&max_n=&plus=on&minus=on&number=1000000&search=Start+Search
