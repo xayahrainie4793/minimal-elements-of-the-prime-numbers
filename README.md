@@ -1088,6 +1088,33 @@ Probable primes (i.e. *c* ≠ ±1 and/or *d* ≠ 1):
 * (*a*×*b*<sup>*n*</sup>+*c*)/*d*: http://www.primenumbers.net/prptop/searchform.php?form=%28a*b%5En%2Bc%29%2Fd&action=Search
 * (*a*×*b*<sup>*n*</sup>−*c*)/*d*: http://www.primenumbers.net/prptop/searchform.php?form=%28a*b%5En-c%29%2Fd&action=Search
 
+* 2<sup>*n*</sup>+*c*: http://www.primenumbers.net/prptop/searchform.php?form=2%5En%2Bc&action=Search
+* 2<sup>*n*</sup>−*c*: http://www.primenumbers.net/prptop/searchform.php?form=2%5En-c&action=Search
+* *a*×2<sup>*n*</sup>+*c*: http://www.primenumbers.net/prptop/searchform.php?form=a*2%5En%2Bc&action=Search
+* *a*×2<sup>*n*</sup>−*c*: http://www.primenumbers.net/prptop/searchform.php?form=a*2%5En-c&action=Search
+* (2<sup>*n*</sup>+*c*)/*d*: http://www.primenumbers.net/prptop/searchform.php?form=%282%5En%2Bc%29%2Fd&action=Search
+* (2<sup>*n*</sup>−*c*)/*d*: http://www.primenumbers.net/prptop/searchform.php?form=%282%5En-c%29%2Fd&action=Search
+* (*a*×2<sup>*n*</sup>+*c*)/*d*: http://www.primenumbers.net/prptop/searchform.php?form=%28a*2%5En%2Bc%29%2Fd&action=Search
+* (*a*×2<sup>*n*</sup>−*c*)/*d*: http://www.primenumbers.net/prptop/searchform.php?form=%28a*2%5En-c%29%2Fd&action=Search
+
+* 3<sup>*n*</sup>+*c*: http://www.primenumbers.net/prptop/searchform.php?form=3%5En%2Bc&action=Search
+* 3<sup>*n*</sup>−*c*: http://www.primenumbers.net/prptop/searchform.php?form=3%5En-c&action=Search
+* *a*×3<sup>*n*</sup>+*c*: http://www.primenumbers.net/prptop/searchform.php?form=a*3%5En%2Bc&action=Search
+* *a*×3<sup>*n*</sup>−*c*: http://www.primenumbers.net/prptop/searchform.php?form=a*3%5En-c&action=Search
+* (3<sup>*n*</sup>+*c*)/*d*: http://www.primenumbers.net/prptop/searchform.php?form=%283%5En%2Bc%29%2Fd&action=Search
+* (3<sup>*n*</sup>−*c*)/*d*: http://www.primenumbers.net/prptop/searchform.php?form=%283%5En-c%29%2Fd&action=Search
+* (*a*×3<sup>*n*</sup>+*c*)/*d*: http://www.primenumbers.net/prptop/searchform.php?form=%28a*3%5En%2Bc%29%2Fd&action=Search
+* (*a*×3<sup>*n*</sup>−*c*)/*d*: http://www.primenumbers.net/prptop/searchform.php?form=%28a*3%5En-c%29%2Fd&action=Search
+
+* 10<sup>*n*</sup>+*c*: http://www.primenumbers.net/prptop/searchform.php?form=10%5En%2Bc&action=Search
+* 10<sup>*n*</sup>−*c*: http://www.primenumbers.net/prptop/searchform.php?form=10%5En-c&action=Search
+* *a*×10<sup>*n*</sup>+*c*: http://www.primenumbers.net/prptop/searchform.php?form=a*10%5En%2Bc&action=Search
+* *a*×10<sup>*n*</sup>−*c*: http://www.primenumbers.net/prptop/searchform.php?form=a*10%5En-c&action=Search
+* (10<sup>*n*</sup>+*c*)/*d*: http://www.primenumbers.net/prptop/searchform.php?form=%2810%5En%2Bc%29%2Fd&action=Search
+* (10<sup>*n*</sup>−*c*)/*d*: http://www.primenumbers.net/prptop/searchform.php?form=%2810%5En-c%29%2Fd&action=Search
+* (*a*×10<sup>*n*</sup>+*c*)/*d*: http://www.primenumbers.net/prptop/searchform.php?form=%28a*10%5En%2Bc%29%2Fd&action=Search
+* (*a*×10<sup>*n*</sup>−*c*)/*d*: http://www.primenumbers.net/prptop/searchform.php?form=%28a*10%5En-c%29%2Fd&action=Search
+
 References of minimal primes (https://en.wikipedia.org/wiki/Minimal_prime_(recreational_mathematics), https://primes.utm.edu/glossary/xpage/MinimalPrime.html) (the original definition, i.e. prime > base (*b*) is not required):
 
 1. http://www.cs.uwaterloo.ca/~shallit/Papers/minimal5.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_11.pdf) (base 10)
