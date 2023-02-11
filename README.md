@@ -1151,7 +1151,6 @@ Probable primes (i.e. *c* ≠ ±1 and/or *d* ≠ 1):
 * (2<sup>*n*</sup>−*c*)/*d*: http://www.primenumbers.net/prptop/searchform.php?form=%282%5En-c%29%2Fd&action=Search
 * (*a*×2<sup>*n*</sup>+*c*)/*d*: http://www.primenumbers.net/prptop/searchform.php?form=%28a*2%5En%2Bc%29%2Fd&action=Search
 * (*a*×2<sup>*n*</sup>−*c*)/*d*: http://www.primenumbers.net/prptop/searchform.php?form=%28a*2%5En-c%29%2Fd&action=Search
-
 * 3<sup>*n*</sup>+*c*: http://www.primenumbers.net/prptop/searchform.php?form=3%5En%2Bc&action=Search
 * 3<sup>*n*</sup>−*c*: http://www.primenumbers.net/prptop/searchform.php?form=3%5En-c&action=Search
 * *a*×3<sup>*n*</sup>+*c*: http://www.primenumbers.net/prptop/searchform.php?form=a*3%5En%2Bc&action=Search
@@ -1160,7 +1159,6 @@ Probable primes (i.e. *c* ≠ ±1 and/or *d* ≠ 1):
 * (3<sup>*n*</sup>−*c*)/*d*: http://www.primenumbers.net/prptop/searchform.php?form=%283%5En-c%29%2Fd&action=Search
 * (*a*×3<sup>*n*</sup>+*c*)/*d*: http://www.primenumbers.net/prptop/searchform.php?form=%28a*3%5En%2Bc%29%2Fd&action=Search
 * (*a*×3<sup>*n*</sup>−*c*)/*d*: http://www.primenumbers.net/prptop/searchform.php?form=%28a*3%5En-c%29%2Fd&action=Search
-
 * 10<sup>*n*</sup>+*c*: http://www.primenumbers.net/prptop/searchform.php?form=10%5En%2Bc&action=Search
 * 10<sup>*n*</sup>−*c*: http://www.primenumbers.net/prptop/searchform.php?form=10%5En-c&action=Search
 * *a*×10<sup>*n*</sup>+*c*: http://www.primenumbers.net/prptop/searchform.php?form=a*10%5En%2Bc&action=Search
