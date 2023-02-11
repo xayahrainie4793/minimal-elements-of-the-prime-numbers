@@ -1131,7 +1131,33 @@ Definitely primes (i.e. *c* = ±1 and *d* = 1):
 * *a*×34<sup>*n*</sup>−1: https://primes.utm.edu/primes/search.php?Description=[[:digit:]]%7B1,%7D*34%5E[[:digit:]]%7B1,%7D-1&OnList=all&Number=1000000&Style=HTML
 * *a*×35<sup>*n*</sup>+1: https://primes.utm.edu/primes/search.php?Description=[[:digit:]]%7B1,%7D*35%5E[[:digit:]]%7B1,%7D%2B1&OnList=all&Number=1000000&Style=HTML
 * *a*×35<sup>*n*</sup>−1: https://primes.utm.edu/primes/search.php?Description=[[:digit:]]%7B1,%7D*35%5E[[:digit:]]%7B1,%7D-1&OnList=all&Number=1000000&Style=HTML
-* *a*×2<sup>*n*</sup>±1: https://primes.utm.edu/primes/search_proth.php?base=2&min_k=&max_k=&min_n=&max_n=&plus=on&minus=on&number=1000000&search=Start+Search
+* *a*×2<sup>*n*</sup>1: https://primes.utm.edu/primes/search_proth.php?base=2&min_k=&max_k=&min_n=&max_n=&plus=on&minus=on&number=1000000&search=Start+Search
+* *a*×3<sup>*n*</sup>1: https://primes.utm.edu/primes/search_proth.php?base=3&min_k=&max_k=&min_n=&max_n=&plus=on&minus=on&number=1000000&search=Start+Search
+* *a*×5<sup>*n*</sup>1: https://primes.utm.edu/primes/search_proth.php?base=5&min_k=&max_k=&min_n=&max_n=&plus=on&minus=on&number=1000000&search=Start+Search
+* *a*×6<sup>*n*</sup>1: https://primes.utm.edu/primes/search_proth.php?base=6&min_k=&max_k=&min_n=&max_n=&plus=on&minus=on&number=1000000&search=Start+Search
+* *a*×7<sup>*n*</sup>1: https://primes.utm.edu/primes/search_proth.php?base=7&min_k=&max_k=&min_n=&max_n=&plus=on&minus=on&number=1000000&search=Start+Search
+* *a*×10<sup>*n*</sup>1: https://primes.utm.edu/primes/search_proth.php?base=10&min_k=&max_k=&min_n=&max_n=&plus=on&minus=on&number=1000000&search=Start+Search
+* *a*×11<sup>*n*</sup>1: https://primes.utm.edu/primes/search_proth.php?base=11&min_k=&max_k=&min_n=&max_n=&plus=on&minus=on&number=1000000&search=Start+Search
+* *a*×12<sup>*n*</sup>1: https://primes.utm.edu/primes/search_proth.php?base=12&min_k=&max_k=&min_n=&max_n=&plus=on&minus=on&number=1000000&search=Start+Search
+* *a*×13<sup>*n*</sup>1: https://primes.utm.edu/primes/search_proth.php?base=13&min_k=&max_k=&min_n=&max_n=&plus=on&minus=on&number=1000000&search=Start+Search
+* *a*×14<sup>*n*</sup>1: https://primes.utm.edu/primes/search_proth.php?base=14&min_k=&max_k=&min_n=&max_n=&plus=on&minus=on&number=1000000&search=Start+Search
+* *a*×15<sup>*n*</sup>1: https://primes.utm.edu/primes/search_proth.php?base=15&min_k=&max_k=&min_n=&max_n=&plus=on&minus=on&number=1000000&search=Start+Search
+* *a*×17<sup>*n*</sup>1: https://primes.utm.edu/primes/search_proth.php?base=17&min_k=&max_k=&min_n=&max_n=&plus=on&minus=on&number=1000000&search=Start+Search
+* *a*×18<sup>*n*</sup>1: https://primes.utm.edu/primes/search_proth.php?base=18&min_k=&max_k=&min_n=&max_n=&plus=on&minus=on&number=1000000&search=Start+Search
+* *a*×19<sup>*n*</sup>1: https://primes.utm.edu/primes/search_proth.php?base=19&min_k=&max_k=&min_n=&max_n=&plus=on&minus=on&number=1000000&search=Start+Search
+* *a*×20<sup>*n*</sup>1: https://primes.utm.edu/primes/search_proth.php?base=20&min_k=&max_k=&min_n=&max_n=&plus=on&minus=on&number=1000000&search=Start+Search
+* *a*×21<sup>*n*</sup>1: https://primes.utm.edu/primes/search_proth.php?base=21&min_k=&max_k=&min_n=&max_n=&plus=on&minus=on&number=1000000&search=Start+Search
+* *a*×22<sup>*n*</sup>1: https://primes.utm.edu/primes/search_proth.php?base=22&min_k=&max_k=&min_n=&max_n=&plus=on&minus=on&number=1000000&search=Start+Search
+* *a*×23<sup>*n*</sup>1: https://primes.utm.edu/primes/search_proth.php?base=23&min_k=&max_k=&min_n=&max_n=&plus=on&minus=on&number=1000000&search=Start+Search
+* *a*×24<sup>*n*</sup>1: https://primes.utm.edu/primes/search_proth.php?base=24&min_k=&max_k=&min_n=&max_n=&plus=on&minus=on&number=1000000&search=Start+Search
+* *a*×26<sup>*n*</sup>1: https://primes.utm.edu/primes/search_proth.php?base=26&min_k=&max_k=&min_n=&max_n=&plus=on&minus=on&number=1000000&search=Start+Search
+* *a*×28<sup>*n*</sup>1: https://primes.utm.edu/primes/search_proth.php?base=28&min_k=&max_k=&min_n=&max_n=&plus=on&minus=on&number=1000000&search=Start+Search
+* *a*×29<sup>*n*</sup>1: https://primes.utm.edu/primes/search_proth.php?base=29&min_k=&max_k=&min_n=&max_n=&plus=on&minus=on&number=1000000&search=Start+Search
+* *a*×30<sup>*n*</sup>1: https://primes.utm.edu/primes/search_proth.php?base=30&min_k=&max_k=&min_n=&max_n=&plus=on&minus=on&number=1000000&search=Start+Search
+* *a*×31<sup>*n*</sup>1: https://primes.utm.edu/primes/search_proth.php?base=31&min_k=&max_k=&min_n=&max_n=&plus=on&minus=on&number=1000000&search=Start+Search
+* *a*×33<sup>*n*</sup>1: https://primes.utm.edu/primes/search_proth.php?base=33&min_k=&max_k=&min_n=&max_n=&plus=on&minus=on&number=1000000&search=Start+Search
+* *a*×34<sup>*n*</sup>1: https://primes.utm.edu/primes/search_proth.php?base=34&min_k=&max_k=&min_n=&max_n=&plus=on&minus=on&number=1000000&search=Start+Search
+* *a*×35<sup>*n*</sup>1: https://primes.utm.edu/primes/search_proth.php?base=35&min_k=&max_k=&min_n=&max_n=&plus=on&minus=on&number=1000000&search=Start+Search
 
 Probable primes (i.e. *c* ≠ ±1 and/or *d* ≠ 1):
 
