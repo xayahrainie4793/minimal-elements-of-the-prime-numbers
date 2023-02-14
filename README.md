@@ -1383,7 +1383,7 @@ Base converters:
 
 1. https://baseconvert.com/
 2. https://baseconvert.com/high-precision
-3. https://baseconvert.com/ieee-754-floating-point
+3. https://baseconvert.com/ieee-754-floating-point (for IEEE 754 (https://en.wikipedia.org/wiki/IEEE_754))
 4. https://www.calculand.com/unit-converter/zahlen.php?og=Base+2-36&ug=1
 5. https://www.calculand.com/unit-converter/zahlen.php?og=Base62&ug=1
 6. https://www.calculand.com/unit-converter/zahlen.php?og=Base64&ug=1
