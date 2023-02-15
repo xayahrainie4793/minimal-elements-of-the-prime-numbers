@@ -201,7 +201,7 @@ For the number 16<sup>3543</sup>+1 = 2<sup>14172</sup>+1, it is the product of *
 |*Φ*<sub>9448</sub>(2)|107083633 × 7076306353 × 2428629073416562046689 × (1382-digit composite with no known proper factor)|
 |*Φ*<sub>28344</sub>(2)|265073089 × (2834-digit composite with no known proper factor)|
 
-For the number 26<sup>1886</sup>−1, it is the product of *Φ*<sub>*d*</sub>(26) with positive integers *d* dividing 1886 (i.e. *d* = 1, 2, 23, 41, 46, 82, 943, 1886), and the factorization of *Φ*<sub>*d*</sub>(13) for these positive integers *d* are:
+For the number 26<sup>1886</sup>−1, it is the product of *Φ*<sub>*d*</sub>(26) with positive integers *d* dividing 1886 (i.e. *d* = 1, 2, 23, 41, 46, 82, 943, 1886), and the factorization of *Φ*<sub>*d*</sub>(26) for these positive integers *d* are:
 
 |from|currently known prime factorization|
 |---|---|
@@ -213,6 +213,23 @@ For the number 26<sup>1886</sup>−1, it is the product of *Φ*<sub>*d*</sub>(26
 |*Φ*<sub>82</sub>(26)|9677 × 1532581 × (47-digit prime)|
 |*Φ*<sub>943</sub>(26)|384118835398327 × (1231-digit composite with no known proper factor)|
 |*Φ*<sub>1886</sub>(26)|(1246-digit composite with no known proper factor)|
+
+For the number 36<sup>3933</sup>−1 = 6<sup>7866</sup>−1, it is the product of *Φ*<sub>*d*</sub>(6) with positive integers *d* dividing 7866 (i.e. *d* = 1, 2, 3, 6, 9, 18, 19, 23, 38, 46, 57, 69, 114, 138, 171, 207, 342, 414, 437, 874, 1311, 2622, 3933, 7866), and the factorization of *Φ*<sub>*d*</sub>(6) for these positive integers *d* are:
+
+|from|currently known prime factorization|
+|---|---|
+|*Φ*<sub>1</sub>(6)|5|
+|*Φ*<sub>2</sub>(6)|7|
+|*Φ*<sub>3</sub>(6)|43|
+|*Φ*<sub>6</sub>(6)|31|
+|*Φ*<sub>9</sub>(6)|19 × 2467|
+|*Φ*<sub>18</sub>(6)|46441|
+|*Φ*<sub>19</sub>(6)|191 × 638073026189|
+|*Φ*<sub>23</sub>(6)|47 × 139 × 3221 × 7505944891|
+|*Φ*<sub>38</sub>(6)|1787 × 48713705333|
+|*Φ*<sub>46</sub>(6)|113958101 × 990000731|
+|*Φ*<sub>57</sub>(6)|47881 × 820459 × 219815829325921729|
+|*Φ*<sub>69</sub>(6)|11731 × 1236385853432057889667843739281|
 
 For the files in this page:
 
