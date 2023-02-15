@@ -148,6 +148,7 @@ Although these numbers also have *N*−1 or *N*+1 is product of a Cunningham num
 * the 3187th minimal prime in base 13, 7<sub>1504</sub>1, *N*−1 is 91×*R*<sub>1504</sub>(13), thus factor *N*−1 is equivalent to factor 13<sup>1504</sup>−1, *N*−1 is only 28.604% factored (since 28.604% is between 1/4 and 1/3, *CHG* proof is possible, however, since *factordb* (http://factordb.com/, https://www.rieselprime.de/ziki/Factoring_Database) lacks the ability to verify *CHG* proofs, thus there is still primality certificate in *factordb*), and for the factorization of 13<sup>1504</sup>−1, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSingleEntry?Base=13&Exp=1504&c0=-&EN=
 * the 2342nd minimal prime in base 16, 90<sub>3542</sub>91, *N*−1 is 144×*S*<sub>3543</sub>(16), thus factor *N*−1 is equivalent to factor 16<sup>3543</sup>+1, *N*−1 is only 1.255% factored, and for the factorization of 16<sup>3543</sup>+1, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSingleEntry?Base=16&Exp=3543&c0=%2B&EN=
 * the 25240th minimal prime in base 26, 5<sub>1885</sub>4P, *N*+1 is 130×*R*<sub>1886</sub>(26), thus factor *N*+1 is equivalent to factor 26<sup>1886</sup>−1, *N*+1 is only 7.262% factored, and for the factorization of 26<sup>1886</sup>−1, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSingleEntry?Base=26&Exp=1886&c0=-&EN=
+* the 35277th minimal prime in base 36, OZ<sub>3932</sub>AZ, *N*+1 is 31500×*R*<sub>3933</sub>(36), thus factor *N*+1 is equivalent to factor 36<sup>3933</sup>−1, *N*+1 is only 16.004% factored, and for the factorization of 36<sup>3933</sup>−1, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSingleEntry?Base=36&Exp=3933&c0=-&EN=
 
 Factorization status of *N*−1 for the 151st minimal prime in base 9 (30<sub>1158</sub>11) in *factordb*: http://factordb.com/index.php?id=1100000002376318436
 
@@ -156,6 +157,8 @@ Factorization status of *N*−1 for the 3187th minimal prime in base 13 (7<sub>1
 Factorization status of *N*−1 for the 2342nd minimal prime in base 16 (90<sub>3542</sub>91) in *factordb*: http://factordb.com/index.php?id=1100000000633424203
 
 Factorization status of *N*+1 for the 25240th minimal prime in base 26 (5<sub>1885</sub>4P) in *factordb*: http://factordb.com/index.php?id=1100000003850159350
+
+Factorization status of *N*+1 for the 35277th minimal prime in base 36 (OZ<sub>3932</sub>AZ) in *factordb*: http://factordb.com/index.php?id=1100000000840634478
 
 (in the tables below, *Φ* is the cyclotomic polynomial (https://en.wikipedia.org/wiki/Cyclotomic_polynomial, https://mathworld.wolfram.com/CyclotomicPolynomial.html, http://www.numericana.com/answer/polynomial.htm#cyclotomic, https://stdkmd.net/nrr/repunit/repunitnote.htm#cyclotomic))
 
