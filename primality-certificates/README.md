@@ -232,6 +232,18 @@ For the number 36<sup>3933</sup>−1 = 6<sup>7866</sup>−1, it is the product o
 |*Φ*<sub>46</sub>(6)|113958101 × 990000731|
 |*Φ*<sub>57</sub>(6)|47881 × 820459 × 219815829325921729|
 |*Φ*<sub>69</sub>(6)|11731 × 1236385853432057889667843739281|
+|*Φ*<sub>114</sub>(6)|457 × 137713 × 190324492938225748951|
+|*Φ*<sub>138</sub>(6)|24648570768391 × 816214079084081564521|
+|*Φ*<sub>171</sub>(6)|19 × 25896916098621777025320461067950269867 × (46-digit prime)|
+|*Φ*<sub>207</sub>(6)|399097 × (98-digit prime)|
+|*Φ*<sub>342</sub>(6)|62174327387790051073 × (65-digit prime)|
+|*Φ*<sub>414</sub>(6)|4811469913 × 61040960263 × 25280883279243199352415750302719 × (51-digit prime)|
+|*Φ*<sub>437</sub>(6)|989723472495640900314985156529340457 × (273-digit composite with no known proper factor)|
+|*Φ*<sub>874</sub>(6)|(309-digit prime)|
+|*Φ*<sub>1311</sub>(6)|100745107 × 1719861571 × 2376829061449 × (587-digit composite with no known proper factor)|
+|*Φ*<sub>2622</sub>(6)|41953 × 266030354191322260711 × (592-digit composite with no known proper factor)|
+|*Φ*<sub>3933</sub>(6)|7867 × (1845-digit composite with no known proper factor)|
+|*Φ*<sub>7866</sub>(6)|(1849-digit composite with no known proper factor)|
 
 For the files in this page:
 
