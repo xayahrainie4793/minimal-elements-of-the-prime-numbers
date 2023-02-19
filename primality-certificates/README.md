@@ -201,7 +201,7 @@ For the number 16<sup>3543</sup>+1 = 2<sup>14172</sup>+1, it is the product of *
 |*Φ*<sub>8</sub>(2)|17|
 |*Φ*<sub>24</sub>(2)|241|
 |*Φ*<sub>9448</sub>(2)|107083633 × 7076306353 × 2428629073416562046689 × (1382-digit composite with no known proper factor, *SNFS* difficulty is 1423, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSNFS?Number=&Base=2&Exp=4724&c0=%2B&LM=)|
-|*Φ*<sub>28344</sub>(2)|265073089 × (2834-digit composite with no known proper factor, *SNFS* difficulty is , see http://myfactorcollection.mooo.com:8090/cgi-bin/showSNFS?Number=&Base=2&Exp=14172&c0=%2B&LM=)|
+|*Φ*<sub>28344</sub>(2)|265073089 × (2834-digit composite with no known proper factor, *SNFS* difficulty is too large to handle for the script, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSNFS?Number=&Base=2&Exp=14172&c0=%2B&LM=)|
 
 For the number 26<sup>1886</sup>−1, it is the product of *Φ*<sub>*d*</sub>(26) with positive integers *d* dividing 1886 (i.e. *d* = 1, 2, 23, 41, 46, 82, 943, 1886), and the factorization of *Φ*<sub>*d*</sub>(26) for these positive integers *d* are:
 
@@ -213,8 +213,8 @@ For the number 26<sup>1886</sup>−1, it is the product of *Φ*<sub>*d*</sub>(26
 |*Φ*<sub>41</sub>(26)|83 × 2633923 × (49-digit prime)|
 |*Φ*<sub>46</sub>(26)|47 × 1157729 × 378673381 × 629584013567417|
 |*Φ*<sub>82</sub>(26)|9677 × 1532581 × (47-digit prime)|
-|*Φ*<sub>943</sub>(26)|384118835398327 × (1231-digit composite with no known proper factor)|
-|*Φ*<sub>1886</sub>(26)|(1246-digit composite with no known proper factor)|
+|*Φ*<sub>943</sub>(26)|384118835398327 × (1231-digit composite with no known proper factor, *SNFS* difficulty is 1335, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSNFS?Number=&Base=26&Exp=943&c0=-&LM=)|
+|*Φ*<sub>1886</sub>(26)|(1246-digit composite with no known proper factor, *SNFS* difficulty is 1335, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSNFS?Number=&Base=26&Exp=943&c0=%2B&LM=)|
 
 For the number 36<sup>3933</sup>−1 = 6<sup>7866</sup>−1, it is the product of *Φ*<sub>*d*</sub>(6) with positive integers *d* dividing 7866 (i.e. *d* = 1, 2, 3, 6, 9, 18, 19, 23, 38, 46, 57, 69, 114, 138, 171, 207, 342, 414, 437, 874, 1311, 2622, 3933, 7866), and the factorization of *Φ*<sub>*d*</sub>(6) for these positive integers *d* are:
 
@@ -238,12 +238,12 @@ For the number 36<sup>3933</sup>−1 = 6<sup>7866</sup>−1, it is the product o
 |*Φ*<sub>207</sub>(6)|399097 × (98-digit prime)|
 |*Φ*<sub>342</sub>(6)|62174327387790051073 × (65-digit prime)|
 |*Φ*<sub>414</sub>(6)|4811469913 × 61040960263 × 25280883279243199352415750302719 × (51-digit prime)|
-|*Φ*<sub>437</sub>(6)|989723472495640900314985156529340457 × (273-digit composite with no known proper factor)|
+|*Φ*<sub>437</sub>(6)|989723472495640900314985156529340457 × (273-digit composite with no known proper factor, *SNFS* difficulty is 341, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSNFS?Number=&Base=6&Exp=437&c0=-&LM=)|
 |*Φ*<sub>874</sub>(6)|(309-digit prime, for its primality certificate see http://factordb.com/cert.php?id=1100000000019287760)|
-|*Φ*<sub>1311</sub>(6)|100745107 × 1719861571 × 2376829061449 × (587-digit composite with no known proper factor)|
-|*Φ*<sub>2622</sub>(6)|41953 × 266030354191322260711 × (592-digit composite with no known proper factor)|
-|*Φ*<sub>3933</sub>(6)|7867 × (1845-digit composite with no known proper factor)|
-|*Φ*<sub>7866</sub>(6)|(1849-digit composite with no known proper factor)|
+|*Φ*<sub>1311</sub>(6)|100745107 × 1719861571 × 2376829061449 × (587-digit composite with no known proper factor, *SNFS* difficulty is 682, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSNFS?Number=&Base=6&Exp=1311&c0=-&LM=)|
+|*Φ*<sub>2622</sub>(6)|41953 × 266030354191322260711 × (592-digit composite with no known proper factor, *SNFS* difficulty is 682, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSNFS?Number=&Base=6&Exp=1311&c0=%2B&LM=)|
+|*Φ*<sub>3933</sub>(6)|7867 × (1845-digit composite with no known proper factor, *SNFS* difficulty is too large to handle for the script, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSNFS?Number=&Base=6&Exp=3933&c0=-&LM=)|
+|*Φ*<sub>7866</sub>(6)|(1849-digit composite with no known proper factor, *SNFS* difficulty is too large to handle for the script, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSNFS?Number=&Base=6&Exp=3933&c0=%2B&LM=)|
 
 For the files in this page:
 
