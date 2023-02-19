@@ -1404,7 +1404,7 @@ Expression generators:
 1. https://stdkmd.net/nrr/exprgen.htm (only support base 10 forms)
 2. https://www.numberempire.com/simplifyexpression.php (e.g. for the form 5{7} in base 11, type "5\*11^n+7\*(11^n-1)/10")
 
-Lists of small primes:
+Lists of small primes: (see https://primes.utm.edu/notes/faq/LongestList.html and https://primes.utm.edu/notes/faq/x_digit_primes.html, although we can quickly determine whether a number < 10<sup>300</sup> is prime or not, but there is no list of all primes < 10<sup>300</sup>, since the space which we need is larger than the number of elementary particles (https://en.wikipedia.org/wiki/Elementary_particle) (i.e. quarks (https://en.wikipedia.org/wiki/Quark) and electrons (https://en.wikipedia.org/wiki/Electron)) in the universe (https://en.wikipedia.org/wiki/Universe))
 
 1. https://primes.utm.edu/lists/small/1000.txt
 2. https://primes.utm.edu/lists/small/10000.txt
@@ -1436,7 +1436,7 @@ Lists of small primes:
 28. https://web.archive.org/web/20201130071856/http://www.mathematical.com/primelist1to100kk.html
 29. https://web.archive.org/web/20191118082053/http://www.tsm-resources.com/alists/prim.html
 30. https://web.archive.org/web/20090917191047/http://planetmath.org/encyclopedia/FirstThousandPositivePrimeNumbers.html
-31. https://faculty.lynchburg.edu/~nicely/gaps/gaplist.html (the longest list ever calculated, with all primes < 2<sup>64</sup> (but unlikely other lists here, the primes are not all stored), see https://primes.utm.edu/notes/faq/LongestList.html)
+31. https://faculty.lynchburg.edu/~nicely/gaps/gaplist.html (the longest list ever calculated, with all primes < 2<sup>64</sup> (but unlikely other lists here, the primes are not all stored))
 32. https://en.wikipedia.org/wiki/List_of_prime_numbers#The_first_1000_prime_numbers
 
 Lists of factorizations of small integers:
