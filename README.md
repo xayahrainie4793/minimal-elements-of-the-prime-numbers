@@ -1235,6 +1235,10 @@ Probable primes (i.e. *c* ≠ ±1 and/or *d* ≠ 1):
 * (*a*×10<sup>*n*</sup>+*c*)/*d*: http://www.primenumbers.net/prptop/searchform.php?form=%28a*10%5En%2Bc%29%2Fd&action=Search
 * (*a*×10<sup>*n*</sup>−*c*)/*d*: http://www.primenumbers.net/prptop/searchform.php?form=%28a*10%5En-c%29%2Fd&action=Search
 
+Home page of Proth Primes Search (search of primes of the form *k*×2<sup>*n*</sup>+1 with odd *k*): http://www.prothsearch.com/
+
+Home page of Riesel Prime Search (search of primes of the form *k*×2<sup>*n*</sup>−1 with odd *k*): https://web.archive.org/web/20210817181915/http://www.15k.org/
+
 References of minimal primes (https://en.wikipedia.org/wiki/Minimal_prime_(recreational_mathematics), https://primes.utm.edu/glossary/xpage/MinimalPrime.html) (the original definition, i.e. prime > base (*b*) is not required):
 
 1. http://www.cs.uwaterloo.ca/~shallit/Papers/minimal5.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_11.pdf) (base 10)
