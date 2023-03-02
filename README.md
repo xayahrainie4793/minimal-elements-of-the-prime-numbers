@@ -1487,18 +1487,19 @@ Primality (or probable primality) testing (https://en.wikipedia.org/wiki/Primali
 
 Sieving (https://www.rieselprime.de/ziki/Sieving, https://www.rieselprime.de/ziki/Sieving_a_range_of_sequences, https://mathworld.wolfram.com/Sieve.html, http://www.rechenkraft.net/yoyo/y_status_sieve.php) programs (https://www.rieselprime.de/ziki/Sieving_program):
 
-1. *SRSIEVE* (https://www.bc-team.org/app.php/dlext/?cat=3, http://web.archive.org/web/20160922072340/https://sites.google.com/site/geoffreywalterreynolds/programs/, http://www.rieselprime.de/dl/CRUS_pack.zip, https://primes.utm.edu/bios/page.php?id=905, https://www.rieselprime.de/ziki/Srsieve, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/srsieve_1.1.4, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/sr1sieve_1.4.6, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/sr2sieve_2.0.0, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/srbsieve)
-2. *MTSIEVE* (https://sourceforge.net/projects/mtsieve/, https://primes.utm.edu/bios/page.php?id=449, https://www.rieselprime.de/ziki/Mtsieve, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/mtsieve_2.3.3)
+1. *SRSieve* (https://www.bc-team.org/app.php/dlext/?cat=3, http://web.archive.org/web/20160922072340/https://sites.google.com/site/geoffreywalterreynolds/programs/, http://www.rieselprime.de/dl/CRUS_pack.zip, https://primes.utm.edu/bios/page.php?id=905, https://www.rieselprime.de/ziki/Srsieve, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/srsieve_1.1.4, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/sr1sieve_1.4.6, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/sr2sieve_2.0.0, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/srbsieve)
+2. *MTSieve* (https://sourceforge.net/projects/mtsieve/, https://primes.utm.edu/bios/page.php?id=449, https://www.rieselprime.de/ziki/Mtsieve, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/mtsieve_2.3.3)
+3. *NewPGen* (https://primes.utm.edu/programs/NewPGen/, https://primes.utm.edu/bios/page.php?id=105, https://www.rieselprime.de/ziki/NewPGen, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/newpgen, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/newpgenlinux)
 
 Integer factoring (https://en.wikipedia.org/wiki/Integer_factorization, https://www.rieselprime.de/ziki/Factorization, https://mathworld.wolfram.com/PrimeFactorization.html, https://mathworld.wolfram.com/PrimeFactorizationAlgorithms.html, http://www.numericana.com/answer/factoring.htm) programs (https://www.rieselprime.de/ziki/Factoring_program):
 
 1. *GMP*-*ECM* (https://web.archive.org/web/20210803045418/https://gforge.inria.fr/projects/ecm, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/ecm704dev-svn2990-win64, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/ecm704dev-svn2990-linux64, https://www.rieselprime.de/ziki/GMP-ECM)
-2. *MSIEVE* (https://sourceforge.net/projects/msieve, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/msieve153_win64)
+2. *MSieve* (https://sourceforge.net/projects/msieve, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/msieve153_win64)
 3. *GGNFS* (http://sourceforge.net/projects/ggnfs, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/GGNFS)
 4. *CADO*-*NFS* (https://web.archive.org/web/20210506173015/http://cado-nfs.gforge.inria.fr/index.html, https://www.rieselprime.de/ziki/CADO-NFS, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/cado-nfs-2.3.0)
 5. *YAFU* (http://bbuhrow.googlepages.com/home, https://github.com/bbuhrow/yafu)
-6. *YTOOLS* (https://github.com/bbuhrow/ytools)
-7. *YSIEVE* (https://github.com/bbuhrow/ysieve)
+6. *YTools* (https://github.com/bbuhrow/ytools)
+7. *YSieve* (https://github.com/bbuhrow/ysieve)
 
 For the files in this page:
 
