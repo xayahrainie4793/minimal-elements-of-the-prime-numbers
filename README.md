@@ -1465,14 +1465,15 @@ Lists of factorizations of small integers:
 1. http://primefan.tripod.com/500factored.html
 2. http://www.sosmath.com/tables/factor/factor.html
 3. https://sites.google.com/view/prime-factorization-of-integer
-4. http://www.datapointed.net/visualizations/math/factorization/animated-diagrams/
-5. http://www.datapointed.net/visualizations/math/factorization/animated-diagrams/?infinity
-6. https://oeis.org/A027750/a027750.txt (all (prime or composite or unit) factors of *N*)
-7. http://factorzone.tripod.com/factors.htm (all (prime or composite or unit) factors of *N*)
-8. http://functions.wolfram.com/NumberTheoryFunctions/Divisors/03/02 (all (prime or composite or unit) factors of *N*)
-9. https://en.wikipedia.org/wiki/Table_of_prime_factors
-10. https://en.wikipedia.org/wiki/Table_of_divisors (all (prime or composite or unit) factors of *N*)
-11. http://factordb.com/index.php?query=n&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show (from *factordb*)
+4. https://web.archive.org/web/20060210182347/http://bearnol.is-a-geek.com/Panfur%20Project/ **(warning: this site does not factor the composite numbers 15, 51, 85, 91, 255, 435, 451, 561, 595, 679, 703, 771, 1105, 1261, 1285, 1351, 1387, ...)**
+5. http://www.datapointed.net/visualizations/math/factorization/animated-diagrams/
+6. http://www.datapointed.net/visualizations/math/factorization/animated-diagrams/?infinity
+7. https://oeis.org/A027750/a027750.txt (all (prime or composite or unit) factors of *N*)
+8. http://factorzone.tripod.com/factors.htm (all (prime or composite or unit) factors of *N*)
+9. http://functions.wolfram.com/NumberTheoryFunctions/Divisors/03/02 (all (prime or composite or unit) factors of *N*)
+10. https://en.wikipedia.org/wiki/Table_of_prime_factors
+11. https://en.wikipedia.org/wiki/Table_of_divisors (all (prime or composite or unit) factors of *N*)
+12. http://factordb.com/index.php?query=n&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show (from *factordb*)
 
 Lists of small integers in various bases:
 
