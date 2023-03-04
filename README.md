@@ -1486,7 +1486,8 @@ Primality (or probable primality) testing (https://en.wikipedia.org/wiki/Primali
 1. *LLR* (http://jpenne.free.fr/index2.html, https://primes.utm.edu/bios/page.php?id=431, https://www.rieselprime.de/ziki/LLR, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/llr403win64, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/llr403linux64)
 2. *PFGW* (https://sourceforge.net/projects/openpfgw/, https://primes.utm.edu/bios/page.php?id=175, https://www.rieselprime.de/ziki/PFGW, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/pfgw_win_4.0.3)
 3. *Primo* (http://www.ellipsa.eu/public/primo/primo.html, http://www.rieselprime.de/dl/Primo309.zip, https://primes.utm.edu/bios/page.php?id=46, https://www.rieselprime.de/ziki/Primo, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/primo-433-lx64, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/Primo309)
-4. *CHG* (https://mersenneforum.org/attachment.php?attachmentid=21133&d=1571237465, https://primes.utm.edu/bios/page.php?id=797, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/CHG)
+4. *Proth.exe* (https://primes.utm.edu/programs/gallot/, https://primes.utm.edu/bios/page.php?id=411, https://www.rieselprime.de/ziki/Proth.exe, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/proth)
+5. *CHG* (https://mersenneforum.org/attachment.php?attachmentid=21133&d=1571237465, https://primes.utm.edu/bios/page.php?id=797, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/CHG)
 
 Sieving (https://www.rieselprime.de/ziki/Sieving, https://www.rieselprime.de/ziki/Sieving_a_range_of_sequences, https://mathworld.wolfram.com/Sieve.html, http://www.rechenkraft.net/yoyo/y_status_sieve.php) programs (https://www.rieselprime.de/ziki/Sieving_program):
 
