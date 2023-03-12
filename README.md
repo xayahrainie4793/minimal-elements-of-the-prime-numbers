@@ -173,7 +173,7 @@ In this case we can write p = 9*y*1. If 9 ◁ *y*, then **991** ◁ *p*. Hence w
 
 If 00 ◁ *y*, then **9001** ◁ *p*. If 22 ◁ *y*, then **9221** ◁ *p*. If 55 ◁ *y*, then **9551** ◁ *p*. If 88 ◁ *y*, then 881 ◁ *p*. Hence we may assume *y* contains at most one 0, at most one 2, at most one 5, and at most one 8.
 
-If *y* only contains at most one 0 and does not contain any of {2,5,8}, then *y* ∈ {*𝜆*,0}, and thus *p* ∈ {91,901}, but 91 and 901 are both composite. If *y* only contains at most one 0 and only one of {2,5,8}, then the sum of the digits of *p* is divisible by 3, *p* is divisible by 3, so *p* cannot be prime. Hence we may assume *y* contains at least two of {2,5,8}.
+If *y* only contains at most one 0 and does not contain any of {2, 5, 8}, then *y* ∈ {*𝜆*, 0}, and thus *p* ∈ {91, 901}, but 91 and 901 are both composite. If *y* only contains at most one 0 and only one of {2, 5, 8}, then the sum of the digits of *p* is divisible by 3, *p* is divisible by 3, so *p* cannot be prime. Hence we may assume *y* contains at least two of {2, 5, 8}.
 
 If 25 ◁ *y*, then 251 ◁ *p*. If 28 ◁ *y*, then 281 ◁ *p*. If 52 ◁ *y*, then 521 ◁ *p*. If 82 ◁ *y*, then 821 ◁ *p*. Hence we may assume *y* contains no 2's (since if *y* contains 2, then *y* cannot contain either 5's or 8's, which is a contradiction).
 
