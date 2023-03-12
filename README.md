@@ -1417,8 +1417,14 @@ Prime checkers:
 12. http://www.sonic.net/~undoc/java/PrimeCalc.html
 13. http://www.primzahlen.de/primzahltests/testverfahren.htm (in German)
 14. http://www.proftnj.com/calcprem.htm (in French) (use the box "Rechercher si un nombre est premier" and click "Rechercher")
-15. https://primes.utm.edu/nthprime/ (calculate the *n*th prime)
-16. http://factordb.com/nextprime.php (calculate the next (probable) prime above *N*, in fact, links 2, 6, 10, 11, 12, 13 can also calculate the next prime above *N*, besides, links 2, 6 can also calculate the previous prime below *N*)
+15. http://www.positiveintegers.org/ (just enter the number)
+16. https://numdic.com/ (just enter the number)
+17. https://numbermatics.com/ (just enter the number)
+18. https://metanumbers.com/ (just enter the number)
+19. https://int.darkbyte.ru/ (just enter the number)
+20. https://www.numbersaplenty.com/ (just enter the number)
+21. https://primes.utm.edu/nthprime/ (calculate the *n*th prime)
+22. http://factordb.com/nextprime.php (calculate the next (probable) prime above *N*, in fact, links 2, 6, 10, 11, 12, 13 can also calculate the next prime above *N*, besides, links 2, 6 can also calculate the previous prime below *N*)
 
 Integer factorizers:
 
@@ -1440,10 +1446,16 @@ Integer factorizers:
 16. http://www.analyzemath.com/Calculators_3/prime_factors.html
 17. https://www.archimedes-lab.org/primOmatic.html
 18. http://www.proftnj.com/calcprem.htm (in French) (use the box "Factoriser un nombre" and click "Factoriser")
-19. http://factordb.com/ (online factor database)
-20. http://myfactorcollection.mooo.com:8090/dbio.html (online factor database for numbers of the form *b*<sup>*n*</sup>±1)
-21. https://web.archive.org/web/20120722020628/http://homes.cerias.purdue.edu/~ssw/cun/prime.php (online factor database for numbers of the form *b*<sup>*n*</sup>±1 for 2 ≤ *b* ≤ 12)
-22. https://web.archive.org/web/20120330032919/http://homes.cerias.purdue.edu/~ssw/cun/clientold.html (online factor database for numbers of the form *b*<sup>*n*</sup>±1 for 2 ≤ *b* ≤ 12)
+19. http://www.positiveintegers.org/ (just enter the number)
+20. https://numdic.com/ (just enter the number)
+21. https://numbermatics.com/ (just enter the number)
+22. https://metanumbers.com/ (just enter the number)
+23. https://int.darkbyte.ru/ (just enter the number)
+24. https://www.numbersaplenty.com/ (just enter the number)
+25. http://factordb.com/ (online factor database)
+26. http://myfactorcollection.mooo.com:8090/dbio.html (online factor database for numbers of the form *b*<sup>*n*</sup>±1)
+27. https://web.archive.org/web/20120722020628/http://homes.cerias.purdue.edu/~ssw/cun/prime.php (online factor database for numbers of the form *b*<sup>*n*</sup>±1 for 2 ≤ *b* ≤ 12)
+28. https://web.archive.org/web/20120330032919/http://homes.cerias.purdue.edu/~ssw/cun/clientold.html (online factor database for numbers of the form *b*<sup>*n*</sup>±1 for 2 ≤ *b* ≤ 12)
 
 Base converters:
 
@@ -1463,7 +1475,13 @@ Base converters:
 14. https://web.archive.org/web/20190629223750/http://thedevtoolkit.com/tools/base_conversion
 15. http://www.kwuntung.net/hkunit/base/base.php (in Chinese)
 16. https://linesegment.web.fc2.com/application/math/numbers/RadixConversion.html (in Japanese)
-17. http://factordb.com/index.php?showid=1000000000000000127 (you can change the "showid" to the *ID* for your number)
+17. http://www.positiveintegers.org/ (just enter the number)
+18. https://numdic.com/ (just enter the number)
+19. https://numbermatics.com/ (just enter the number)
+20. https://metanumbers.com/ (just enter the number)
+21. https://int.darkbyte.ru/ (just enter the number)
+22. https://www.numbersaplenty.com/ (just enter the number)
+23. http://factordb.com/index.php?showid=1000000000000000127 (you can change the "showid" to the *ID* for your number)
 
 Expression generators:
 
