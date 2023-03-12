@@ -151,7 +151,7 @@ If *y* ∈ {0}, then *p* ∈ 5{0}1. But then, since the sum of the digits of *p*
 
 If *y* ∈ {5}, then *p* ∈ 5{5}1, and the smallest prime *p* ∈ 5{5}1 is **555555555551**.
 
-If *y* ∈ {8}, since if 88 ◁ *y*, then 881 ◁ *p*, hence we may assume *y* ∈ {*𝜆*,8}, and thus *p* ∈ {51,581}, but 51 and 581 are both composite.
+If *y* ∈ {8}, since if 88 ◁ *y*, then 881 ◁ *p*, hence we may assume *y* ∈ {*𝜆*, 8}, and thus *p* ∈ {51, 581}, but 51 and 581 are both composite.
 
 Case 1.3: *p* begins with 8.
 
