@@ -177,7 +177,7 @@ If *y* only contains at most one 0 and does not contain any of {2,5,8}, then *y*
 
 If 25 ◁ *y*, then 251 ◁ *p*. If 28 ◁ *y*, then 281 ◁ *p*. If 52 ◁ *y*, then 521 ◁ *p*. If 82 ◁ *y*, then 821 ◁ *p*. Hence we may assume *y* contains no 2's (since if *y* contains 2, then *y* cannot contain either 5's or 8's, which is a contradiction).
 
-If 85 ◁ *y*, then **9851** ◁ *p*. Hence we may assume *y* ∈ {58,580,508,058}, and thus *p* ∈ {9581,95801,95081,90581}, and of these numbers only 95801 is prime, but 95801 is not minimal prime since 5801 ◁ 95801.
+If 85 ◁ *y*, then **9851** ◁ *p*. Hence we may assume *y* ∈ {58, 580, 508, 058}, and thus *p* ∈ {9581, 95801, 95081, 90581}, and of these numbers only 95801 is prime, but 95801 is not minimal prime since 5801 ◁ 95801.
 
 Case 2: *p* ends with 3.
 
