@@ -161,11 +161,11 @@ If 50 ◁ *y*, then **8501** ◁ *p*. Hence we may assume y ∈ {0}{5}.
 
 If 005 ◁ *y*, then **80051** ◁ p. Hence we may assume y ∈ {0} ∪ {5} ∪ 0{5}.
 
-If y ∈ {0}, then *p* ∈ 8{0}1. But then, since the sum of the digits of *p* is 9, *p* is divisible by 3, so *p* cannot be prime.
+If *y* ∈ {0}, then *p* ∈ 8{0}1. But then, since the sum of the digits of *p* is 9, *p* is divisible by 3, so *p* cannot be prime.
 
-If y ∈ {5}, since if 55555555555 ◁ *y*, then 555555555551 ◁ *p*, hence we may assume *y* ∈ {*𝜆*, 5, 55, 555, 5555, 55555, 555555, 5555555, 55555555, 555555555, 5555555555}, and thus *p* ∈ {81, 851, 8551, 85551, 855551, 8555551, 85555551, 855555551, 8555555551, 85555555551, 855555555551}, but all of these numbers are composite.
+If *y* ∈ {5}, since if 55555555555 ◁ *y*, then 555555555551 ◁ *p*, hence we may assume *y* ∈ {*𝜆*, 5, 55, 555, 5555, 55555, 555555, 5555555, 55555555, 555555555, 5555555555}, and thus *p* ∈ {81, 851, 8551, 85551, 855551, 8555551, 85555551, 855555551, 8555555551, 85555555551, 855555555551}, but all of these numbers are composite.
 
-If y ∈ 0{5}, since if 55555555555 ◁ *y*, then 555555555551 ◁ *p*, hence we may assume *y* ∈ {0, 05, 055, 0555, 05555, 055555, 0555555, 05555555, 055555555, 0555555555, 05555555555}, and thus *p* ∈ {801, 8051, 80551, 805551, 8055551, 80555551, 805555551, 8055555551, 80555555551, 805555555551, 8055555555551}, and of these numbers only 80555551 and 8055555551 are primes, but 80555551 ◁ 8055555551, thus only **80555551** is minimal prime.
+If *y* ∈ 0{5}, since if 55555555555 ◁ *y*, then 555555555551 ◁ *p*, hence we may assume *y* ∈ {0, 05, 055, 0555, 05555, 055555, 0555555, 05555555, 055555555, 0555555555, 05555555555}, and thus *p* ∈ {801, 8051, 80551, 805551, 8055551, 80555551, 805555551, 8055555551, 80555555551, 805555555551, 8055555555551}, and of these numbers only 80555551 and 8055555551 are primes, but 80555551 ◁ 8055555551, thus only **80555551** is minimal prime.
 
 Case 1.4: *p* begins with 9.
 
