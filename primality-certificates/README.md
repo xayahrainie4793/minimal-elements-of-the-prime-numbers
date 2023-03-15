@@ -4,19 +4,19 @@ The large minimal primes in base *b* are of the form (*a*×*b*<sup>*n*</sup>+*c*
 
 Primes which either *N*−1 or *N*+1 is trivially fully factored (i.e. primes of the form *k*×*b*<sup>*n*</sup>±1, with small *k*) do not need primality certificates, since they can be easily proven primes using *N*−1 test (https://primes.utm.edu/prove/prove3_1.html, http://bln.curtisbright.com/2013/10/09/the-n-1-and-n1-primality-tests/, http://factordb.com/nmoverview.php?method=1) or *N*+1 test (https://primes.utm.edu/prove/prove3_2.html, http://bln.curtisbright.com/2013/10/09/the-n-1-and-n1-primality-tests/, http://factordb.com/nmoverview.php?method=2), these primes are:
 
-* the 3176th minimal prime in base 13, 81010<sub>415</sub>1, which equals 17746×13<sup>416</sup>+1, *N*−1 is trivially fully factored
-* the 3177th minimal prime in base 13, 8110<sub>435</sub>1, which equals 1366×13<sup>436</sup>+1, *N*−1 is trivially fully factored
-* the 3188th minimal prime in base 13, 930<sub>1551</sub>1, which equals 120×13<sup>1552</sup>+1, *N*−1 is trivially fully factored
-* the 3191st minimal prime in base 13, 390<sub>6266</sub>1, which equals 48×13<sup>6267</sup>+1, *N*−1 is trivially fully factored
-* the 649th minimal prime in base 14, 34D<sub>708</sub>, which equals 47×14<sup>708</sup>−1, *N*+1 is trivially fully factored
-* the 650th minimal prime in base 14, 4D<sub>19698</sub>, which equals 5×14<sup>19698</sup>−1, *N*+1 is trivially fully factored
-* the 2335th minimal prime in base 16, 88F<sub>545</sub>, which equals 137×16<sup>545</sup>−1, *N*+1 is trivially fully factored
-* the 3310th minimal prime in base 20, JCJ<sub>629</sub>, which equals 393×20<sup>629</sup>−1, *N*+1 is trivially fully factored
-* the 3408th minimal prime in base 24, 88N<sub>5951</sub>, which equals 201×24<sup>5951</sup>−1, *N*+1 is trivially fully factored
-* the 25509th minimal prime in base 28, EB0<sub>405</sub>1, which equals 403×28<sup>406</sup>+1, *N*−1 is trivially fully factored
-* the 2616th minimal prime in base 30, C0<sub>1022</sub>1, which equals 12×30<sup>1023</sup>+1, *N*−1 is trivially fully factored
-* the 2619th minimal prime in base 30, OT<sub>34205</sub>, which equals 25×30<sup>34205</sup>−1, *N*+1 is trivially fully factored
-* the 35237th minimal prime in base 36, P8Z<sub>390</sub>, which equals 909×36<sup>390</sup>−1, *N*+1 is trivially fully factored
+* the 3176th minimal prime in base 13, 81010<sub>415</sub>1, which equals 17746×13<sup>416</sup>+1, *N*−1 is trivially fully factored, for the helper file in *factordb* see http://factordb.com/helper.php?id=1100000003590431555
+* the 3177th minimal prime in base 13, 8110<sub>435</sub>1, which equals 1366×13<sup>436</sup>+1, *N*−1 is trivially fully factored, for the helper file in *factordb* see http://factordb.com/helper.php?id=1100000002373259109
+* the 3188th minimal prime in base 13, 930<sub>1551</sub>1, which equals 120×13<sup>1552</sup>+1, *N*−1 is trivially fully factored, for the helper file in *factordb* see http://factordb.com/helper.php?id=1100000000765961452
+* the 3191st minimal prime in base 13, 390<sub>6266</sub>1, which equals 48×13<sup>6267</sup>+1, *N*−1 is trivially fully factored, for the helper file in *factordb* see http://factordb.com/helper.php?id=1100000000765961441
+* the 649th minimal prime in base 14, 34D<sub>708</sub>, which equals 47×14<sup>708</sup>−1, *N*+1 is trivially fully factored, for the helper file in *factordb* see http://factordb.com/helper.php?id=1100000001540144903
+* the 650th minimal prime in base 14, 4D<sub>19698</sub>, which equals 5×14<sup>19698</sup>−1, *N*+1 is trivially fully factored, for the helper file in *factordb* see http://factordb.com/helper.php?id=1100000000884560233
+* the 2335th minimal prime in base 16, 88F<sub>545</sub>, which equals 137×16<sup>545</sup>−1, *N*+1 is trivially fully factored, for the helper file in *factordb* see http://factordb.com/helper.php?id=1100000000413679658
+* the 3310th minimal prime in base 20, JCJ<sub>629</sub>, which equals 393×20<sup>629</sup>−1, *N*+1 is trivially fully factored, for the helper file in *factordb* see http://factordb.com/helper.php?id=1100000001559454258
+* the 3408th minimal prime in base 24, 88N<sub>5951</sub>, which equals 201×24<sup>5951</sup>−1, *N*+1 is trivially fully factored, for the helper file in *factordb* see http://factordb.com/helper.php?id=1100000003593275880
+* the 25509th minimal prime in base 28, EB0<sub>405</sub>1, which equals 403×28<sup>406</sup>+1, *N*−1 is trivially fully factored, for the helper file in *factordb* see http://factordb.com/helper.php?id=1100000001534442374
+* the 2616th minimal prime in base 30, C0<sub>1022</sub>1, which equals 12×30<sup>1023</sup>+1, *N*−1 is trivially fully factored, for the helper file in *factordb* see http://factordb.com/helper.php?id=1100000000785448736
+* the 2619th minimal prime in base 30, OT<sub>34205</sub>, which equals 25×30<sup>34205</sup>−1, *N*+1 is trivially fully factored, for the helper file in *factordb* see http://factordb.com/helper.php?id=1100000000800812865
+* the 35237th minimal prime in base 36, P8Z<sub>390</sub>, which equals 909×36<sup>390</sup>−1, *N*+1 is trivially fully factored, for the helper file in *factordb* see http://factordb.com/helper.php?id=1100000000764100228
 
 (these primes can be proven prime using Yves Gallot's *Proth.exe* (https://primes.utm.edu/programs/gallot/, https://primes.utm.edu/bios/page.php?id=411, https://www.rieselprime.de/ziki/Proth.exe, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/proth), these primes can also be proven prime using Jean Penné's *LLR* (http://jpenne.free.fr/index2.html, https://primes.utm.edu/bios/page.php?id=431, https://www.rieselprime.de/ziki/LLR, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/llr403win64, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/llr403linux64), see the *README* file for *LLR* (https://github.com/xayahrainie4793/prime-programs-cached-copy/blob/main/llr403win64/Readme.txt, https://github.com/xayahrainie4793/prime-programs-cached-copy/blob/main/llr403linux64/Readme.txt, http://jpenne.free.fr/index2.html))
 
@@ -45,6 +45,16 @@ The Cunningham numbers *b*<sup>*n*</sup>±1 has algebraic factorization to produ
 * the 3180th minimal prime in base 13, 1B<sub>576</sub>, *N*−1 is 23×*R*<sub>576</sub>(13), thus factor *N*−1 is equivalent to factor 13<sup>576</sup>−1, and for the algebraic factors of 13<sup>576</sup>−1, see http://myfactorcollection.mooo.com:8090/cgi-bin/showExplorer?Base=13&Exp=576&LBIDPMList=A&LBIDLODList=D, and for the prime factorization of 13<sup>576</sup>−1, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSingleEntry?Base=13&Exp=576&c0=-&EN=
 * the 25199th minimal prime in base 26, 9K<sub>343</sub>AP, *N*+1 is 6370×*R*<sub>344</sub>(26), thus factor *N*+1 is equivalent to factor 26<sup>344</sup>−1, and for the algebraic factors of 26<sup>344</sup>−1, see http://myfactorcollection.mooo.com:8090/cgi-bin/showExplorer?Base=26&Exp=344&LBIDPMList=A&LBIDLODList=D, and for the prime factorization of 26<sup>344</sup>−1, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSingleEntry?Base=26&Exp=344&c0=-&EN=
 * the 25200th minimal prime in base 26, 8<sub>354</sub>1, *N*−1 is 208×*R*<sub>354</sub>(26), thus factor *N*−1 is equivalent to factor 26<sup>354</sup>−1, and for the algebraic factors of 26<sup>354</sup>−1, see http://myfactorcollection.mooo.com:8090/cgi-bin/showExplorer?Base=26&Exp=354&LBIDPMList=A&LBIDLODList=D, and for the prime factorization of 26<sup>354</sup>−1, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSingleEntry?Base=26&Exp=354&c0=-&EN=
+
+The help file for the 3168th minimal prime in base 13 (9<sub>308</sub>1) in *factordb*: http://factordb.com/helper.php?id=1100000000840126705
+
+The help file for the 3179th minimal prime in base 13 (B<sub>563</sub>C) in *factordb*: http://factordb.com/helper.php?id=1100000000000217927
+
+The help file for the 3180th minimal prime in base 13 (1B<sub>576</sub>) in *factordb*: http://factordb.com/helper.php?id=1100000002321021456
+
+The help file for the 25199th minimal prime in base 26 (9K<sub>343</sub>AP) in *factordb*: http://factordb.com/helper.php?id=1100000000840632228
+
+The help file for the 25200th minimal prime in base 26 (8<sub>354</sub>1) in *factordb*: http://factordb.com/helper.php?id=1100000000840632517
 
 Factorization status (and *ECM* efforts for the prime factors between 10<sup>24</sup> and 10<sup>100</sup>) of *N*−1 for the 3168th minimal prime in base 13 (9<sub>308</sub>1) in *factordb*: http://factordb.com/index.php?id=1100000000840126706&open=ecm
 
