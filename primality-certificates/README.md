@@ -22,9 +22,9 @@ Primes which either *N*−1 or *N*+1 is trivially fully factored (i.e. primes of
 
 Also, there are no primality certificates for these primes in *factordb* because although they are > 10<sup>299</sup>, but their *N*−1 or *N*+1 is fully factored (but not trivially fully factored, however, only need trial division (https://en.wikipedia.org/wiki/Trial_division, https://primes.utm.edu/glossary/xpage/TrialDivision.html, https://www.rieselprime.de/ziki/Trial_factoring, https://mathworld.wolfram.com/TrialDivision.html, http://www.numericana.com/answer/factoring.htm#trial) to 10<sup>8</sup>) and the largest prime factor is < 10<sup>299</sup> (primes < 10<sup>299</sup> are automatically proven primes in *factordb*):
 
-* the 2328th minimal prime in base 16, 880<sub>246</sub>7, with 300 decimal digits, *N*−1 is 2<sup>3</sup>×3×7×13×25703261×(289-digit prime)
-* the 25174th minimal prime in base 26, OL0<sub>214</sub>M9, with 309 decimal digits, *N*−1 is 2<sup>2</sup>×5<sup>2</sup>×7×223×42849349×(296-digit prime)
-* the 25485th minimal prime in base 28, JN<sub>206</sub>, with 300 decimal digits, *N*−1 is 2×1061×1171×74311×(289-digit prime)
+* the 2328th minimal prime in base 16, 880<sub>246</sub>7, with 300 decimal digits, *N*−1 is 2<sup>3</sup> × 3 × 7 × 13 × 25703261 × (289-digit prime)
+* the 25174th minimal prime in base 26, OL0<sub>214</sub>M9, with 309 decimal digits, *N*−1 is 2<sup>2</sup> × 5<sup>2</sup> × 7 × 223 × 42849349 × (296-digit prime)
+* the 25485th minimal prime in base 28, JN<sub>206</sub>, with 300 decimal digits, *N*−1 is 2 × 1061 × 1171 × 74311 × (289-digit prime)
 
 The helper file for the 2328th minimal prime in base 16 (880<sub>246</sub>7) in *factordb*: http://factordb.com/helper.php?id=1100000002468140199
 
