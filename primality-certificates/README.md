@@ -26,6 +26,12 @@ Also, there are no primality certificates for these primes in *factordb* because
 * the 25174th minimal prime in base 26, OL0<sub>214</sub>M9, with 309 decimal digits, *N*−1 is 2<sup>2</sup>×5<sup>2</sup>×7×223×42849349×(296-digit prime)
 * the 25485th minimal prime in base 28, JN<sub>206</sub>, with 300 decimal digits, *N*−1 is 2×1061×1171×74311×(289-digit prime)
 
+The help file for the 2328th minimal prime in base 16 (880<sub>246</sub>7) in *factordb*: http://factordb.com/helper.php?id=1100000002468140199
+
+The help file for the 25174th minimal prime in base 26 (OL0<sub>214</sub>M9) in *factordb*: http://factordb.com/helper.php?id=1100000000840631576
+
+The help file for the 25485th minimal prime in base 28 (JN<sub>206</sub>) in *factordb*: http://factordb.com/helper.php?id=1100000002611724435
+
 Factorization of *N*−1 for the 2328th minimal prime in base 16 (880<sub>246</sub>7) in *factordb*: http://factordb.com/index.php?id=1100000002468140641
 
 Factorization of *N*−1 for the 25174th minimal prime in base 26 (OL0<sub>214</sub>M9) in *factordb*: http://factordb.com/index.php?id=1100000000840631577
