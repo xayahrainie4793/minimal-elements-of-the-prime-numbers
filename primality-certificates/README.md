@@ -276,3 +276,4 @@ For the number 36<sup>3933</sup>−1 = 6<sup>7866</sup>−1, it is the product o
 For the files in this page:
 
 * File "certificate *b* *n*": The primality certificate for the *n*th minimal prime in base *b* (local copy from *factordb* (http://factordb.com/, https://www.rieselprime.de/ziki/Factoring_Database)), after downloading these files, these files should be renamed to ".out" files, e.g. file "certificate9_149" is the primality certificate for the 149th minimal prime in base 9, i.e. the primality certificate for the prime 76<sub>329</sub>2 in base 9, which equals the prime (31×9<sup>330</sup>−19)/4.
+* File "helper *b* *n*" The helper file for the *n*th minimal prime in base *b* (local copy from *factordb* (http://factordb.com/, https://www.rieselprime.de/ziki/Factoring_Database))
