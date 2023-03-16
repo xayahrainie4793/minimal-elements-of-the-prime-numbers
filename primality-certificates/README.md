@@ -26,11 +26,11 @@ Also, there are no primality certificates for these primes in *factordb* because
 * the 25174th minimal prime in base 26, OL0<sub>214</sub>M9, with 309 decimal digits, *N*−1 is 2<sup>2</sup>×5<sup>2</sup>×7×223×42849349×(296-digit prime)
 * the 25485th minimal prime in base 28, JN<sub>206</sub>, with 300 decimal digits, *N*−1 is 2×1061×1171×74311×(289-digit prime)
 
-The help file for the 2328th minimal prime in base 16 (880<sub>246</sub>7) in *factordb*: http://factordb.com/helper.php?id=1100000002468140199
+The helper file for the 2328th minimal prime in base 16 (880<sub>246</sub>7) in *factordb*: http://factordb.com/helper.php?id=1100000002468140199
 
-The help file for the 25174th minimal prime in base 26 (OL0<sub>214</sub>M9) in *factordb*: http://factordb.com/helper.php?id=1100000000840631576
+The helper file for the 25174th minimal prime in base 26 (OL0<sub>214</sub>M9) in *factordb*: http://factordb.com/helper.php?id=1100000000840631576
 
-The help file for the 25485th minimal prime in base 28 (JN<sub>206</sub>) in *factordb*: http://factordb.com/helper.php?id=1100000002611724435
+The helper file for the 25485th minimal prime in base 28 (JN<sub>206</sub>) in *factordb*: http://factordb.com/helper.php?id=1100000002611724435
 
 Factorization of *N*−1 for the 2328th minimal prime in base 16 (880<sub>246</sub>7) in *factordb*: http://factordb.com/index.php?id=1100000002468140641
 
@@ -52,15 +52,15 @@ The Cunningham numbers *b*<sup>*n*</sup>±1 has algebraic factorization to produ
 * the 25199th minimal prime in base 26, 9K<sub>343</sub>AP, *N*+1 is 6370×*R*<sub>344</sub>(26), thus factor *N*+1 is equivalent to factor 26<sup>344</sup>−1, and for the algebraic factors of 26<sup>344</sup>−1, see http://myfactorcollection.mooo.com:8090/cgi-bin/showExplorer?Base=26&Exp=344&LBIDPMList=A&LBIDLODList=D, and for the prime factorization of 26<sup>344</sup>−1, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSingleEntry?Base=26&Exp=344&c0=-&EN=
 * the 25200th minimal prime in base 26, 8<sub>354</sub>1, *N*−1 is 208×*R*<sub>354</sub>(26), thus factor *N*−1 is equivalent to factor 26<sup>354</sup>−1, and for the algebraic factors of 26<sup>354</sup>−1, see http://myfactorcollection.mooo.com:8090/cgi-bin/showExplorer?Base=26&Exp=354&LBIDPMList=A&LBIDLODList=D, and for the prime factorization of 26<sup>354</sup>−1, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSingleEntry?Base=26&Exp=354&c0=-&EN=
 
-The help file for the 3168th minimal prime in base 13 (9<sub>308</sub>1) in *factordb*: http://factordb.com/helper.php?id=1100000000840126705
+The helper file for the 3168th minimal prime in base 13 (9<sub>308</sub>1) in *factordb*: http://factordb.com/helper.php?id=1100000000840126705
 
-The help file for the 3179th minimal prime in base 13 (B<sub>563</sub>C) in *factordb*: http://factordb.com/helper.php?id=1100000000000217927
+The helper file for the 3179th minimal prime in base 13 (B<sub>563</sub>C) in *factordb*: http://factordb.com/helper.php?id=1100000000000217927
 
-The help file for the 3180th minimal prime in base 13 (1B<sub>576</sub>) in *factordb*: http://factordb.com/helper.php?id=1100000002321021456
+The helper file for the 3180th minimal prime in base 13 (1B<sub>576</sub>) in *factordb*: http://factordb.com/helper.php?id=1100000002321021456
 
-The help file for the 25199th minimal prime in base 26 (9K<sub>343</sub>AP) in *factordb*: http://factordb.com/helper.php?id=1100000000840632228
+The helper file for the 25199th minimal prime in base 26 (9K<sub>343</sub>AP) in *factordb*: http://factordb.com/helper.php?id=1100000000840632228
 
-The help file for the 25200th minimal prime in base 26 (8<sub>354</sub>1) in *factordb*: http://factordb.com/helper.php?id=1100000000840632517
+The helper file for the 25200th minimal prime in base 26 (8<sub>354</sub>1) in *factordb*: http://factordb.com/helper.php?id=1100000000840632517
 
 Factorization status (and *ECM* efforts for the prime factors between 10<sup>24</sup> and 10<sup>100</sup>) of *N*−1 for the 3168th minimal prime in base 13 (9<sub>308</sub>1) in *factordb*: http://factordb.com/index.php?id=1100000000840126706&open=ecm
 
