@@ -170,6 +170,16 @@ Although these numbers also have *N*−1 or *N*+1 is product of a Cunningham num
 * the 25240th minimal prime in base 26, 5<sub>1885</sub>4P, *N*+1 is 130×*R*<sub>1886</sub>(26), thus factor *N*+1 is equivalent to factor 26<sup>1886</sup>−1, *N*+1 is only 7.262% factored (see http://factordb.com/index.php?id=1100000003850155314&open=prime), and for the algebraic factors of 26<sup>1886</sup>−1, see http://myfactorcollection.mooo.com:8090/cgi-bin/showExplorer?Base=26&Exp=1886&LBIDPMList=A&LBIDLODList=D, and for the prime factorization of 26<sup>1886</sup>−1, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSingleEntry?Base=26&Exp=1886&c0=-&EN=
 * the 35277th minimal prime in base 36, OZ<sub>3932</sub>AZ, *N*+1 is 31500×*R*<sub>3933</sub>(36), thus factor *N*+1 is equivalent to factor 36<sup>3933</sup>−1, *N*+1 is only 16.004% factored (see http://factordb.com/index.php?id=1100000000840634476&open=prime), and for the algebraic factors of 36<sup>3933</sup>−1, see http://myfactorcollection.mooo.com:8090/cgi-bin/showExplorer?Base=36&Exp=3933&LBIDPMList=A&LBIDLODList=D, and for the prime factorization of 36<sup>3933</sup>−1, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSingleEntry?Base=36&Exp=3933&c0=-&EN=
 
+The helper file for the 151st minimal prime in base 9 (30<sub>1158</sub>11) in *factordb*: http://factordb.com/helper.php?id=1100000002376318423
+
+The helper file for the 3187th minimal prime in base 13 (7<sub>1504</sub>1) in *factordb*: http://factordb.com/helper.php?id=1100000002320890755
+
+The helper file for the 2342nd minimal prime in base 16 (90<sub>3542</sub>91) in *factordb*: http://factordb.com/helper.php?id=1100000000633424191
+
+The helper file for the 25240th minimal prime in base 26 (5<sub>1885</sub>4P) in *factordb*: http://factordb.com/helper.php?id=1100000003850155314
+
+The helper file for the 35277th minimal prime in base 36 (OZ<sub>3932</sub>AZ) in *factordb*: http://factordb.com/helper.php?id=1100000000840634476
+
 Factorization status (and *ECM* efforts for the prime factors between 10<sup>24</sup> and 10<sup>100</sup>) of *N*−1 for the 151st minimal prime in base 9 (30<sub>1158</sub>11) in *factordb*: http://factordb.com/index.php?id=1100000002376318436&open=ecm
 
 Factorization status (and *ECM* efforts for the prime factors between 10<sup>24</sup> and 10<sup>100</sup>) of *N*−1 for the 3187th minimal prime in base 13 (7<sub>1504</sub>1) in *factordb*: http://factordb.com/index.php?id=1100000002320890782&open=ecm
