@@ -363,7 +363,7 @@ This conjecture will imply:
 We call families of the form *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base *b*, *y* is a digit in base *b*) "linear" families. Our
 algorithm then proceeds as follows:
 
-1. *M* := {minimal primes in base *b* of length 2 or 3}, *L* := union of all *x*{*Y*}*z* such that *x* ≠ 0 and *gcd*(*z*, *b*) = 1 and *Y* is the set of digits *y* such that *xyz* has no subsequence in *M*
+1. *M* := {minimal primes in base *b* of length 2 or 3}, *L* := union of all *x*{*Y*}*z* such that *x* ≠ 0 and *gcd*(*z*, *b*) = 1 and *Y* is the set of digits *y* such that *xyz* has no subsequence in *M*.
 2. While *L* contains non-simple families: Explore each family of *L*, and update *L*. Examine each family of *L* by:
 2.1. Let *w* be the shortest string in the family. If *w* has a subsequence in *M*, then remove the family from *L*. If *w* represents a prime, then add *w* to *M* and remove the family from *L*.
 2.2. If possible, simplify the family.
