@@ -1529,19 +1529,20 @@ Base converters:
 8. https://www.calculand.com/unit-converter/zahlen.php?og=System+calculand&ug=1
 9. http://www.math.com/students/converters/source/base.htm
 10. https://www.dcode.fr/base-n-convert
-11. https://www.cut-the-knot.org/Curriculum/Algorithms/BaseConversion.shtml
-12. http://www.tonymarston.net/php-mysql/converter.php
-13. http://math.fau.edu/Richman/mla/convert.htm
-14. https://web.archive.org/web/20190629223750/http://thedevtoolkit.com/tools/base_conversion
-15. http://www.kwuntung.net/hkunit/base/base.php (in Chinese)
-16. https://linesegment.web.fc2.com/application/math/numbers/RadixConversion.html (in Japanese)
-17. http://www.positiveintegers.org/ (just enter the number)
-18. https://numdic.com/ (just enter the number)
-19. https://numbermatics.com/ (just enter the number)
-20. https://metanumbers.com/ (just enter the number)
-21. https://int.darkbyte.ru/ (just enter the number)
-22. https://www.numbersaplenty.com/ (just enter the number)
-23. http://factordb.com/index.php?showid=1000000000000000127 (you can change the "showid" to the *ID* for your number)
+11. http://www.unitconversion.org/unit_converter/numbers-ex.html
+12. https://www.cut-the-knot.org/Curriculum/Algorithms/BaseConversion.shtml
+13. http://www.tonymarston.net/php-mysql/converter.php
+14. http://math.fau.edu/Richman/mla/convert.htm
+15. https://web.archive.org/web/20190629223750/http://thedevtoolkit.com/tools/base_conversion
+16. http://www.kwuntung.net/hkunit/base/base.php (in Chinese)
+17. https://linesegment.web.fc2.com/application/math/numbers/RadixConversion.html (in Japanese)
+18. http://www.positiveintegers.org/ (just enter the number)
+19. https://numdic.com/ (just enter the number)
+20. https://numbermatics.com/ (just enter the number)
+21. https://metanumbers.com/ (just enter the number)
+22. https://int.darkbyte.ru/ (just enter the number)
+23. https://www.numbersaplenty.com/ (just enter the number)
+24. http://factordb.com/index.php?showid=1000000000000000127 (you can change the "showid" to the *ID* for your number)
 
 Expression generators:
 
