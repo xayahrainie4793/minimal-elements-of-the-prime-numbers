@@ -1527,10 +1527,10 @@ Base converters:
 6. https://www.calculand.com/unit-converter/zahlen.php?og=Base64&ug=1
 7. https://www.calculand.com/unit-converter/zahlen.php?og=Base85&ug=1
 8. https://www.calculand.com/unit-converter/zahlen.php?og=System+calculand&ug=1
-9. http://www.math.com/students/converters/source/base.htm
-10. https://www.dcode.fr/base-n-convert
-11. http://www.unitconversion.org/unit_converter/numbers-ex.html
-12. http://www.unitconversion.org/unit_converter/numbers.html
+9. http://www.unitconversion.org/unit_converter/numbers.html
+10. http://www.unitconversion.org/unit_converter/numbers-ex.html
+11. http://www.math.com/students/converters/source/base.htm
+12. https://www.dcode.fr/base-n-convert
 13. https://www.cut-the-knot.org/Curriculum/Algorithms/BaseConversion.shtml
 14. http://www.tonymarston.net/php-mysql/converter.php
 15. http://math.fau.edu/Richman/mla/convert.htm
