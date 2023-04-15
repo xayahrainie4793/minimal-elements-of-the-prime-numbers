@@ -786,29 +786,22 @@ To do this, we made use of Geoffrey Reynolds' *SRSIEVE* software (https://www.bc
 
 When sieving the sequence (*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1) (*a* ≥ 1, *b* ≥ 2, *c* ≠ 0, *gcd*(*a*,*c*) = 1, *gcd*(*b*,*c*) = 1), the sieve program should: (below, *r* is a linear function of *n*, *m* is a constant like *a*, *b*, *c*)
 
-General:
+1. General:
+1.1. If (*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1) can be written as (*m*<sup>*r*</sup>−1)/(*m*−1); display a warning message on the screen that this form is a generalized repunit number and could better be factored or sieved with another program (remove all composite *r*, and only sieve with the primes *p* == 1 mod *r*).
+1.2. If (*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1) can be written as (*m*<sup>*r*</sup>+1)/(*m*+1); display a warning message on the screen that this form is a generalized Wagstaff number and could better be factored or sieved with another program (remove all composite *r*, and only sieve with the primes *p* == 1 mod 2×*r*).
+1.3. If (*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1) can be written as *m*<sup>*r*</sup>+1 or (*m*<sup>*r*</sup>+1)/2; display a warning message on the screen that this form is a generalized Fermat number and could better be factored or sieved with another program (remove all non-power-of-2 *r*, and no need to sieve, and use trial division with the primes *p* == 1 mod 2×*r*).
+2. Remove all *n* cases:
+2.1. If *a*, *b*, −*c* are all squares; remove all *n*.
+2.2. If *a*, *b*, *c* are all *r*-th powers for an odd *r* > 1; remove all *n*.
+2.3. If *b* and 4×*a*×*c* are both 4-th powers; remove all *n*. These are Aurifeuillian factors.
+3. Remove partial *n* cases:
+3.1. If *a* and −*c* are both squares; remove all *n* == 0 mod 2.
+3.2. If *a* and *c* are both *r*-th powers for an odd r > 1; for each such *r*, remove all *n* == 0 mod *r*.
+3.3. If 4×*a*×*c* is a 4-th power; remove all *n* == 0 mod 4.
+3.4. If *a*×*c* and 4×*b* are both 4-th powers; remove all *n* == 1 mod 2.
+3.5. If *a*×*c* is a 4-th power and 2×*b* is a square; remove all *n* == 2 mod 4.
 
-* If (*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1) can be written as (*m*<sup>*r*</sup>−1)/(*m*−1); display a warning message on the screen that this form is a generalized repunit number and could better be factored or sieved with another program (remove all composite *r*, and only sieve with the primes *p* == 1 mod *r*).
-* If (*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1) can be written as (*m*<sup>*r*</sup>+1)/(*m*+1); display a warning message on the screen that this form is a generalized Wagstaff number and could better be factored or sieved with another program (remove all composite *r*, and only sieve with the primes *p* == 1 mod 2×*r*).
-* If (*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1) can be written as *m*<sup>*r*</sup>+1 or (*m*<sup>*r*</sup>+1)/2; display a warning message on the screen that this form is a generalized Fermat number and could better be factored or sieved with another program (remove all non-power-of-2 *r*, and no need to sieve, and use trial division with the primes *p* == 1 mod 2×*r*).
-
-Remove all *n* cases:
-
-* If *a*, *b*, −*c* are all squares; remove all *n*.
-* If *a*, *b*, *c* are all *r*-th powers for an odd *r* > 1; remove all *n*.
-* If *b* and 4×*a*×*c* are both 4-th powers; remove all *n*. These are Aurifeuillian factors.
-
-The above should all be checked first before preceding.
-
-Remove partial *n* cases:
-
-* If *a* and −*c* are both squares; remove all *n* == 0 mod 2.
-* If *a* and *c* are both *r*-th powers for an odd r > 1; for each such *r*, remove all *n* == 0 mod *r*.
-* If 4×*a*×*c* is a 4-th power; remove all *n* == 0 mod 4.
-* If *a*×*c* and 4×*b* are both 4-th powers; remove all *n* == 1 mod 2.
-* If *a*×*c* is a 4-th power and 2×*b* is a square; remove all *n* == 2 mod 4.
-
-The last three are more Aurifeuillian factors.
+1. and 2. should all be checked first before preceding, 3.3. and 3.4. and 3.5. are more Aurifeuillian factors.
 
 Coordination with existing code:
 
