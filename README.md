@@ -468,7 +468,7 @@ We can show that: For the case of covering congruence, the numbers in the family
 
 (this table is sorted by: single trivial prime factor (2{0}1 in base *b* = 10 through D{6}R in base *b* = 28) → covering congruence with 2 primes ({1}5 in base *b* = 9 through {X}5 in base *b* = 34) → covering congruence with ≥ 3 primes (6{4}7 in base *b* = 8 through {G}L in base *b* = 32) → algebraic factorization ({1} in base *b* = 9 through 9{S}IJ in base *b* = 36) → combine of covering congruence and algebraic factorization (8{D} in base *b* = 14 through {X}P in base *b* = 34))
 
-|*b*|family|algebraic ((*a*×*b*<sup>*n*</sup>+*c*)/*d*) form of this family (*n* is the number of digits in the "{}", also the lower bound of *n* to make the numbers > *b*)<br>(note: *d* divides *gcd*(*a*+*c*,*b*−1), but *d* need not be *gcd*(*a*+*c*,*b*−1), *d* = *gcd*(*a*+*c*,*b*−1) if and only if the numbers in the family are not divisible by some prime factor of *b*−1, i.e. the numbers in the family are coprime to *b*−1)|why this family contain no primes > *b*|factorization of the numbers in this family (*n* is the number of digits in the "{}", start with the smallest *n* making the number > *b* (if *n* = 0 already makes the number > *b*, then start with *n* = 0))|
+|*b*|family|algebraic ((*a*×*b*<sup>*n*</sup>+*c*)/*d*) form of this family (*n* is the number of digits in the "{}", also the lower bound of *n* to make the numbers > *b*)<br>(note: *d* divides *gcd*(*a*+*c*,*b*−1), but *d* need not be *gcd*(*a*+*c*,*b*−1), *d* = *gcd*(*a*+*c*,*b*−1) if and only if the numbers in the family are not divisible by some prime factor of *b*−1, i.e. the numbers in the family are coprime to *b*−1)|why this family contain no primes > *b*|factorization of the numbers in this family (*n* is the number of digits in the "{}", start with the smallest *n* making the number > *b* (if *n* = 0 already makes the number > *b*, then start with *n* = 0))<br>(only for linear families)|
 |---|---|---|---|---|
 |10|2{0}1|2×10<sup>*n*+1</sup>+1 (*n* ≥ 0)|always divisible by 3|http://factordb.com/index.php?query=2*10%5E%28n%2B1%29%2B1&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |10|2{0}7|2×10<sup>*n*+1</sup>+7 (*n* ≥ 0)|always divisible by 3<br>(in fact, always divisible by 9)|http://factordb.com/index.php?query=2*10%5E%28n%2B1%29%2B7&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
@@ -480,8 +480,8 @@ We can show that: For the case of covering congruence, the numbers in the family
 |10|4{6}9|(14×10<sup>*n*+1</sup>+7)/3 (*n* ≥ 0)|always divisible by 7|http://factordb.com/index.php?query=%2814*10%5E%28n%2B1%29%2B7%29%2F3&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |10|families ending with 0, 2, 4, 6, or 8|–|always divisible by 2|–|
 |10|families ending with 0 or 5|–|always divisible by 5|–|
-|10|{0,3,6,9}|–|always divisible by 3<br>(non-simple family)|–|
-|10|{0,7}|–|always divisible by 7<br>(non-simple family)|–|
+|10|{0,3,6,9}|–|always divisible by 3<br>(nonlinear family)|–|
+|10|{0,7}|–|always divisible by 7<br>(nonlinear family)|–|
 |any base (*b*)|families ending with digits *d* which are not coprime to *b*|–|always divisible by *gcd*(*d*,*b*)|–|
 |any base (*b*)|families whose digits all have a common factor *d* > 1|–|always divisible by *d*|–|
 |3|1{0}1|3<sup>*n*+1</sup>+1 (*n* ≥ 0)|always divisible by 2|http://factordb.com/index.php?query=3%5E%28n%2B1%29%2B1&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
@@ -503,20 +503,20 @@ We can show that: For the case of covering congruence, the numbers in the family
 |7|2{0}1|2×7<sup>*n*+1</sup>+1 (*n* ≥ 0)|always divisible by 3|http://factordb.com/index.php?query=2*7%5E%28n%2B1%29%2B1&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |7|4{0}5|4×7<sup>*n*+1</sup>+5 (*n* ≥ 0)|always divisible by 3|http://factordb.com/index.php?query=4*7%5E%28n%2B1%29%2B5&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |7|5{0}4|5×7<sup>*n*+1</sup>+4 (*n* ≥ 0)|always divisible by 3|http://factordb.com/index.php?query=5*7%5E%28n%2B1%29%2B4&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
-|7|1{0}1{0}1|7<sup>*m*+*n*+2</sup>+7<sup>*n*+1</sup>+1 (*m*+*n* ≥ 0)|always divisible by 3<br>(non-simple family)|–|
-|7|1{0}3{0}5|7<sup>*m*+*n*+2</sup>+3×7<sup>*n*+1</sup>+5 (*m*+*n* ≥ 0)|always divisible by 3<br>(non-simple family)|–|
-|7|1{0}5{0}3|7<sup>*m*+*n*+2</sup>+5×7<sup>*n*+1</sup>+3 (*m*+*n* ≥ 0)|always divisible by 3<br>(non-simple family)|–|
-|7|3{0}1{0}5|3×7<sup>*m*+*n*+2</sup>+7<sup>*n*+1</sup>+5 (*m*+*n* ≥ 0)|always divisible by 3<br>(non-simple family)|–|
-|7|3{0}5{0}1|3×7<sup>*m*+*n*+2</sup>+5×7<sup>*n*+1</sup>+1 (*m*+*n* ≥ 0)|always divisible by 3<br>(non-simple family)|–|
-|7|5{0}1{0}3|5×7<sup>*m*+*n*+2</sup>+7<sup>*n*+1</sup>+3 (*m*+*n* ≥ 0)|always divisible by 3<br>(non-simple family)|–|
-|7|5{0}3{0}1|5×7<sup>*m*+*n*+2</sup>+3×7<sup>*n*+1</sup>+1 (*m*+*n* ≥ 0)|always divisible by 3<br>(non-simple family)|–|
-|7|1{0}1{0}1{0}1|7<sup>*r*+*m*+*n*+3</sup>+7<sup>*m*+*n*+2</sup>+7<sup>*n*+1</sup>+1 (*r*+*m*+*n* ≥ 0)|always divisible by 2<br>(non-simple family)|–|
-|7|1{0}1{0}2|7<sup>*m*+*n*+2</sup>+7<sup>*n*+1</sup>+2 (*m*+*n* ≥ 0)|always divisible by 2<br>(non-simple family)|–|
-|7|1{0}2{0}1|7<sup>*m*+*n*+2</sup>+2×7<sup>*n*+1</sup>+1 (*m*+*n* ≥ 0)|always divisible by 2<br>(non-simple family)|–|
-|7|2{0}1{0}1|2×7<sup>*m*+*n*+2</sup>+7<sup>*n*+1</sup>+1 (*m*+*n* ≥ 0)|always divisible by 2<br>(non-simple family)|–|
-|7|4{0}5{0}5|4×7<sup>*m*+*n*+2</sup>+5×7<sup>*n*+1</sup>+5 (*m*+*n* ≥ 0)|always divisible by 2<br>(non-simple family)|–|
-|7|5{0}4{0}5|5×7<sup>*m*+*n*+2</sup>+4×7<sup>*n*+1</sup>+5 (*m*+*n* ≥ 0)|always divisible by 2<br>(non-simple family)|–|
-|7|5{0}5{0}4|5×7<sup>*m*+*n*+2</sup>+5×7<sup>*n*+1</sup>+4 (*m*+*n* ≥ 0)|always divisible by 2<br>(non-simple family)|–|
+|7|1{0}1{0}1|7<sup>*m*+*n*+2</sup>+7<sup>*n*+1</sup>+1 (*m*+*n* ≥ 0)|always divisible by 3<br>(nonlinear family)|–|
+|7|1{0}3{0}5|7<sup>*m*+*n*+2</sup>+3×7<sup>*n*+1</sup>+5 (*m*+*n* ≥ 0)|always divisible by 3<br>(nonlinear family)|–|
+|7|1{0}5{0}3|7<sup>*m*+*n*+2</sup>+5×7<sup>*n*+1</sup>+3 (*m*+*n* ≥ 0)|always divisible by 3<br>(nonlinear family)|–|
+|7|3{0}1{0}5|3×7<sup>*m*+*n*+2</sup>+7<sup>*n*+1</sup>+5 (*m*+*n* ≥ 0)|always divisible by 3<br>(nonlinear family)|–|
+|7|3{0}5{0}1|3×7<sup>*m*+*n*+2</sup>+5×7<sup>*n*+1</sup>+1 (*m*+*n* ≥ 0)|always divisible by 3<br>(nonlinear family)|–|
+|7|5{0}1{0}3|5×7<sup>*m*+*n*+2</sup>+7<sup>*n*+1</sup>+3 (*m*+*n* ≥ 0)|always divisible by 3<br>(nonlinear family)|–|
+|7|5{0}3{0}1|5×7<sup>*m*+*n*+2</sup>+3×7<sup>*n*+1</sup>+1 (*m*+*n* ≥ 0)|always divisible by 3<br>(nonlinear family)|–|
+|7|1{0}1{0}1{0}1|7<sup>*r*+*m*+*n*+3</sup>+7<sup>*m*+*n*+2</sup>+7<sup>*n*+1</sup>+1 (*r*+*m*+*n* ≥ 0)|always divisible by 2<br>(nonlinear family)|–|
+|7|1{0}1{0}2|7<sup>*m*+*n*+2</sup>+7<sup>*n*+1</sup>+2 (*m*+*n* ≥ 0)|always divisible by 2<br>(nonlinear family)|–|
+|7|1{0}2{0}1|7<sup>*m*+*n*+2</sup>+2×7<sup>*n*+1</sup>+1 (*m*+*n* ≥ 0)|always divisible by 2<br>(nonlinear family)|–|
+|7|2{0}1{0}1|2×7<sup>*m*+*n*+2</sup>+7<sup>*n*+1</sup>+1 (*m*+*n* ≥ 0)|always divisible by 2<br>(nonlinear family)|–|
+|7|4{0}5{0}5|4×7<sup>*m*+*n*+2</sup>+5×7<sup>*n*+1</sup>+5 (*m*+*n* ≥ 0)|always divisible by 2<br>(nonlinear family)|–|
+|7|5{0}4{0}5|5×7<sup>*m*+*n*+2</sup>+4×7<sup>*n*+1</sup>+5 (*m*+*n* ≥ 0)|always divisible by 2<br>(nonlinear family)|–|
+|7|5{0}5{0}4|5×7<sup>*m*+*n*+2</sup>+5×7<sup>*n*+1</sup>+4 (*m*+*n* ≥ 0)|always divisible by 2<br>(nonlinear family)|–|
 |8|2{0}5|2×8<sup>*n*+1</sup>+5 (*n* ≥ 0)|always divisible by 7|http://factordb.com/index.php?query=2*8%5E%28n%2B1%29%2B5&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |8|4{0}3|4×8<sup>*n*+1</sup>+3 (*n* ≥ 0)|always divisible by 7|http://factordb.com/index.php?query=4*8%5E%28n%2B1%29%2B3&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |8|6{0}1|6×8<sup>*n*+1</sup>+1 (*n* ≥ 0)|always divisible by 7|http://factordb.com/index.php?query=6*8%5E%28n%2B1%29%2B1&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
@@ -558,11 +558,11 @@ We can show that: For the case of covering congruence, the numbers in the family
 |9|{7}2|(7×9<sup>*n*+1</sup>−47)/8 (*n* ≥ 1)|always divisible by some element of {2,5}<br>divisible by 2 if *n* is even, divisible by 5 if *n* is odd|http://factordb.com/index.php?query=%287*9%5E%28n%2B1%29-47%29%2F8&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |9|{7}5|(7×9<sup>*n*+1</sup>−23)/8 (*n* ≥ 1)|always divisible by some element of {2,5}<br>divisible by 2 if *n* is odd, divisible by 5 if *n* is even|http://factordb.com/index.php?query=%287*9%5E%28n%2B1%29-23%29%2F8&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |9|{7}05|(3×9<sup>*n*+2</sup>−527)/8 (*n* ≥ 1)|always divisible by some element of {2,5}<br>divisible by 2 if *n* is odd, divisible by 5 if *n* is even|http://factordb.com/index.php?query=%287*9%5E%28n%2B2%29-527%29%2F8&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
-|9|{1}6{1}|(9<sup>*m*+*n*+1</sup>+40×9<sup>*n*</sup>−1)/8 (*m*+*n* ≥ 1)|always divisible by some element of {2,5}<br>(non-simple family)<br>divisible by 2 if *m*+*n* is even, divisible by 5 if *m*+*n* is odd|–|
-|9|{7}2{7}|(7×9<sup>*m*+*n*+1</sup>−40×9<sup>*n*</sup>−7)/8 (*m*+*n* ≥ 1)|always divisible by some element of {2,5}<br>(non-simple family)<br>divisible by 2 if *m*+*n* is even, divisible by 5 if *m*+*n* is odd|–|
-|9|5{0}{7}|(40×9<sup>*m*+*n*</sup>+7×9<sup>*n*</sup>−7)/8 (*m*+*n* ≥ 1)|always divisible by some element of {2,5}<br>(non-simple family)<br>divisible by 2 if *n* is odd, divisible by 5 if *n* is even|–|
-|9|{3}{0}5|(3×9<sup>*m*+*n*+1</sup>−3×9<sup>*n*+1</sup>+40)/8 (*m*+*n* ≥ 1)|always divisible by some element of {2,5}<br>(non-simple family)<br>divisible by 2 if *m* is odd, divisible by 5 if *m* is even|–|
-|9|{7}{0}5|(7×9<sup>*m*+*n*+1</sup>−7×9<sup>*n*+1</sup>+40)/8 (*m*+*n* ≥ 1)|always divisible by some element of {2,5}<br>(non-simple family)<br>divisible by 2 if *m* is odd, divisible by 5 if *m* is even|–|
+|9|{1}6{1}|(9<sup>*m*+*n*+1</sup>+40×9<sup>*n*</sup>−1)/8 (*m*+*n* ≥ 1)|always divisible by some element of {2,5}<br>(nonlinear family)<br>divisible by 2 if *m*+*n* is even, divisible by 5 if *m*+*n* is odd|–|
+|9|{7}2{7}|(7×9<sup>*m*+*n*+1</sup>−40×9<sup>*n*</sup>−7)/8 (*m*+*n* ≥ 1)|always divisible by some element of {2,5}<br>(nonlinear family)<br>divisible by 2 if *m*+*n* is even, divisible by 5 if *m*+*n* is odd|–|
+|9|5{0}{7}|(40×9<sup>*m*+*n*</sup>+7×9<sup>*n*</sup>−7)/8 (*m*+*n* ≥ 1)|always divisible by some element of {2,5}<br>(nonlinear family)<br>divisible by 2 if *n* is odd, divisible by 5 if *n* is even|–|
+|9|{3}{0}5|(3×9<sup>*m*+*n*+1</sup>−3×9<sup>*n*+1</sup>+40)/8 (*m*+*n* ≥ 1)|always divisible by some element of {2,5}<br>(nonlinear family)<br>divisible by 2 if *m* is odd, divisible by 5 if *m* is even|–|
+|9|{7}{0}5|(7×9<sup>*m*+*n*+1</sup>−7×9<sup>*n*+1</sup>+40)/8 (*m*+*n* ≥ 1)|always divisible by some element of {2,5}<br>(nonlinear family)<br>divisible by 2 if *m* is odd, divisible by 5 if *m* is even|–|
 |11|2{5}|(5×11<sup>*n*</sup>−1)/2 (*n* ≥ 1)|always divisible by some element of {2,3}<br>divisible by 2 if *n* is even, divisible by 3 if *n* is odd|http://factordb.com/index.php?query=%285*11%5En-1%29%2F2&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |11|3{1}|(31×11<sup>*n*</sup>−1)/10 (*n* ≥ 1)|always divisible by some element of {2,3}<br>divisible by 2 if *n* is odd, divisible by 3 if *n* is even<br>(special example, as the numbers with length ≥ 18 in this family contain "prime > *b*" subsequence, this prime is 1<sub>17</sub>)|http://factordb.com/index.php?query=%2831*11%5En-1%29%2F10&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |11|3{5}|(7×11<sup>*n*</sup>−1)/2 (*n* ≥ 1)|always divisible by some element of {2,3}<br>divisible by 2 if *n* is odd, divisible by 3 if *n* is even|http://factordb.com/index.php?query=%287*11%5En-1%29%2F2&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
@@ -587,8 +587,8 @@ We can show that: For the case of covering congruence, the numbers in the family
 |11|{7}9|(7×11<sup>*n*+1</sup>+13)/10 (*n* ≥ 1)|always divisible by some element of {2,3}<br>divisible by 2 if *n* is odd, divisible by 3 if *n* is even|http://factordb.com/index.php?query=%287*11%5E%28n%2B1%29%2B13%29%2F10&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |11|{1}A|(11<sup>*n*+1</sup>+89)/10 (*n* ≥ 1)|always divisible by some element of {2,3}<br>divisible by 2 if the length is odd, divisible by 3 if the length is even<br>(special example, as the numbers with length ≥ 18 in this family contain "prime > *b*" subsequence, this prime is 1<sub>17</sub>)|http://factordb.com/index.php?query=%2811%5E%28n%2B1%29%2B89%29%2F10&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |11|{7}A|(7×11<sup>*n*+1</sup>+23)/10 (*n* ≥ 1)|always divisible by some element of {2,3}<br>divisible by 2 if the length is odd, divisible by 3 if the length is even|http://factordb.com/index.php?query=%287*11%5E%28n%2B1%29%2B23%29%2F10&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
-|11|3{0}{5}|(6×11<sup>*m*+*n*</sup>+11<sup>*n*</sup>−1)/2|always divisible by some element of {2,3}<br>(non-simple family)<br>divisible by 2 if *n* is odd, divisible by 3 if *n* is even|–|
-|11|{5}{0}3|(11<sup>*m*+*n*+1</sup>−11<sup>*n*+1</sup>+6)/2|always divisible by some element of {2,3}<br>(non-simple family)<br>divisible by 2 if *m* is odd, divisible by 3 if *m* is even|–|
+|11|3{0}{5}|(6×11<sup>*m*+*n*</sup>+11<sup>*n*</sup>−1)/2|always divisible by some element of {2,3}<br>(nonlinear family)<br>divisible by 2 if *n* is odd, divisible by 3 if *n* is even|–|
+|11|{5}{0}3|(11<sup>*m*+*n*+1</sup>−11<sup>*n*+1</sup>+6)/2|always divisible by some element of {2,3}<br>(nonlinear family)<br>divisible by 2 if *m* is odd, divisible by 3 if *m* is even|–|
 |14|4{0}1|4×14<sup>*n*+1</sup>+1 (*n* ≥ 0)|always divisible by some element of {3,5}<br>divisible by 3 if *n* is even, divisible by 5 if *n* is odd|http://factordb.com/index.php?query=4*14%5E%28n%2B1%29%2B1&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |14|B{0}1|11×14<sup>*n*+1</sup>+1 (*n* ≥ 0)|always divisible by some element of {3,5}<br>divisible by 3 if *n* is odd, divisible by 5 if *n* is even|http://factordb.com/index.php?query=11*14%5E%28n%2B1%29%2B1&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |14|3{D}|4×14<sup>*n*</sup>−1 (*n* ≥ 1)|always divisible by some element of {3,5}<br>divisible by 3 if *n* is even, divisible by 5 if *n* is odd|http://factordb.com/index.php?query=4*14%5En-1&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
