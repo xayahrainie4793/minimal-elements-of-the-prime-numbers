@@ -1230,11 +1230,7 @@ Links for top (probable) primes: (also pages for the largest known prime: https:
 
 * https://t5k.org/primes/lists/all.txt (top definitely primes)
 * https://t5k.org/primes/lists/all.zip (top definitely primes, zipped file)
-* https://t5k.org/primes/lists/all.pdf (top definitely primes, pdf version)
-* https://t5k.org/primes/lists/all_pdf.zip (top definitely primes, pdf version, zipped file)
 * https://t5k.org/primes/lists/short.txt (definitely primes with ≥ 800000 decimal digits)
-* https://t5k.org/primes/lists/short.pdf (definitely primes with ≥ 800000 decimal digits, pdf version)
-* https://t5k.org/primes/lists/short_pdf.zip (definitely primes with ≥ 800000 decimal digits, pdf version, zipped file)
 * https://t5k.org/primes/search.php?OnList=all&Number=1000000&Style=HTML (all numbers in the list of top definitely primes, html version)
 * https://t5k.org/primes/search.php?OnList=all&Number=1000000 (all numbers in the list of top definitely primes, text version)
 * https://t5k.org/primes/ (index page of top definitely primes)
