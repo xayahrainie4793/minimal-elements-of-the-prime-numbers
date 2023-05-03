@@ -23,7 +23,7 @@ These primes are called **minimal primes**.
 
 Let *b* > 1 be a natural number. A minimal prime base *b* is a prime number greater than *b* whose base-*b* representation has no proper subsequence which is also a prime number greater than *b*.
 
-For example, 857 is a minimal prime in base 10 because there is no prime > 10 among the shorter subsequences of the digits: 8, 5, 7, 85, 87, 57. The subsequence does not have to consist of consecutive digits, so 149 is not a minimal prime in base 10 (because 19 is prime and 19 > 10). But it does have to be in the same order; so, for example, 991 is still a minimal prime in base 10 even though a subset of the digits can form the shorter prime 19 > 10 by changing the order.
+For example, 857 is a minimal prime in decimal (base *b* = 10) because there is no prime > 10 among the shorter subsequences of the digits: 8, 5, 7, 85, 87, 57. The subsequence does not have to consist of consecutive digits, so 149 is not a minimal prime in decimal (base *b* = 10) (because 19 is prime and 19 > 10). But it does have to be in the same order; so, for example, 991 is still a minimal prime in decimal (base *b* = 10) even though a subset of the digits can form the shorter prime 19 > 10 by changing the order.
 
 Now we extend minimal primes to bases *b* other than 10.
 
