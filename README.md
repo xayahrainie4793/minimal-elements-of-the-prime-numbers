@@ -549,7 +549,7 @@ We can show that: For the case of covering congruence, the numbers in the family
 |15|9{6}8|(66×15<sup>*n*+1</sup>+11)/7 (*n* ≥ 0)|always divisible by 11|http://factordb.com/index.php?query=%2866*15%5E%28n%2B1%29%2B11%29%2F7&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |16|2{C}3|(14×16<sup>*n*+1</sup>−49)/5 (*n* ≥ 0)|always divisible by 7|http://factordb.com/index.php?query=%2814*16%5E%28n%2B1%29-49%29%2F5&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |16|A{4}1|(154×16<sup>*n*+1</sup>−49)/15 (*n* ≥ 0)|always divisible by 7|http://factordb.com/index.php?query=%28154*16%5E%28n%2B1%29-49%29%2F15&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
-|16|8{C}F|(44×16<sup>*n*+1</sup>+11)/5 (*n* ≥ 0)|always divisible by 11<br>(in fact, also Aurifeuillian factorization of *x*<sup>4</sup>+4×*y*<sup>4</sup><br>(44×16<sup>*n*+1</sup>+11)/5 = 11 × (2×4<sup>*n*+1</sup>−2×2<sup>*n*+1</sup>+1) × (2×4<sup>*n*+1</sup>+2×2<sup>*n*+1</sup>+1) / 5|http://factordb.com/index.php?query=%2844*16%5E%28n%2B1%29%2B11%29%2F5&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|16|8{C}F|(44×16<sup>*n*+1</sup>+11)/5 (*n* ≥ 0)|always divisible by 11<br>(in fact, also Aurifeuillean factorization of *x*<sup>4</sup>+4×*y*<sup>4</sup><br>(44×16<sup>*n*+1</sup>+11)/5 = 11 × (2×4<sup>*n*+1</sup>−2×2<sup>*n*+1</sup>+1) × (2×4<sup>*n*+1</sup>+2×2<sup>*n*+1</sup>+1) / 5|http://factordb.com/index.php?query=%2844*16%5E%28n%2B1%29%2B11%29%2F5&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |16|8{A}F|(26×16<sup>*n*+1</sup>+13)/3 (*n* ≥ 0)|always divisible by 13|http://factordb.com/index.php?query=%2826*16%5E%28n%2B1%29%2B13%29%2F3&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |16|A{6}9|(52×16<sup>*n*+1</sup>+13)/5 (*n* ≥ 0)|always divisible by 13|http://factordb.com/index.php?query=%2852*16%5E%28n%2B1%29%2B13%29%2F5&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |21|B0{H}6H|(4637×21<sup>*n*+2</sup>−4637)/20 (*n* ≥ 0)|always divisible by 4637|http://factordb.com/index.php?query=%284637*21%5E%28n%2B2%29-4637%29%2F20&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
@@ -675,8 +675,8 @@ We can show that: For the case of covering congruence, the numbers in the family
 |16|{3}23|(16<sup>*n*+2</sup>−81)/5 (*n* ≥ 0)|difference-of-two-squares factorization<br>(16<sup>*n*+2</sup>−81)/5 = (4<sup>*n*+2</sup>−9) × (4<sup>*n*+2</sup>+9) / 5<br>(in fact, difference-of-4th-powers factorization)<br>(16<sup>*n*+2</sup>−81)/5 = (2<sup>*n*+2</sup>−3) × (2<sup>*n*+2</sup>+3) × (4<sup>*n*+2</sup>+9) / 5|http://factordb.com/index.php?query=%2816%5E%28n%2B2%29-81%29%2F5&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |16|{5}45|(16<sup>*n*+2</sup>−49)/3 (*n* ≥ 0)|difference-of-two-squares factorization<br>(16<sup>*n*+2</sup>−49)/3 = (4<sup>*n*+2</sup>−7) × (4<sup>*n*+2</sup>+7) / 3|http://factordb.com/index.php?query=%2816%5E%28n%2B2%29-49%29%2F3&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |16|{C}B|(4×16<sup>*n*+1</sup>−9)/5 (*n* ≥ 1)|difference-of-two-squares factorization<br>(4×16<sup>*n*+1</sup>−9)/5 = (2×4<sup>*n*+1</sup>−3) × (2×4<sup>*n*+1</sup>+3) / 5|http://factordb.com/index.php?query=%284*16%5E%28n%2B1%29-9%29%2F5&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
-|16|{C}D|(4×16<sup>*n*+1</sup>+1)/5 (*n* ≥ 1)|Aurifeuillian factorization of *x*<sup>4</sup>+4×*y*<sup>4</sup><br>(4×16<sup>*n*+1</sup>+1)/5 = (2×4<sup>*n*+1</sup>−2×2<sup>*n*+1</sup>+1) × (2×4<sup>*n*+1</sup>+2×2<sup>*n*+1</sup>+1) / 5|http://factordb.com/index.php?query=%284*16%5E%28n%2B1%29%2B1%29%2F5&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
-|16|{C}DD|(4×16<sup>*n*+2</sup>+81)/5 (*n* ≥ 0)|Aurifeuillian factorization of *x*<sup>4</sup>+4×*y*<sup>4</sup><br>(4×16<sup>*n*+2</sup>+81)/5 = (2×4<sup>*n*+2</sup>−6×2<sup>*n*+2</sup>+9) × (2×4<sup>*n*+2</sup>+6×2<sup>*n*+2</sup>+9) / 5|http://factordb.com/index.php?query=%284*16%5E%28n%2B2%29%2B81%29%2F5&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|16|{C}D|(4×16<sup>*n*+1</sup>+1)/5 (*n* ≥ 1)|Aurifeuillean factorization of *x*<sup>4</sup>+4×*y*<sup>4</sup><br>(4×16<sup>*n*+1</sup>+1)/5 = (2×4<sup>*n*+1</sup>−2×2<sup>*n*+1</sup>+1) × (2×4<sup>*n*+1</sup>+2×2<sup>*n*+1</sup>+1) / 5|http://factordb.com/index.php?query=%284*16%5E%28n%2B1%29%2B1%29%2F5&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|16|{C}DD|(4×16<sup>*n*+2</sup>+81)/5 (*n* ≥ 0)|Aurifeuillean factorization of *x*<sup>4</sup>+4×*y*<sup>4</sup><br>(4×16<sup>*n*+2</sup>+81)/5 = (2×4<sup>*n*+2</sup>−6×2<sup>*n*+2</sup>+9) × (2×4<sup>*n*+2</sup>+6×2<sup>*n*+2</sup>+9) / 5|http://factordb.com/index.php?query=%284*16%5E%28n%2B2%29%2B81%29%2F5&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |25|{1}|(25<sup>*n*</sup>−1)/24 (*n* ≥ 2)|difference-of-two-squares factorization<br>(25<sup>*n*</sup>−1)/24 = (5<sup>*n*</sup>−1) × (5<sup>*n*</sup>+1) / 24|http://factordb.com/index.php?query=%2825%5En-1%29%2F24&use=n&n=2&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |25|2{1}|(49×25<sup>*n*</sup>−1)/24 (*n* ≥ 1)|difference-of-two-squares factorization<br>(49×25<sup>*n*</sup>−1)/24 = (7×5<sup>*n*</sup>−1) × (7×5<sup>*n*</sup>+1) / 24|http://factordb.com/index.php?query=%2849*25%5En-1%29%2F24&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |25|5{1}|(121×25<sup>*n*</sup>−1)/24 (*n* ≥ 1)|difference-of-two-squares factorization<br>(121×25<sup>*n*</sup>−1)/24 = (11×5<sup>*n*</sup>−1) × (11×5<sup>*n*</sup>+1) / 24|http://factordb.com/index.php?query=%28121*25%5En-1%29%2F24&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
@@ -804,7 +804,7 @@ When sieving the sequence (*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1) (*
 2. Remove all *n* cases:
 2.1. If *a*, *b*, −*c* are all squares; remove all *n*.
 2.2. If *a*, *b*, *c* are all *r*-th powers for an odd *r* > 1; remove all *n*.
-2.3. If *b* and 4×*a*×*c* are both 4-th powers; remove all *n*. These are Aurifeuillian factors.
+2.3. If *b* and 4×*a*×*c* are both 4-th powers; remove all *n*. These are Aurifeuillean factors.
 3. Remove partial *n* cases:
 3.1. If *a* and −*c* are both squares; remove all *n* == 0 mod 2.
 3.2. If *a* and *c* are both *r*-th powers for an odd r > 1; for each such *r*, remove all *n* == 0 mod *r*.
@@ -812,7 +812,7 @@ When sieving the sequence (*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1) (*
 3.4. If *a*×*c* and 4×*b* are both 4-th powers; remove all *n* == 1 mod 2.
 3.5. If *a*×*c* is a 4-th power and 2×*b* is a square; remove all *n* == 2 mod 4.
 
-#1 and #2 should all be checked first before preceding, #3.3 and #3.4 and #3.5 are more Aurifeuillian factors.
+#1 and #2 should all be checked first before preceding, #3.3 and #3.4 and #3.5 are more Aurifeuillean factors.
 
 Coordination with existing code:
 
