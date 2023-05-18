@@ -325,7 +325,7 @@ An algorithm to solve this problem, for example, would allow us to decide if the
 
 (Currently, whether 65537 is the largest Fermat prime, whether there are infinitely many Mersenne primes, whether 78557 is the smallest Sierpinski number, whether 509203 is the smallest Riesel number, are all unsolved problems (https://en.wikipedia.org/wiki/Open_problem, https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_mathematics, https://t5k.org/glossary/xpage/OpenQuestion.html, https://mathworld.wolfram.com/UnsolvedProblems.html, http://www.numericana.com/answer/open.htm, https://t5k.org/notes/conjectures/))
 
-Also, there are some examples in decimal (i.e. base *b* = 10): (references: https://stdkmd.net/nrr/prime/primecount.htm, https://stdkmd.net/nrr/prime/primecount.txt, https://stdkmd.net/nrr/prime/primedifficulty.htm, https://stdkmd.net/nrr/prime/primedifficulty.txt)
+Also, there are some examples in decimal (i.e. base *b* = 10): (references: https://stdkmd.net/nrr/prime/primecount.htm, https://stdkmd.net/nrr/prime/primecount.txt, https://stdkmd.net/nrr/prime/primedifficulty.htm, https://stdkmd.net/nrr/prime/primedifficulty.txt) (see https://sites.google.com/view/smallest-quasi-repdigit-primes for more examples)
 
 |*x*|*y*|*z*|answer|factorization of the numbers in this family (*n* is the number of digits in the "{}", start with the smallest allowed *n* in the table (usually *n* = 0, unless other *n* are mentioned))|
 |---|---|---|---|---|
