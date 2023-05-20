@@ -813,8 +813,9 @@ When sieving the sequence (*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1) (*
 3.1. If *a* and −*c* are both squares; remove all *n* == 0 mod 2.
 3.2. If *a* and *c* are both *r*-th powers for an odd r > 1; for each such *r*, remove all *n* == 0 mod *r*.
 3.3. If 4×*a*×*c* is a 4-th power; remove all *n* == 0 mod 4.
-3.4. If *a*×*c* and 4×*b* are both 4-th powers; remove all *n* == 1 mod 2.
-3.5. If *a*×*c* is a 4-th power and 2×*b* is a square; remove all *n* == 2 mod 4.
+3.4. If 4×*a*×*c* is a 4-th power and *b* is square; remove all *n* == 0 mod 2.
+3.5. If *a*×*c* and 4×*b* are both 4-th powers; remove all *n* == 1 mod 2.
+3.6. If *a*×*c* is a 4-th power and 2×*b* is a square; remove all *n* == 2 mod 4.
 
 #1 and #2 should all be checked first before preceding, #3.3 and #3.4 and #3.5 are more Aurifeuillean factors.
 
@@ -833,12 +834,16 @@ For examples:
 |27|8{0}1|8×27<sup>*n*+1</sup>+1|remove all *n*|8, 27, 1 are all cubes|ruled out as only contain composites (only count the numbers > *b*)|http://factordb.com/index.php?query=8*27%5E%28n%2B1%29%2B1&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |27|9{G}|(125×27<sup>*n*</sup>−8)/13|remove all *n*|125, 27, −8 are all cubes|ruled out as only contain composites (only count the numbers > *b*)|http://factordb.com/index.php?query=%28125*27%5En-8%29%2F13&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |16|{C}DD|(4×16<sup>*n*+2</sup>+81)/5|remove all *n*|16 and 4×4×81 are both 4-th powers|ruled out as only contain composites (only count the numbers > *b*)|http://factordb.com/index.php?query=%284*16%5E%28n%2B2%29%2B81%29%2F5&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|8|{4}1|(4×8<sup>*n*+1</sup>−25)/7|remove all *n* such that *n*+1 == 0 mod 2 (i.e. remove all *n* == 1 mod 2)|4 and 25 are both squares|4<sub>8</sub>1 (the 70th minimal prime in base 8)|http://factordb.com/index.php?query=%284*8%5E%28n%2B1%29-25%29%2F7&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |22|{7}2L|(22<sup>*n*+2</sup>−289)/3|remove all *n* such that *n*+2 == 0 mod 2 (i.e. remove all *n* == 0 mod 2)|1 and 289 are both squares|7<sub>3815</sub>2L (the 8002nd minimal prime in base 22)|http://factordb.com/index.php?query=%2822%5E%28n%2B2%29-289%29%2F3&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|20|{G}99|(16×20<sup>*n*+2</sup>−2809)/19|remove all *n* such that *n*+2 == 0 mod 2 (i.e. remove all *n* == 0 mod 2)|16 and 2809 are both squares|G<sub>447</sub>99 (the 3307th minimal prime in base 20)|http://factordb.com/index.php?query=%2816*20%5E%28n%2B2%29-2809%29%2F19&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|35|{Y}V|35<sup>*n*+1</sup>−4|remove all *n* such that *n*+1 == 0 mod 2 (i.e. remove all *n* == 1 mod 2)|1 and 4 are both squares|Y<sub>12</sub>V (the ?th minimal prime in base 35)|http://factordb.com/index.php?query=35%5E%28n%2B1%29-4&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |5|1{0}13|5<sup>*n*+2</sup>+8|remove all *n* such that *n*+2 == 0 mod 3 (i.e. remove all *n* == 1 mod 3)|1 and 8 are both cubes|10<sub>93</sub>13 (the 22nd minimal prime in base 5)|http://factordb.com/index.php?query=5%5E%28n%2B2%29%2B8&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |23|8{0}1|8×23<sup>*n*+1</sup>+1|remove all *n* such that *n*+1 == 0 mod 3 (i.e. remove all *n* == 2 mod 3)|8 and 1 are both cubes|unsolved family|http://factordb.com/index.php?query=8*23%5E%28n%2B1%29%2B1&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
-|17|1{0}1F|17<sup>*n*+2</sup>+32|remove all *n* such that *n*+2 == 0 mod 5 (i.e. remove all *n* == 3 mod 5)|1 and 32 are both 5th powers|10<sub>9019<sub>1F (the 10400th minimal prime in base 17)|http://factordb.com/index.php?query=17%5E%28n%2B2%29%2B32&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|17|1{0}1F|17<sup>*n*+2</sup>+32|remove all *n* such that *n*+2 == 0 mod 5 (i.e. remove all *n* == 3 mod 5)|1 and 32 are both 5th powers|10<sub>9019</sub>1F (the 10400th minimal prime in base 17)|http://factordb.com/index.php?query=17%5E%28n%2B2%29%2B32&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |17|79{0}1|128×17<sup>*n*+1</sup>+1|remove all *n* such that *n*+1 == 0 mod 7 (i.e. remove all *n* == 6 mod 7)|128 and 1 are both 7th powers|790<sub>224</sub>1 (the 10307th minimal prime in base 17)|http://factordb.com/index.php?query=128*17%5E%28n%2B1%29%2B1&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |23|4{0}1|4×23<sup>*n*+1</sup>+1|remove all *n* such that *n*+1 == 0 mod 4 (i.e. remove all *n* == 3 mod 4)|4×4×1 is a 4th power|40<sub>341</sub>1 (the 64770th minimal prime in base 23)|http://factordb.com/index.php?query=4*23%5E%28n%2B1%29%2B1&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|36|{S}T|(4×36<sup>*n*+1</sup>+1)/5|remove all *n* such that *n*+1 == 0 mod 2 (i.e. remove all *n* == 1 mod 2)|4×4×1 is a 4th power and 36 is a square|S<sub>44</sub>T (the 35018th minimal prime in base 36)|http://factordb.com/index.php?query=%284*36%5E%28n%2B1%29%2B1%29%2F5&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 
 Coordination with existing code:
 
