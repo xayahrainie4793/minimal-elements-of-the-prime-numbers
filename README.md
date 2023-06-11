@@ -1656,7 +1656,7 @@ Integer factorizers:
 1. https://www.numberempire.com/numberfactorizer.php
 2. https://www.alpertron.com.ar/ECM.HTM
 3. http://www.javascripter.net/math/calculators/primefactorscalculator.htm
-4. https://betaprojects.com/calculators/prime_factors.html
+4. https://web.archive.org/web/20230122202627/https://betaprojects.com/calculators/prime_factors.html
 5. https://www.emathhelp.net/calculators/pre-algebra/prime-factorization-calculator/
 6. http://www.numbertheory.org/php/factor.html
 7. https://primefan.tripod.com/Factorer.html
