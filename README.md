@@ -462,7 +462,7 @@ The above section is only for the multiplicative order (https://en.wikipedia.org
 
 This is the list for the known generalized Wieferich primes base *b* for 2 ≤ *b* ≤ 36: (references: http://www.fermatquotient.com/FermatQuotienten/FermQ_Sort.txt, http://www.fermatquotient.com/FermatQuotienten/FermQ_Sorg.txt, http://www.asahi-net.or.jp/~KC2H-MSM/mathland/math11/fer_quo.htm, https://web.archive.org/web/20140809030451/http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html, http://www.bitman.name/math/table/489, http://www.urticator.net/essay/6/624.html, http://www.sci.kobe-u.ac.jp/old/seminar/pdf/2008_yamazaki.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_63.pdf), https://www.ams.org/journals/mcom/1993-61-203/S0025-5718-1993-1182246-5/S0025-5718-1993-1182246-5.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_185.pdf))
 
-|*b*|known generalized Wieferich primes (written in base 10) (search limit: 6×10<sup>17</sup> for *b* = 2 (and hence *b* = 4, 8, 16, 32), 1.2×10<sup>15</sup> for *b* = 3, 5, 7 (and hence *b* = 9, 25, 27), 1.479×10<sup>14</sup> for other *b*)|*OEIS* sequence|
+|*b*|known generalized Wieferich primes base *b* (written in base 10) (search limit: 6×10<sup>17</sup> for *b* = 2 (and hence *b* = 4, 8, 16, 32), 1.2×10<sup>15</sup> for *b* = 3, 5, 7 (and hence *b* = 9, 25, 27), 1.479×10<sup>14</sup> for other *b*)|*OEIS* sequence|
 |---|---|---|
 |2|1093, 3511|https://oeis.org/A001220|
 |3|11, 1006003|https://oeis.org/A014127|
