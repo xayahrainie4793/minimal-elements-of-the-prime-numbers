@@ -531,7 +531,7 @@ We can show that: For the case of covering congruence, the numbers in the family
 * A3<sub>*n*</sub>A (in base *b* = 13) is divisible by 1321 if and only if *n* == 33 mod 1320
 etc.
 
-and it does not appear to be any covering set of primes, thus this form cannot be ruled out as only containing composites (only count the numbers > *b*) (by covering congruence, algebraic factorization, or combine of them), and its Nash weight (or difficulty) is positive, and it has prime candidate, and hence there must be a prime at some point.
+and it does not appear to be any covering set (of either primes or algebraic factors, or both), thus this form cannot be ruled out as only containing composites (only count the numbers > *b*) (by covering congruence, algebraic factorization, or combine of them), and its Nash weight (or difficulty) is positive, and it has prime candidate, and hence there must be a prime at some point.
 
 (for the examples of nonlinear families, see https://stdkmd.net/nrr/prime/primecount3.htm and https://stdkmd.net/nrr/prime/primecount3.txt (only base 10 families), nonlinear families usually have small primes if they cannot be ruled out as only containing composites by covering congruence, see the section above)
 
