@@ -934,7 +934,7 @@ Also the forms satisfying both "General" and "Remove all *n* cases", in this cas
 |16|{C}D|(4×16<sup>*n*</sup>+1)/5|remove all *n*|16 and 4×4×1 are both 4th powers|ruled out as only contain composites (only count the numbers > *b*)|http://factordb.com/index.php?query=%284*16%5E%28n%2B1%29%2B1%29%2F5&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |8|1{0}1|8<sup>*n*+1</sup>+1|remove all *n*|1, 8, 1 are all cubes|ruled out as only contain composites (only count the numbers > *b*)|http://factordb.com/index.php?query=8%5E%28n%2B1%29%2B1&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |27|{D}E|(27<sup>*n*+1</sup>+1)/2|remove all *n*|1, 27, 1 are all cubes|ruled out as only contain composites (only count the numbers > *b*)|http://factordb.com/index.php?query=%2827%5E%28n%2B1%29%2B1%29%2F2&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
-|32|1{0}1|32<sup>*n*+1</sup>+1|remove all *n*|1, 32, 1 are all cubes|ruled out as only contain composites (only count the numbers > *b*)|http://factordb.com/index.php?query=32%5E%28n%2B1%29%2B1&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|32|1{0}1|32<sup>*n*+1</sup>+1|remove all *n*|1, 32, 1 are all 5th powers|ruled out as only contain composites (only count the numbers > *b*)|http://factordb.com/index.php?query=32%5E%28n%2B1%29%2B1&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 
 Coordination with existing code:
 
