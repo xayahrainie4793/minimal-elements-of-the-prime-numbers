@@ -131,9 +131,9 @@ This problem covers finding the smallest prime of these forms in the same base *
 |4×*b*<sup>*n*</sup>−1|5|1||https://www.rieselprime.de/ziki/Riesel_prime_small_bases_least_n<br>https://mersenneforum.org/showthread.php?t=10354|275|600000|47 (1556)<br>72 (1119850)<br>107 (252)<br>167 (1866)<br>212 (34414)<br>218 (23050)<br>236 (940)<br>240 (1402)<br>251 (272)<br>261 (820)<br>270 (89662)|
 |5×*b*<sup>*n*</sup>+1|6|1||https://www.rieselprime.de/ziki/Proth_prime_small_bases_least_n<br>https://mersenneforum.org/showthread.php?t=10354|308|300000|122 (136)<br>170 (176)<br>200 (768)<br>248 (262)<br>266 (510)|
 |5×*b*<sup>*n*</sup>−1|6|1||https://www.rieselprime.de/ziki/Riesel_prime_small_bases_least_n<br>https://mersenneforum.org/showthread.php?t=10354|338|300000|14 (19699)<br>68 (13575)<br>112 (133)<br>116 (157)<br>196 (9850)<br>206 (109)<br>254 (15451)<br>320 (233)|
-|6×*b*<sup>*n*</sup>+1|7|1||https://www.rieselprime.de/ziki/Proth_prime_small_bases_least_n<br>https://mersenneforum.org/showthread.php?t=10354|212|500000||
-|6×*b*<sup>*n*</sup>−1|7|1||https://www.rieselprime.de/ziki/Riesel_prime_small_bases_least_n<br>https://mersenneforum.org/showthread.php?t=10354|234|600000||
-|7×*b*<sup>*n*</sup>+1|8|1||https://www.rieselprime.de/ziki/Proth_prime_small_bases_least_n<br>https://mersenneforum.org/showthread.php?t=10354|1136|?||
+|6×*b*<sup>*n*</sup>+1|7|1||https://www.rieselprime.de/ziki/Proth_prime_small_bases_least_n<br>https://mersenneforum.org/showthread.php?t=10354|212|500000|53 (144)<br>67 (4533)<br>93 (521)<br>108 (16318)<br>129 (16797)<br>144 (783)<br>163 (1304)<br>185 (171)<br>193 (149)|
+|6×*b*<sup>*n*</sup>−1|7|1||https://www.rieselprime.de/ziki/Riesel_prime_small_bases_least_n<br>https://mersenneforum.org/showthread.php?t=10354|234|600000|48 (295)<br>118 (211)<br>119 (666)<br>154 (1990)<br>178 (119)<br>188 (951)|
+|7×*b*<sup>*n*</sup>+1|8|1||https://www.rieselprime.de/ziki/Proth_prime_small_bases_least_n<br>https://mersenneforum.org/showthread.php?t=10354|1136|4000||
 |7×*b*<sup>*n*</sup>−1|8|1||https://www.rieselprime.de/ziki/Riesel_prime_small_bases_least_n<br>https://mersenneforum.org/showthread.php?t=10354|308|300000||
 |8×*b*<sup>*n*</sup>+1|9|1||https://www.rieselprime.de/ziki/Proth_prime_small_bases_least_n<br>https://mersenneforum.org/showthread.php?t=10354|86|1000000||
 |8×*b*<sup>*n*</sup>−1|9|1||https://www.rieselprime.de/ziki/Riesel_prime_small_bases_least_n<br>https://mersenneforum.org/showthread.php?t=10354|321|600000||
