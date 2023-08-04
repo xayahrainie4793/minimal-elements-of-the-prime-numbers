@@ -606,43 +606,43 @@ The above section only includes the multiplicative order (https://en.wikipedia.o
 
 This is a list for all known generalized Wieferich primes in bases 2 ≤ *b* ≤ 36 (*r*(*b*,*p*) = 2 for the generalized Wieferich primes *p* in base *b* with no orders listed (for these generalized Wieferich primes *p*, the orders are 1), and *r*(*b*,*p*) = (the order listed) + 1 for the generalized Wieferich primes *p* in base *b* with orders listed): (references: http://www.fermatquotient.com/FermatQuotienten/FermQ_Sort.txt, http://www.fermatquotient.com/FermatQuotienten/FermQ_Sorg.txt, http://www.asahi-net.or.jp/~KC2H-MSM/mathland/math11/fer_quo.htm, https://web.archive.org/web/20140809030451/http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html, http://www.bitman.name/math/table/489 (in Italian), http://www.urticator.net/essay/6/624.html, http://www.sci.kobe-u.ac.jp/old/seminar/pdf/2008_yamazaki.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_63.pdf), https://www.ams.org/journals/mcom/1993-61-203/S0025-5718-1993-1182246-5/S0025-5718-1993-1182246-5.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_185.pdf))
 
-|*b*|known generalized Wieferich primes base *b* (written in base 10) (search limit: 6×10<sup>17</sup> for *b* = 2 (and hence *b* = 4, 8, 16, 32), 1.2×10<sup>15</sup> for *b* = 3, 5, 7 (and hence *b* = 9, 25, 27), 1.479×10<sup>14</sup> for other *b*)|*OEIS* sequence|
-|---|---|---|
-|2|1093, 3511|https://oeis.org/A001220|
-|3|11, 1006003|https://oeis.org/A014127|
-|4|1093, 3511|the same as https://oeis.org/A001220|
-|5|2, 20771, 40487, 53471161, 1645333507, 6692367337, 188748146801|https://oeis.org/A123692|
-|6|66161, 534851, 3152573|https://oeis.org/A212583|
-|7|5, 491531|https://oeis.org/A123693|
-|8|3, 1093, 3511|the same as https://oeis.org/A001220 plus the prime 3|
-|9|2 (order 2), 11, 1006003|the same as https://oeis.org/A014127 plus the prime 2|
-|10|3, 487, 56598313|https://oeis.org/A045616|
-|11|71|–|
-|12|2693, 123653|https://oeis.org/A111027|
-|13|2, 863, 1747591|https://oeis.org/A128667|
-|14|29, 353, 7596952219|https://oeis.org/A234810|
-|15|29131, 119327070011|https://oeis.org/A242741|
-|16|1093, 3511|the same as https://oeis.org/A001220|
-|17|2 (order 3), 3, 46021, 48947, 478225523351|https://oeis.org/A128668|
-|18|5, 7 (order 2), 37, 331, 33923, 1284043|https://oeis.org/A244260|
-|19|3, 7 (order 2), 13, 43, 137, 63061489|https://oeis.org/A090968|
-|20|281, 46457, 9377747, 122959073|https://oeis.org/A242982|
-|21|2|–|
-|22|13, 673, 1595813, 492366587, 9809862296159|https://oeis.org/A298951|
-|23|13, 2481757, 13703077, 15546404183, 2549536629329|https://oeis.org/A128669|
-|24|5, 25633|–|
-|25|2 (order 2), 20771, 40487, 53471161, 1645333507, 6692367337, 188748146801|the same as https://oeis.org/A123692|
-|26|3 (order 2), 5, 71, 486999673, 6695256707|https://oeis.org/A306255|
-|27|11, 1006003|the same as https://oeis.org/A014127|
-|28|3 (order 2), 19, 23|–|
-|29|2|–|
-|30|7, 160541, 94727075783|https://oeis.org/A306256|
-|31|7, 79, 6451, 2806861|https://oeis.org/A331424|
-|32|5, 1093, 3511|the same as https://oeis.org/A001220 plus the prime 5|
-|33|2 (order 4), 233, 47441, 9639595369|–|
-|34|46145917691|–|
-|35|3, 1613, 3571|–|
-|36|66161, 534851, 3152573|the same as https://oeis.org/A212583|
+|*b*|generalized Wieferich primes base *b* (written in base 10)|search limit|*OEIS* sequence|
+|---|---|---|---|
+|2|1093, 3511, ...|6×10<sup>17</sup>|https://oeis.org/A001220|
+|3|11, 1006003, ...|1.2×10<sup>15</sup>|https://oeis.org/A014127|
+|4|1093, 3511, ...|6×10<sup>17</sup>|the same as https://oeis.org/A001220|
+|5|2, 20771, 40487, 53471161, 1645333507, 6692367337, 188748146801, ...|1.2×10<sup>15</sup>|https://oeis.org/A123692|
+|6|66161, 534851, 3152573, ...|1.479×10<sup>14</sup>|https://oeis.org/A212583|
+|7|5, 491531, ...|1.2×10<sup>15</sup>|https://oeis.org/A123693|
+|8|3, 1093, 3511, ...|6×10<sup>17</sup>|the same as https://oeis.org/A001220 plus the prime 3|
+|9|2 (order 2), 11, 1006003, ...|1.2×10<sup>15</sup>|the same as https://oeis.org/A014127 plus the prime 2|
+|10|3, 487, 56598313, ...|1.479×10<sup>14</sup>|https://oeis.org/A045616|
+|11|71, ...|1.479×10<sup>14</sup>|–|
+|12|2693, 123653, ...|1.479×10<sup>14</sup>|https://oeis.org/A111027|
+|13|2, 863, 1747591, ...|1.479×10<sup>14</sup>|https://oeis.org/A128667|
+|14|29, 353, 7596952219, ...|1.479×10<sup>14</sup>|https://oeis.org/A234810|
+|15|29131, 119327070011, ...|1.479×10<sup>14</sup>|https://oeis.org/A242741|
+|16|1093, 3511, ...|6×10<sup>17</sup>|the same as https://oeis.org/A001220|
+|17|2 (order 3), 3, 46021, 48947, 478225523351, ...|1.479×10<sup>14</sup>|https://oeis.org/A128668|
+|18|5, 7 (order 2), 37, 331, 33923, 1284043, ...|1.479×10<sup>14</sup>|https://oeis.org/A244260|
+|19|3, 7 (order 2), 13, 43, 137, 63061489, ...|1.479×10<sup>14</sup>|https://oeis.org/A090968|
+|20|281, 46457, 9377747, 122959073, ...|1.479×10<sup>14</sup>|https://oeis.org/A242982|
+|21|2, ...|1.479×10<sup>14</sup>|–|
+|22|13, 673, 1595813, 492366587, 9809862296159, ...|1.479×10<sup>14</sup>|https://oeis.org/A298951|
+|23|13, 2481757, 13703077, 15546404183, 2549536629329, ...|1.479×10<sup>14</sup>|https://oeis.org/A128669|
+|24|5, 25633, ...|1.479×10<sup>14</sup>|–|
+|25|2 (order 2), 20771, 40487, 53471161, 1645333507, 6692367337, 188748146801, ...|1.2×10<sup>15</sup>|the same as https://oeis.org/A123692|
+|26|3 (order 2), 5, 71, 486999673, 6695256707, ...|1.479×10<sup>14</sup>|https://oeis.org/A306255|
+|27|11, 1006003, ...|1.2×10<sup>15</sup>|the same as https://oeis.org/A014127|
+|28|3 (order 2), 19, 23, ...|1.479×10<sup>14</sup>|–|
+|29|2, ...|1.479×10<sup>14</sup>|–|
+|30|7, 160541, 94727075783, ...|1.479×10<sup>14</sup>|https://oeis.org/A306256|
+|31|7, 79, 6451, 2806861, ...|1.479×10<sup>14</sup>|https://oeis.org/A331424|
+|32|5, 1093, 3511, ...|6×10<sup>17</sup>|the same as https://oeis.org/A001220 plus the prime 5|
+|33|2 (order 4), 233, 47441, 9639595369, ...|1.479×10<sup>14</sup>|–|
+|34|46145917691, ...|1.479×10<sup>14</sup>|–|
+|35|3, 1613, 3571, ...|1.479×10<sup>14</sup>|–|
+|36|66161, 534851, 3152573, ...|1.479×10<sup>14</sup>|the same as https://oeis.org/A212583|
 
 We can show that: For the case of covering congruence, the numbers in the family are not equal to any element in *S*, if *n* makes the numbers > *b*, thus these factorizations are nontrivial; for the case of algebraic factorization (if the numbers are factored as *F* × *G* / *d*), both *F* and *G* are > *d*, if *n* makes the numbers > *b*, thus these factorizations are nontrivial (the exceptions are the base 9 family {1} and the base 25 family {1} and the base 32 family {1}. For the base 9 family {1}, the algebraic form is (9<sup>*n*</sup>−1)/8 with *n* ≥ 2, and can be factored to (3<sup>*n*</sup>−1) × (3<sup>*n*</sup>+1) / 8, if *n* ≥ 3, then both 3<sup>*n*</sup>−1 and 3<sup>*n*</sup>+1 are > 8, thus these factorizations are nontrivial, it only remains to check the case *n* = 2, but the number with *n* = 2 is 10 = 2 × 5 is not prime; for the base 25 family {1}, the algebraic form is (25<sup>*n*</sup>−1)/24 with *n* ≥ 2, and can be factored to (5<sup>*n*</sup>−1) × (5<sup>*n*</sup>+1) / 24, if *n* ≥ 3, then both 5<sup>*n*</sup>−1 and 5<sup>*n*</sup>+1 are > 24, thus these factorizations are nontrivial, it only remains to check the case *n* = 2, but the number with *n* = 2 is 26 = 2 × 13 is not prime; for the base 32 family {1}, the algebraic form is (32<sup>*n*</sup>−1)/31 with *n* ≥ 2, and can be factored to (2<sup>*n*</sup>−1) × (16<sup>*n*</sup>+8<sup>*n*</sup>+4<sup>*n*</sup>+2<sup>*n*</sup>+1) / 31, if *n* ≥ 6, then both 2<sup>*n*</sup>−1 and 16<sup>*n*</sup>+8<sup>*n*</sup>+4<sup>*n*</sup>+2<sup>*n*</sup>+1 are > 31, thus these factorizations are nontrivial, it only remains to check the cases *n* = 2, 3, 4, 5, but the numbers with *n* = 2, 3, 4, 5 are 33 = 3 × 11, 1057 = 7 × 151, 33825 = 3 × 5<sup>2</sup> × 11 × 41, 1082401 = 601 × 1801 are not primes); for the case of combine of covering congruence and algebraic factorization (if the numbers are factored as *F* × *G* / *d*), the numbers in the family are not equal to any element in *S* and both *F* and *G* are > *d*, if *n* makes the numbers > *b*, thus these factorizations are nontrivial.
 
