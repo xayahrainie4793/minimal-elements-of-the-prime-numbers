@@ -353,7 +353,7 @@ This is the list of the known generalized repunit (probable) primes in bases 2 �
 |28|2, 5, 17, 457, 1423, 115877, ...|1000000|https://oeis.org/A128000|
 |29|5, 151, 3719, 49211, 77237, ...|1000000|https://oeis.org/A181979|
 |30|2, 5, 11, 163, 569, 1789, 8447, 72871, 78857, 82883, ...|1000000|https://oeis.org/A098438|
-|31|7, 17, 31, 5581, 9973, 101111, 535571, ...|1000000|https://oeis.org/A128002|
+|31|7, 17, 31, 5581, 9973, 54493, 101111, 535571, ...|1000000|https://oeis.org/A128002|
 |32|not exist (since (32<sup>*p*</sup>−1)/31 = (2<sup>*p*</sup>−1) × (16<sup>*p*</sup>+8<sup>*p*</sup>+4<sup>*p*</sup>+2<sup>*p*</sup>+1) / 31, and both 2<sup>*p*</sup>−1 and 16<sup>*p*</sup>+8<sup>*p*</sup>+4<sup>*p*</sup>+2<sup>*p*</sup>+1 are > 31 for prime *p* > 5, thus this factorization is nontrivial for prime *p* > 5, it only remains to check the case *p* = 2 and *p* = 3 and *p* = 5, but (32<sup>2</sup>−1)/31 = 33 = 3 × 11 and (32<sup>3</sup>−1)/31 = 1057 = 7 × 151 and (32<sup>5</sup>−1)/31 = 1082401 = 601 × 1801 are not primes)|(infinity)|–|
 |33|3, 197, 3581, 6871, 183661, ...|1000000|https://oeis.org/A209120|
 |34|13, 1493, 5851, 6379, 125101, ...|1000000|https://oeis.org/A185073|
