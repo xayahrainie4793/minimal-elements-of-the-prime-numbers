@@ -333,31 +333,31 @@ This is the list of the known generalized repunit (probable) primes in bases 2 �
 |8|3 (this is all, since (8<sup>*p*</sup>−1)/7 = (2<sup>*p*</sup>−1) × (4<sup>*p*</sup>+2<sup>*p*</sup>+1) / 7, and both 2<sup>*p*</sup>−1 and 4<sup>*p*</sup>+2<sup>*p*</sup>+1 are > 7 for prime *p* > 3, thus this factorization is nontrivial for prime *p* > 3, it only remains to check the case *p* = 2 and *p* = 3, but (8<sup>2</sup>−1)/7 = 9 = 3<sup>2</sup> is not prime)|(infinity)|–|
 |9|not exist (since (9<sup>*p*</sup>−1)/8 = (3<sup>*p*</sup>−1) × (3<sup>*p*</sup>+1) / 8, and both 3<sup>*p*</sup>−1 and 3<sup>*p*</sup>+1 are > 8 for prime *p* > 2, thus this factorization is nontrivial for prime *p* > 2, it only remains to check the case *p* = 2, but (9<sup>2</sup>−1)/8 = 10 = 2 × 5 is not prime)|(infinity)|–|
 |10|2, 19, 23, 317, 1031, 49081, 86453, *109297*, *270343*, *5794777*, *8177207*, ...|10800000|https://oeis.org/A004023|
-|11|17, 19, 73, 139, 907, 1907, 2029, 4801, 5153, 10867, 20161, 293831, 1868983, ...|1868983|https://oeis.org/A005808|
-|12|2, 3, 5, 19, 97, 109, 317, 353, 701, 9739, 14951, 37573, 46889, 769543, ...|1000000|https://oeis.org/A004064|
-|13|5, 7, 137, 283, 883, 991, 1021, 1193, 3671, 18743, 31751, 101089, 1503503, ...|1503503|https://oeis.org/A016054|
-|14|3, 7, 19, 31, 41, 2687, 19697, 59693, 67421, 441697, ...|1000000|https://oeis.org/A006032|
-|15|3, 43, 73, 487, 2579, 8741, 37441, 89009, 505117, 639833, ...|1000000|https://oeis.org/A006033|
+|11|17, 19, 73, 139, 907, 1907, 2029, 4801, 5153, 10867, 20161, *293831*, *1868983*, ...|1868983|https://oeis.org/A005808|
+|12|2, 3, 5, 19, 97, 109, 317, 353, 701, 9739, 14951, *37573*, *46889*, *769543*, ...|1000000|https://oeis.org/A004064|
+|13|5, 7, 137, 283, 883, 991, 1021, 1193, 3671, *18743*, *31751*, *101089*, *1503503*, ...|1503503|https://oeis.org/A016054|
+|14|3, 7, 19, 31, 41, 2687, *19697*, *59693*, *67421*, *441697*, ...|1000000|https://oeis.org/A006032|
+|15|3, 43, 73, 487, 2579, 8741, *37441*, *89009*, *505117*, *639833*, ...|1000000|https://oeis.org/A006033|
 |16|2 (this is all, since (16<sup>*p*</sup>−1)/15 = (4<sup>*p*</sup>−1) × (4<sup>*p*</sup>+1) / 15, and both 4<sup>*p*</sup>−1 and 4<sup>*p*</sup>+1 are > 15 for prime *p* > 2, thus this factorization is nontrivial for prime *p* > 2)|(infinity)|–|
-|17|3, 5, 7, 11, 47, 71, 419, 4799, 35149, 54919, 74509, 1990523, ...|1990523|https://oeis.org/A006034|
-|18|2, 25667, 28807, 142031, 157051, 180181, 414269, 1270141, ...|1270141|https://oeis.org/A133857|
-|19|19, 31, 47, 59, 61, 107, 337, 1061, 9511, 22051, 209359, ...|1000000|https://oeis.org/A006035|
-|20|3, 11, 17, 1487, 31013, 48859, 61403, 472709, 984349, ...|1000000|https://oeis.org/A127995|
-|21|3, 11, 17, 43, 271, 156217, 328129, ...|1000000|https://oeis.org/A127996|
-|22|2, 5, 79, 101, 359, 857, 4463, 9029, 27823, ...|1000000|https://oeis.org/A127997|
-|23|5, 3181, 61441, 91943, 121949, 221411, ...|1000000|https://oeis.org/A204940|
-|24|3, 5, 19, 53, 71, 653, 661, 10343, 49307, 115597, 152783, ...|1000000|https://oeis.org/A127998|
+|17|3, 5, 7, 11, 47, 71, 419, 4799, *35149*, *54919*, *74509*, *1990523*, ...|1990523|https://oeis.org/A006034|
+|18|2, 25667, *28807*, *142031*, *157051*, *180181*, *414269*, *1270141*, ...|1270141|https://oeis.org/A133857|
+|19|19, 31, 47, 59, 61, 107, 337, 1061, *9511*, *22051*, *209359*, ...|1000000|https://oeis.org/A006035|
+|20|3, 11, 17, 1487, *31013*, *48859*, *61403*, *472709*, *984349*, ...|1000000|https://oeis.org/A127995|
+|21|3, 11, 17, 43, 271, *156217*, *328129*, ...|1000000|https://oeis.org/A127996|
+|22|2, 5, 79, 101, 359, 857, 4463, *9029*, *27823*, ...|1000000|https://oeis.org/A127997|
+|23|5, 3181, *61441*, *91943*, *121949*, *221411*, ...|1000000|https://oeis.org/A204940|
+|24|3, 5, 19, 53, 71, 653, 661, *10343*, *49307*, *115597*, *152783*, ...|1000000|https://oeis.org/A127998|
 |25|not exist (since (25<sup>*p*</sup>−1)/24 = (5<sup>*p*</sup>−1) × (5<sup>*p*</sup>+1) / 24, and both 5<sup>*p*</sup>−1 and 5<sup>*p*</sup>+1 are > 24 for prime *p* > 2, thus this factorization is nontrivial for prime *p* > 2, it only remains to check the case *p* = 2, but (25<sup>2</sup>−1)/24 = 26 = 2 × 13 is not prime)|(infinity)|–|
-|26|7, 43, 347, 12421, 12473, 26717, ...|1000000|https://oeis.org/A127999|
+|26|7, 43, 347, *12421*, *12473*, *26717*, ...|1000000|https://oeis.org/A127999|
 |27|3 (this is all, since (27<sup>*p*</sup>−1)/26 = (3<sup>*p*</sup>−1) × (9<sup>*p*</sup>+3<sup>*p*</sup>+1) / 26, and both 3<sup>*p*</sup>−1 and 9<sup>*p*</sup>+3<sup>*p*</sup>+1 are > 26 for prime *p* > 3, thus this factorization is nontrivial for prime *p* > 3, it only remains to check the case *p* = 2 and *p* = 3, but (27<sup>2</sup>−1)/26 = 28 = 2<sup>2</sup>×7 is not prime)|(infinity)|–|
-|28|2, 5, 17, 457, 1423, 115877, ...|1000000|https://oeis.org/A128000|
-|29|5, 151, 3719, 49211, 77237, ...|1000000|https://oeis.org/A181979|
-|30|2, 5, 11, 163, 569, 1789, 8447, 72871, 78857, 82883, ...|1000000|https://oeis.org/A098438|
-|31|7, 17, 31, 5581, 9973, 54493, 101111, 535571, ...|1000000|https://oeis.org/A128002|
+|28|2, 5, 17, 457, 1423, *115877*, ...|1000000|https://oeis.org/A128000|
+|29|5, 151, 3719, *49211*, *77237*, ...|1000000|https://oeis.org/A181979|
+|30|2, 5, 11, 163, 569, 1789, *8447*, *72871*, *78857*, *82883*, ...|1000000|https://oeis.org/A098438|
+|31|7, 17, 31, 5581, *9973*, *54493*, *101111*, *535571*, ...|1000000|https://oeis.org/A128002|
 |32|not exist (since (32<sup>*p*</sup>−1)/31 = (2<sup>*p*</sup>−1) × (16<sup>*p*</sup>+8<sup>*p*</sup>+4<sup>*p*</sup>+2<sup>*p*</sup>+1) / 31, and both 2<sup>*p*</sup>−1 and 16<sup>*p*</sup>+8<sup>*p*</sup>+4<sup>*p*</sup>+2<sup>*p*</sup>+1 are > 31 for prime *p* > 5, thus this factorization is nontrivial for prime *p* > 5, it only remains to check the case *p* = 2 and *p* = 3 and *p* = 5, but (32<sup>2</sup>−1)/31 = 33 = 3 × 11 and (32<sup>3</sup>−1)/31 = 1057 = 7 × 151 and (32<sup>5</sup>−1)/31 = 1082401 = 601 × 1801 are not primes)|(infinity)|–|
-|33|3, 197, 3581, 6871, 183661, ...|1000000|https://oeis.org/A209120|
-|34|13, 1493, 5851, 6379, 125101, ...|1000000|https://oeis.org/A185073|
-|35|313, 1297, 568453, ...|1000000|https://oeis.org/A348170|
+|33|3, 197, 3581, *6871*, *183661*, ...|1000000|https://oeis.org/A209120|
+|34|13, 1493, *5851*, *6379*, *125101*, ...|1000000|https://oeis.org/A185073|
+|35|313, 1297, *568453*, ...|1000000|https://oeis.org/A348170|
 |36|2 (this is all, since (36<sup>*p*</sup>−1)/35 = (6<sup>*p*</sup>−1) × (6<sup>*p*</sup>+1) / 35, and both 6<sup>*p*</sup>−1 and 6<sup>*p*</sup>+1 are > 35 for prime *p* > 2, thus this factorization is nontrivial for prime *p* > 2)|(infinity)|–|
 
 Determining the set of the minimal elements of a arbitrary set of strings under the subsequence ordering is in general unsolvable, and can be difficult even when this set is relatively simple (such as the base *b* representations of the prime numbers > *b*), also, determining the set of the minimal elements of a arbitrary set of strings under the subsequence ordering may be an open problem (https://en.wikipedia.org/wiki/Open_problem, https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_mathematics, https://t5k.org/glossary/xpage/OpenQuestion.html, https://mathworld.wolfram.com/UnsolvedProblems.html, http://www.numericana.com/answer/open.htm, https://t5k.org/notes/conjectures/) or NP-complete (https://en.wikipedia.org/wiki/NP-complete, https://mathworld.wolfram.com/NP-CompleteProblem.html) or an undecidable problem (https://en.wikipedia.org/wiki/Undecidable_problem, https://mathworld.wolfram.com/Undecidable.html), or an example of Gödel's incompleteness theorems (https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems, https://mathworld.wolfram.com/GoedelsFirstIncompletenessTheorem.html) (like the continuum hypothesis (https://en.wikipedia.org/wiki/Continuum_hypothesis, https://mathworld.wolfram.com/ContinuumHypothesis.html) and the halting problem (https://en.wikipedia.org/wiki/Halting_problem, https://mathworld.wolfram.com/HaltingProblem.html)), or as hard as the unsolved problems in mathematics, such as the Riemann hypothesis (https://en.wikipedia.org/wiki/Riemann_hypothesis, https://t5k.org/glossary/xpage/RiemannHypothesis.html, https://mathworld.wolfram.com/RiemannHypothesis.html, http://www.numericana.com/answer/open.htm#rh) and the *abc* conjecture (https://en.wikipedia.org/wiki/Abc_conjecture, https://mathworld.wolfram.com/abcConjecture.html, http://www.numericana.com/answer/open.htm#abc) and the Schinzel's hypothesis *H* (https://en.wikipedia.org/wiki/Schinzel%27s_hypothesis_H, https://mathworld.wolfram.com/SchinzelsHypothesis.html, http://www.numericana.com/answer/open.htm#h), which are the three famous hard problems in number theory (https://en.wikipedia.org/wiki/Number_theory, https://www.rieselprime.de/ziki/Number_theory, https://mathworld.wolfram.com/NumberTheory.html).
