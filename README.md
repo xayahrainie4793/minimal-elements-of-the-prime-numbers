@@ -1949,30 +1949,31 @@ Lists of small primes: (see https://t5k.org/notes/faq/LongestList.html and https
 7. https://oeis.org/A000040/b000040_1.txt
 8. https://oeis.org/A000040/a000040_1B.7z
 9. http://www.prime-numbers.org/
-10. http://prime-numbers.org/sample.zip
-11. https://metanumbers.com/prime-numbers
-12. https://www.numberempire.com/primenumberstable.php
-13. https://www.calculatorsoup.com/calculators/math/prime-numbers.php
-14. https://www2.cs.arizona.edu/icon/oddsends/primes.htm
-15. https://www.numbersaplenty.com/set/prime_number/more.php
-16. https://cdn1.byjus.com/wp-content/uploads/2021/10/Prime-Numbers-from-1-to-1000.png
-17. http://noe-education.org/D11102.php (in French)
-18. https://web.archive.org/web/20060513054350/http://www.walter-fendt.de/m14i/primes_i.htm (in Italian)
-19. https://primefan.tripod.com/500Primes1.html **(warning: this site incorrectly includes 1 as a prime and misses the primes 3229 and 3329)**
-20. https://www.gutenberg.org/files/65/65.txt
-21. http://www.primos.mat.br/indexen.html
-22. https://www.walter-fendt.de/html5/men/primenumbers_en.htm
-23. http://www.rsok.com/~jrm/printprimes.html
-24. http://www.numbertheory.org/php/prime_generator.html
-25. http://www.primzahlen.de/primzahltests/2-100003.htm (in German)
-26. https://jocelyn.quizz.chat/np/cache/index.html (in French)
-27. http://www.sosmath.com/tables/prime/prime.html
-28. https://www.bigprimes.net/archive/prime
-29. https://web.archive.org/web/20201130071856/http://www.mathematical.com/primelist1to100kk.html
-30. https://web.archive.org/web/20191118082053/http://www.tsm-resources.com/alists/prim.html
-31. https://web.archive.org/web/20090917191047/http://planetmath.org/encyclopedia/FirstThousandPositivePrimeNumbers.html
-32. https://faculty.lynchburg.edu/~nicely/gaps/gaplist.html (the longest list ever calculated, with all primes < 2<sup>64</sup> (but unlikely other lists here, the primes are not all stored))
-33. https://en.wikipedia.org/wiki/List_of_prime_numbers#The_first_1000_prime_numbers
+10. https://web.archive.org/web/20091027064420/http://geocities.com/primes_r_us/small/index.html
+11. http://prime-numbers.org/sample.zip
+12. https://metanumbers.com/prime-numbers
+13. https://www.numberempire.com/primenumberstable.php
+14. https://www.calculatorsoup.com/calculators/math/prime-numbers.php
+15. https://www2.cs.arizona.edu/icon/oddsends/primes.htm
+16. https://www.numbersaplenty.com/set/prime_number/more.php
+17. https://cdn1.byjus.com/wp-content/uploads/2021/10/Prime-Numbers-from-1-to-1000.png
+18. http://noe-education.org/D11102.php (in French)
+19. https://web.archive.org/web/20060513054350/http://www.walter-fendt.de/m14i/primes_i.htm (in Italian)
+20. https://primefan.tripod.com/500Primes1.html **(warning: this site incorrectly includes 1 as a prime and misses the primes 3229 and 3329)**
+21. https://www.gutenberg.org/files/65/65.txt
+22. http://www.primos.mat.br/indexen.html
+23. https://www.walter-fendt.de/html5/men/primenumbers_en.htm
+24. http://www.rsok.com/~jrm/printprimes.html
+25. http://www.numbertheory.org/php/prime_generator.html
+26. http://www.primzahlen.de/primzahltests/2-100003.htm (in German)
+27. https://jocelyn.quizz.chat/np/cache/index.html (in French)
+28. http://www.sosmath.com/tables/prime/prime.html
+29. https://www.bigprimes.net/archive/prime
+30. https://web.archive.org/web/20201130071856/http://www.mathematical.com/primelist1to100kk.html
+31. https://web.archive.org/web/20191118082053/http://www.tsm-resources.com/alists/prim.html
+32. https://web.archive.org/web/20090917191047/http://planetmath.org/encyclopedia/FirstThousandPositivePrimeNumbers.html
+33. https://faculty.lynchburg.edu/~nicely/gaps/gaplist.html (the longest list ever calculated, with all primes < 2<sup>64</sup> (but unlikely other lists here, the primes are not all stored))
+34. https://en.wikipedia.org/wiki/List_of_prime_numbers#The_first_1000_prime_numbers
 
 Lists of factorizations of small integers:
 
