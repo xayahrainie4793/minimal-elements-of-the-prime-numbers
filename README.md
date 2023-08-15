@@ -1572,7 +1572,7 @@ Links for top (probable) primes: (also pages for the largest known prime: https:
 * https://t5k.org/primes/search.php?OnList=all&Number=1000000 (all numbers in the list of top definitely primes, text version)
 * https://t5k.org/primes/ (index page of top definitely primes)
 * https://t5k.org/primes/download.php (download page of top definitely primes)
-* https://t5k.org/primes/status.php?hours=72 (recently 3 days found top definitely primes)
+* https://t5k.org/primes/status.php (recently 3 days found top definitely primes)
 * https://t5k.org/primes/status.php?hours=1000 (recently found top definitely primes)
 * https://t5k.org/primes/status.php?hours=0 (top definitely primes which are in process or awaiting verification)
 * https://t5k.org/largest.html (the information page of top definitely primes)
