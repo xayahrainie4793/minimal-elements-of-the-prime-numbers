@@ -1936,15 +1936,16 @@ Base converters:
 14. http://www.tonymarston.net/php-mysql/converter.php
 15. http://math.fau.edu/Richman/mla/convert.htm
 16. https://web.archive.org/web/20190629223750/http://thedevtoolkit.com/tools/base_conversion
-17. http://www.kwuntung.net/hkunit/base/base.php (in Chinese)
-18. https://linesegment.web.fc2.com/application/math/numbers/RadixConversion.html (in Japanese)
-19. http://www.positiveintegers.org/ (just enter the number)
-20. https://numdic.com/ (just enter the number)
-21. https://numbermatics.com/ (just enter the number)
-22. https://metanumbers.com/ (just enter the number)
-23. https://int.darkbyte.ru/ (just enter the number)
-24. https://www.numbersaplenty.com/ (just enter the number)
-25. http://factordb.com/index.php?showid=1000000000000000127 (you can change the "showid" to the *ID* for your number)
+17. https://web.archive.org/web/20170204004954/http://ultrastudio.org/en/MechengburakalkanApplet-1.7.zip
+18. http://www.kwuntung.net/hkunit/base/base.php (in Chinese)
+19. https://linesegment.web.fc2.com/application/math/numbers/RadixConversion.html (in Japanese)
+20. http://www.positiveintegers.org/ (just enter the number)
+21. https://numdic.com/ (just enter the number)
+22. https://numbermatics.com/ (just enter the number)
+23. https://metanumbers.com/ (just enter the number)
+24. https://int.darkbyte.ru/ (just enter the number)
+25. https://www.numbersaplenty.com/ (just enter the number)
+26. http://factordb.com/index.php?showid=1000000000000000127 (you can change the "showid" to the *ID* for your number)
 
 Expression generators:
 
