@@ -1932,20 +1932,21 @@ Base converters:
 10. http://www.unitconversion.org/unit_converter/numbers-ex.html
 11. http://www.math.com/students/converters/source/base.htm
 12. https://www.dcode.fr/base-n-convert
-13. https://www.cut-the-knot.org/Curriculum/Algorithms/BaseConversion.shtml
-14. http://www.tonymarston.net/php-mysql/converter.php
-15. http://math.fau.edu/Richman/mla/convert.htm
-16. https://web.archive.org/web/20190629223750/http://thedevtoolkit.com/tools/base_conversion
-17. https://web.archive.org/web/20170204004954/http://ultrastudio.org/en/MechengburakalkanApplet-1.7.zip
-18. http://www.kwuntung.net/hkunit/base/base.php (in Chinese)
-19. https://linesegment.web.fc2.com/application/math/numbers/RadixConversion.html (in Japanese)
-20. http://www.positiveintegers.org/ (just enter the number)
-21. https://numdic.com/ (just enter the number)
-22. https://numbermatics.com/ (just enter the number)
-23. https://metanumbers.com/ (just enter the number)
-24. https://int.darkbyte.ru/ (just enter the number)
-25. https://www.numbersaplenty.com/ (just enter the number)
-26. http://factordb.com/index.php?showid=1000000000000000127 (you can change the "showid" to the *ID* for your number)
+13. https://www.cut-the-knot.org/binary.shtml
+14. https://www.cut-the-knot.org/Curriculum/Algorithms/BaseConversion.shtml
+15. http://www.tonymarston.net/php-mysql/converter.php
+16. http://math.fau.edu/Richman/mla/convert.htm
+17. https://web.archive.org/web/20190629223750/http://thedevtoolkit.com/tools/base_conversion
+18. https://web.archive.org/web/20170204004954/http://ultrastudio.org/en/MechengburakalkanApplet-1.7.zip
+19. http://www.kwuntung.net/hkunit/base/base.php (in Chinese)
+20. https://linesegment.web.fc2.com/application/math/numbers/RadixConversion.html (in Japanese)
+21. http://www.positiveintegers.org/ (just enter the number)
+22. https://numdic.com/ (just enter the number)
+23. https://numbermatics.com/ (just enter the number)
+24. https://metanumbers.com/ (just enter the number)
+25. https://int.darkbyte.ru/ (just enter the number)
+26. https://www.numbersaplenty.com/ (just enter the number)
+27. http://factordb.com/index.php?showid=1000000000000000127 (you can change the "showid" to the *ID* for your number)
 
 Expression generators:
 
