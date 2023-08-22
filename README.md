@@ -586,12 +586,12 @@ This conjecture will imply:
 We call families of the form *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base *b*, *y* is a digit in base *b*) "linear" families. Our
 algorithm then proceeds as follows:
 
-1. *M* := {minimal primes in base *b* of length 2 or 3}, *L* := union of all *x*{*Y*}*z* such that *x* ≠ 0 and *gcd*(*z*, *b*) = 1 and *Y* is the set of digits *y* such that *xyz* has no subsequence in *M*.
-2. While *L* contains nonlinear families (families which are not linear families): Explore each family of *L*, and update *L*. Examine each family of *L* by:
-2.1. Let *w* be the shortest string in the family. If *w* has a subsequence in *M*, then remove the family from *L*. If *w* represents a prime, then add *w* to *M* and remove the family from *L*.
-2.2. If possible, simplify the family.
-2.3. Using the techniques below (covering congruence, algebraic factorization, or combine of them), check if the family can be proven to only contain composites, and if so then remove the family from *L*.
-3. Update *L*, after each split examine the new families as in step 2.
+* 1. *M* := {minimal primes in base *b* of length 2 or 3}, *L* := union of all *x*{*Y*}*z* such that *x* ≠ 0 and *gcd*(*z*, *b*) = 1 and *Y* is the set of digits *y* such that *xyz* has no subsequence in *M*.
+* 2. While *L* contains nonlinear families (families which are not linear families): Explore each family of *L*, and update *L*. Examine each family of *L* by:
+* 2.1. Let *w* be the shortest string in the family. If *w* has a subsequence in *M*, then remove the family from *L*. If *w* represents a prime, then add *w* to *M* and remove the family from *L*.
+* 2.2. If possible, simplify the family.
+* 2.3. Using the techniques below (covering congruence, algebraic factorization, or combine of them), check if the family can be proven to only contain composites, and if so then remove the family from *L*.
+* 3. Update *L*, after each split examine the new families as in step 2.
 
 e.g. in decimal (base *b* = 10):
 
@@ -1041,22 +1041,22 @@ To do this, we made use of Geoffrey Reynolds' *SRSIEVE* software (https://www.bc
 
 When sieving the sequence (*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1) (*a* ≥ 1, *b* ≥ 2, *c* ≠ 0, *gcd*(*a*,*c*) = 1, *gcd*(*b*,*c*) = 1), the sieve program should: (below, *r* is a linear function of *n*, *m* is a constant like *a*, *b*, *c* (*m* ≥ 2))
 
-1. General:
-1.1. If (*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1) can be written as (*m*<sup>*r*</sup>−1)/(*m*−1); display a warning message on the screen that this form is a generalized repunit number and could better be factored algebraically or sieved with another program (remove all composite *r*, and only sieve with the primes *p* == 1 mod *r*).
-1.2. If (*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1) can be written as (*m*<sup>*r*</sup>+1)/(*m*+1); display a warning message on the screen that this form is a generalized Wagstaff number and could better be factored algebraically or sieved with another program (remove all composite *r*, and only sieve with the primes *p* == 1 mod 2×*r*).
-1.3. If (*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1) can be written as *m*<sup>*r*</sup>+1; display a warning message on the screen that this form is a generalized Fermat number and could better be factored algebraically or sieved with another program (remove all non-power-of-2 *r*, and no need to sieve, and instead use trial division (https://en.wikipedia.org/wiki/Trial_division, https://t5k.org/glossary/xpage/TrialDivision.html, https://www.rieselprime.de/ziki/Trial_factoring, https://mathworld.wolfram.com/TrialDivision.html, http://www.numericana.com/answer/factoring.htm#trial, https://oeis.org/A189172) with the primes *p* == 1 mod 2×*r*).
-1.4. If (*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1) can be written as (*m*<sup>*r*</sup>+1)/2; display a warning message on the screen that this form is a generalized half Fermat number and could better be factored algebraically or sieved with another program (remove all non-power-of-2 *r*, and no need to sieve, and instead use trial division (https://en.wikipedia.org/wiki/Trial_division, https://t5k.org/glossary/xpage/TrialDivision.html, https://www.rieselprime.de/ziki/Trial_factoring, https://mathworld.wolfram.com/TrialDivision.html, http://www.numericana.com/answer/factoring.htm#trial, https://oeis.org/A189172) with the primes *p* == 1 mod 2×*r*).
-2. Remove all *n* cases:
-2.1. If *a*, *b*, −*c* are all squares; remove all *n*.
-2.2. If *a*, *b*, *c* are all *r*-th powers for an odd *r* > 1; remove all *n*.
-2.3. If *b* and 4×*a*×*c* are both 4th powers; remove all *n*. These are Aurifeuillean factors.
-3. Remove partial *n* cases:
-3.1. If *a* and −*c* are both squares; remove all *n* == 0 mod 2.
-3.2. If *a* and *c* are both *r*-th powers for an odd r > 1; for each such *r*, remove all *n* == 0 mod *r*.
-3.3. If 4×*a*×*c* is a 4th power; remove all *n* == 0 mod 4.
-3.4. If 4×*a*×*c* is a 4th power and *b* is square; remove all *n* == 0 mod 2.
-3.5. If *a*×*c* and 4×*b* are both 4th powers; remove all *n* == 1 mod 2.
-3.6. If *a*×*c* is a 4th power and 2×*b* is a square; remove all *n* == 2 mod 4.
+* 1. General:
+* 1.1. If (*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1) can be written as (*m*<sup>*r*</sup>−1)/(*m*−1); display a warning message on the screen that this form is a generalized repunit number and could better be factored algebraically or sieved with another program (remove all composite *r*, and only sieve with the primes *p* == 1 mod *r*).
+* 1.2. If (*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1) can be written as (*m*<sup>*r*</sup>+1)/(*m*+1); display a warning message on the screen that this form is a generalized Wagstaff number and could better be factored algebraically or sieved with another program (remove all composite *r*, and only sieve with the primes *p* == 1 mod 2×*r*).
+* 1.3. If (*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1) can be written as *m*<sup>*r*</sup>+1; display a warning message on the screen that this form is a generalized Fermat number and could better be factored algebraically or sieved with another program (remove all non-power-of-2 *r*, and no need to sieve, and instead use trial division (https://en.wikipedia.org/wiki/Trial_division, https://t5k.org/glossary/xpage/TrialDivision.html, https://www.rieselprime.de/ziki/Trial_factoring, https://mathworld.wolfram.com/TrialDivision.html, http://www.numericana.com/answer/factoring.htm#trial, https://oeis.org/A189172) with the primes *p* == 1 mod 2×*r*).
+* 1.4. If (*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1) can be written as (*m*<sup>*r*</sup>+1)/2; display a warning message on the screen that this form is a generalized half Fermat number and could better be factored algebraically or sieved with another program (remove all non-power-of-2 *r*, and no need to sieve, and instead use trial division (https://en.wikipedia.org/wiki/Trial_division, https://t5k.org/glossary/xpage/TrialDivision.html, https://www.rieselprime.de/ziki/Trial_factoring, https://mathworld.wolfram.com/TrialDivision.html, http://www.numericana.com/answer/factoring.htm#trial, https://oeis.org/A189172) with the primes *p* == 1 mod 2×*r*).
+* 2. Remove all *n* cases:
+* 2.1. If *a*, *b*, −*c* are all squares; remove all *n*.
+* 2.2. If *a*, *b*, *c* are all *r*-th powers for an odd *r* > 1; remove all *n*.
+* 2.3. If *b* and 4×*a*×*c* are both 4th powers; remove all *n*. These are Aurifeuillean factors.
+* 3. Remove partial *n* cases:
+* 3.1. If *a* and −*c* are both squares; remove all *n* == 0 mod 2.
+* 3.2. If *a* and *c* are both *r*-th powers for an odd r > 1; for each such *r*, remove all *n* == 0 mod *r*.
+* 3.3. If 4×*a*×*c* is a 4th power; remove all *n* == 0 mod 4.
+* 3.4. If 4×*a*×*c* is a 4th power and *b* is square; remove all *n* == 0 mod 2.
+* 3.5. If *a*×*c* and 4×*b* are both 4th powers; remove all *n* == 1 mod 2.
+* 3.6. If *a*×*c* is a 4th power and 2×*b* is a square; remove all *n* == 2 mod 4.
 
 #1 and #2 should all be checked first before preceding, #3.3 and #3.4 and #3.5 are more Aurifeuillean factors.
 
