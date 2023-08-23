@@ -140,7 +140,7 @@ e.g. for bases *b* = 23 and *b* = 25:
 * We have a 95% chance of solving the "minimal prime problem" at length 10<sup>48</sup>.
 * The chances at lengths 10<sup>6</sup>, 10<sup>7</sup>, 10<sup>8</sup> are respectively 10<sup>−86</sup>, 10<sup>−52</sup>, and 10<sup>−33</sup>.
 
-It is extremely likely that the largest minimal prime in base *b* is larger than the currently largest known prime (i.e. 2<sup>82589933</sup>−1, with 24862048 decimal digits) (https://en.wikipedia.org/wiki/Largest_known_prime_number, https://mathworld.wolfram.com/LargePrime.html, https://t5k.org/largest.html, https://t5k.org/primes/page.php?id=125874, https://www.rieselprime.de/ziki/M51, https://oeis.org/A344984), for bases *b* = 19, 23, 25, 27, 29, 31, 32, 33, 34, 35.
+It is extremely likely that the largest minimal prime in base *b* is larger than the currently largest known prime (i.e. 2<sup>82589933</sup>−1, with 24862048 decimal digits) (https://en.wikipedia.org/wiki/Largest_known_prime_number, https://mathworld.wolfram.com/LargePrime.html, https://t5k.org/largest.html, https://t5k.org/primes/page.php?id=125874, https://www.rieselprime.de/ziki/M51, http://factordb.com/index.php?id=1100000001257221107&open=prime, https://oeis.org/A344984), for bases *b* = 19, 23, 25, 27, 29, 31, 32, 33, 34, 35.
 
 This problem covers finding the smallest prime in these families in the same base *b* (or proving that such prime does not exist), since the smallest prime in these families (if exists) **must** be a minimal prime in base *b*: (while the original minimal prime problem does not cover some of these forms for some bases (or all bases) *b*)
 
