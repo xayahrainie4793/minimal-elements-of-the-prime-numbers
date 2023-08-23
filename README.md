@@ -1,3 +1,5 @@
+(In this "README" file (as well as the "README" files in the "code", "primality-certificates", "unproven-probable-primes"), I always offer links to the English Wikipedia (https://en.wikipedia.org/wiki/Main_Page, https://en.wikipedia.org/wiki/English_Wikipedia), The Prime Glossary (https://t5k.org/glossary/) (which is a part of The Prime Pages (https://en.wikipedia.org/wiki/PrimePages, https://www.rieselprime.de/ziki/The_Prime_Pages)), the Prime Wiki (https://www.rieselprime.de/ziki/Main_Page), and the Wolfram MathWorld (https://mathworld.wolfram.com/, https://en.wikipedia.org/wiki/MathWorld), as well as the *OEIS* (https://oeis.org/, https://en.wikipedia.org/wiki/On-Line_Encyclopedia_of_Integer_Sequences, https://www.rieselprime.de/ziki/On-Line_Encyclopedia_of_Integer_Sequences) sequences, for the proper nouns, if such page exists)
+
 A Prime Game:
 
 Write down a multidigit prime number (i.e. a prime number > 10), and I can always strike out 0 or more digits to get a prime in this list:
