@@ -1906,7 +1906,8 @@ Prime checkers:
 19. https://int.darkbyte.ru/ (just enter the number)
 20. https://www.numbersaplenty.com/ (just enter the number)
 21. https://t5k.org/nthprime/ (calculate the *n*th prime)
-22. http://factordb.com/nextprime.php (calculate the next (probable) prime above *N*, in fact, links 2, 6, 10, 11, 12, 13 can also calculate the next prime above *N*, besides, links 2, 6 can also calculate the previous prime below *N*)
+22. http://www.numbertheory.org/php/nprime.html (calculate the next (probable) prime above *N*, in fact, links 2, 6, 10, 11, 12, 13 can also calculate the next prime above *N*, besides, links 2, 6 can also calculate the previous prime below *N*)
+23. http://factordb.com/nextprime.php (calculate the next (probable) prime above *N*, in fact, links 2, 6, 10, 11, 12, 13 can also calculate the next prime above *N*, besides, links 2, 6 can also calculate the previous prime below *N*)
 
 Integer factorizers:
 
