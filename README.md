@@ -1980,6 +1980,16 @@ Expression generators:
 1. https://stdkmd.net/nrr/exprgen.htm (only support base 10 forms)
 2. https://www.numberempire.com/simplifyexpression.php (e.g. for the form 5{7} in base 11, type "5\*11^n+7\*(11^n-1)/10")
 
+(In fact, you can use Wolfram Alpha (https://www.wolframalpha.com/, https://en.wikipedia.org/wiki/WolframAlpha) and online Magma calculator (http://magma.maths.usyd.edu.au/calc/) for prime checker, integer factorizer, base converter, expression generator, besides, many mathematical softwares also already have prime checkers, integer factorizers, base converters, expression generators, such as these (you can download these softwares by clicking the links):)
+
+1. *Maple* (https://www.maplesoft.com/, https://en.wikipedia.org/wiki/Maple_(software))
+2. *Wolfram Mathematica* (https://www.wolfram.com/mathematica/, https://en.wikipedia.org/wiki/Wolfram_Mathematica)
+3. *Pari/GP* (https://pari.math.u-bordeaux.fr/, https://en.wikipedia.org/wiki/PARI/GP)
+4. *Python* (https://www.python.org/, https://en.wikipedia.org/wiki/Python_(programming_language))
+5. *GMP* (https://gmplib.org/, https://en.wikipedia.org/wiki/GNU_Multiple_Precision_Arithmetic_Library)
+6. *Magma* (http://magma.maths.usyd.edu.au/, https://en.wikipedia.org/wiki/Magma_(computer_algebra_system))
+7. *SageMath* (https://www.sagemath.org/, https://en.wikipedia.org/wiki/SageMath)
+
 Lists of small primes: (see https://t5k.org/notes/faq/LongestList.html and https://t5k.org/notes/faq/x_digit_primes.html, although we can quickly determine whether a number < 10<sup>300</sup> is prime or not, but there is no list of all primes < 10<sup>300</sup>, since the space which we need is larger than the number of elementary particles (https://en.wikipedia.org/wiki/Elementary_particle) (i.e. quarks (https://en.wikipedia.org/wiki/Quark) and electrons (https://en.wikipedia.org/wiki/Electron)) in the universe (https://en.wikipedia.org/wiki/Universe))
 
 1. https://t5k.org/lists/small/1000.txt
