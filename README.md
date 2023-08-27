@@ -1980,7 +1980,7 @@ Expression generators:
 1. https://stdkmd.net/nrr/exprgen.htm (only support base 10 forms)
 2. https://www.numberempire.com/simplifyexpression.php (e.g. for the form 5{7} in base 11, type "5\*11^n+7\*(11^n-1)/10")
 
-(In fact, you can use Wolfram Alpha (https://www.wolframalpha.com/, https://en.wikipedia.org/wiki/WolframAlpha) and online Magma calculator (http://magma.maths.usyd.edu.au/calc/) for prime checker, integer factorizer, base converter, expression generator, besides, many mathematical softwares also already have prime checkers, integer factorizers, base converters, expression generators, such as these (you can download these softwares by clicking the links):)
+(In fact, you can use Wolfram Alpha (https://www.wolframalpha.com/, https://en.wikipedia.org/wiki/WolframAlpha) and online Magma calculator (http://magma.maths.usyd.edu.au/calc/) for prime checker, integer factorizer, base converter, expression generator, besides, many mathematical softwares (https://en.wikipedia.org/wiki/Mathematical_software) also already have prime checkers, integer factorizers, base converters, expression generators, such as these (you can download these softwares by clicking the links):)
 
 1. *Maple* (https://www.maplesoft.com/, https://en.wikipedia.org/wiki/Maple_(software))
 2. *Wolfram Mathematica* (https://www.wolfram.com/mathematica/, https://en.wikipedia.org/wiki/Wolfram_Mathematica)
