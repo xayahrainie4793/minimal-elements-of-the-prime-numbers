@@ -228,13 +228,13 @@ This problem covers finding the smallest prime in these families in the same bas
 
 In fact, this problem covers finding the smallest prime of these form in the same base *b*: (where *x*, *y*, *z* are any digits in base *b*)
 
-* *x*{0}*y*
-* *x*{*y*} (unless *y* = 1) (see https://stdkmd.net/nrr/abbbb.htm)
-* {*x*}*y* (unless *x* = 1) (see https://stdkmd.net/nrr/aaaab.htm)
-* *x*{0}*yz* (unless there is a prime of the form *x*{0}*y* or *x*{0}*z*)
-* *xy*{0}*z* (unless there is a prime of the form *x*{0}*z* or *y*{0}*z*)
-* *xy*{*x*} (unless either *x* = 1 or there is a prime of the form *y*{*x*} (or both)) (see https://stdkmd.net/nrr/abaaa.htm)
-* {*x*}*yx* (unless either *x* = 1 or there is a prime of the form {*x*}*y* (or both)) (see https://stdkmd.net/nrr/aaaba.htm)
+* *x*{0}*y* (see https://arxiv.org/pdf/2307.07894.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_203.pdf) for the case *b* = 2, this is exactly the case *x*×*b*<sup>*n*</sup>+*y*, the case *y* = 1 is exactly *x*×*b*<sup>*n*</sup>+1 (exactly the generalized Sierpinski problem to base *b* with *k* = *x*), also see https://math.stackexchange.com/questions/805465/is-my-proof-correct-regarding-the-non-primality-of-2-cdot-17a-1, and the case *x* = 1 is exactly *b*<sup>*n*</sup>+*y* (exactly the generalized dual Sierpinski problem to base *b* with *k* = *y*), see https://mathoverflow.net/questions/268918/density-of-primes-in-sequences-of-the-form-anb and https://math.stackexchange.com/questions/597234/least-prime-of-the-form-38n31 and https://math.stackexchange.com/questions/760966/is-324455n-ever-prime)
+* *x*{*y*} (unless *y* = 1) (see https://stdkmd.net/nrr/abbbb.htm for the case *b* = 10)
+* {*x*}*y* (unless *x* = 1) (see https://stdkmd.net/nrr/aaaab.htm for the case *b* = 10)
+* *x*{0}*yz* (unless there is a prime of the form *x*{0}*y* or *x*{0}*z*) (this is exactly the case *x*×*b*<sup>*n*</sup>+*yz*, the case *x* = 1 is exactly *b*<sup>*n*</sup>+*yz* (exactly the generalized dual Sierpinski problem to base *b* with *k* = *yz*))
+* *xy*{0}*z* (unless there is a prime of the form *x*{0}*z* or *y*{0}*z*) (this is exactly the case *xy*×*b*<sup>*n*</sup>+*z*, the case *z* = 1 is exactly *xy*×*b*<sup>*n*</sup>+1 (exactly the generalized Sierpinski problem to base *b* with *k* = *xy*))
+* *xy*{*x*} (unless either *x* = 1 or there is a prime of the form *y*{*x*} (or both)) (see https://stdkmd.net/nrr/abaaa.htm for the case *b* = 10)
+* {*x*}*yx* (unless either *x* = 1 or there is a prime of the form {*x*}*y* (or both)) (see https://stdkmd.net/nrr/aaaba.htm for the case *b* = 10)
 
 The primes in forms *x*{*y*}, {*x*}*y*, *xy*{*x*}, {*x*}*yx* in base *b* are near-repdigit primes (https://t5k.org/glossary/xpage/NearRepdigitPrime.html, https://t5k.org/top20/page.php?id=15, https://pzktupel.de/Primetables/TableNRD.php, https://oeis.org/A164937, https://stdkmd.net/nrr/#factortables_nr, https://stdkmd.net/nrr/#factortables_np, https://stdkmd.net/nrr/aaaab.htm, https://stdkmd.net/nrr/abbbb.htm, https://stdkmd.net/nrr/aaaba.htm, https://stdkmd.net/nrr/abaaa.htm, https://stdkmd.net/nrr/aabaa.htm, https://stdkmd.net/nrr/records.htm#nrprime, https://stdkmd.net/nrr/records.htm#nrprp, https://stdkmd.net/nrr/records.htm#nrpprime, https://stdkmd.net/nrr/records.htm#nrpprp, http://factordb.com/tables.php?open=1, http://factordb.com/tables.php?open=3) in base *b*.
 
