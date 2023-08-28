@@ -1794,6 +1794,33 @@ Probable primes (i.e. *c* ≠ ±1 or/and *d* ≠ 1):
 * (*a*×10<sup>*n*</sup>+*c*)/*d*: http://www.primenumbers.net/prptop/searchform.php?form=%28a*10%5En%2Bc%29%2Fd&action=Search
 * (*a*×10<sup>*n*</sup>−*c*)/*d*: http://www.primenumbers.net/prptop/searchform.php?form=%28a*10%5En-c%29%2Fd&action=Search
 
+*OEIS* sequences for the exponents *n* for the primes in given families (only list those for families {*x*}, *x*{*y*}, {*x*}*y*, *x*{0}*y*, since the smallest prime in these families **must** be minimal primes in the same base *b*):
+
+base *b* = 2:
+
+* 1{0}1: https://oeis.org/A019434 (corresponding primes), https://oeis.org/A092506 (corresponding primes, with an additional prime 2)
+* {1}: https://oeis.org/A000043, https://oeis.org/A000668 (corresponding primes)
+
+base *b* = 3:
+
+* 1{0}2: https://oeis.org/A051783, https://oeis.org/A057735 (corresponding primes)
+* {1}: https://oeis.org/A028491, https://oeis.org/A076481 (corresponding primes)
+* {1}2: https://oeis.org/A171381, https://oeis.org/A093625 (corresponding primes)
+* 1{2}: https://oeis.org/A003307, https://oeis.org/A079363 (corresponding primes)
+* 2{0}1: https://oeis.org/A003306, https://oeis.org/A111974 (corresponding primes)
+* {2}1: https://oeis.org/A014224, https://oeis.org/A014232 (corresponding primes)
+
+base *b* = 4:
+
+* 1{0}1: https://oeis.org/A222008 (corresponding primes), https://oeis.org/A019434 (corresponding primes, with an additional prime 3), https://oeis.org/A092506 (corresponding primes, with additional primes 2 and 3)
+* 1{0}3: https://oeis.org/A089437, https://oeis.org/A228026 (corresponding primes)
+* {1}3: https://oeis.org/A261539
+* 1{3}: https://oeis.org/A146768, https://oeis.org/A000668 (corresponding primes, with an additional prime 3)
+* {2}3: https://oeis.org/A127936, https://oeis.org/A000979 (corresponding primes)
+* 2{3}: https://oeis.org/A272057
+* 3{0}1: https://oeis.org/A326655
+* {3}1: https://oeis.org/A059266, https://oeis.org/A135535 (corresponding primes)
+
 Home page of Proth Primes Search (search of primes of the form *k*×2<sup>*n*</sup>+1 with odd *k*): http://www.prothsearch.com/
 
 Home page of Riesel Prime Search (search of primes of the form *k*×2<sup>*n*</sup>−1 with odd *k*): https://web.archive.org/web/20210817181915/http://www.15k.org/
