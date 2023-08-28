@@ -1847,6 +1847,38 @@ base *b* = 6:
 * 5{0}1: https://oeis.org/A247260
 * {5}1: https://oeis.org/A059614, https://oeis.org/A290008 (corresponding primes)
 
+base *b* = 7:
+
+* 1{0}4: https://oeis.org/A096305, https://oeis.org/A104065 (corresponding primes, with an additional prime 5)
+* 1{0}6: https://oeis.org/A217130, https://oeis.org/A228030 (corresponding primes, with an additional prime 7)
+* {1}: https://oeis.org/A004063, https://oeis.org/A102170 (corresponding primes)
+* 1{6}: https://oeis.org/A002959, https://oeis.org/A158795 (corresponding primes)
+* 5{6}: https://oeis.org/A046866
+* 6{0}1: https://oeis.org/A245241
+* {6}1: https://oeis.org/A191469, https://oeis.org/A291861 (corresponding primes)
+* {6}5: https://oeis.org/A090669, https://oeis.org/A093612 (corresponding primes, with an additional prime 5)
+
+base *b* = 8:
+
+* 1{0}3: https://oeis.org/A217354, https://oeis.org/A228032 (corresponding primes)
+* 1{0}5: https://oeis.org/A217355, https://oeis.org/A228033 (corresponding primes)
+* 1{0}7: https://oeis.org/A217381, https://oeis.org/A144360 (corresponding primes)
+* 6{7}: https://oeis.org/A268061
+* 7{0}1: https://oeis.org/A269544
+* {7}1: https://oeis.org/A217380
+* {7}3: https://oeis.org/A217356
+* {7}5: https://oeis.org/A217353
+
+base *b* = 9:
+
+* 1{0}2: https://oeis.org/A090649, https://oeis.org/A228034 (corresponding primes, with an additional prime 3)
+* 1{0}4: https://oeis.org/A217384
+* 1{0}8: https://oeis.org/A217385
+* 7{8}: https://oeis.org/A268356
+* 8{0}1: https://oeis.org/A056799
+* {8}1: https://oeis.org/A177093, https://oeis.org/A177094 (corresponding primes)
+* {8}7: https://oeis.org/A128455
+
 Home page of Proth Primes Search (search of primes of the form *k*×2<sup>*n*</sup>+1 with odd *k*): http://www.prothsearch.com/
 
 Home page of Riesel Prime Search (search of primes of the form *k*×2<sup>*n*</sup>−1 with odd *k*): https://web.archive.org/web/20210817181915/http://www.15k.org/
