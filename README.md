@@ -1798,7 +1798,7 @@ Probable primes (i.e. *c* ≠ ±1 or/and *d* ≠ 1):
 
 base *b* = 2:
 
-* 1{0}1: https://oeis.org/A019434 (corresponding primes), https://oeis.org/A092506 (corresponding primes, with an additional prime 2)
+* 1{0}1: https://oeis.org/A019434 (corresponding primes), https://oeis.org/A096502 (corresponding primes, with an additional prime 2)
 * {1}: https://oeis.org/A000043, https://oeis.org/A000668 (corresponding primes)
 
 base *b* = 3:
@@ -1812,7 +1812,7 @@ base *b* = 3:
 
 base *b* = 4:
 
-* 1{0}1: https://oeis.org/A222008 (corresponding primes), https://oeis.org/A019434 (corresponding primes, with an additional prime 3), https://oeis.org/A092506 (corresponding primes, with additional primes 2 and 3)
+* 1{0}1: https://oeis.org/A222008 (corresponding primes), https://oeis.org/A019434 (corresponding primes, with an additional prime 3), https://oeis.org/A096502 (corresponding primes, with additional primes 2 and 3)
 * 1{0}3: https://oeis.org/A089437, https://oeis.org/A228026 (corresponding primes)
 * {1}3: https://oeis.org/A261539
 * 1{3}: https://oeis.org/A146768, https://oeis.org/A000668 (corresponding primes, with an additional prime 3)
