@@ -1794,7 +1794,7 @@ Probable primes (i.e. *c* ≠ ±1 or/and *d* ≠ 1):
 * (*a*×10<sup>*n*</sup>+*c*)/*d*: http://www.primenumbers.net/prptop/searchform.php?form=%28a*10%5En%2Bc%29%2Fd&action=Search
 * (*a*×10<sup>*n*</sup>−*c*)/*d*: http://www.primenumbers.net/prptop/searchform.php?form=%28a*10%5En-c%29%2Fd&action=Search
 
-*OEIS* sequences for the exponents *n* for the primes in given families (only list those for families {*x*}, *x*{*y*}, {*x*}*y*, *x*{0}*y*, since the smallest prime in these families **must** be minimal primes in the same base *b*):
+*OEIS* sequences for the exponents *n* for the primes in given families in given base *b* (only list those for families {*x*}, *x*{*y*}, {*x*}*y*, *x*{0}*y*, since the smallest prime in these families **must** be minimal primes in the same base *b*, also only count the primes > *b*):
 
 base *b* = 2:
 
@@ -1803,11 +1803,11 @@ base *b* = 2:
 
 base *b* = 3:
 
-* 1{0}2: https://oeis.org/A051783, https://oeis.org/A057735 (corresponding primes)
+* 1{0}2: https://oeis.org/A051783, https://oeis.org/A057735 (corresponding primes, with an additional prime 3)
 * {1}: https://oeis.org/A028491, https://oeis.org/A076481 (corresponding primes)
-* {1}2: https://oeis.org/A171381, https://oeis.org/A093625 (corresponding primes)
+* {1}2: https://oeis.org/A171381, https://oeis.org/A093625 (corresponding primes, with an additional prime 2)
 * 1{2}: https://oeis.org/A003307, https://oeis.org/A079363 (corresponding primes)
-* 2{0}1: https://oeis.org/A003306, https://oeis.org/A111974 (corresponding primes)
+* 2{0}1: https://oeis.org/A003306, https://oeis.org/A111974 (corresponding primes, with an additional prime 3)
 * {2}1: https://oeis.org/A014224, https://oeis.org/A014232 (corresponding primes)
 
 base *b* = 4:
@@ -1816,10 +1816,36 @@ base *b* = 4:
 * 1{0}3: https://oeis.org/A089437, https://oeis.org/A228026 (corresponding primes)
 * {1}3: https://oeis.org/A261539
 * 1{3}: https://oeis.org/A146768, https://oeis.org/A000668 (corresponding primes, with an additional prime 3)
-* {2}3: https://oeis.org/A127936, https://oeis.org/A000979 (corresponding primes)
+* {2}3: https://oeis.org/A127936, https://oeis.org/A000979 (corresponding primes, with an additional prime 3)
 * 2{3}: https://oeis.org/A272057
 * 3{0}1: https://oeis.org/A326655
 * {3}1: https://oeis.org/A059266, https://oeis.org/A135535 (corresponding primes)
+
+base *b* = 5:
+
+* 1{0}2: https://oeis.org/A087885, https://oeis.org/A182330 (corresponding primes, with an additional prime 3)
+* 1{0}4: https://oeis.org/A124621, https://oeis.org/A228028 (corresponding primes, with an additional prime 5)
+* {1}: https://oeis.org/A004061, https://oeis.org/A086122 (corresponding primes)
+* 1{4}: https://oeis.org/A120375, https://oeis.org/A120376 (corresponding primes)
+* 2{0}1: https://oeis.org/A058934, https://oeis.org/A205771 (corresponding primes, with an additional prime 3)
+* 3{4}: https://oeis.org/A046865
+* 4{0}1: https://oeis.org/A204322
+* {4}1: https://oeis.org/A059613, https://oeis.org/A181285 (corresponding primes)
+* {4}3: https://oeis.org/A109080, https://oeis.org/A204578 (corresponding primes, with an additional prime 3)
+
+base *b* = 6:
+
+* 1{0}1: https://oeis.org/A182331 (corresponding primes, with an additional prime 2)
+* 1{0}5: https://oeis.org/A145106, https://oeis.org/A104118 (corresponding primes)
+* {1}: https://oeis.org/A004062, https://oeis.org/A165210 (corresponding primes)
+* 1{5}: https://oeis.org/A057472, https://oeis.org/A319535 (corresponding primes)
+* 2{0}1: https://oeis.org/A120023, https://oeis.org/A205776 (corresponding primes, with an additional prime 3)
+* 2{5}: https://oeis.org/A186106, https://oeis.org/A186104 (corresponding primes, with an additional prime 2)
+* 3{0}1: https://oeis.org/A186112, https://oeis.org/A186105 (corresponding primes)
+* {4}5: https://oeis.org/A248613
+* 4{5}: https://oeis.org/A079906
+* 5{0}1: https://oeis.org/A247260
+* {5}1: https://oeis.org/A059614, https://oeis.org/A290008 (corresponding primes)
 
 Home page of Proth Primes Search (search of primes of the form *k*×2<sup>*n*</sup>+1 with odd *k*): http://www.prothsearch.com/
 
