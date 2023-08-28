@@ -1794,7 +1794,7 @@ Probable primes (i.e. *c* ≠ ±1 or/and *d* ≠ 1):
 * (*a*×10<sup>*n*</sup>+*c*)/*d*: http://www.primenumbers.net/prptop/searchform.php?form=%28a*10%5En%2Bc%29%2Fd&action=Search
 * (*a*×10<sup>*n*</sup>−*c*)/*d*: http://www.primenumbers.net/prptop/searchform.php?form=%28a*10%5En-c%29%2Fd&action=Search
 
-*OEIS* sequences for the exponents *n* for the primes in given families in given base *b* (only list those for families {*x*}, *x*{*y*}, {*x*}*y*, *x*{0}*y*, since the smallest prime in these families **must** be minimal primes in the same base *b*, also only count the primes > *b*):
+*OEIS* sequences for the exponents *n* for the primes in given families in given base *b* (only list those for families {*x*}, *x*{*y*}, {*x*}*y*, *x*{0}*y*, since the smallest prime in these families **must** be minimal primes in the same base *b* (except the cases that the repeating digit (i.e. *y* in *x*{*y*}, or *x* in {*x*}*y*) is 1), also only count the primes > *b*):
 
 base *b* = 2:
 
