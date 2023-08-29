@@ -1936,6 +1936,61 @@ base *b* = 10:
 * {6}7: https://oeis.org/A096507, https://oeis.org/A093170 (corresponding primes, with an additional prime 7)
 * 6{7}: https://oeis.org/A056718, https://oeis.org/A093942 (corresponding primes)
 
+base *b* = 11:
+
+* 1{0}2: https://oeis.org/A109076
+* {1}: https://oeis.org/A005808
+* 1{A}: https://oeis.org/A120378, https://oeis.org/A120377 (corresponding primes)
+* 2{0}1: https://oeis.org/A141774
+* 9{A}: https://oeis.org/A046867
+* A{0}1: https://oeis.org/A057462
+* {A}9: https://oeis.org/A133982, https://oeis.org/A133858 (corresponding primes)
+
+base *b* = 12:
+
+* 1{0}5: https://oeis.org/A137652
+* 1{0}7: https://oeis.org/A137653
+* 1{0}B: https://oeis.org/A137654
+* {1}: https://oeis.org/A004064
+* A{B}: https://oeis.org/A079907
+* B{0}1: https://oeis.org/A251259
+
+base *b* = 13:
+
+* {1}: https://oeis.org/A016054
+* 1{C}: https://oeis.org/A174153
+* A{0}1: https://oeis.org/A057464
+* B{C}: https://oeis.org/A297348
+* {C}B: https://oeis.org/A128457
+
+base *b* = 14:
+
+* 1{0}3: https://oeis.org/A339923
+* {1}: https://oeis.org/A006032
+* 1{D}: https://oeis.org/A273517
+* 2{D}: https://oeis.org/A270011
+* 5{D}: https://oeis.org/A273518
+* 6{D}: https://oeis.org/A273519
+* 7{D}: https://oeis.org/A273520
+* 9{D}: https://oeis.org/A273521
+* B{D}: https://oeis.org/A273522
+* C{D}: https://oeis.org/A273523
+* {D}B: https://oeis.org/A339924
+
+base *b* = 15:
+
+* 1{0}2: https://oeis.org/A138048
+* {1}: https://oeis.org/A006033
+* {E}D: https://oeis.org/A128458
+
+base *b* = 17:
+
+* 1{0}2: https://oeis.org/A113480
+* {1}: https://oeis.org/A006034
+* 1{G}: https://oeis.org/A193177
+* {G}1: https://oeis.org/A034922
+* {G}F: https://oeis.org/A128459
+
 Home page of Proth Primes Search (search of primes of the form *k*×2<sup>*n*</sup>+1 with odd *k*): http://www.prothsearch.com/
 
 Home page of Riesel Prime Search (search of primes of the form *k*×2<sup>*n*</sup>−1 with odd *k*): https://web.archive.org/web/20210817181915/http://www.15k.org/
