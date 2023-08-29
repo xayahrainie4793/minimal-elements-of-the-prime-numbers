@@ -1903,7 +1903,7 @@ base *b* = 10:
 * 2{9}: https://oeis.org/A056703, https://oeis.org/A055559 (corresponding primes, with an additional prime 2)
 * 3{0}1: https://oeis.org/A056807, https://oeis.org/A259866 (corresponding primes)
 * 3{0}7: https://oeis.org/A100501
-* 3{1}: https://oeis.org/A056704, https://oeis.org/A068813 (corresponding primes, with an additional prime 3)
+* 3{1}: https://oeis.org/A056704, https://oeis.org/A068813 (corresponding primes)
 * {3}1: https://oeis.org/A055557, https://oeis.org/A123568 (corresponding primes)
 * {3}7: https://oeis.org/A056680, https://oeis.org/A093168 (corresponding primes, with an additional prime 7)
 * 3{7}: https://oeis.org/A056705, https://oeis.org/A093939 (corresponding primes, with an additional prime 3)
@@ -1919,6 +1919,22 @@ base *b* = 10:
 * {4}9: https://oeis.org/A099414, https://oeis.org/A093402
 * 4{7}: https://oeis.org/A056708, https://oeis.org/A093940 (corresponding primes)
 * 4{9}: https://oeis.org/A056712, https://oeis.org/A093945 (corresponding primes)
+* 5{0}3: https://oeis.org/A096254, https://oeis.org/A177120 (corresponding primes)
+* 5{0}9: https://oeis.org/A103004
+* 5{1}: https://oeis.org/A056713, https://oeis.org/A068816 (corresponding primes)
+* 5{3}: https://oeis.org/A056714, https://oeis.org/A093674 (corresponding primes, with an additional prime 5)
+* {5}1: https://oeis.org/A099415
+* {5}3: https://oeis.org/A099416, https://oeis.org/A093164 (corresponding primes, with an additional prime 3)
+* {5}7: https://oeis.org/A099417, https://oeis.org/A093169 (corresponding primes, with an additional prime 7)
+* {5}9: https://oeis.org/A099418, https://oeis.org/A093403 (corresponding primes)
+* 5{7}: https://oeis.org/A056715, https://oeis.org/A093941 (corresponding primes, with an additional prime 5)
+* 5{9}: https://oeis.org/A056716, https://oeis.org/A093946 (corresponding primes, with an additional prime 5)
+* 6{0}1: https://oeis.org/A056805, https://oeis.org/A177132 (corresponding primes, with an additional prime 7)
+* 6{0}7: https://oeis.org/A103026
+* 6{1}: https://oeis.org/A056717, https://oeis.org/A093631 (corresponding primes)
+* {6}1: https://oeis.org/A098088, https://oeis.org/A092571 (corresponding primes)
+* {6}7: https://oeis.org/A096507, https://oeis.org/A093170 (corresponding primes, with an additional prime 7)
+* 6{7}: https://oeis.org/A056718, https://oeis.org/A093942 (corresponding primes)
 
 Home page of Proth Primes Search (search of primes of the form *k*×2<sup>*n*</sup>+1 with odd *k*): http://www.prothsearch.com/
 
