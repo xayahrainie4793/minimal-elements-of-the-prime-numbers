@@ -2013,6 +2013,7 @@ base *b* = 17:
 * 1{0}2: https://oeis.org/A113480
 * {1}: https://oeis.org/A006034
 * 1{G}: https://oeis.org/A193177
+* 2{0}1: https://oeis.org/A141797
 * {G}1: https://oeis.org/A034922
 * {G}F: https://oeis.org/A128459
 
