@@ -1861,6 +1861,7 @@ base *b* = 7:
 * 1{0}6: https://oeis.org/A217130, https://oeis.org/A228030 (corresponding primes, with an additional prime 7)
 * {1}: https://oeis.org/A004063, https://oeis.org/A102170 (corresponding primes)
 * 1{6}: https://oeis.org/A002959, https://oeis.org/A158795 (corresponding primes)
+* 4{0}1: https://oeis.org/A204323
 * 5{6}: https://oeis.org/A046866
 * 6{0}1: https://oeis.org/A245241
 * {6}1: https://oeis.org/A191469, https://oeis.org/A291861 (corresponding primes)
