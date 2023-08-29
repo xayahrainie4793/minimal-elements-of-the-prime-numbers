@@ -1796,6 +1796,12 @@ Probable primes (i.e. *c* ≠ ±1 or/and *d* ≠ 1):
 * (*a*×10<sup>*n*</sup>+*c*)/*d*: http://www.primenumbers.net/prptop/searchform.php?form=%28a*10%5En%2Bc%29%2Fd&action=Search
 * (*a*×10<sup>*n*</sup>−*c*)/*d*: http://www.primenumbers.net/prptop/searchform.php?form=%28a*10%5En-c%29%2Fd&action=Search
 
+Home page of Proth Primes Search (search of primes of the form *k*×2<sup>*n*</sup>+1 with odd *k*): http://www.prothsearch.com/
+
+Home page of Riesel Primes Search (search of primes of the form *k*×2<sup>*n*</sup>−1 with odd *k*): https://web.archive.org/web/20210817181915/http://www.15k.org/
+
+Home page of Proth/Riesel Primes Search (search of primes of the form *k*×2<sup>*n*</sup>±1 with odd *k*): https://www.rieselprime.de/default.htm
+
 *OEIS* sequences for the exponents *n* for the primes in given families in given base *b* (only list those for families {*x*}, *x*{*y*}, {*x*}*y*, *x*{0}*y*, since the smallest prime in these families **must** be minimal primes in the same base *b* (except the cases that the repeating digit (i.e. *y* in *x*{*y*}, or *x* in {*x*}*y*) is 1), also only count the primes > *b*):
 
 base *b* = 2:
@@ -2018,10 +2024,6 @@ base *b* = 17:
 * 2{0}1: https://oeis.org/A141797
 * {G}1: https://oeis.org/A034922
 * {G}F: https://oeis.org/A128459
-
-Home page of Proth Primes Search (search of primes of the form *k*×2<sup>*n*</sup>+1 with odd *k*): http://www.prothsearch.com/
-
-Home page of Riesel Prime Search (search of primes of the form *k*×2<sup>*n*</sup>−1 with odd *k*): https://web.archive.org/web/20210817181915/http://www.15k.org/
 
 References of minimal primes (https://en.wikipedia.org/wiki/Minimal_prime_(recreational_mathematics), https://t5k.org/glossary/xpage/MinimalPrime.html) (the original definition, i.e. prime > base (*b*) is not required):
 
