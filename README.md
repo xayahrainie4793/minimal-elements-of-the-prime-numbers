@@ -1820,7 +1820,7 @@ base *b* = 3:
 
 base *b* = 4:
 
-* 1{0}1: https://oeis.org/A222008 (corresponding primes), https://oeis.org/A019434 (corresponding primes, with an additional prime 3), https://oeis.org/A092506 (corresponding primes, with additional primes 2 and 3)
+* 1{0}1: https://oeis.org/A222008 (corresponding primes), https://oeis.org/A019434 (corresponding primes, with an additional prime 3), https://oeis.org/A092506 (corresponding primes, with two additional primes 2 and 3)
 * 1{0}3: https://oeis.org/A089437, https://oeis.org/A228026 (corresponding primes)
 * {1}3: https://oeis.org/A261539
 * 1{3}: https://oeis.org/A146768, https://oeis.org/A000668 (corresponding primes, with an additional prime 3)
@@ -1882,6 +1882,9 @@ base *b* = 9:
 * 1{0}2: https://oeis.org/A090649, https://oeis.org/A228034 (corresponding primes, with an additional prime 3)
 * 1{0}4: https://oeis.org/A217384
 * 1{0}8: https://oeis.org/A217385
+* 1{4}: https://oeis.org/A076481 (corresponding primes)
+* {4}5: https://oeis.org/A093625 (corresponding primes, with two additional primes 2 and 5)
+* {6}7: https://oeis.org/A111010 (corresponding primes, with two additional primes 2 and 7)
 * 7{8}: https://oeis.org/A268356
 * 8{0}1: https://oeis.org/A056799
 * {8}1: https://oeis.org/A177093, https://oeis.org/A177094 (corresponding primes)
@@ -2016,6 +2019,10 @@ base *b* = 15:
 * {1}: https://oeis.org/A006033
 * {E}D: https://oeis.org/A128458
 
+base *b* = 16:
+
+* 1{0}1: https://oeis.org/A222008 (corresponding primes, with an additional prime 5), https://oeis.org/A019434 (corresponding primes, with two additional primes 3 and 5), https://oeis.org/A092506 (corresponding primes, with three additional primes 2 and 3 and 5)
+
 base *b* = 17:
 
 * 1{0}2: https://oeis.org/A113480
@@ -2024,6 +2031,101 @@ base *b* = 17:
 * 2{0}1: https://oeis.org/A141797
 * {G}1: https://oeis.org/A034922
 * {G}F: https://oeis.org/A128459
+
+base *b* = 18:
+
+* {1}: https://oeis.org/A133857
+
+base *b* = 19:
+
+* {1}: https://oeis.org/A006035
+* {I}H: https://oeis.org/A128460
+
+base *b* = 20:
+
+* 1{0}3: https://oeis.org/A339921
+* {1}: https://oeis.org/A127995
+* {J}H: https://oeis.org/A339922
+
+base *b* = 21:
+
+* 1{0}2: https://oeis.org/A138049
+* {1}: https://oeis.org/A127996
+* {K}J: https://oeis.org/A128461
+
+base *b* = 22:
+
+* {1}: https://oeis.org/A127997
+
+base *b* = 23:
+
+* 1{0}2: https://oeis.org/A138050
+* {1}: https://oeis.org/A204940
+* 2{0}1: https://oeis.org/A141798
+
+base *b* = 24:
+
+* {1}: https://oeis.org/A127998
+
+base *b* = 25:
+
+* 1{0}4: https://oeis.org/A228028 (corresponding primes, with an additional prime 5)
+* 1{6}: https://oeis.org/A086122 (corresponding primes)
+* 1{O}: https://oeis.org/A002958, https://oeis.org/A120376 (corresponding primes)
+* 5{0}2: https://oeis.org/A182330 (corresponding primes, with two additional primes 3 and 7)
+* 5{0}8: https://oeis.org/A102910 (corresponding primes, with an additional prime 13)
+* A{0}1: https://oeis.org/A205771 (corresponding primes, with two additional primes 3 and 11)
+* {K}L: https://oeis.org/A138647 (corresponding primes)
+* {O}N: https://oeis.org/A204578 (corresponding primes, with two additional primes 3 and 23)
+
+base *b* = 26:
+
+* {1}: https://oeis.org/A127999
+
+base *b* = 27:
+
+* 1{0}2: https://oeis.org/A138051, https://oeis.org/A176495 (corresponding primes, with an additional prime 3)
+
+base *b* = 28:
+
+* {1}: https://oeis.org/A128000
+
+base *b* = 29:
+
+* 1{0}2: https://oeis.org/A087886
+* {1}: https://oeis.org/A181979
+* 2{0}1: https://oeis.org/A141802
+
+base *b* = 30:
+
+* {1}: https://oeis.org/A098438
+
+base *b* = 31:
+
+* {1}: https://oeis.org/A128002
+
+base *b* = 32:
+
+(none of these sequences is currently in *OEIS*)
+
+base *b* = 33:
+
+* 1{0}2: https://oeis.org/A247957
+* {1}: https://oeis.org/A209120
+
+base *b* = 34:
+
+* {1}: https://oeis.org/A185073
+
+base *b* = 35:
+
+* 1{0}2: https://oeis.org/A247958
+* {1}: https://oeis.org/A348170
+
+base *b* = 36:
+
+* 1{0}1: https://oeis.org/A182331 (corresponding primes, with two additional primes 2 and 7)
+* 1{7}: https://oeis.org/A165210 (corresponding primes, with an additional prime 7)
 
 References of minimal primes (https://en.wikipedia.org/wiki/Minimal_prime_(recreational_mathematics), https://t5k.org/glossary/xpage/MinimalPrime.html) (the original definition, i.e. prime > base (*b*) is not required):
 
