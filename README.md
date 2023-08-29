@@ -1872,6 +1872,8 @@ base *b* = 8:
 * 1{0}3: https://oeis.org/A217354, https://oeis.org/A228032 (corresponding primes)
 * 1{0}5: https://oeis.org/A217355, https://oeis.org/A228033 (corresponding primes)
 * 1{0}7: https://oeis.org/A217381, https://oeis.org/A144360 (corresponding primes)
+* 1{7}: https://oeis.org/A216518 (*n* replaced by 3×*n*+1, with an additional term 3)
+* 3{7}: https://oeis.org/A216519 (*n* replaced by 3×*n*+2)
 * 6{7}: https://oeis.org/A268061
 * 7{0}1: https://oeis.org/A269544
 * {7}1: https://oeis.org/A217380
@@ -2023,6 +2025,9 @@ base *b* = 15:
 base *b* = 16:
 
 * 1{0}1: https://oeis.org/A222008 (corresponding primes, with an additional prime 5), https://oeis.org/A019434 (corresponding primes, with two additional primes 3 and 5), https://oeis.org/A092506 (corresponding primes, with three additional primes 2 and 3 and 5)
+* 1{F}: https://oeis.org/A145040 (*n* replaced by 4×*n*+1), https://oeis.org/A112634 (*n* replaced by 4×*n*+1, with an additional term 2)
+* 7{F}: https://oeis.org/A112633 (*n* replaced by 4×*n*+3)
+* {A}B: https://oeis.org/A361563 (*n* replaced by 4×*n*+1)
 
 base *b* = 17:
 
