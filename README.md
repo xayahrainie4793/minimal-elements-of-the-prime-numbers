@@ -2288,7 +2288,7 @@ Prime checkers:
 1. https://t5k.org/curios/includes/primetest.php
 2. https://www.numberempire.com/primenumbers.php
 3. http://www.numbertheory.org/php/lucas.html
-4. http://www.javascripter.net/faq/numberisprime.htm
+4. http://www.javascripter.net/faq/numberisprime.htm (also find the least prime factor)
 5. http://www.javascripter.net/math/primes/millerrabinprimalitytest.htm
 6. http://www.javascripter.net/math/calculators/100digitbigintcalculator.htm (just type *x* and click "prime?")
 7. http://www.math.com/students/calculators/source/prime-number.htm
@@ -2313,11 +2313,11 @@ Integer factorizers:
 
 1. https://www.numberempire.com/numberfactorizer.php
 2. https://www.alpertron.com.ar/ECM.HTM
-3. http://www.javascripter.net/math/calculators/primefactorscalculator.htm
-4. https://web.archive.org/web/20230122202627/https://betaprojects.com/calculators/prime_factors.html
-5. https://www.emathhelp.net/calculators/pre-algebra/prime-factorization-calculator/
-6. http://www.numbertheory.org/php/factor.html
-7. http://www.numbertheory.org/php/lprimefactor.html (only find the least prime factor)
+3. http://www.numbertheory.org/php/factor.html
+4. http://www.numbertheory.org/php/lprimefactor.html (only find the least prime factor)
+5. http://www.javascripter.net/math/calculators/primefactorscalculator.htm
+6. https://web.archive.org/web/20230122202627/https://betaprojects.com/calculators/prime_factors.html
+7. https://www.emathhelp.net/calculators/pre-algebra/prime-factorization-calculator/
 8. https://primefan.tripod.com/Factorer.html
 9. https://www.calculatorsoup.com/calculators/math/prime-factors.php
 10. https://www.calculator.net/prime-factorization-calculator.html
