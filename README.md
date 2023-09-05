@@ -2288,7 +2288,7 @@ Prime checkers:
 1. https://t5k.org/curios/includes/primetest.php
 2. https://www.numberempire.com/primenumbers.php
 3. http://www.numbertheory.org/php/lucas.html
-4. http://www.javascripter.net/faq/numberisprime.htm (type "isPrime(*n*)", also type "leastFactor(*n*)" to find the least prime factor)
+4. http://www.javascripter.net/faq/numberisprime.htm (just type "isPrime(*n*)")
 5. http://www.javascripter.net/math/primes/millerrabinprimalitytest.htm
 6. http://www.javascripter.net/math/calculators/100digitbigintcalculator.htm (just type *x* and click "prime?")
 7. http://www.math.com/students/calculators/source/prime-number.htm
@@ -2316,31 +2316,32 @@ Integer factorizers:
 3. http://www.numbertheory.org/php/factor.html
 4. http://www.numbertheory.org/php/lprimefactor.html (only find the least prime factor)
 5. http://www.javascripter.net/math/calculators/primefactorscalculator.htm
-6. https://web.archive.org/web/20230122202627/https://betaprojects.com/calculators/prime_factors.html
-7. https://www.emathhelp.net/calculators/pre-algebra/prime-factorization-calculator/
-8. https://primefan.tripod.com/Factorer.html
-9. https://www.calculatorsoup.com/calculators/math/prime-factors.php
-10. https://www.calculator.net/prime-factorization-calculator.html
-11. http://www.se16.info/js/factor.htm
-12. http://math.fau.edu/Richman/mla/factor-f.htm
-13. http://www.rsok.com/~jrm/factor.html
-14. http://www.brennen.net/primes/FactorApplet.html (need run with Java)
-15. https://web.archive.org/web/20161004191531/http://britton.disted.camosun.bc.ca/jbprimefactor.htm
-16. http://wims.unice.fr/~wims/en_tool~algebra~factor.en.html
-17. http://www.analyzemath.com/Calculators_3/prime_factors.html
-18. https://www.archimedes-lab.org/primOmatic.html
-19. http://www.proftnj.com/calcprem.htm (in French) (use the box "Factoriser un nombre" and click "Factoriser")
-20. http://www.positiveintegers.org/ (just enter the number)
-21. https://numdic.com/ (just enter the number)
-22. https://numbermatics.com/ (just enter the number)
-23. https://metanumbers.com/ (just enter the number)
-24. https://int.darkbyte.ru/ (just enter the number)
-25. https://www.numbersaplenty.com/ (just enter the number)
-26. http://factordb.com/ (online factor database)
-27. https://578d0722p8.goho.co/index.html (more types of numbers in the online factor database)
-28. http://myfactorcollection.mooo.com:8090/dbio.html (online factor database for numbers of the form *b*<sup>*n*</sup>±1)
-29. https://web.archive.org/web/20120722020628/http://homes.cerias.purdue.edu/~ssw/cun/prime.php (online factor database for numbers of the form *b*<sup>*n*</sup>±1 for 2 ≤ *b* ≤ 12)
-30. https://web.archive.org/web/20120330032919/http://homes.cerias.purdue.edu/~ssw/cun/clientold.html (online factor database for numbers of the form *b*<sup>*n*</sup>±1 for 2 ≤ *b* ≤ 12)
+6. http://www.javascripter.net/faq/numberisprime.htm (only find the least prime factor, just type "leastFactor(*n*)")
+7. https://web.archive.org/web/20230122202627/https://betaprojects.com/calculators/prime_factors.html
+8. https://www.emathhelp.net/calculators/pre-algebra/prime-factorization-calculator/
+9. https://primefan.tripod.com/Factorer.html
+10. https://www.calculatorsoup.com/calculators/math/prime-factors.php
+11. https://www.calculator.net/prime-factorization-calculator.html
+12. http://www.se16.info/js/factor.htm
+13. http://math.fau.edu/Richman/mla/factor-f.htm
+14. http://www.rsok.com/~jrm/factor.html
+15. http://www.brennen.net/primes/FactorApplet.html (need run with Java)
+16. https://web.archive.org/web/20161004191531/http://britton.disted.camosun.bc.ca/jbprimefactor.htm
+17. http://wims.unice.fr/~wims/en_tool~algebra~factor.en.html
+18. http://www.analyzemath.com/Calculators_3/prime_factors.html
+19. https://www.archimedes-lab.org/primOmatic.html
+20. http://www.proftnj.com/calcprem.htm (in French) (use the box "Factoriser un nombre" and click "Factoriser")
+21. http://www.positiveintegers.org/ (just enter the number)
+22. https://numdic.com/ (just enter the number)
+23. https://numbermatics.com/ (just enter the number)
+24. https://metanumbers.com/ (just enter the number)
+25. https://int.darkbyte.ru/ (just enter the number)
+26. https://www.numbersaplenty.com/ (just enter the number)
+27. http://factordb.com/ (online factor database)
+28. https://578d0722p8.goho.co/index.html (more types of numbers in the online factor database)
+29. http://myfactorcollection.mooo.com:8090/dbio.html (online factor database for numbers of the form *b*<sup>*n*</sup>±1)
+30. https://web.archive.org/web/20120722020628/http://homes.cerias.purdue.edu/~ssw/cun/prime.php (online factor database for numbers of the form *b*<sup>*n*</sup>±1 for 2 ≤ *b* ≤ 12)
+31. https://web.archive.org/web/20120330032919/http://homes.cerias.purdue.edu/~ssw/cun/clientold.html (online factor database for numbers of the form *b*<sup>*n*</sup>±1 for 2 ≤ *b* ≤ 12)
 
 Base converters:
 
