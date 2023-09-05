@@ -2288,7 +2288,7 @@ Prime checkers:
 1. https://t5k.org/curios/includes/primetest.php
 2. https://www.numberempire.com/primenumbers.php
 3. http://www.numbertheory.org/php/lucas.html
-4. http://www.javascripter.net/faq/numberisprime.htm (also find the least prime factor)
+4. http://www.javascripter.net/faq/numberisprime.htm (type "isPrime(*n*)", also type "leastFactor(*n*)" to find the least prime factor)
 5. http://www.javascripter.net/math/primes/millerrabinprimalitytest.htm
 6. http://www.javascripter.net/math/calculators/100digitbigintcalculator.htm (just type *x* and click "prime?")
 7. http://www.math.com/students/calculators/source/prime-number.htm
@@ -2306,8 +2306,8 @@ Prime checkers:
 19. https://int.darkbyte.ru/ (just enter the number)
 20. https://www.numbersaplenty.com/ (just enter the number)
 21. https://t5k.org/nthprime/ (calculate the *n*th prime)
-22. http://www.numbertheory.org/php/nprime.html (calculate the next (probable) prime above *N*, in fact, links 2, 6, 10, 11, 12, 13 can also calculate the next prime above *N*, besides, links 2, 6 can also calculate the previous prime below *N*)
-23. http://factordb.com/nextprime.php (calculate the next (probable) prime above *N*, in fact, links 2, 6, 10, 11, 12, 13 can also calculate the next prime above *N*, besides, links 2, 6 can also calculate the previous prime below *N*)
+22. http://www.numbertheory.org/php/nprime.html (calculate the next (probable) prime above *N*, in fact, links 2, 6, 10, 11, 12, 13 can also calculate the next prime above *N*, besides, links 2, 6 can also calculate the previous prime below *N*, for link 6 just type *x* and click "next p")
+23. http://factordb.com/nextprime.php (calculate the next (probable) prime above *N*, in fact, links 2, 6, 10, 11, 12, 13 can also calculate the next prime above *N*, besides, links 2, 6 can also calculate the previous prime below *N*, for link 6 just type *x* and click "prev p")
 
 Integer factorizers:
 
