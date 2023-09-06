@@ -779,7 +779,7 @@ and it does not appear to be any covering set (of either primes or algebraic fac
 
 Also, you can see the prime factorizations (https://en.wikipedia.org/wiki/Integer_factorization, https://www.rieselprime.de/ziki/Factorization, https://mathworld.wolfram.com/PrimeFactorization.html, https://mathworld.wolfram.com/PrimeFactorizationAlgorithms.html, http://www.numericana.com/answer/factoring.htm) of the numbers in the family A3<sub>*n*</sub>A in base *b* = 13: (for more information, see http://factordb.com/index.php?query=%2841*13%5E%28n%2B1%29%2B27%29%2F4&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show)
 
-|*n*|the prime factorization of A3<sub>*n*</sub>A in base *b* = 13|
+|*n*|the prime factorization of the number A3<sub>*n*</sub>A in base *b* = 13|
 |---|---|
 |0|2<sup>2</sup> × 5 × 7|
 |1|37 × 47|
