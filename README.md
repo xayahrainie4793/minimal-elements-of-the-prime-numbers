@@ -777,6 +777,29 @@ etc.
 
 and it does not appear to be any covering set (of either primes or algebraic factors, or both), thus this form cannot be ruled out as only containing composites (only count the numbers > *b*) (by covering congruence, algebraic factorization, or combine of them), and its Nash weight (or difficulty) is positive, and it has prime candidate, and hence there must be a prime at some point.
 
+Also, you can see the prime factorization (https://en.wikipedia.org/wiki/Integer_factorization, https://www.rieselprime.de/ziki/Factorization, https://mathworld.wolfram.com/PrimeFactorization.html, https://mathworld.wolfram.com/PrimeFactorizationAlgorithms.html, http://www.numericana.com/answer/factoring.htm) of A3<sub>*n*</sub>A in base *b* = 13: (for more information, see http://factordb.com/index.php?query=%2841*13%5E%28n%2B1%29%2B27%29%2F4&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show)
+
+|*n*|the prime factorization of A3<sub>*n*</sub>A in base *b* = 13|
+|---|---|
+|0|2<sup>2</sup> × 5 × 7|
+|1|37 × 47|
+|2|2 × 7 × 1609|
+|3|17<sup>2</sup> × 1013|
+|5|11 × 1889 × 2381|
+|9|53 × 142567 × 187009|
+|13|31 × 2621 × 28439 × 17465771|
+|17|75347 × 15298126285818457|
+|21|71 × 463680964775172744054409|
+|29|167 × 523 × 22918717 × 13034888437 × 1029221036131|
+|33|1321 × 8731 × 66501438241666259854546190716169|
+|41|30539 × 51193 × 400202013734942254309190117806115523457|
+|49|247547 × 22924129 × 97947345662199443009 × 918223277656889902919777|
+|53|9122228879 × 641529835909 × 2490847082546934353120732206210798124029|
+|57|266491 × (61-digit prime)|
+|69|89 × 44449 × 263387 × (67-digit prime)|
+
+and if there is a covering congruence of primes, then the period must be at least *lcm*(*ord*<sub>37</sub>(13), *ord*<sub>17</sub>(13), *ord*<sub>11</sub>(13), *ord*<sub>53</sub>(13), *ord*<sub>31</sub>(13), *ord*<sub>75347</sub>(13), *ord*<sub>71</sub>(13), *ord*<sub>167</sub>(13), *ord*<sub>1321</sub>(13), *ord*<sub>30539</sub>(13), *ord*<sub>247547</sub>(13), *ord*<sub>9122228879</sub>(13), *ord*<sub>266491</sub>(13), *ord*<sub>89</sub>(13)) (where *ord*<sub>*n*</sub>(*b*) is the multiplicative order (https://en.wikipedia.org/wiki/Multiplicative_order, https://t5k.org/glossary/xpage/Order.html, https://mathworld.wolfram.com/MultiplicativeOrder.html, https://oeis.org/A250211, https://oeis.org/A139366, https://oeis.org/A086145) of *b* mod *n*), which is very impossible, and since there is no *n* such that 41×13<sup>*n*+1</sup> is perfect power (after all, 41×13<sup>*n*+1</sup> is divisible by 41 but not 41<sup>2</sup>), thus the family A3<sub>*n*</sub>A (in base *b* = 13) = (41×13<sup>*n*+1</sup>+27)/4 has no algebraic factorization, thus the possbility that the family A3<sub>*n*</sub>A in base *b* = 13 can be ruled out as only containing composites (only count the numbers > *b*) (by covering congruence, algebraic factorization, or combine of them) is *very* small (< 10<sup>−1000</sup>), thus it is *almost* sure that there is a prime in the family A3<sub>*n*</sub>A in base *b* = 13.
+
 (for the examples of nonlinear families, see https://stdkmd.net/nrr/prime/primecount3.htm and https://stdkmd.net/nrr/prime/primecount3.txt (only base 10 families), nonlinear families usually have small primes if they cannot be ruled out as only containing composites by covering congruence, see the section above)
 
 (for the factorization of the numbers in these families, the special number field sieve (https://en.wikipedia.org/wiki/Special_number_field_sieve, https://www.rieselprime.de/ziki/Special_number_field_sieve, https://mathworld.wolfram.com/NumberFieldSieve.html, https://stdkmd.net/nrr/records.htm#BIGSNFS, http://mklasson.com/factors/viewlog.php?hide_algebraic=true&sort=2&order=desc&method=snfs&maxrows=100, https://stdkmd.net/nrr/wanted.htm#smallpolynomial) or the general number field sieve (https://en.wikipedia.org/wiki/General_number_field_sieve, https://www.rieselprime.de/ziki/General_number_field_sieve, https://mathworld.wolfram.com/NumberFieldSieve.html, https://stdkmd.net/nrr/records.htm#BIGGNFS, http://mklasson.com/factors/viewlog.php?hide_algebraic=true&sort=2&order=desc&method=gnfs&maxrows=100, https://stdkmd.net/nrr/wanted.htm#suitableforgnfs) may be used, they have *SNFS* polynomials (https://www.rieselprime.de/ziki/SNFS_polynomial_selection), just like factorization of the numbers in https://stdkmd.net/nrr/aaaab.htm and https://stdkmd.net/nrr/abbbb.htm and https://stdkmd.net/nrr/aaaba.htm and https://stdkmd.net/nrr/abaaa.htm and https://stdkmd.net/nrr/abbba.htm and https://stdkmd.net/nrr/abbbc.htm and http://mklasson.com/factors/index.php and https://cs.stanford.edu/people/rpropper/math/factors/3n-2.txt and http://alfredreichlg.de/, see https://stdkmd.net/nrr/records.htm and https://stdkmd.net/nrr/wanted.htm)
