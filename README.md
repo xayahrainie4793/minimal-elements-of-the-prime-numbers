@@ -2397,33 +2397,33 @@ Prime generators:
 
 Base converters:
 
-1. https://baseconvert.com/
-2. https://baseconvert.com/high-precision
-3. https://baseconvert.com/ieee-754-floating-point (for IEEE 754 (https://en.wikipedia.org/wiki/IEEE_754))
-4. https://www.calculand.com/unit-converter/zahlen.php?og=Base+2-36&ug=1
-5. https://www.calculand.com/unit-converter/zahlen.php?og=Base62&ug=1
-6. https://www.calculand.com/unit-converter/zahlen.php?og=Base64&ug=1
-7. https://www.calculand.com/unit-converter/zahlen.php?og=Base85&ug=1
-8. https://www.calculand.com/unit-converter/zahlen.php?og=System+calculand&ug=1
-9. http://www.unitconversion.org/unit_converter/numbers.html
-10. http://www.unitconversion.org/unit_converter/numbers-ex.html
-11. http://www.math.com/students/converters/source/base.htm
-12. https://www.dcode.fr/base-n-convert
-13. https://www.cut-the-knot.org/binary.shtml
-14. https://www.cut-the-knot.org/Curriculum/Algorithms/BaseConversion.shtml
-15. http://www.tonymarston.net/php-mysql/converter.php
-16. http://math.fau.edu/Richman/mla/convert.htm
-17. https://web.archive.org/web/20190629223750/http://thedevtoolkit.com/tools/base_conversion
-18. https://web.archive.org/web/20170204004954/http://ultrastudio.org/en/MechengburakalkanApplet-1.7.zip
-19. http://www.kwuntung.net/hkunit/base/base.php (in Chinese)
-20. https://linesegment.web.fc2.com/application/math/numbers/RadixConversion.html (in Japanese)
-21. http://www.positiveintegers.org/ (just enter the number)
-22. https://numdic.com/ (just enter the number)
-23. https://numbermatics.com/ (just enter the number)
-24. https://metanumbers.com/ (just enter the number)
-25. https://int.darkbyte.ru/ (just enter the number)
-26. https://www.numbersaplenty.com/ (just enter the number)
-27. http://factordb.com/index.php?showid=1000000000000000127 (you can change the "showid" to the *ID* for your number)
+1. https://baseconvert.com/ (any base *b*)
+2. https://baseconvert.com/high-precision (any base *b*)
+3. https://baseconvert.com/ieee-754-floating-point (for IEEE 754 (https://en.wikipedia.org/wiki/IEEE_754), only bases *b* = 2, 10, 16)
+4. https://www.calculand.com/unit-converter/zahlen.php?og=Base+2-36&ug=1 (bases 2 ≤ *b* ≤ 36)
+5. https://www.calculand.com/unit-converter/zahlen.php?og=Base62&ug=1 (covert base *b* = 62 to any base 2 ≤ *b* ≤ 200)
+6. https://www.calculand.com/unit-converter/zahlen.php?og=Base64&ug=1 (covert base *b* = 64 to any base 2 ≤ *b* ≤ 200)
+7. https://www.calculand.com/unit-converter/zahlen.php?og=Base85&ug=1 (covert base *b* = 85 to any base 2 ≤ *b* ≤ 200)
+8. https://www.calculand.com/unit-converter/zahlen.php?og=System+calculand&ug=1 (bases 2 ≤ *b* ≤ 200)
+9. http://www.unitconversion.org/unit_converter/numbers.html (bases 2 ≤ *b* ≤ 36)
+10. http://www.unitconversion.org/unit_converter/numbers-ex.html (bases 2 ≤ *b* ≤ 36)
+11. http://www.math.com/students/converters/source/base.htm (any base *b*)
+12. https://www.dcode.fr/base-n-convert (bases 2 ≤ *b* ≤ 62)
+13. https://www.cut-the-knot.org/binary.shtml (bases *b* = 2, 3, 5, 8, 10, 12, 16, 36)
+14. https://www.cut-the-knot.org/Curriculum/Algorithms/BaseConversion.shtml (bases *b* = 2, 8, 10, 16)
+15. http://www.tonymarston.net/php-mysql/converter.php (bases *b* = 2, 8, 10, 16, 36)
+16. http://math.fau.edu/Richman/mla/convert.htm (any base *b*)
+17. https://web.archive.org/web/20190629223750/http://thedevtoolkit.com/tools/base_conversion (bases 2 ≤ *b* ≤ 36)
+18. https://web.archive.org/web/20170204004954/http://ultrastudio.org/en/MechengburakalkanApplet-1.7.zip (bases 2 ≤ *b* ≤ 36)
+19. http://www.kwuntung.net/hkunit/base/base.php (in Chinese) (bases 2 ≤ *b* ≤ 36)
+20. https://linesegment.web.fc2.com/application/math/numbers/RadixConversion.html (in Japanese) (bases 2 ≤ *b* ≤ 36 and *b* = 62)
+21. http://www.positiveintegers.org/ (just enter the number) (bases 2 ≤ *b* ≤ 36)
+22. https://numdic.com/ (just enter the number) (bases *b* = 2, 3, 4, 5, 6, 7, 8, 10, 16, 24, 36)
+23. https://numbermatics.com/ (just enter the number) (bases *b* = 2, 16, 36)
+24. https://metanumbers.com/ (just enter the number) (bases *b* = 2, 3, 4, 5, 6, 8, 10, 12, 16, 20, 36)
+25. https://int.darkbyte.ru/ (just enter the number) (bases 2 ≤ *b* ≤ 36)
+26. https://www.numbersaplenty.com/ (just enter the number) (bases 2 ≤ *b* ≤ 16)
+27. http://factordb.com/index.php?showid=1000000000000000127 (you can change the "showid" to the *ID* for your number) (bases 2 ≤ *b* ≤ 36)
 
 Expression generators:
 
