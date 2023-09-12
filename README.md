@@ -2327,18 +2327,18 @@ Tools about this research: (in fact, you can also use *Wolfram Alpha* (https://w
 Prime checkers:
 
 1. https://t5k.org/curios/includes/primetest.php
-2. https://www.numberempire.com/primenumbers.php
+2. https://www.numberempire.com/primenumbers.php (choose "Check")
 3. http://www.numbertheory.org/php/lucas.html
 4. http://www.javascripter.net/faq/numberisprime.htm (just type "isPrime(*n*)")
-5. http://www.javascripter.net/math/primes/millerrabinprimalitytest.htm
+5. http://www.javascripter.net/math/primes/millerrabinprimalitytest.htm (just type "isPrimeMR18(*n*)")
 6. http://www.javascripter.net/math/calculators/100digitbigintcalculator.htm (just type *x* and click "prime?")
 7. http://www.math.com/students/calculators/source/prime-number.htm
 8. https://www.calculatorsoup.com/calculators/math/prime-number-calculator.php
-9. https://onlinemathtools.com/test-prime-number
-10. https://www.bigprimes.net/primalitytest
+9. https://onlinemathtools.com/test-prime-number (choose "Test All Numbers")
+10. https://www.bigprimes.net/primalitytest (use the first box)
 11. https://www.archimedes-lab.org/primOmatic.html
-12. http://www.sonic.net/~undoc/java/PrimeCalc.html
-13. http://www.primzahlen.de/primzahltests/testverfahren.htm (in German)
+12. http://www.sonic.net/~undoc/java/PrimeCalc.html (click "y=IsPrime(x)")
+13. http://www.primzahlen.de/primzahltests/testverfahren.htm (in German) (use the box "Miller-Rabin-Test" and click "Test")
 14. http://www.proftnj.com/calcprem.htm (in French) (use the box "Rechercher si un nombre est premier" and click "Rechercher")
 15. http://www.positiveintegers.org/ (just enter the number)
 16. https://numdic.com/ (just enter the number)
@@ -2348,9 +2348,9 @@ Prime checkers:
 20. https://www.numbersaplenty.com/ (just enter the number)
 21. http://factordb.com/ (online factor database, "P" means definitely prime, "PRP" means unproven probable prime, "FF" means composite and fully factored, "CF" means composite and has known proper factor but not fully factored, "C" means composite and has no known proper factor, "U" means number with unknown status, "Unit" means the number "1", "Zero" means the number "0", see http://factordb.com/status.html, also, this online factor database uses colors to show the status of the numbers, black means definitely prime ("P"), blue means composite ("C" or "CF" or "FF"), brown means unproven probable prime ("PRP"), red means number with unknown status ("U"), also, this online factor database automatically stores all numbers < 10<sup>18</sup> and automatically checks the probable-primality of the numbers with unknown status < 10<sup>19999</sup> and automatically proves the primality of the probable primes < 10<sup>299</sup> and automatically factors the composites < 10<sup>69</sup>, see https://web.archive.org/web/20150812084455/http://factordb.com/status.php)
 22. https://578d0722p8.goho.co/index.html (more types of numbers in the online factor database)
-23. https://t5k.org/nthprime/ (calculate the *n*th prime)
-24. http://www.numbertheory.org/php/nprime.html (calculate the next (probable) prime above *N*, in fact, links 2, 6, 10, 11, 12, 13 can also calculate the next prime above *N*, besides, links 2, 6 can also calculate the previous prime below *N*, for link 6 just type *x* and click "next p" or "prev p")
-25. http://factordb.com/nextprime.php (calculate the next (probable) prime above *N*, in fact, links 2, 6, 10, 11, 12, 13 can also calculate the next prime above *N*, besides, links 2, 6 can also calculate the previous prime below *N*, for link 6 just type *x* and click "next p" or "prev p")
+23. https://t5k.org/nthprime/ (calculate the *n*th prime) (use the box "Nth prime")
+24. http://www.numbertheory.org/php/nprime.html (calculate the next (probable) prime above *N*, in fact, links 2, 6, 10, 11, 12 can also calculate the next prime above *N*, besides, links 2, 6 can also calculate the previous prime below *N*, for link 2 choose "Find next" to calculate the next prime above *N*, or choose "Find previous" to calculate the previous prime below *N*, for link 6 just type *x* and click "next p" to calculate the next prime above *N*, or just type *x* and click "prev p" to calculate the previous prime below *N*, for link 10 use the second box to calculate the next prime above *N*, for link 12 click "y=NextPrime(x)" to calculate the next prime above *N*)
+25. http://factordb.com/nextprime.php (calculate the next (probable) prime above *N*, in fact, links 2, 6, 10, 11, 12 can also calculate the next prime above *N*, besides, links 2, 6 can also calculate the previous prime below *N*, for link 2 choose "Find next" to calculate the next prime above *N*, or choose "Find previous" to calculate the previous prime below *N*, for link 6 just type *x* and click "next p" to calculate the next prime above *N*, or just type *x* and click "prev p" to calculate the previous prime below *N*, for link 10 use the second box to calculate the next prime above *N*, for link 12 click "y=NextPrime(x)" to calculate the next prime above *N*)
 
 Integer factorizers:
 
