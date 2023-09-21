@@ -1302,9 +1302,9 @@ The unsolved families for bases *b* = 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14
 |---|---|---|---|---|
 |13|A{3}A|(41×13<sup>*n*+1</sup>+27)/4|500000|http://factordb.com/index.php?query=%2841*13%5E%28n%2B1%29%2B27%29%2F4&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |26|85{M}B|(5347×26<sup>*n*+1</sup>−297)/25|100000|http://factordb.com/index.php?query=%285347*26%5E%28n%2B1%29-297%29%2F25&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
-|26|{A}6F|(2×26<sup>*n*+2</sup>−497)/5|100000|http://factordb.com/index.php?query=%282*26%5E%28n%2B2%29-497%29%2F5&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|26|{A}6F|(2×26<sup>*n*+2</sup>−497)/5|486722|http://factordb.com/index.php?query=%282*26%5E%28n%2B2%29-497%29%2F5&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |26|{H}MH|(17×26<sup>*n*+2</sup>+3233)/25|100000|http://factordb.com/index.php?query=%2817*26%5E%28n%2B2%29%2B3233%29%2F25&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
-|26|{I}GL|(18×26<sup>*n*+2</sup>−1243)/25|100000|http://factordb.com/index.php?query=%2818*26%5E%28n%2B2%29-1243%29%2F25&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|26|{I}GL|(18×26<sup>*n*+2</sup>−1243)/25|497679|http://factordb.com/index.php?query=%2818*26%5E%28n%2B2%29-1243%29%2F25&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |28|O{A}F|(658×28<sup>*n*+1</sup>+125)/27|543203|http://factordb.com/index.php?query=(658*28^(n%2B1)%2B125)/27&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |36|B{0}EUV|11×36<sup>*n*+3</sup>+19255|100000|http://factordb.com/index.php?query=11*36%5E%28n%2B3%29%2B19255&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |36|HM{0}N|634×36<sup>*n*+1</sup>+23|100000|http://factordb.com/index.php?query=634*36%5E%28n%2B1%29%2B23&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
