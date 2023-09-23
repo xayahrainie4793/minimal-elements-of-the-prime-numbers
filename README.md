@@ -60,6 +60,7 @@ Computing the minimal set *M*(*L*) is undecidable in general and can be very dif
 Also, more strange ...
 
 * The minimal set of the primes > 15 in base *b* = 15 has 1284 elements, the largest of which has only 157 digits.
+* The minimal set of the primes > 18 in base *b* = 18 has only 549 elements, but the largest of which has 6271 digits!
 * The minimal set of the primes > 14 in base *b* = 14 has only 650 elements, but the largest of which has 19699 digits!
 
 And the finale ...
