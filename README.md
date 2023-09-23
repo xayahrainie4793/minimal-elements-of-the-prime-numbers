@@ -54,18 +54,21 @@ An amazing fact is that *sub*(*L*) and *sup*(*L*) are always regular. This follo
 
 Computing the minimal set *M*(*L*) is undecidable in general and can be very difficult to compute even for simple languages, and can lead to some strange behaviour ...
 
-* The minimal set of the primes > 7 in base *b* = 7 has 71 elements, the largest of which has only 17 digits.
+* The minimal set of the primes > 7 in base *b* = 7 has 71 elements, and the largest of which has only 17 digits.
 * The minimal set of the primes > 5 in base *b* = 5 has only 22 elements, but the largest of which has 96 digits!
 
 Also, more strange ...
 
-* The minimal set of the primes > 15 in base *b* = 15 has 1284 elements, the largest of which has only 157 digits.
+* The minimal set of the primes > 15 in base *b* = 15 has 1284 elements, and the largest of which has only 157 digits.
 * The minimal set of the primes > 18 in base *b* = 18 has only 549 elements, but the largest of which has 6271 digits!
 * The minimal set of the primes > 14 in base *b* = 14 has only 650 elements, but the largest of which has 19699 digits!
+* The minimal set of the primes > 20 in base *b* = 20 has 3314 elements, but the largest of which also has 6271 digits.
+* The minimal set of the primes > 24 in base *b* = 24 has 3409 elements, and the largest of which has 8134 digits.
 
-And the finale ...
+And the finales ...
 
 * The minimal set of the primes > 11 in base *b* = 11 has 1068 elements, the largest of which has 62669 digits! (technically, probable primality tests were used to show this (which have a *very* small chance of making an error) because all known primality tests run far too slowly to run on a number of this size)
+* The minimal set of the primes > 16 in base *b* = 16 has 2347 elements, the largest of which has 116139 digits! (technically, probable primality tests were used to show this (which have a *very* small chance of making an error) because all known primality tests run far too slowly to run on a number of this size)
 
 In this project, we will find the minimal set of the language (https://en.wikipedia.org/wiki/Formal_language, https://mathworld.wolfram.com/FormalLanguage.html) of base (https://en.wikipedia.org/wiki/Radix, https://t5k.org/glossary/xpage/Radix.html, https://www.rieselprime.de/ziki/Base, https://mathworld.wolfram.com/Radix.html) *b* representations (https://en.wikipedia.org/wiki/Representation_(mathematics)) of the prime numbers (https://en.wikipedia.org/wiki/Prime_number, https://t5k.org/glossary/xpage/Prime.html, https://www.rieselprime.de/ziki/Prime, https://mathworld.wolfram.com/PrimeNumber.html, https://www.numbersaplenty.com/set/prime_number/, http://www.numericana.com/answer/primes.htm#definition, http://web.archive.org/web/20060925101351/http://www.glasgowg43.freeserve.co.uk/pfaq2.htm, https://oeis.org/A000040) which are > *b*, and the language of base-*b* representations of the prime numbers which are > *b* are strings (https://en.wikipedia.org/wiki/String_(computer_science), https://mathworld.wolfram.com/String.html) of symbols (https://en.wikipedia.org/wiki/Symbol) over the alphabet (https://en.wikipedia.org/wiki/Alphabet_(formal_languages)) Σ<sub>*b*</sub> = {0, 1, ..., *b*−1} (the set of the base *b* digits (https://en.wikipedia.org/wiki/Numerical_digit, https://www.rieselprime.de/ziki/Digit, https://mathworld.wolfram.com/Digit.html)).
 
