@@ -52,7 +52,7 @@ The minimal set *M*(*L*) of a language (https://en.wikipedia.org/wiki/Formal_lan
 
 An amazing fact is that *sub*(*L*) and *sup*(*L*) are always regular. This follows from the classical theorem that every set of pairwise incomparable strings is finite.
 
-Computing (https://en.wikipedia.org/wiki/Computing) the minimal set *M*(*L*) is undecidable (https://en.wikipedia.org/wiki/Undecidable_problem, https://mathworld.wolfram.com/Undecidable.html) in general and can be very difficult to compute even for simple languages, and can lead to some strange behaviour ...
+Although the minimal set *M*(*L*) is necessary finite even for infinite set *L*, but computing (https://en.wikipedia.org/wiki/Computing) the minimal set *M*(*L*) is undecidable (https://en.wikipedia.org/wiki/Undecidable_problem, https://mathworld.wolfram.com/Undecidable.html) in general and can be very difficult to compute even for simple languages, and can lead to some strange behaviour ...
 
 * The minimal set of the primes > 7 in base *b* = 7 has 71 elements, but the largest of which has only 17 digits.
 * The minimal set of the primes > 5 in base *b* = 5 has only 22 elements, but the largest of which has 96 digits!
