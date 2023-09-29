@@ -859,7 +859,7 @@ For an example of an unsolved family in bases 2 ≤ *b* ≤ 36 with a very low (
 
 Thus only *n* == 15 mod 24 gives possible candidates for prime numbers!
 
-And for *n* == 15 mod 24, we have: (all composites in the list below have been trial factored (https://en.wikipedia.org/wiki/Trial_division, https://t5k.org/glossary/xpage/TrialDivision.html, https://www.rieselprime.de/ziki/Trial_factoring, https://mathworld.wolfram.com/TrialDivision.html, http://www.numericana.com/answer/factoring.htm#trial, https://oeis.org/A189172) to 10<sup>9</sup>, also none of them have algebraic factors)
+And for *n* == 15 mod 24, we have: (all composites in the list below have been trial factored (https://en.wikipedia.org/wiki/Trial_division, https://t5k.org/glossary/xpage/TrialDivision.html, https://www.rieselprime.de/ziki/Trial_factoring, https://mathworld.wolfram.com/TrialDivision.html, http://www.numericana.com/answer/factoring.htm#trial, https://oeis.org/A189172) to 10<sup>9</sup>, also none of these composites have algebraic factors)
 
 |*n*|the prime factorization of the number 5H<sub>*n*</sub>5 in base *b* = 19|
 |---|---|
