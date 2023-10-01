@@ -872,7 +872,7 @@ And for *n* == 15 mod 24, we have: (all "composites without known proper factor 
 |159|26021 × 1645306722881711 × (186-digit composite without known proper factor > 1)|
 |183|29 × (235-digit composite without known proper factor > 1)|
 
-and it does not appear to be any covering congruence of primes, besides, there is no *n* such that 107×19<sup>*n*+1</sup> is perfect power (after all, this number is divisible by 107 but not 107<sup>2</sup>), thus this family has no algebraic factorization for any *n*, thus its Nash weight (or difficulty) is positive (although very low), so there must be a prime at some point.
+and it does not appear to be any covering congruence of primes, besides, since 233 is not a perfect power, thus the family 5H<sub>*n*</sub>5 (in base *b* = 19) has no algebraic factorization for any *n*, thus its Nash weight (or difficulty) is positive (although very low), so there must be a prime at some point (and the corresponding *n* must be == 15 mod 24).
 
 (for the examples of nonlinear families, see https://stdkmd.net/nrr/prime/primecount3.htm and https://stdkmd.net/nrr/prime/primecount3.txt (only base 10 families), nonlinear families usually have small primes if they cannot be ruled out as only containing composites by covering congruence, see the section above)
 
