@@ -1957,11 +1957,39 @@ Probable primes (i.e. *c* ≠ ±1 or/and *d* ≠ 1):
 * (*a*×10<sup>*n*</sup>+*c*)/*d*: http://www.primenumbers.net/prptop/searchform.php?form=%28a*10%5En%2Bc%29%2Fd&action=Search
 * (*a*×10<sup>*n*</sup>−*c*)/*d*: http://www.primenumbers.net/prptop/searchform.php?form=%28a*10%5En-c%29%2Fd&action=Search
 
-Home page of Proth Primes Search (search of primes of the form *k*×2<sup>*n*</sup>+1 with odd *k*): http://www.prothsearch.com/
+Home page of Proth primes search (search of primes of the form *k*×2<sup>*n*</sup>+1 with odd *k*): 
 
-Home page of Riesel Primes Search (search of primes of the form *k*×2<sup>*n*</sup>−1 with odd *k*): https://web.archive.org/web/20210817181915/http://www.15k.org/
+Home page of Riesel primes search (search of primes of the form *k*×2<sup>*n*</sup>−1 with odd *k*): 
 
-Home page of Proth/Riesel Primes Search (search of primes of the form *k*×2<sup>*n*</sup>±1 with odd *k*): https://www.rieselprime.de/default.htm
+Home page of Proth/Riesel primes search (search of primes of the form *k*×2<sup>*n*</sup>±1 with odd *k*): 
+
+Home pages of searching the primes of the form (*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1):
+
+1. https://www.primegrid.com/
+2. http://www.noprimeleftbehind.net/stats/
+3. http://www.noprimeleftbehind.net/crus/
+4. http://www.noprimeleftbehind.net/gary/ (subpages not available in this page, the subpages are http://www.noprimeleftbehind.net/gary/primes-kx10n-1.htm and http://www.noprimeleftbehind.net/gary/primes-kx2n-1-001.htm and http://www.noprimeleftbehind.net/gary/Rieselprimes-ranges.htm and http://www.noprimeleftbehind.net/gary/twins100K.htm and http://www.noprimeleftbehind.net/gary/twins1M.htm)
+5. http://www.prothsearch.com/
+6. https://web.archive.org/web/20210817181915/http://www.15k.org/
+7. https://www.rieselprime.de/default.htm
+8. https://www.rieselprime.de/Related/ (subpages not available in this page, the subpages are https://www.rieselprime.de/Related/RieselTwinSG.htm and https://www.rieselprime.de/Related/LiskovetsGallot.htm)
+9. http://www.fermatquotient.com/
+10. https://web.archive.org/web/20021001222643/http://www.users.globalnet.co.uk/~aads/index.html
+11. http://www.primenumbers.net/Henri/us/
+12. https://pzktupel.de/ktuplets.php
+13. http://harvey563.tripod.com/
+14. http://guenter.loeh.name/
+15. http://www.fermatsearch.org/
+16. http://jeppesn.dk/
+17. http://yves.gallot.pagesperso-orange.fr/primes/index.html
+18. https://stdkmd.net/
+19. https://kurtbeschorner.de/
+20. https://www.mersenne.org/
+21. https://web.archive.org/web/20211031110623/http://mprime.s3-website.us-west-1.amazonaws.com/wagstaff/
+22. http://kenta.blogspot.com/2012/11/ezgxggdm-dual-sierpinski-problem.html
+23. https://oeis.org/A076336/a076336c.html (special situation: in theory this reference should be http://web.archive.org/web/20080908010544/http://sierpinski.insider.com/dual, but this page is excluded from the Wayback Machine, thus linked to the cached copy page)
+24. http://www.doublemersennes.org/
+25. http://www.hoegge.dk/mersenne/NMC.html
 
 *OEIS* sequences for the exponents *n* for the primes in given families in given base *b* (only list those for families {*x*}, *x*{*y*}, {*x*}*y*, *x*{0}*y*, since the smallest prime in these families **must** be minimal primes in the same base *b* (except the cases that the repeating digit (i.e. *y* in *x*{*y*}, or *x* in {*x*}*y*) is 1), also only count the primes > *b*):
 
