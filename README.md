@@ -2000,17 +2000,18 @@ Index pages of factoring the numbers of the form (*a*×*b*<sup>*n*</sup>+*c*)/*g
 10. https://kurtbeschorner.de/
 11. https://repunit-koide.jimdofree.com/
 12. https://gmplib.org/~tege/repunit.html
-13. https://alfredreichlg.de/
-14. https://web.archive.org/web/20021015210104/http://www.users.globalnet.co.uk/~aads/faclist.html
-15. http://www.asahi-net.or.jp/~KC2H-MSM/mathland/matha1/index.htm
-16. http://mklasson.com/factors/index.php
-17. https://cs.stanford.edu/people/rpropper/math/factors/3n-2.txt
-18. https://brnikat.com/nums/index.html
-19. https://web.archive.org/web/20120426061657/http://oddperfect.org/
-20. https://web.archive.org/web/20081006071311/http://www-staff.maths.uts.edu.au/~rons/fact/fact.htm
-21. http://www.loria.fr/~zimmerma/ecmnet/ (finding the factors of the numbers)
-22. https://www.rechenkraft.net/yoyo/ (finding the factors of the numbers)
-23. http://escatter11.fullerton.edu/nfs/ (finding the factors of the numbers)
+13. http://chesswanks.com/pxp/repfactors.html
+14. https://alfredreichlg.de/
+15. https://web.archive.org/web/20021015210104/http://www.users.globalnet.co.uk/~aads/faclist.html
+16. http://www.asahi-net.or.jp/~KC2H-MSM/mathland/matha1/index.htm
+17. http://mklasson.com/factors/index.php
+18. https://cs.stanford.edu/people/rpropper/math/factors/3n-2.txt
+19. https://brnikat.com/nums/index.html
+20. https://web.archive.org/web/20120426061657/http://oddperfect.org/
+21. https://web.archive.org/web/20081006071311/http://www-staff.maths.uts.edu.au/~rons/fact/fact.htm
+22. http://www.loria.fr/~zimmerma/ecmnet/ (finding the factors of the numbers)
+23. https://www.rechenkraft.net/yoyo/ (finding the factors of the numbers)
+24. http://escatter11.fullerton.edu/nfs/ (finding the factors of the numbers)
 
 *OEIS* sequences for the exponents *n* for the primes in given families in given base *b* (only list those for families {*x*}, *x*{*y*}, {*x*}*y*, *x*{0}*y*, since the smallest prime in these families **must** be minimal primes in the same base *b* (except the cases that the repeating digit (i.e. *y* in *x*{*y*}, or *x* in {*x*}*y*) is 1), also only count the primes > *b*):
 
