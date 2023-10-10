@@ -1955,15 +1955,9 @@ Probable primes (i.e. *c* ≠ ±1 or/and *d* ≠ 1):
 * (10<sup>*n*</sup>+*c*)/*d*: http://www.primenumbers.net/prptop/searchform.php?form=%2810%5En%2Bc%29%2Fd&action=Search
 * (10<sup>*n*</sup>−*c*)/*d*: http://www.primenumbers.net/prptop/searchform.php?form=%2810%5En-c%29%2Fd&action=Search
 * (*a*×10<sup>*n*</sup>+*c*)/*d*: http://www.primenumbers.net/prptop/searchform.php?form=%28a*10%5En%2Bc%29%2Fd&action=Search
-* (*a*×10<sup>*n*</sup>−*c*)/*d*: http://www.primenumbers.net/prptop/searchform.php?form=%28a*10%5En-c%29%2Fd&action=Search
+* (*a*×10<sup>*n*</sup>−*c*)/*d*: http://www.primenumbers.net/prptop/searchform.php?form=%28a*10%5En-c%29%2Fd&action=Search 
 
-Home page of Proth primes search (search of primes of the form *k*×2<sup>*n*</sup>+1 with odd *k*): 
-
-Home page of Riesel primes search (search of primes of the form *k*×2<sup>*n*</sup>−1 with odd *k*): 
-
-Home page of Proth/Riesel primes search (search of primes of the form *k*×2<sup>*n*</sup>±1 with odd *k*): 
-
-Home pages of searching the primes of the form (*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1):
+Index pages of searching the primes of the form (*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1):
 
 1. https://www.primegrid.com/
 2. http://www.noprimeleftbehind.net/stats/
@@ -1982,14 +1976,41 @@ Home pages of searching the primes of the form (*a*×*b*<sup>*n*</sup>+*c*)/*gcd
 15. http://www.fermatsearch.org/
 16. http://jeppesn.dk/
 17. http://yves.gallot.pagesperso-orange.fr/primes/index.html
-18. https://stdkmd.net/
-19. https://kurtbeschorner.de/
-20. https://www.mersenne.org/
-21. https://web.archive.org/web/20211031110623/http://mprime.s3-website.us-west-1.amazonaws.com/wagstaff/
-22. http://kenta.blogspot.com/2012/11/ezgxggdm-dual-sierpinski-problem.html
-23. https://oeis.org/A076336/a076336c.html (special situation: in theory this reference should be http://web.archive.org/web/20080908010544/http://sierpinski.insider.com/dual, but this page is excluded from the Wayback Machine, thus linked to the cached copy page)
-24. http://www.doublemersennes.org/
-25. http://www.hoegge.dk/mersenne/NMC.html
+18. https://stdkmd.net/ (sections https://stdkmd.net/nrr/prime/ and https://stdkmd.net/nrr/cert/ and https://stdkmd.net/nrr/records.htm#primenumbers and https://stdkmd.net/nrr/records.htm#probableprimenumbers)
+19. https://kurtbeschorner.de/ (section "Rprime project; base 10")
+20. http://www.elektrosoft.it/matematica/repunit/repunit.htm
+21. https://www.mersenne.org/
+22. https://web.archive.org/web/20211031110623/http://mprime.s3-website.us-west-1.amazonaws.com/wagstaff/
+23. http://kenta.blogspot.com/2012/11/ezgxggdm-dual-sierpinski-problem.html
+24. https://oeis.org/A076336/a076336c.html (special situation: in theory this reference should be http://web.archive.org/web/20080908010544/http://sierpinski.insider.com/dual, but this page is excluded from the Wayback Machine, thus linked to the cached copy page)
+25. http://www.doublemersennes.org/
+26. http://www.hoegge.dk/mersenne/NMC.html
+
+Index pages of factoring the numbers of the form (*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1):
+
+1. https://homes.cerias.purdue.edu/~ssw/cun/index.html
+2. https://maths-people.anu.edu.au/~brent/factors.html
+3. http://myfactors.mooo.com/
+4. https://web.archive.org/web/20190315214330/http://cage.ugent.be/~jdemeyer/cunningham/
+5. https://www.mersenne.org/
+6. https://mers.sourceforge.io/mersenne.html
+7. http://www.fermatsearch.org/
+8. http://www.prothsearch.com/ (section "Fermat numbers")
+9. https://stdkmd.net/
+10. https://kurtbeschorner.de/
+11. https://repunit-koide.jimdofree.com/
+12. https://gmplib.org/~tege/repunit.html
+13. https://alfredreichlg.de/
+14. https://web.archive.org/web/20021015210104/http://www.users.globalnet.co.uk/~aads/faclist.html
+15. http://www.asahi-net.or.jp/~KC2H-MSM/mathland/matha1/index.htm
+16. http://mklasson.com/factors/index.php
+17. https://cs.stanford.edu/people/rpropper/math/factors/3n-2.txt
+18. https://brnikat.com/nums/index.html
+19. https://web.archive.org/web/20120426061657/http://oddperfect.org/
+20. https://web.archive.org/web/20081006071311/http://www-staff.maths.uts.edu.au/~rons/fact/fact.htm
+21. http://www.loria.fr/~zimmerma/ecmnet/ (finding the factors of the numbers)
+22. https://www.rechenkraft.net/yoyo/ (finding the factors of the numbers)
+23. http://escatter11.fullerton.edu/nfs/ (finding the factors of the numbers)
 
 *OEIS* sequences for the exponents *n* for the primes in given families in given base *b* (only list those for families {*x*}, *x*{*y*}, {*x*}*y*, *x*{0}*y*, since the smallest prime in these families **must** be minimal primes in the same base *b* (except the cases that the repeating digit (i.e. *y* in *x*{*y*}, or *x* in {*x*}*y*) is 1), also only count the primes > *b*):
 
