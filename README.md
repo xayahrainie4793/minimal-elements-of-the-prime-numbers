@@ -2002,7 +2002,7 @@ Index pages of factoring the numbers of the form (*a*×*b*<sup>*n*</sup>+*c*)/*g
 12. https://gmplib.org/~tege/repunit.html
 13. http://chesswanks.com/pxp/repfactors.html
 14. https://alfredreichlg.de/
-15. https://web.archive.org/web/20021015210104/http://www.users.globalnet.co.uk/~aads/faclist.html
+15. https://web.archive.org/web/20021001222643/http://www.users.globalnet.co.uk/~aads/index.html
 16. http://www.asahi-net.or.jp/~KC2H-MSM/mathland/matha1/index.htm
 17. http://mklasson.com/factors/index.php
 18. https://cs.stanford.edu/people/rpropper/math/factors/3n-2.txt
