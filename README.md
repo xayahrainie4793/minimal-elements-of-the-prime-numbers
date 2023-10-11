@@ -1980,7 +1980,7 @@ Index pages of searching the primes of the form (*a*×*b*<sup>*n*</sup>+*c*)/*gc
 19. https://kurtbeschorner.de/ (section "Rprime project; base 10")
 20. http://www.elektrosoft.it/matematica/repunit/repunit.htm
 21. https://www.mersenne.org/
-22. https://web.archive.org/web/20211031110623/http://mprime.s3-website.us-west-1.amazonaws.com/wagstaff/
+22. https://web.archive.org/web/20211011120227/http://mprime.s3-website.us-west-1.amazonaws.com/
 23. http://kenta.blogspot.com/2012/11/ezgxggdm-dual-sierpinski-problem.html
 24. https://oeis.org/A076336/a076336c.html (special situation: in theory this reference should be http://web.archive.org/web/20080908010544/http://sierpinski.insider.com/dual, but this page is excluded from the Wayback Machine, thus linked to the cached copy page)
 25. http://www.doublemersennes.org/
@@ -1996,24 +1996,25 @@ Index pages of factoring the numbers of the form (*a*×*b*<sup>*n*</sup>+*c*)/*g
 6. https://mers.sourceforge.io/mersenne.html
 7. http://www.fermatsearch.org/
 8. http://www.prothsearch.com/ (section "Fermat numbers")
-9. http://www.doublemersennes.org/
-10. http://bearnol.is-a-geek.com/Mersenneplustwo/Mersenneplustwo.html
-11. https://stdkmd.net/
-12. https://kurtbeschorner.de/
-13. https://repunit-koide.jimdofree.com/
-14. https://gmplib.org/~tege/repunit.html
-15. http://chesswanks.com/pxp/repfactors.html
-16. https://alfredreichlg.de/
-17. https://web.archive.org/web/20021001222643/http://www.users.globalnet.co.uk/~aads/index.html
-18. http://www.asahi-net.or.jp/~KC2H-MSM/mathland/matha1/index.htm
-19. http://mklasson.com/factors/index.php
-20. https://cs.stanford.edu/people/rpropper/math/factors/3n-2.txt
-21. https://brnikat.com/nums/index.html
-22. https://web.archive.org/web/20120426061657/http://oddperfect.org/
-23. https://web.archive.org/web/20081006071311/http://www-staff.maths.uts.edu.au/~rons/fact/fact.htm
-24. http://www.loria.fr/~zimmerma/ecmnet/ (finding the factors of the numbers)
-25. https://www.rechenkraft.net/yoyo/ (finding the factors of the numbers)
-26. http://escatter11.fullerton.edu/nfs/ (finding the factors of the numbers)
+9. https://web.archive.org/web/20211011120227/http://mprime.s3-website.us-west-1.amazonaws.com/
+10. http://www.doublemersennes.org/
+11. http://bearnol.is-a-geek.com/Mersenneplustwo/Mersenneplustwo.html
+12. https://stdkmd.net/
+13. https://kurtbeschorner.de/
+14. https://repunit-koide.jimdofree.com/
+15. https://gmplib.org/~tege/repunit.html
+16. http://chesswanks.com/pxp/repfactors.html
+17. https://alfredreichlg.de/
+18. https://web.archive.org/web/20021001222643/http://www.users.globalnet.co.uk/~aads/index.html
+19. http://www.asahi-net.or.jp/~KC2H-MSM/mathland/matha1/index.htm
+20. http://mklasson.com/factors/index.php
+21. https://cs.stanford.edu/people/rpropper/math/factors/3n-2.txt
+22. https://brnikat.com/nums/index.html
+23. https://web.archive.org/web/20120426061657/http://oddperfect.org/
+24. https://web.archive.org/web/20081006071311/http://www-staff.maths.uts.edu.au/~rons/fact/fact.htm
+25. http://www.loria.fr/~zimmerma/ecmnet/ (finding the factors of the numbers)
+26. https://www.rechenkraft.net/yoyo/ (finding the factors of the numbers)
+27. http://escatter11.fullerton.edu/nfs/ (finding the factors of the numbers)
 
 *OEIS* sequences for the exponents *n* for the primes in given families in given base *b* (only list those for families {*x*}, *x*{*y*}, {*x*}*y*, *x*{0}*y*, since the smallest prime in these families **must** be minimal primes in the same base *b* (except the cases that the repeating digit (i.e. *y* in *x*{*y*}, or *x* in {*x*}*y*) is 1), also only count the primes > *b*):
 
