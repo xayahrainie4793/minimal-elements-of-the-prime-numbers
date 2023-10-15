@@ -21,7 +21,7 @@ e.g. for the non-simple family {7}{4}1 in base *b* = 8, we can separate it to th
 * Family 777{4}1, its smallest prime is 7774<sub>11</sub>1 (not minimal prime, since 4<sub>8</sub>1 ◁ 7774<sub>11</sub>1) (see http://factordb.com/index.php?query=%283581*8%5E%28n%2B1%29-25%29%2F7&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show)
 * Family 7777{4}1, its smallest prime is 77774444441 (see http://factordb.com/index.php?query=%2828669*8%5E%28n%2B1%29-25%29%2F7&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show)
 
-and thus we found that the smallest prime in the non-simple family {7}{4}1 in base 8 is 77774444441
+and thus we found that the smallest prime in the non-simple family {7}{4}1 in base 8 is 77774444441 (8589035809 in decimal)
 
 For another example, for the non-simple family {8}{3}5 in base *b* = 9, we can separate it to these families:
 
@@ -37,7 +37,7 @@ For another example, for the non-simple family {8}{3}5 in base *b* = 9, we can s
 * Family {3}5, it has no primes since all numbers in this family are divisible by either 2 or 5 (note: since we only count the primes > *b*, thus the prime 5 is not counted) (see http://factordb.com/index.php?query=%283*9%5E%28n%2B1%29%2B13%29%2F8&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show)
 * Family 8{3}5, its smallest prime is 8333333335 (see http://factordb.com/index.php?query=%2867*9%5E%28n%2B1%29%2B13%29%2F8&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show)
 
-and thus we found that the smallest prime in the non-simple family {8}{3}5 in base 9 is 8333333335
+and thus we found that the smallest prime in the non-simple family {8}{3}5 in base 9 is 8333333335 (3244646597 in decimal)
 
 The program "searchpm.cc" is searching the smallest (probable) prime in simple families up to length 1000.
 
