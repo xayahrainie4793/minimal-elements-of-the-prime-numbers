@@ -273,7 +273,7 @@ For the number 36<sup>3933</sup>−1 = 6<sup>7866</sup>−1, it is the product o
 |*Φ*<sub>342</sub>(6)|62174327387790051073 × (65-digit prime)|
 |*Φ*<sub>414</sub>(6)|4811469913 × 61040960263 × 25280883279243199352415750302719 × (51-digit prime)|
 |*Φ*<sub>437</sub>(6)|989723472495640900314985156529340457 × (273-digit composite with no known proper factor, *SNFS* difficulty is 341, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSNFS?Number=&Base=6&Exp=437&c0=-&LM=&SA=)|
-|*Φ*<sub>874</sub>(6)|(309-digit prime, for its primality certificate see http://factordb.com/cert.php?id=1100000000019287760)|
+|*Φ*<sub>874</sub>(6)|(309-digit prime, for its *ECPP* primality certificate see http://factordb.com/cert.php?id=1100000000019287760, and for its certificate chain see http://factordb.com/certchain.php?fid=1100000000019287760&action=all&fr=0&to=100)|
 |*Φ*<sub>1311</sub>(6)|100745107 × 1719861571 × 2376829061449 × (587-digit composite with no known proper factor, *SNFS* difficulty is 682, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSNFS?Number=&Base=6&Exp=1311&c0=-&LM=&SA=)|
 |*Φ*<sub>2622</sub>(6)|41953 × 266030354191322260711 × (592-digit composite with no known proper factor, *SNFS* difficulty is 682, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSNFS?Number=&Base=6&Exp=1311&c0=%2B&LM=&SA=)|
 |*Φ*<sub>3933</sub>(6)|7867 × (1845-digit composite with no known proper factor, *SNFS* difficulty is too large to handle for the script, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSNFS?Number=&Base=6&Exp=3933&c0=-&LM=&SA=)|
