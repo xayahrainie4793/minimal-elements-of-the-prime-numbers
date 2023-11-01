@@ -1853,8 +1853,8 @@ Links for top (probable) primes: (also pages for the largest known prime: https:
 * https://t5k.org/bios/index.php (index of the provers and programs and projects of top definitely primes)
 * http://www.primenumbers.net/prptop/prptop.php (top probable primes)
 * http://www.primenumbers.net/prptop/latest.php (recently found top probable primes)
-* http://www.primenumbers.net/prptop/searchform.php (search page of top probable primes)
 * http://www.primenumbers.net/prptop/searchform.php?form=%3F&action=Search (all numbers in the list of top probable primes)
+* http://www.primenumbers.net/prptop/searchform.php (search page of top probable primes)
 * http://www.primenumbers.net/prptop/submit.php (submit page of top probable primes)
 * http://www.primenumbers.net/prptop/topdisc.php (index of the provers of top probable primes)
 
