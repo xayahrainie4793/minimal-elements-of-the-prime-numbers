@@ -1868,7 +1868,9 @@ Links for top (probable) primes: (also pages for the largest known prime: https:
 * http://www.primenumbers.net/prptop/submit.php (submit page of top probable primes)
 * http://www.primenumbers.net/prptop/topdisc.php (index of the provers of top probable primes)
 
-and the search result page for the (probable) primes of special forms: (note: a large prime of the form (*a*×*b*<sup>*n*</sup>+*c*)/*d* with small *a*, *b*, *c*, *d* and large *n* can be easily proven prime if and only if *c* = ±1 and *d* = 1)
+and the search result page for the top (probable) primes of special forms: (note: a large prime of the form (*a*×*b*<sup>*n*</sup>+*c*)/*d* with small *a*, *b*, *c*, *d* and large *n* can be easily proven prime if and only if *c* = ±1 and *d* = 1)
+
+**(Note: The top definitely primes page converts the perfect power bases (i.e. *b* = *m*<sup>*r*</sup> with *r* > 1) to their "ground bases" (i.e. *b* = *m*), e.g. it converts the prime 2805222×25<sup>2805222</sup>+1 to 2805222×5<sup>5610444</sup>+1, thus do not search the perfect power bases, see https://mersenneforum.org/showpost.php?p=121374&postcount=1)**
 
 Definitely primes (i.e. *c* = ±1 and *d* = 1):
 
