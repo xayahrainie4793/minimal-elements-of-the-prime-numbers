@@ -1284,14 +1284,14 @@ When sieving the sequence (*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1) (*
 * 2. Remove all *n* cases:
 * 2.1. If *a*, *b*, −*c* are all squares; remove all *n*.
 * 2.2. If *a*, *b*, *c* are all *r*-th powers for an odd *r* > 1; remove all *n*.
-* 2.3. If *b* and 4×*a*×*c* are both 4th powers; remove all *n*. These are Aurifeuillean factors.
+* 2.3. If one of *a* and *c* is also a 4th power, and the other is of the form 4×*m*<sup>4</sup>, and *b* is also a 4th power; remove all *n*. These are Aurifeuillean factors.
 * 3. Remove partial *n* cases:
 * 3.1. If *a* and −*c* are both squares; remove all *n* == 0 mod 2.
-* 3.2. If *a* and *c* are both *r*-th powers for an odd r > 1; for each such *r*, remove all *n* == 0 mod *r*.
-* 3.3. If 4×*a*×*c* is a 4th power; remove all *n* == 0 mod 4.
-* 3.4. If 4×*a*×*c* is a 4th power and *b* is square; remove all *n* == 0 mod 2.
-* 3.5. If *a*×*c* and 4×*b* are both 4th powers; remove all *n* == 1 mod 2.
-* 3.6. If *a*×*c* is a 4th power and 2×*b* is a square; remove all *n* == 2 mod 4.
+* 3.2. If *a* and *c* are both *r*-th powers for an odd *r* > 1; for each such *r*, remove all *n* == 0 mod *r*.
+* 3.3. If one of *a* and *c* is also a 4th power, and the other is of the form 4×*m*<sup>4</sup>; remove all *n* == 0 mod 4.
+* 3.4. If one of *a* and *c* is also a 4th power, and the other is of the form 4×*m*<sup>4</sup>, and *b* is a square; remove all *n* == 0 mod 2.
+* 3.5. If *a*, *c*, 4×*b* are all 4th powers; remove all *n* == 1 mod 2.
+* 3.6. If *a* and *c* are both 4th powers, and 2×*b* is a square; remove all *n* == 2 mod 4.
 
 #1 and #2 should all be checked first before preceding, #3.3 and #3.4 and #3.5 are more Aurifeuillean factors.
 
