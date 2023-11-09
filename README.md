@@ -2624,8 +2624,9 @@ Integer factorizers:
 28. http://factordb.com/ (online factor database, "P" means definitely prime, "PRP" means unproven probable prime, "FF" means composite and fully factored, "CF" means composite and has known proper factor but not fully factored, "C" means composite and has no known proper factor, "U" means number with unknown status, "Unit" means the number "1", "Zero" means the number "0", see http://factordb.com/status.html, also, this online factor database uses colors to show the status of the numbers, black means definitely prime ("P"), blue means composite ("C" or "CF" or "FF"), brown means unproven probable prime ("PRP"), red means number with unknown status ("U"), also, this online factor database automatically stores all numbers < 10<sup>18</sup> and automatically checks the probable-primality of the numbers with unknown status < 10<sup>19999</sup> and automatically proves the primality of the probable primes < 10<sup>299</sup> and automatically factors the composites < 10<sup>69</sup>, see https://web.archive.org/web/20150812084455/http://factordb.com/status.php)
 29. https://578d0722p8.goho.co/index.html (more types of numbers in the online factor database)
 30. http://myfactorcollection.mooo.com:8090/dbio.html (online factor database for numbers of the form *b*<sup>*n*</sup>±1)
-31. https://web.archive.org/web/20120722020628/http://homes.cerias.purdue.edu/~ssw/cun/prime.php (online factor database for numbers of the form *b*<sup>*n*</sup>±1 for 2 ≤ *b* ≤ 12)
-32. https://web.archive.org/web/20120330032919/http://homes.cerias.purdue.edu/~ssw/cun/clientold.html (online factor database for numbers of the form *b*<sup>*n*</sup>±1 for 2 ≤ *b* ≤ 12)
+31. http://myfactorcollection.mooo.com:8090/interactive.html (online factor database for numbers of the form *b*<sup>*n*</sup>±1)
+32. https://web.archive.org/web/20120722020628/http://homes.cerias.purdue.edu/~ssw/cun/prime.php (online factor database for numbers of the form *b*<sup>*n*</sup>±1 for 2 ≤ *b* ≤ 12)
+33. https://web.archive.org/web/20120330032919/http://homes.cerias.purdue.edu/~ssw/cun/clientold.html (online factor database for numbers of the form *b*<sup>*n*</sup>±1 for 2 ≤ *b* ≤ 12)
 
 Prime generators:
 
