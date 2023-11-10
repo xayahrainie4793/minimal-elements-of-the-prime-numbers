@@ -2596,37 +2596,38 @@ Integer factorizers:
 
 1. https://www.numberempire.com/numberfactorizer.php
 2. https://www.alpertron.com.ar/ECM.HTM (click "Factor")
-3. http://www.numbertheory.org/php/factor.html
-4. http://www.numbertheory.org/php/lprimefactor.html (only find the least prime factor)
-5. http://www.javascripter.net/math/calculators/primefactorscalculator.htm
-6. http://www.javascripter.net/faq/numberisprime.htm (only find the least prime factor, just type "leastFactor(*n*)")
-7. http://www.javascripter.net/math/primes/millerrabinprimalitytest.htm (only find the least prime factor, just type "leastFactor(*n*)")
-8. https://web.archive.org/web/20230122202627/https://betaprojects.com/calculators/prime_factors.html
-9. https://www.emathhelp.net/calculators/pre-algebra/prime-factorization-calculator/
-10. https://primefan.tripod.com/Factorer.html
-11. https://www.calculatorsoup.com/calculators/math/prime-factors.php
-12. https://www.calculator.net/prime-factorization-calculator.html
-13. http://www.se16.info/js/factor.htm
-14. http://math.fau.edu/Richman/mla/factor-f.htm
-15. http://www.rsok.com/~jrm/factor.html
-16. http://www.brennen.net/primes/FactorApplet.html (need run with Java)
-17. https://web.archive.org/web/20161004191531/http://britton.disted.camosun.bc.ca/jbprimefactor.htm
-18. http://wims.unice.fr/~wims/en_tool~algebra~factor.en.html
-19. http://www.analyzemath.com/Calculators_3/prime_factors.html
-20. https://www.archimedes-lab.org/primOmatic.html
-21. http://www.proftnj.com/calcprem.htm (in French) (use the box "Factoriser un nombre" and click "Factoriser")
-22. http://www.positiveintegers.org/ (just enter the number)
-23. https://numdic.com/ (just enter the number)
-24. https://numbermatics.com/ (just enter the number)
-25. https://metanumbers.com/ (just enter the number)
-26. https://int.darkbyte.ru/ (just enter the number)
-27. https://www.numbersaplenty.com/ (just enter the number)
-28. http://factordb.com/ (online factor database, "P" means definitely prime, "PRP" means unproven probable prime, "FF" means composite and fully factored, "CF" means composite and has known proper factor but not fully factored, "C" means composite and has no known proper factor, "U" means number with unknown status, "Unit" means the number "1", "Zero" means the number "0", see http://factordb.com/status.html, also, this online factor database uses colors to show the status of the numbers, black means definitely prime ("P"), blue means composite ("C" or "CF" or "FF"), brown means unproven probable prime ("PRP"), red means number with unknown status ("U"), also, this online factor database automatically stores all numbers < 10<sup>18</sup> and automatically checks the probable-primality of the numbers with unknown status < 10<sup>19999</sup> and automatically proves the primality of the probable primes < 10<sup>299</sup> and automatically factors the composites < 10<sup>69</sup>, see https://web.archive.org/web/20150812084455/http://factordb.com/status.php)
-29. https://578d0722p8.goho.co/index.html (more types of numbers in the online factor database)
-30. http://myfactorcollection.mooo.com:8090/dbio.html (online factor database for numbers of the form *b*<sup>*n*</sup>±1)
-31. http://myfactorcollection.mooo.com:8090/interactive.html (online factor database for numbers of the form *b*<sup>*n*</sup>±1)
-32. https://web.archive.org/web/20120722020628/http://homes.cerias.purdue.edu/~ssw/cun/prime.php (online factor database for numbers of the form *b*<sup>*n*</sup>±1 for 2 ≤ *b* ≤ 12)
-33. https://web.archive.org/web/20120330032919/http://homes.cerias.purdue.edu/~ssw/cun/clientold.html (online factor database for numbers of the form *b*<sup>*n*</sup>±1 for 2 ≤ *b* ≤ 12)
+3. https://www.mersenne.ca/factor.php
+4. http://www.numbertheory.org/php/factor.html
+5. http://www.numbertheory.org/php/lprimefactor.html (only find the least prime factor)
+6. http://www.javascripter.net/math/calculators/primefactorscalculator.htm
+7. http://www.javascripter.net/faq/numberisprime.htm (only find the least prime factor, just type "leastFactor(*n*)")
+8. http://www.javascripter.net/math/primes/millerrabinprimalitytest.htm (only find the least prime factor, just type "leastFactor(*n*)")
+9. https://web.archive.org/web/20230122202627/https://betaprojects.com/calculators/prime_factors.html
+10. https://www.emathhelp.net/calculators/pre-algebra/prime-factorization-calculator/
+11. https://primefan.tripod.com/Factorer.html
+12. https://www.calculatorsoup.com/calculators/math/prime-factors.php
+13. https://www.calculator.net/prime-factorization-calculator.html
+14. http://www.se16.info/js/factor.htm
+15. http://math.fau.edu/Richman/mla/factor-f.htm
+16. http://www.rsok.com/~jrm/factor.html
+17. http://www.brennen.net/primes/FactorApplet.html (need run with Java)
+18. https://web.archive.org/web/20161004191531/http://britton.disted.camosun.bc.ca/jbprimefactor.htm
+19. http://wims.unice.fr/~wims/en_tool~algebra~factor.en.html
+20. http://www.analyzemath.com/Calculators_3/prime_factors.html
+21. https://www.archimedes-lab.org/primOmatic.html
+22. http://www.proftnj.com/calcprem.htm (in French) (use the box "Factoriser un nombre" and click "Factoriser")
+23. http://www.positiveintegers.org/ (just enter the number)
+24. https://numdic.com/ (just enter the number)
+25. https://numbermatics.com/ (just enter the number)
+26. https://metanumbers.com/ (just enter the number)
+27. https://int.darkbyte.ru/ (just enter the number)
+28. https://www.numbersaplenty.com/ (just enter the number)
+29. http://factordb.com/ (online factor database, "P" means definitely prime, "PRP" means unproven probable prime, "FF" means composite and fully factored, "CF" means composite and has known proper factor but not fully factored, "C" means composite and has no known proper factor, "U" means number with unknown status, "Unit" means the number "1", "Zero" means the number "0", see http://factordb.com/status.html, also, this online factor database uses colors to show the status of the numbers, black means definitely prime ("P"), blue means composite ("C" or "CF" or "FF"), brown means unproven probable prime ("PRP"), red means number with unknown status ("U"), also, this online factor database automatically stores all numbers < 10<sup>18</sup> and automatically checks the probable-primality of the numbers with unknown status < 10<sup>19999</sup> and automatically proves the primality of the probable primes < 10<sup>299</sup> and automatically factors the composites < 10<sup>69</sup>, see https://web.archive.org/web/20150812084455/http://factordb.com/status.php)
+30. https://578d0722p8.goho.co/index.html (more types of numbers in the online factor database)
+31. http://myfactorcollection.mooo.com:8090/dbio.html (online factor database for numbers of the form *b*<sup>*n*</sup>±1)
+32. http://myfactorcollection.mooo.com:8090/interactive.html (online factor database for numbers of the form *b*<sup>*n*</sup>±1)
+33. https://web.archive.org/web/20120722020628/http://homes.cerias.purdue.edu/~ssw/cun/prime.php (online factor database for numbers of the form *b*<sup>*n*</sup>±1 for 2 ≤ *b* ≤ 12)
+34. https://web.archive.org/web/20120330032919/http://homes.cerias.purdue.edu/~ssw/cun/clientold.html (online factor database for numbers of the form *b*<sup>*n*</sup>±1 for 2 ≤ *b* ≤ 12)
 
 Prime generators:
 
