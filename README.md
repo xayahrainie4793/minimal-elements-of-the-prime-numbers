@@ -2596,7 +2596,7 @@ Integer factorizers:
 
 1. https://www.numberempire.com/numberfactorizer.php
 2. https://www.alpertron.com.ar/ECM.HTM (click "Factor")
-3. https://www.mersenne.ca/factor.php
+3. https://www.mersenne.ca/factor.php (use the box "Get prime factorization for small (<=50 decimal digits) numbers")
 4. http://www.numbertheory.org/php/factor.html
 5. http://www.numbertheory.org/php/lprimefactor.html (only find the least prime factor)
 6. http://www.javascripter.net/math/calculators/primefactorscalculator.htm
