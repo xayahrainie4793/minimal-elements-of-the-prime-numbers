@@ -1276,16 +1276,16 @@ To do this, we made use of Geoffrey Reynolds' *SRSIEVE* software (https://www.bc
 
 When sieving the sequence (*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1) (*a* ≥ 1, *b* ≥ 2, *c* ≠ 0, *gcd*(*a*,*c*) = 1, *gcd*(*b*,*c*) = 1), the sieve program should: (below, *r* is a linear function of *n*, *m* is a constant like *a*, *b*, *c* (*m* ≥ 2))
 
-* 1. General:
+1. General:
 * 1.1. If (*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1) can be written as (*m*<sup>*r*</sup>−1)/(*m*−1); display a warning message on the screen that this form is a generalized repunit number and could better be factored algebraically or sieved with another program (remove all composite *r*, and only sieve with the primes *p* == 1 mod *r*).
 * 1.2. If (*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1) can be written as (*m*<sup>*r*</sup>+1)/(*m*+1); display a warning message on the screen that this form is a generalized Wagstaff number and could better be factored algebraically or sieved with another program (remove all composite *r*, and only sieve with the primes *p* == 1 mod 2×*r*).
 * 1.3. If (*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1) can be written as *m*<sup>*r*</sup>+1; display a warning message on the screen that this form is a generalized Fermat number and could better be factored algebraically or sieved with another program (remove all non-power-of-2 *r*, and no need to sieve, just look for *r* = 2<sup>*s*</sup> (see https://mersenneforum.org/showpost.php?p=95547&postcount=63), and instead use trial division (https://en.wikipedia.org/wiki/Trial_division, https://t5k.org/glossary/xpage/TrialDivision.html, https://www.rieselprime.de/ziki/Trial_factoring, https://mathworld.wolfram.com/TrialDivision.html, http://www.numericana.com/answer/factoring.htm#trial, https://oeis.org/A189172) with the primes *p* == 1 mod 2×*r*).
 * 1.4. If (*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1) can be written as (*m*<sup>*r*</sup>+1)/2; display a warning message on the screen that this form is a generalized half Fermat number and could better be factored algebraically or sieved with another program (remove all non-power-of-2 *r*, and no need to sieve, just look for *r* = 2<sup>*s*</sup> (see https://mersenneforum.org/showpost.php?p=95547&postcount=63), and instead use trial division (https://en.wikipedia.org/wiki/Trial_division, https://t5k.org/glossary/xpage/TrialDivision.html, https://www.rieselprime.de/ziki/Trial_factoring, https://mathworld.wolfram.com/TrialDivision.html, http://www.numericana.com/answer/factoring.htm#trial, https://oeis.org/A189172) with the primes *p* == 1 mod 2×*r*).
-* 2. Remove all *n* cases:
+2. Remove all *n* cases:
 * 2.1. If *a*, *b*, −*c* are all squares; remove all *n*.
 * 2.2. If *a*, *b*, *c* are all *r*-th powers for an odd *r* > 1; remove all *n*.
 * 2.3. If one of *a* and *c* is also a 4th power, and the other is of the form 4×*m*<sup>4</sup>, and *b* is also a 4th power; remove all *n*. These are Aurifeuillean factors.
-* 3. Remove partial *n* cases:
+3. Remove partial *n* cases:
 * 3.1. If *a* and −*c* are both squares; remove all *n* == 0 mod 2.
 * 3.2. If *a* and *c* are both *r*-th powers for an odd *r* > 1; for each such *r*, remove all *n* == 0 mod *r*.
 * 3.3. If one of *a* and *c* is also a 4th power, and the other is of the form 4×*m*<sup>4</sup>; remove all *n* == 0 mod 4.
