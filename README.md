@@ -2735,6 +2735,7 @@ Lists of factorizations of small integers:
 11. https://en.wikipedia.org/wiki/Table_of_divisors (all (prime or composite or unit) factors of *N*)
 12. http://factordb.com/index.php?query=n&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show (from *factordb*)
 13. http://myfactorcollection.mooo.com:8090/cgi-bin/showFullRep?FBase=2&TBase=20001&FExp=1&TExp=1&c0=-&EN=&LM= (from an online factor database for numbers of the form *b*<sup>*n*</sup>±1)
+14. http://myfactorcollection.mooo.com:8090/cgi-bin/showFullRep?FBase=2&TBase=20001&FExp=1&TExp=1&c0=%2B&EN=&LM= (from an online factor database for numbers of the form *b*<sup>*n*</sup>±1)
 
 Lists of small integers in various bases:
 
