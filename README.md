@@ -842,6 +842,8 @@ etc.
 
 and it does not appear to be any covering set (of either primes or algebraic factors, or both), thus this form cannot be ruled out as only containing composites (only count the numbers > *b*) (by covering congruence, algebraic factorization, or combine of them), and its Nash weight (or difficulty) is positive, and it has prime candidate, and hence there must be a prime at some point.
 
+**(Edit: the base 13 family A{3}A was already solved (the probable prime found is A3<sub>592197</sub>A), but I just use an example to show why a family cannot be ruled out as only containing composites (only count the numbers > *b*) (by covering congruence, algebraic factorization, or combine of them), and its Nash weight (or difficulty) is positive, and it has prime candidate, and hence there must be a prime at some point)**
+
 Also, you can see the prime factorizations (https://en.wikipedia.org/wiki/Integer_factorization, https://www.rieselprime.de/ziki/Factorization, https://mathworld.wolfram.com/PrimeFactorization.html, https://mathworld.wolfram.com/PrimeFactorizationAlgorithms.html, http://www.numericana.com/answer/factoring.htm) of the numbers in the family A3<sub>*n*</sub>A in base *b* = 13: (for more information, see http://factordb.com/index.php?query=%2841*13%5E%28n%2B1%29%2B27%29%2F4&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show)
 
 |*n*|the prime factorization of the number A3<sub>*n*</sub>A in base *b* = 13|
