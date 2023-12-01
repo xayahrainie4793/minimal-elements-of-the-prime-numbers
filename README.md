@@ -1429,6 +1429,12 @@ The unsolved families for bases *b* = 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14
 
 |*b*<br>(2 ≤ *b* ≤ 36)|base-*b* form of the unsolved family|algebraic ((*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1)) form of the unsolved family|current searching limit of length of this family|factorization of the numbers in this family (*n* is the number of digits in the "{}", start with the smallest *n* making the number > *b* (if *n* = 0 already makes the number > *b*, then start with *n* = 0))|
 |---|---|---|---|---|
+|21|2{7}9D|(47×21<sup>*n*+2</sup>+953)/20|100000|http://factordb.com/index.php?query=%2847*21%5E%28n%2B2%29%2B953%29%2F20&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|21|2F{C}A|(288×21<sup>*n*+1</sup>−13)/5|100000|http://factordb.com/index.php?query=%28288*21%5E%28n%2B1%29-13%29%2F5&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|21|5{0}DJ|5×21<sup>*n*+2</sup>+292|100000|http://factordb.com/index.php?query=5*21%5E%28n%2B2%29%2B292&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|21|{7}ID|(7×21<sup>*n*+2</sup>+4733)/20|100000|http://factordb.com/index.php?query=%287*21%5E%28n%2B2%29%2B4733%29%2F20&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|21|{9}D|(9×21<sup>*n*+1</sup>+71)/20|100000|http://factordb.com/index.php?query=%289*21%5E%28n%2B1%29%2B71%29%2F20&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|21|B3{0}EB|234×21<sup>*n*+2</sup>+305|100000|http://factordb.com/index.php?query=234*21%5E%28n%2B2%29%2B305&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |26|85{M}B|(5347×26<sup>*n*+1</sup>−297)/25|100000|http://factordb.com/index.php?query=%285347*26%5E%28n%2B1%29-297%29%2F25&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |26|{A}6F|(2×26<sup>*n*+2</sup>−497)/5|486722|http://factordb.com/index.php?query=%282*26%5E%28n%2B2%29-497%29%2F5&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |26|{H}MH|(17×26<sup>*n*+2</sup>+3233)/25|100000|http://factordb.com/index.php?query=%2817*26%5E%28n%2B2%29%2B3233%29%2F25&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
