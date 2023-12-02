@@ -193,7 +193,7 @@ For the number 21<sup>1064</sup>−1, it is the product of *Φ*<sub>*d*</sub>(21
 |*Φ*<sub>133</sub>(21)|948175293266954869500463698756935713088089028515629708586399 × (83-digit prime)|
 |*Φ*<sub>152</sub>(21)|136649 × 6629177 × 8871582886760161 × 4370570172021545617284038736601 × 4510053597010461591911520110711387257|
 |*Φ*<sub>266</sub>(21)|4523 × 263478423344974307 × 39188712102054729290763779 × 1027619231425962708522784338595411210117 × (58-digit prime)|
-|*Φ*<sub>532</sub>(21)|1080514246723801 × 4598307023923376056176577 × 173111326443349916878938361 × (220-digit composite with no known proper factor, *SNFS* difficulty is 301.466, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSNFS?Number=&Base=21&Exp=266&c0=%2B&LM=&SA=)|
+|*Φ*<sub>532</sub>(21)|1080514246723801 × 4598307023923376056176577 (*P*−1, *B1* = 100000, *B2* = 39772318) × 173111326443349916878938361 × (220-digit composite with no known proper factor, *SNFS* difficulty is 301.466, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSNFS?Number=&Base=21&Exp=266&c0=%2B&LM=&SA=)|
 |*Φ*<sub>1064</sub>(21)|140449 × 723460417 × (558-digit composite with no known proper factor, *SNFS* difficulty is 602.932, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSNFS?Number=&Base=21&Exp=532&c0=%2B&LM=&SA=)|
 
 For the number 26<sup>344</sup>−1, it is the product of *Φ*<sub>*d*</sub>(26) with positive integers *d* dividing 344 (i.e. *d* = 1, 2, 4, 8, 43, 86, 172, 344), and the factorization of *Φ*<sub>*d*</sub>(26) for these positive integers *d* are:
