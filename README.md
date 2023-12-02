@@ -2628,63 +2628,63 @@ Tools about this research: (in fact, you can also use *Wolfram Alpha* (https://w
 
 Prime checkers:
 
-1. https://t5k.org/curios/includes/primetest.php
-2. https://www.numberempire.com/primenumbers.php (choose "Check")
-3. http://www.numbertheory.org/php/lucas.html
-4. https://www.alpertron.com.ar/ECM.HTM (click "Prime")
-5. http://www.javascripter.net/faq/numberisprime.htm (just type "isPrime(*n*)")
-6. http://www.javascripter.net/math/primes/millerrabinprimalitytest.htm (just type "isPrimeMR18(*n*)")
-7. http://www.javascripter.net/math/calculators/100digitbigintcalculator.htm (just type *x* and click "prime?")
-8. http://www.math.com/students/calculators/source/prime-number.htm
-9. https://www.calculatorsoup.com/calculators/math/prime-number-calculator.php
-10. https://onlinemathtools.com/test-prime-number (choose "Test All Numbers")
-11. https://www.bigprimes.net/primalitytest (use the first box)
-12. https://www.archimedes-lab.org/primOmatic.html
-13. http://www.sonic.net/~undoc/java/PrimeCalc.html (click "y=IsPrime(x)")
-14. http://www.primzahlen.de/primzahltests/testverfahren.htm (in German) (use the box "Miller-Rabin-Test" and click "Test")
-15. http://www.proftnj.com/calcprem.htm (in French) (use the box "Rechercher si un nombre est premier" and click "Rechercher")
-16. http://www.positiveintegers.org/ (just enter the number)
-17. https://numdic.com/ (just enter the number)
-18. https://numbermatics.com/ (just enter the number)
-19. https://metanumbers.com/ (just enter the number)
-20. https://int.darkbyte.ru/ (just enter the number)
-21. https://www.numbersaplenty.com/ (just enter the number)
+1. https://t5k.org/curios/includes/primetest.php (limit: 2<sup>53</sup>−1)
+2. https://www.numberempire.com/primenumbers.php (choose "Check") (limit: 10<sup>1000</sup>−1)
+3. http://www.numbertheory.org/php/lucas.html (no limit)
+4. https://www.alpertron.com.ar/ECM.HTM (click "Prime") (no limit)
+5. http://www.javascripter.net/faq/numberisprime.htm (just type "isPrime(*n*)") (no limit)
+6. http://www.javascripter.net/math/primes/millerrabinprimalitytest.htm (just type "isPrimeMR18(*n*)") (no limit)
+7. http://www.javascripter.net/math/calculators/100digitbigintcalculator.htm (just type *x* and click "prime?") (no limit)
+8. http://www.math.com/students/calculators/source/prime-number.htm (limit: 2<sup>53</sup>−1)
+9. https://www.calculatorsoup.com/calculators/math/prime-number-calculator.php (limit: 10<sup>13</sup>−1)
+10. https://onlinemathtools.com/test-prime-number (choose "Test All Numbers") (no limit)
+11. https://www.bigprimes.net/primalitytest (use the first box) (limit: 2<sup>53</sup>−1)
+12. https://www.archimedes-lab.org/primOmatic.html (limit: 10<sup>12</sup>−1)
+13. http://www.sonic.net/~undoc/java/PrimeCalc.html (click "y=IsPrime(x)") (no limit)
+14. http://www.primzahlen.de/primzahltests/testverfahren.htm (in German) (use the box "Miller-Rabin-Test" and click "Test") (limit: 2<sup>53</sup>−1)
+15. http://www.proftnj.com/calcprem.htm (in French) (use the box "Rechercher si un nombre est premier" and click "Rechercher") (limit: 2<sup>53</sup>−1)
+16. http://www.positiveintegers.org/ (just enter the number) (limit: 1000000)
+17. https://numdic.com/ (just enter the number) (limit: 700000)
+18. https://numbermatics.com/ (just enter the number) (limit: 10<sup>26</sup>+2)
+19. https://metanumbers.com/ (just enter the number) (limit: 2<sup>63</sup>−1)
+20. https://int.darkbyte.ru/ (just enter the number) (limit: 2<sup>31</sup>−2)
+21. https://www.numbersaplenty.com/ (just enter the number) (limit: 10<sup>15</sup>−1)
 22. http://factordb.com/ (online factor database, "P" means definitely prime, "PRP" means unproven probable prime, "FF" means composite and fully factored, "CF" means composite and has known proper factor but not fully factored, "C" means composite and has no known proper factor, "U" means number with unknown status, "Unit" means the number "1", "Zero" means the number "0", see http://factordb.com/status.html, also, this online factor database uses colors to show the status of the numbers, black means definitely prime ("P"), blue means composite ("C" or "CF" or "FF"), brown means unproven probable prime ("PRP"), red means number with unknown status ("U"), also, this online factor database automatically stores all numbers < 10<sup>18</sup> and automatically checks the probable-primality of the numbers with unknown status < 10<sup>49999</sup> and automatically proves the primality of the probable primes < 10<sup>299</sup> and automatically factors the composites < 10<sup>69</sup>, see https://web.archive.org/web/20150812084455/http://factordb.com/status.php)
 23. https://578d0722p8.goho.co/index.html (more types of numbers in the online factor database)
-24. https://t5k.org/nthprime/ (calculate the *n*th prime) (use the box "Nth prime")
+24. https://t5k.org/nthprime/ (calculate the *n*th prime) (use the box "Nth prime") (limit: 3×10<sup>13</sup>)
 25. http://www.numbertheory.org/php/nprime.html (calculate the next (probable) prime above *N*, in fact, links 2, 7, 11, 12, 13 can also calculate the next prime above *N*, besides, links 2, 7 can also calculate the previous prime below *N*, for link 2 choose "Find next" to calculate the next prime above *N*, or choose "Find previous" to calculate the previous prime below *N*, for link 7 just type *x* and click "next p" to calculate the next prime above *N*, or just type *x* and click "prev p" to calculate the previous prime below *N*, for link 11 use the second box to calculate the next prime above *N*, for link 13 click "y=NextPrime(x)" to calculate the next prime above *N*)
 26. http://factordb.com/nextprime.php (calculate the next (probable) prime above *N*, in fact, links 2, 7, 11, 12, 13 can also calculate the next prime above *N*, besides, links 2, 7 can also calculate the previous prime below *N*, for link 2 choose "Find next" to calculate the next prime above *N*, or choose "Find previous" to calculate the previous prime below *N*, for link 7 just type *x* and click "next p" to calculate the next prime above *N*, or just type *x* and click "prev p" to calculate the previous prime below *N*, for link 11 use the second box to calculate the next prime above *N*, for link 13 click "y=NextPrime(x)" to calculate the next prime above *N*)
 
 Integer factorizers:
 
-1. https://www.numberempire.com/numberfactorizer.php
-2. https://www.alpertron.com.ar/ECM.HTM (click "Factor")
-3. http://www.numbertheory.org/php/factor.html
-4. http://www.numbertheory.org/php/lprimefactor.html (only find the least prime factor)
-5. https://www.mersenne.ca/factor.php (use the box "Get prime factorization for small (<=50 decimal digits) numbers")
-6. http://www.javascripter.net/math/calculators/primefactorscalculator.htm
-7. http://www.javascripter.net/faq/numberisprime.htm (only find the least prime factor, just type "leastFactor(*n*)")
-8. http://www.javascripter.net/math/primes/millerrabinprimalitytest.htm (only find the least prime factor, just type "leastFactor(*n*)")
-9. https://web.archive.org/web/20230122202627/https://betaprojects.com/calculators/prime_factors.html
-10. https://www.emathhelp.net/calculators/pre-algebra/prime-factorization-calculator/
-11. https://primefan.tripod.com/Factorer.html
-12. https://www.calculatorsoup.com/calculators/math/prime-factors.php
-13. https://www.calculator.net/prime-factorization-calculator.html
-14. http://www.se16.info/js/factor.htm
-15. http://math.fau.edu/Richman/mla/factor-f.htm
-16. http://www.rsok.com/~jrm/factor.html
+1. https://www.numberempire.com/numberfactorizer.php (limit: 10<sup>70</sup>−1)
+2. https://www.alpertron.com.ar/ECM.HTM (click "Factor") (no limit)
+3. http://www.numbertheory.org/php/factor.html (limit: 10<sup>25</sup>−1)
+4. http://www.numbertheory.org/php/lprimefactor.html (only find the least prime factor) (limit: 10<sup>25</sup>−1)
+5. https://www.mersenne.ca/factor.php (use the box "Get prime factorization for small (<=50 decimal digits) numbers") (limit: 10<sup>50</sup>−1)
+6. http://www.javascripter.net/math/calculators/primefactorscalculator.htm (limit: 10<sup>20</sup>−1)
+7. http://www.javascripter.net/faq/numberisprime.htm (only find the least prime factor, just type "leastFactor(*n*)") (no limit)
+8. http://www.javascripter.net/math/primes/millerrabinprimalitytest.htm (only find the least prime factor, just type "leastFactor(*n*)") (no limit)
+9. https://web.archive.org/web/20230122202627/https://betaprojects.com/calculators/prime_factors.html (limit: 2<sup>53</sup>−1)
+10. https://www.emathhelp.net/calculators/pre-algebra/prime-factorization-calculator/ (limit: 10<sup>9</sup>)
+11. https://primefan.tripod.com/Factorer.html (need run with Java)
+12. https://www.calculatorsoup.com/calculators/math/prime-factors.php (limit: 10<sup>13</sup>−1)
+13. https://www.calculator.net/prime-factorization-calculator.html (limit: 10<sup>14</sup>−1)
+14. http://www.se16.info/js/factor.htm (limit: 2<sup>53</sup>−1)
+15. https://web.archive.org/web/20230918044810/http://math.fau.edu/Richman/mla/factor-f.htm (limit: 2<sup>53</sup>−1)
+16. http://www.rsok.com/~jrm/factor.html (no limit)
 17. http://www.brennen.net/primes/FactorApplet.html (need run with Java)
-18. https://web.archive.org/web/20161004191531/http://britton.disted.camosun.bc.ca/jbprimefactor.htm
-19. http://wims.unice.fr/~wims/en_tool~algebra~factor.en.html
-20. http://www.analyzemath.com/Calculators_3/prime_factors.html
-21. https://www.archimedes-lab.org/primOmatic.html
-22. http://www.proftnj.com/calcprem.htm (in French) (use the box "Factoriser un nombre" and click "Factoriser")
-23. http://www.positiveintegers.org/ (just enter the number)
-24. https://numdic.com/ (just enter the number)
-25. https://numbermatics.com/ (just enter the number)
-26. https://metanumbers.com/ (just enter the number)
-27. https://int.darkbyte.ru/ (just enter the number)
-28. https://www.numbersaplenty.com/ (just enter the number)
+18. https://web.archive.org/web/20161004191531/http://britton.disted.camosun.bc.ca/jbprimefactor.htm (limit: 10<sup>6</sup>)
+19. http://wims.unice.fr/~wims/en_tool~algebra~factor.en.html (no limit)
+20. http://www.analyzemath.com/Calculators_3/prime_factors.html (limit: 2<sup>53</sup>−1)
+21. https://www.archimedes-lab.org/primOmatic.html (limit: 10<sup>12</sup>−1)
+22. http://www.proftnj.com/calcprem.htm (in French) (use the box "Factoriser un nombre" and click "Factoriser") (limit: 2<sup>53</sup>−1)
+23. http://www.positiveintegers.org/ (just enter the number) (limit: 1000000)
+24. https://numdic.com/ (just enter the number) (limit: 700000)
+25. https://numbermatics.com/ (just enter the number) (limit: 10<sup>26</sup>+2)
+26. https://metanumbers.com/ (just enter the number) (limit: 2<sup>63</sup>−1)
+27. https://int.darkbyte.ru/ (just enter the number) (limit: 2<sup>31</sup>−2)
+28. https://www.numbersaplenty.com/ (just enter the number) (limit: 10<sup>15</sup>−1)
 29. http://factordb.com/ (online factor database, "P" means definitely prime, "PRP" means unproven probable prime, "FF" means composite and fully factored, "CF" means composite and has known proper factor but not fully factored, "C" means composite and has no known proper factor, "U" means number with unknown status, "Unit" means the number "1", "Zero" means the number "0", see http://factordb.com/status.html, also, this online factor database uses colors to show the status of the numbers, black means definitely prime ("P"), blue means composite ("C" or "CF" or "FF"), brown means unproven probable prime ("PRP"), red means number with unknown status ("U"), also, this online factor database automatically stores all numbers < 10<sup>18</sup> and automatically checks the probable-primality of the numbers with unknown status < 10<sup>49999</sup> and automatically proves the primality of the probable primes < 10<sup>299</sup> and automatically factors the composites < 10<sup>69</sup>, see https://web.archive.org/web/20150812084455/http://factordb.com/status.php)
 30. https://578d0722p8.goho.co/index.html (more types of numbers in the online factor database)
 31. http://myfactorcollection.mooo.com:8090/dbio.html (online factor database for numbers of the form *b*<sup>*n*</sup>±1)
@@ -2721,12 +2721,12 @@ Base converters:
 18. https://web.archive.org/web/20170204004954/http://ultrastudio.org/en/MechengburakalkanApplet-1.7.zip (bases 2 ≤ *b* ≤ 36)
 19. http://www.kwuntung.net/hkunit/base/base.php (in Chinese) (bases 2 ≤ *b* ≤ 36)
 20. https://linesegment.web.fc2.com/application/math/numbers/RadixConversion.html (in Japanese) (bases 2 ≤ *b* ≤ 36 and *b* = 62)
-21. http://www.positiveintegers.org/ (just enter the number) (bases 2 ≤ *b* ≤ 36)
-22. https://numdic.com/ (just enter the number) (bases *b* = 2, 3, 4, 5, 6, 7, 8, 10, 16, 24, 36)
-23. https://numbermatics.com/ (just enter the number) (bases *b* = 2, 16, 36)
-24. https://metanumbers.com/ (just enter the number) (bases *b* = 2, 3, 4, 5, 6, 8, 10, 12, 16, 20, 36)
-25. https://int.darkbyte.ru/ (just enter the number) (bases 2 ≤ *b* ≤ 36)
-26. https://www.numbersaplenty.com/ (just enter the number) (bases 2 ≤ *b* ≤ 16)
+21. http://www.positiveintegers.org/ (just enter the number) (bases 2 ≤ *b* ≤ 36) (limit: 1000000)
+22. https://numdic.com/ (just enter the number) (bases *b* = 2, 3, 4, 5, 6, 7, 8, 10, 16, 24, 36) (limit: 700000)
+23. https://numbermatics.com/ (just enter the number) (bases *b* = 2, 16, 36) (limit: 10<sup>26</sup>+2)
+24. https://metanumbers.com/ (just enter the number) (bases *b* = 2, 3, 4, 5, 6, 8, 10, 12, 16, 20, 36) (limit: 2<sup>63</sup>−1)
+25. https://int.darkbyte.ru/ (just enter the number) (bases 2 ≤ *b* ≤ 36) (limit: 2<sup>31</sup>−2)
+26. https://www.numbersaplenty.com/ (just enter the number) (bases 2 ≤ *b* ≤ 16) (limit: 10<sup>15</sup>−1)
 27. http://factordb.com/index.php?showid=1000000000000000127 (you can change the "showid" to the *ID* for your number) (bases 2 ≤ *b* ≤ 36)
 
 Expression generators:
