@@ -294,6 +294,29 @@ For the number 16<sup>3543</sup>+1 = 2<sup>14172</sup>+1, it is the product of *
 |*Φ*<sub>9448</sub>(2)|107083633 × 7076306353 × 2428629073416562046689 × (1382-digit composite with no known proper factor, *SNFS* difficulty is 1422.066, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSNFS?Number=&Base=2&Exp=4724&c0=%2B&LM=&SA=)|
 |*Φ*<sub>28344</sub>(2)|265073089 × (2834-digit composite with no known proper factor, *SNFS* difficulty is too large to handle for the script, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSNFS?Number=&Base=2&Exp=14172&c0=%2B&LM=&SA=)|
 
+For the number 17<sup>7092</sup>−1, it is the product of *Φ*<sub>*d*</sub>(17) with positive integers *d* dividing 7092 (i.e. *d* = 1, 2, 3, 4, 6, 9, 12, 18, 36, 197, 394, 591, 788, 1182, 1773, 2364, 3546, 7092), and the factorization of *Φ*<sub>*d*</sub>(17) for these positive integers *d* are:
+
+|from|currently known prime factorization|
+|---|---|
+|*Φ*<sub>1</sub>(17)|2<sup>4</sup>|
+|*Φ*<sub>2</sub>(17)|2 × 3<sup>2</sup>|
+|*Φ*<sub>3</sub>(17)|307|
+|*Φ*<sub>4</sub>(17)|2 × 5 × 29|
+|*Φ*<sub>6</sub>(17)|3 × 7 × 13|
+|*Φ*<sub>9</sub>(17)|19 × 1270657|
+|*Φ*<sub>12</sub>(17)|83233|
+|*Φ*<sub>18</sub>(17)|3 × 1423 × 5653|
+|*Φ*<sub>36</sub>(17)|37 × 109 × 181 × 2089 × 382069|
+|*Φ*<sub>197</sub>(17)|646477768184104922935115731396719622668746018369021 × (191-digit prime)|
+|*Φ*<sub>394</sub>(17)|1720812337 × 120652139803422836046398107883 × 11854861245452004511262968204651829313761 × 930821833870171289422620828584179333038475130149 × (115-digit prime)|
+|*Φ*<sub>591</sub>(17)|150824383 × (475-digit composite with no known proper factor, *SNFS* difficulty is 487.258, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSNFS?Number=&Base=17&Exp=591&c0=-&LM=&SA=)|
+|*Φ*<sub>788</sub>(17)|(483-digit composite with no known proper factor, *SNFS* difficulty is 487.258, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSNFS?Number=&Base=17&Exp=394&c0=%2B&LM=&SA=)|
+|*Φ*<sub>1182</sub>(17)|3547 × 1924297 × (473-digit composite with no known proper factor, *SNFS* difficulty is 487.258, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSNFS?Number=&Base=17&Exp=591&c0=%2B&LM=&SA=)|
+|*Φ*<sub>1773</sub>(17)|99289 × (1443-digit composite with no known proper factor, *SNFS* difficulty is too large to handle for the script, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSNFS?Number=&Base=17&Exp=1773&c0=-&LM=&SA=)|
+|*Φ*<sub>2364</sub>(17)|3557821 × (959-digit composite with no known proper factor, *SNFS* difficulty is 969.594, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSNFS?Number=&Base=17&Exp=1182&c0=%2B&LM=&SA=)|
+|*Φ*<sub>3546</sub>(17)|420878287 × 5406628753 × 7195614121 × 32800804957 × (1409-digit composite with no known proper factor, *SNFS* difficulty is too large to handle for the script, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSNFS?Number=&Base=17&Exp=1773&c0=%2B&LM=&SA=)|
+|*Φ*<sub>7092</sub>(17)|21277 × 1560241 × 2654148561193 × (2872-digit composite with no known proper factor, *SNFS* difficulty is too large to handle for the script, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSNFS?Number=&Base=17&Exp=3546&c0=%2B&LM=&SA=)|
+
 For the number 26<sup>1886</sup>−1, it is the product of *Φ*<sub>*d*</sub>(26) with positive integers *d* dividing 1886 (i.e. *d* = 1, 2, 23, 41, 46, 82, 943, 1886), and the factorization of *Φ*<sub>*d*</sub>(26) for these positive integers *d* are:
 
 |from|currently known prime factorization|
