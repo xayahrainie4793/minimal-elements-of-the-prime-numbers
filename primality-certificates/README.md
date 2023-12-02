@@ -264,7 +264,7 @@ For the number 3<sup>2319</sup>+1, it is the product of *Φ*<sub>*d*</sub>(3) wi
 |*Φ*<sub>2</sub>(3)|2<sup>2</sup>|
 |*Φ*<sub>6*L*</sub>(3)|*1* (empty product (https://en.wikipedia.org/wiki/Empty_product))|
 |*Φ*<sub>6*M*</sub>(3)|7|
-|*Φ*<sub>1546</sub>(3)|1182691 × 454333843 × 7175619780295897339 × 219067434459114063477547 × 650663511671253931884619 × (288-digit composite with no known proper factor, *SNFS* difficulty is 369.769, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSNFS?Number=&Base=3&Exp=773&c0=%2B&LM=&SA=)|
+|*Φ*<sub>1546</sub>(3)|1182691 × 454333843 × 7175619780295897339 × 219067434459114063477547 × 650663511671253931884619 × (288-digit composite with no known proper factor, *SNFS* difficulty is 369.292, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSNFS?Number=&Base=3&Exp=773&c0=%2B&LM=&SA=)|
 |*Φ*<sub>4638*L*</sub>(3)|18553 × 2957658597967379799686737984695290731543 × (325-digit composite with no known proper factor, *SNFS* difficulty is 369.292, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSNFS?Number=&Base=3&Exp=2319&c0=%2B&LM=L&SA=)|
 |*Φ*<sub>4638*M*</sub>(3)|4639 × 6716055901 × (356-digit composite with no known proper factor, *SNFS* difficulty is 369.292, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSNFS?Number=&Base=3&Exp=2319&c0=%2B&LM=M&SA=)|
 
