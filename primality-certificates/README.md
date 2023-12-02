@@ -173,6 +173,27 @@ For the number 21<sup>230</sup>−1, it is the product of *Φ*<sub>*d*</sub>(21)
 |*Φ*<sub>115</sub>(21)|1381 × 282924347471791 × 3394964812534556016503466037951 × (69-digit prime)|
 |*Φ*<sub>230</sub>(21)|2531 × 11731 × 22952851 × 595377311 × 688660481 × 58286351831 × 69727564981 × (63-digit prime)|
 
+For the number 21<sup>1064</sup>−1, it is the product of *Φ*<sub>*d*</sub>(21) with positive integers *d* dividing 1064 (i.e. *d* = 1, 2, 4, 7, 8, 14, 19, 28, 38, 56, 76, 133, 152, 266, 532, 1064), and the factorization of *Φ*<sub>*d*</sub>(21) for these positive integers *d* are:
+
+|from|prime factorization|
+|---|---|
+|*Φ*<sub>1</sub>(21)|2<sup>2</sup> × 5|
+|*Φ*<sub>2</sub>(21)|2 × 11|
+|*Φ*<sub>4</sub>(21)|2 × 13 × 17|
+|*Φ*<sub>7</sub>(21)|43 × 631 × 3319|
+|*Φ*<sub>8</sub>(21)|2 × 97241|
+|*Φ*<sub>14</sub>(21)|81867661|
+|*Φ*<sub>19</sub>(21)|12061389013 × 54921106624003|
+|*Φ*<sub>28</sub>(21)|29 × 3697 × 68454248717|
+|*Φ*<sub>38</sub>(21)|609673 × 987749814642143197|
+|*Φ*<sub>56</sub>(21)|617 × 912521 × 115593326297 × 831380909129|
+|*Φ*<sub>76</sub>(21)|229 × 457 × (43-digit prime)|
+|*Φ*<sub>133</sub>(21)|948175293266954869500463698756935713088089028515629708586399 × (83-digit prime)|
+|*Φ*<sub>152</sub>(21)|136649 × 6629177 × 8871582886760161 × 4370570172021545617284038736601 × 4510053597010461591911520110711387257|
+|*Φ*<sub>266</sub>(21)|4523 × 263478423344974307 × 39188712102054729290763779 × 1027619231425962708522784338595411210117 × (58-digit prime)|
+|*Φ*<sub>532</sub>(21)|1080514246723801 × 4598307023923376056176577 × 173111326443349916878938361 × (220-digit composite with no known proper factor, *SNFS* difficulty is 301.466, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSNFS?Number=&Base=21&Exp=266&c0=%2B&LM=&SA=)|
+|*Φ*<sub>1064</sub>(21)|140449 × 723460417 × (558-digit composite with no known proper factor, *SNFS* difficulty is 602.932, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSNFS?Number=&Base=21&Exp=532&c0=%2B&LM=&SA=)|
+
 For the number 26<sup>344</sup>−1, it is the product of *Φ*<sub>*d*</sub>(26) with positive integers *d* dividing 344 (i.e. *d* = 1, 2, 4, 8, 43, 86, 172, 344), and the factorization of *Φ*<sub>*d*</sub>(26) for these positive integers *d* are:
 
 |from|prime factorization|
