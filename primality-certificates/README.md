@@ -151,6 +151,19 @@ For the number 13<sup>576</sup>−1, it is the product of *Φ*<sub>*d*</sub>(13)
 |*Φ*<sub>288</sub>(13)|2017 × 47521 × 54721 × 1590049 × 8299042833797200969471889569 × (61-digit prime)|
 |*Φ*<sub>576</sub>(13)|577 × 6337 × 5247817273269739636080024961 × 5497355933986265726220616321 × 1032606621363411464640473542092061600217962755283816476128113983937 (*GNFS*) × (86-digit prime)|
 
+For the number 21<sup>230</sup>−1, it is the product of *Φ*<sub>*d*</sub>(21) with positive integers *d* dividing 230 (i.e. *d* = 1, 2, 5, 10, 23, 46, 115, 230), and the factorization of *Φ*<sub>*d*</sub>(21) for these positive integers *d* are:
+
+|from|prime factorization|
+|---|---|
+|*Φ*<sub>1</sub>(21)|2<sup>2</sup> × 5|
+|*Φ*<sub>2</sub>(21)|2 × 11|
+|*Φ*<sub>5</sub>(21)|5 × 40841|
+|*Φ*<sub>10</sub>(21)|185641|
+|*Φ*<sub>23</sub>(21)|47 × 19597 × 139870566115103282847737|
+|*Φ*<sub>46</sub>(21)|277 × 461 × 599 × 691 × 2215825387044753577|
+|*Φ*<sub>115</sub>(21)|1381 × 282924347471791 × 3394964812534556016503466037951 × (69-digit prime)|
+|*Φ*<sub>230</sub>(21)|2531 × 11731 × 22952851 × 595377311 × 688660481 × 58286351831 × 69727564981 × (63-digit prime)|
+
 For the number 26<sup>344</sup>−1, it is the product of *Φ*<sub>*d*</sub>(26) with positive integers *d* dividing 344 (i.e. *d* = 1, 2, 4, 8, 43, 86, 172, 344), and the factorization of *Φ*<sub>*d*</sub>(26) for these positive integers *d* are:
 
 |from|prime factorization|
