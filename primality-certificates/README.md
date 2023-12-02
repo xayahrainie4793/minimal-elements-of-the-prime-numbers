@@ -59,6 +59,7 @@ The Cunningham numbers *b*<sup>*n*</sup>±1 has algebraic factorization to produ
 * the 3168th minimal prime in base 13, 9<sub>308</sub>1, *N*−1 is 117×*R*<sub>308</sub>(13), thus factor *N*−1 is equivalent to factor the Cunningham number 13<sup>308</sup>−1, and for the algebraic factors of 13<sup>308</sup>−1, see http://myfactorcollection.mooo.com:8090/cgi-bin/showExplorer?Base=13&Exp=308&LBIDPMList=A&LBIDLODList=D, and for the prime factorization of 13<sup>308</sup>−1, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSingleEntry?Base=13&Exp=308&c0=-&EN=&LM=
 * the 3179th minimal prime in base 13, B<sub>563</sub>C, *N*−1 is 11×*R*<sub>564</sub>(13), thus factor *N*−1 is equivalent to factor the Cunningham number 13<sup>564</sup>−1, and for the algebraic factors of 13<sup>564</sup>−1, see http://myfactorcollection.mooo.com:8090/cgi-bin/showExplorer?Base=13&Exp=564&LBIDPMList=A&LBIDLODList=D, and for the prime factorization of 13<sup>564</sup>−1, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSingleEntry?Base=13&Exp=564&c0=-&EN=&LM=
 * the 3180th minimal prime in base 13, 1B<sub>576</sub>, *N*−1 is 23×*R*<sub>576</sub>(13), thus factor *N*−1 is equivalent to factor the Cunningham number 13<sup>576</sup>−1, and for the algebraic factors of 13<sup>576</sup>−1, see http://myfactorcollection.mooo.com:8090/cgi-bin/showExplorer?Base=13&Exp=576&LBIDPMList=A&LBIDLODList=D, and for the prime factorization of 13<sup>576</sup>−1, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSingleEntry?Base=13&Exp=576&c0=-&EN=&LM=
+* the 13304th minimal prime in base 21, 7<sub>230</sub>1, *N*−1 is 147×*R*<sub>230</sub>(21), thus factor *N*−1 is equivalent to factor the Cunningham number 21<sup>230</sup>−1, and for the algebraic factors of 21<sup>230</sup>−1, see http://myfactorcollection.mooo.com:8090/cgi-bin/showExplorer?Base=21&Exp=230&LBIDPMList=A&LBIDLODList=D, and for the prime factorization of 21<sup>230</sup>−1, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSingleEntry?Base=21&Exp=230&c0=-&EN=&LM=
 * the 25199th minimal prime in base 26, 9K<sub>343</sub>AP, *N*+1 is 6370×*R*<sub>344</sub>(26), thus factor *N*+1 is equivalent to factor the Cunningham number 26<sup>344</sup>−1, and for the algebraic factors of 26<sup>344</sup>−1, see http://myfactorcollection.mooo.com:8090/cgi-bin/showExplorer?Base=26&Exp=344&LBIDPMList=A&LBIDLODList=D, and for the prime factorization of 26<sup>344</sup>−1, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSingleEntry?Base=26&Exp=344&c0=-&EN=&LM=
 * the 25200th minimal prime in base 26, 8<sub>354</sub>1, *N*−1 is 208×*R*<sub>354</sub>(26), thus factor *N*−1 is equivalent to factor the Cunningham number 26<sup>354</sup>−1, and for the algebraic factors of 26<sup>354</sup>−1, see http://myfactorcollection.mooo.com:8090/cgi-bin/showExplorer?Base=26&Exp=354&LBIDPMList=A&LBIDLODList=D, and for the prime factorization of 26<sup>354</sup>−1, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSingleEntry?Base=26&Exp=354&c0=-&EN=&LM=
 
@@ -67,6 +68,8 @@ The helper file for the 3168th minimal prime in base 13 (9<sub>308</sub>1) in *f
 The helper file for the 3179th minimal prime in base 13 (B<sub>563</sub>C) in *factordb*: http://factordb.com/helper.php?id=1100000000000217927
 
 The helper file for the 3180th minimal prime in base 13 (1B<sub>576</sub>) in *factordb*: http://factordb.com/helper.php?id=1100000002321021456
+
+The helper file for the 13304th minimal prime in base 21 (7<sub>230</sub>1) in *factordb*: http://factordb.com/helper.php?id=1100000002325398836
 
 The helper file for the 25199th minimal prime in base 26 (9K<sub>343</sub>AP) in *factordb*: http://factordb.com/helper.php?id=1100000000840632228
 
@@ -77,6 +80,8 @@ Factorization status (and *ECM* efforts for the prime factors between 10<sup>24<
 Factorization status (and *ECM* efforts for the prime factors between 10<sup>24</sup> and 10<sup>100</sup>) of *N*−1 for the 3179th minimal prime in base 13 (B<sub>563</sub>C) in *factordb*: http://factordb.com/index.php?id=1100000000271764311&open=ecm
 
 Factorization status (and *ECM* efforts for the prime factors between 10<sup>24</sup> and 10<sup>100</sup>) of *N*−1 for the 3180th minimal prime in base 13 (1B<sub>576</sub>) in *factordb*: http://factordb.com/index.php?id=1100000002321021531&open=ecm
+
+Factorization status (and *ECM* efforts for the prime factors between 10<sup>24</sup> and 10<sup>100</sup>) of *N*−1 for the 13304th minimal prime in base 21 (7<sub>230</sub>1) in *factordb* http://factordb.com/index.php?id=1100000002325398854&open=ecm
 
 Factorization status (and *ECM* efforts for the prime factors between 10<sup>24</sup> and 10<sup>100</sup>) of *N*+1 for the 25199th minimal prime in base 26 (9K<sub>343</sub>AP) in *factordb*: http://factordb.com/index.php?id=1100000000840632232&open=ecm
 
