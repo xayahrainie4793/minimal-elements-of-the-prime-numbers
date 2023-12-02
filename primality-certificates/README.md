@@ -90,7 +90,9 @@ Factorization status (and *ECM* efforts for the prime factors between 10<sup>24<
 
 Factorization status (and *ECM* efforts for the prime factors between 10<sup>24</sup> and 10<sup>100</sup>) of *N*−1 for the 3180th minimal prime in base 13 (1B<sub>576</sub>) in *factordb*: http://factordb.com/index.php?id=1100000002321021531&open=ecm
 
-Factorization status (and *ECM* efforts for the prime factors between 10<sup>24</sup> and 10<sup>100</sup>) of *N*−1 for the 13304th minimal prime in base 21 (7<sub>230</sub>1) in *factordb* http://factordb.com/index.php?id=1100000002325398854&open=ecm
+Factorization status (and *ECM* efforts for the prime factors between 10<sup>24</sup> and 10<sup>100</sup>) of *N*−1 for the 13304th minimal prime in base 21 (7<sub>230</sub>1) in *factordb*: http://factordb.com/index.php?id=1100000002325398854&open=ecm
+
+Factorization status (and *ECM* efforts for the prime factors between 10<sup>24</sup> and 10<sup>100</sup>) of *N*+1 for the 13355th minimal prime in base 21 (3<sub>1063</sub>2) in *factordb*: http://factordb.com/index.php?id=1100000002325396028&open=ecm
 
 Factorization status (and *ECM* efforts for the prime factors between 10<sup>24</sup> and 10<sup>100</sup>) of *N*+1 for the 25199th minimal prime in base 26 (9K<sub>343</sub>AP) in *factordb*: http://factordb.com/index.php?id=1100000000840632232&open=ecm
 
