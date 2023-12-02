@@ -134,7 +134,7 @@ For the number 13<sup>564</sup>−1, it is the product of *Φ*<sub>*d*</sub>(13)
 |*Φ*<sub>141</sub>(13)|283 × 1693 × 1924651 × 455036140638637 × (76-digit prime)|
 |*Φ*<sub>188</sub>(13)|36097 × 75389 × 99886248944632632917 × (74-digit prime)|
 |*Φ*<sub>282</sub>(13)|590202369266263393 × (85-digit prime)|
-|*Φ*<sub>564</sub>(13)|233628485003849577181 × 94531330515097101267386264339794253977 (*ECM*, *B1* = 3000000, *Sigma* = 2146847123, the factorization of the group order is 2<sup>3</sup> × 3<sup>3</sup> × 5 × 11 × 23 × 4871 × 10099 × 17207 × 1389277 × 2661643 × 110532803) × 27969827431131578608318126024627616357147784803797 (*GNFS*) × (98-digit prime)|
+|*Φ*<sub>564</sub>(13)|233628485003849577181 × 94531330515097101267386264339794253977 (*ECM*, *B1* = 3000000, *Sigma* = 2146847123, the prime factorization of the group order is 2<sup>3</sup> × 3<sup>3</sup> × 5 × 11 × 23 × 4871 × 10099 × 17207 × 1389277 × 2661643 × 110532803) × 27969827431131578608318126024627616357147784803797 (*GNFS*) × (98-digit prime)|
 
 For the number 13<sup>576</sup>−1, it is the product of *Φ*<sub>*d*</sub>(13) with positive integers *d* dividing 576 (i.e. *d* = 1, 2, 3, 4, 6, 8, 9, 12, 16, 18, 24, 32, 36, 48, 64, 72, 96, 144, 192, 288, 576), and the factorization of *Φ*<sub>*d*</sub>(13) for these positive integers *d* are:
 
@@ -193,7 +193,7 @@ For the number 21<sup>1064</sup>−1, it is the product of *Φ*<sub>*d*</sub>(21
 |*Φ*<sub>133</sub>(21)|948175293266954869500463698756935713088089028515629708586399 × (83-digit prime)|
 |*Φ*<sub>152</sub>(21)|136649 × 6629177 × 8871582886760161 × 4370570172021545617284038736601 × 4510053597010461591911520110711387257|
 |*Φ*<sub>266</sub>(21)|4523 × 263478423344974307 × 39188712102054729290763779 × 1027619231425962708522784338595411210117 × (58-digit prime)|
-|*Φ*<sub>532</sub>(21)|1080514246723801 × 4598307023923376056176577 (*P*−1, *B1* = 100000, *B2* = 39772318, the factorization of *P*−1 is 2<sup>6</sup> × 3 × 7 × 11 × 19 × 23 × 241 × 1229 × 1697 × 7369 × 192161) × 173111326443349916878938361 × (220-digit composite with no known proper factor, *SNFS* difficulty is 301.466, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSNFS?Number=&Base=21&Exp=266&c0=%2B&LM=&SA=)|
+|*Φ*<sub>532</sub>(21)|1080514246723801 × 4598307023923376056176577 (*P*−1, *B1* = 100000, *B2* = 39772318, the prime factorization of *P*−1 is 2<sup>6</sup> × 3 × 7 × 11 × 19 × 23 × 241 × 1229 × 1697 × 7369 × 192161) × 173111326443349916878938361 × (220-digit composite with no known proper factor, *SNFS* difficulty is 301.466, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSNFS?Number=&Base=21&Exp=266&c0=%2B&LM=&SA=)|
 |*Φ*<sub>1064</sub>(21)|140449 × 723460417 × (558-digit composite with no known proper factor, *SNFS* difficulty is 602.932, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSNFS?Number=&Base=21&Exp=532&c0=%2B&LM=&SA=)|
 
 For the number 26<sup>344</sup>−1, it is the product of *Φ*<sub>*d*</sub>(26) with positive integers *d* dividing 344 (i.e. *d* = 1, 2, 4, 8, 43, 86, 172, 344), and the factorization of *Φ*<sub>*d*</sub>(26) for these positive integers *d* are:
