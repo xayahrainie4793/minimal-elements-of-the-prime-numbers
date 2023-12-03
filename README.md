@@ -2682,7 +2682,7 @@ Integer factorizers:
 20. http://wims.unice.fr/~wims/en_tool~algebra~factor.en.html (no limit)
 21. http://www.analyzemath.com/Calculators_3/prime_factors.html (limit: 2<sup>53</sup>−1)
 22. https://www.archimedes-lab.org/primOmatic.html (limit: 10<sup>12</sup>−1)
-23. https://www.bigprimes.net/cruncher/ (limit: 10<sup>17</sup>−1)
+23. https://www.bigprimes.net/cruncher/ (all (prime or composite or unit) factors of *N*) (limit: 10<sup>17</sup>−1)
 24. http://www.proftnj.com/calcprem.htm (in French) (use the box "Factoriser un nombre" and click "Factoriser") (limit: 2<sup>53</sup>−1)
 25. http://www.positiveintegers.org/ (just enter the number) (limit: 1000000)
 26. https://numdic.com/ (just enter the number) (limit: 700000)
