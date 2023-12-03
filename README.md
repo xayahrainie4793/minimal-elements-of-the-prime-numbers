@@ -2786,24 +2786,24 @@ Lists of small primes: (see https://t5k.org/notes/faq/LongestList.html and https
 
 Lists of factorizations of small integers:
 
-1. http://primefan.tripod.com/500factored.html
-2. http://www.sosmath.com/tables/factor/factor.html
-3. https://sites.google.com/view/prime-factorization-of-integer
-4. https://web.archive.org/web/20060210182347/http://bearnol.is-a-geek.com/Panfur%20Project/ **(warning: this site does not factor the composite numbers 15, 51, 85, 91, 255, 435, 451, 561, 595, 679, 703, 771, 1105, 1261, 1285, 1351, 1387, ...)**
-5. http://www.datapointed.net/visualizations/math/factorization/animated-diagrams/
-6. http://www.datapointed.net/visualizations/math/factorization/animated-diagrams/?infinity
-7. https://oeis.org/A027750/a027750.txt (all (prime or composite or unit) factors of *N*)
-8. http://factorzone.tripod.com/factors.htm (all (prime or composite or unit) factors of *N*)
-9. http://functions.wolfram.com/NumberTheoryFunctions/Divisors/03/02 (all (prime or composite or unit) factors of *N*)
-10. https://en.wikipedia.org/wiki/Table_of_prime_factors
-11. https://en.wikipedia.org/wiki/Table_of_divisors (all (prime or composite or unit) factors of *N*)
+1. http://primefan.tripod.com/500factored.html (limit: 500)
+2. http://www.sosmath.com/tables/factor/factor.html (limit: 1000)
+3. https://sites.google.com/view/prime-factorization-of-integer (limit: 25000)
+4. https://web.archive.org/web/20060210182347/http://bearnol.is-a-geek.com/Panfur%20Project/ (limit: 20000000, however, currently the data is only available up to 1500000 in the archive pages, the data for numbers > 1500000 has no available archive pages) **(warning: this site does not factor the composite numbers 15, 51, 85, 91, 255, 435, 451, 561, 595, 679, 703, 771, 1105, 1261, 1285, 1351, 1387, ...)**
+5. http://www.datapointed.net/visualizations/math/factorization/animated-diagrams/ (no limit)
+6. http://www.datapointed.net/visualizations/math/factorization/animated-diagrams/?infinity (no limit)
+7. https://oeis.org/A027750/a027750.txt (all (prime or composite or unit) factors of *N*) (limit: 10000)
+8. http://factorzone.tripod.com/factors.htm (all (prime or composite or unit) factors of *N*) (limit: 1100)
+9. http://functions.wolfram.com/NumberTheoryFunctions/Divisors/03/02 (all (prime or composite or unit) factors of *N*) (limit: 50)
+10. https://en.wikipedia.org/wiki/Table_of_prime_factors (limit: 1000)
+11. https://en.wikipedia.org/wiki/Table_of_divisors (all (prime or composite or unit) factors of *N*) (limit: 1000)
 12. http://factordb.com/index.php?query=n&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show (from *factordb*)
 13. http://myfactorcollection.mooo.com:8090/cgi-bin/showFullRep?FBase=2&TBase=20001&FExp=1&TExp=1&c0=-&EN=&LM= (from an online factor database for numbers of the form *b*<sup>*n*</sup>±1)
 14. http://myfactorcollection.mooo.com:8090/cgi-bin/showFullRep?FBase=2&TBase=20001&FExp=1&TExp=1&c0=%2B&EN=&LM= (from an online factor database for numbers of the form *b*<sup>*n*</sup>±1)
 
 Lists of small integers in various bases:
 
-1. https://en.wikipedia.org/wiki/Table_of_bases
+1. https://en.wikipedia.org/wiki/Table_of_bases (bases 2 ≤ *b* ≤ 36) (limit: 256)
 
 Also, programs related to this research: (some of these programs can also be downloaded in http://www.fermatsearch.org/download.php or https://www.mersenne.org/download/freeware.php or https://download.mersenne.ca/) (some of these programs need to use *GMP* (https://gmplib.org/))
 
