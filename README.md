@@ -2635,25 +2635,27 @@ Prime checkers:
 5. http://www.javascripter.net/faq/numberisprime.htm (just type "isPrime(*n*)") (no limit)
 6. http://www.javascripter.net/math/primes/millerrabinprimalitytest.htm (just type "isPrimeMR18(*n*)") (no limit)
 7. http://www.javascripter.net/math/calculators/100digitbigintcalculator.htm (just type *x* and click "prime?") (no limit)
-8. http://www.math.com/students/calculators/source/prime-number.htm (limit: 2<sup>53</sup>−1)
-9. https://www.calculatorsoup.com/calculators/math/prime-number-calculator.php (limit: 10<sup>13</sup>−1)
-10. https://onlinemathtools.com/test-prime-number (choose "Test All Numbers") (no limit)
-11. https://www.bigprimes.net/primalitytest (use the first box) (limit: 2<sup>53</sup>−1)
-12. https://www.archimedes-lab.org/primOmatic.html (limit: 10<sup>12</sup>−1)
-13. http://www.sonic.net/~undoc/java/PrimeCalc.html (click "y=IsPrime(x)") (no limit)
-14. http://www.primzahlen.de/primzahltests/testverfahren.htm (in German) (use the box "Miller-Rabin-Test" and click "Test") (limit: 2<sup>53</sup>−1)
-15. http://www.proftnj.com/calcprem.htm (in French) (use the box "Rechercher si un nombre est premier" and click "Rechercher") (limit: 2<sup>53</sup>−1)
-16. http://www.positiveintegers.org/ (just enter the number) (limit: 1000000)
-17. https://numdic.com/ (just enter the number) (limit: 700000)
-18. https://numbermatics.com/ (just enter the number) (limit: 10<sup>26</sup>+2)
-19. https://metanumbers.com/ (just enter the number) (limit: 2<sup>63</sup>−1)
-20. https://int.darkbyte.ru/ (just enter the number) (limit: 2<sup>31</sup>−2)
-21. https://www.numbersaplenty.com/ (just enter the number) (limit: 10<sup>15</sup>−1)
-22. http://factordb.com/ (online factor database, "P" means definitely prime, "PRP" means unproven probable prime, "FF" means composite and fully factored, "CF" means composite and has known proper factor but not fully factored, "C" means composite and has no known proper factor, "U" means number with unknown status, "Unit" means the number "1", "Zero" means the number "0", see http://factordb.com/status.html, also, this online factor database uses colors to show the status of the numbers, black means definitely prime ("P"), blue means composite ("C" or "CF" or "FF"), brown means unproven probable prime ("PRP"), red means number with unknown status ("U"), also, this online factor database automatically stores all numbers < 10<sup>18</sup> and automatically checks the probable-primality of the numbers with unknown status < 10<sup>49999</sup> and automatically proves the primality of the probable primes < 10<sup>299</sup> and automatically factors the composites < 10<sup>69</sup>, see https://web.archive.org/web/20150812084455/http://factordb.com/status.php)
-23. https://578d0722p8.goho.co/index.html (more types of numbers in the online factor database)
-24. https://t5k.org/nthprime/ (calculate the *n*th prime) (use the box "Nth prime") (limit: 3×10<sup>13</sup>)
-25. http://www.numbertheory.org/php/nprime.html (calculate the next (probable) prime above *N*, in fact, links 2, 7, 11, 12, 13 can also calculate the next prime above *N*, besides, links 2, 7 can also calculate the previous prime below *N*, for link 2 choose "Find next" to calculate the next prime above *N*, or choose "Find previous" to calculate the previous prime below *N*, for link 7 just type *x* and click "next p" to calculate the next prime above *N*, or just type *x* and click "prev p" to calculate the previous prime below *N*, for link 11 use the second box to calculate the next prime above *N*, for link 13 click "y=NextPrime(x)" to calculate the next prime above *N*)
-26. http://factordb.com/nextprime.php (calculate the next (probable) prime above *N*, in fact, links 2, 7, 11, 12, 13 can also calculate the next prime above *N*, besides, links 2, 7 can also calculate the previous prime below *N*, for link 2 choose "Find next" to calculate the next prime above *N*, or choose "Find previous" to calculate the previous prime below *N*, for link 7 just type *x* and click "next p" to calculate the next prime above *N*, or just type *x* and click "prev p" to calculate the previous prime below *N*, for link 11 use the second box to calculate the next prime above *N*, for link 13 click "y=NextPrime(x)" to calculate the next prime above *N*)
+8. http://www.prime-numbers.org/ (use the box "Key in a number to check it's a prime number or not" and click "Check") (limit: 10<sup>11</sup>−1)
+9. https://www.walter-fendt.de/html5/men/primenumbers_en.htm (limit: 10<sup>12</sup>)
+10. http://www.math.com/students/calculators/source/prime-number.htm (limit: 2<sup>53</sup>−1)
+11. https://www.calculatorsoup.com/calculators/math/prime-number-calculator.php (limit: 10<sup>13</sup>−1)
+12. https://onlinemathtools.com/test-prime-number (choose "Test All Numbers") (no limit)
+13. https://www.bigprimes.net/primalitytest (use the first box) (limit: 2<sup>53</sup>−1)
+14. https://www.archimedes-lab.org/primOmatic.html (limit: 10<sup>12</sup>−1)
+15. http://www.sonic.net/~undoc/java/PrimeCalc.html (click "y=IsPrime(x)") (no limit)
+16. http://www.primzahlen.de/primzahltests/testverfahren.htm (in German) (use the box "Miller-Rabin-Test" and click "Test") (limit: 2<sup>53</sup>−1)
+17. http://www.proftnj.com/calcprem.htm (in French) (use the box "Rechercher si un nombre est premier" and click "Rechercher") (limit: 2<sup>53</sup>−1)
+18. http://www.positiveintegers.org/ (just enter the number) (limit: 1000000)
+19. https://numdic.com/ (just enter the number) (limit: 700000)
+20. https://numbermatics.com/ (just enter the number) (limit: 10<sup>26</sup>+2)
+21. https://metanumbers.com/ (just enter the number) (limit: 2<sup>63</sup>−1)
+22. https://int.darkbyte.ru/ (just enter the number) (limit: 2<sup>31</sup>−2)
+23. https://www.numbersaplenty.com/ (just enter the number) (limit: 10<sup>15</sup>−1)
+24. http://factordb.com/ (online factor database, "P" means definitely prime, "PRP" means unproven probable prime, "FF" means composite and fully factored, "CF" means composite and has known proper factor but not fully factored, "C" means composite and has no known proper factor, "U" means number with unknown status, "Unit" means the number "1", "Zero" means the number "0", see http://factordb.com/status.html, also, this online factor database uses colors to show the status of the numbers, black means definitely prime ("P"), blue means composite ("C" or "CF" or "FF"), brown means unproven probable prime ("PRP"), red means number with unknown status ("U"), also, this online factor database automatically stores all numbers < 10<sup>18</sup> and automatically checks the probable-primality of the numbers with unknown status < 10<sup>49999</sup> and automatically proves the primality of the probable primes < 10<sup>299</sup> and automatically factors the composites < 10<sup>69</sup>, see https://web.archive.org/web/20150812084455/http://factordb.com/status.php)
+25. https://578d0722p8.goho.co/index.html (more types of numbers in the online factor database)
+26. https://t5k.org/nthprime/ (calculate the *n*th prime) (use the box "Nth prime") (limit: 3×10<sup>13</sup>)
+27. http://www.numbertheory.org/php/nprime.html (calculate the next (probable) prime above *N*, in fact, links 2, 7, 11, 12, 13 can also calculate the next prime above *N*, besides, links 2, 7 can also calculate the previous prime below *N*, for link 2 choose "Find next" to calculate the next prime above *N*, or choose "Find previous" to calculate the previous prime below *N*, for link 7 just type *x* and click "next p" to calculate the next prime above *N*, or just type *x* and click "prev p" to calculate the previous prime below *N*, for link 11 use the second box to calculate the next prime above *N*, for link 13 click "y=NextPrime(x)" to calculate the next prime above *N*)
+28. http://factordb.com/nextprime.php (calculate the next (probable) prime above *N*, in fact, links 2, 7, 11, 12, 13 can also calculate the next prime above *N*, besides, links 2, 7 can also calculate the previous prime below *N*, for link 2 choose "Find next" to calculate the next prime above *N*, or choose "Find previous" to calculate the previous prime below *N*, for link 7 just type *x* and click "next p" to calculate the next prime above *N*, or just type *x* and click "prev p" to calculate the previous prime below *N*, for link 11 use the second box to calculate the next prime above *N*, for link 13 click "y=NextPrime(x)" to calculate the next prime above *N*)
 
 Integer factorizers:
 
@@ -2665,32 +2667,33 @@ Integer factorizers:
 6. http://www.javascripter.net/math/calculators/primefactorscalculator.htm (limit: 10<sup>20</sup>−1)
 7. http://www.javascripter.net/faq/numberisprime.htm (only find the least prime factor, just type "leastFactor(*n*)") (no limit)
 8. http://www.javascripter.net/math/primes/millerrabinprimalitytest.htm (only find the least prime factor, just type "leastFactor(*n*)") (no limit)
-9. https://web.archive.org/web/20230122202627/https://betaprojects.com/calculators/prime_factors.html (limit: 2<sup>53</sup>−1)
-10. https://www.emathhelp.net/calculators/pre-algebra/prime-factorization-calculator/ (limit: 10<sup>9</sup>)
-11. https://primefan.tripod.com/Factorer.html (need run with Java)
-12. https://www.calculatorsoup.com/calculators/math/prime-factors.php (limit: 10<sup>13</sup>−1)
-13. https://www.calculator.net/prime-factorization-calculator.html (limit: 10<sup>14</sup>−1)
-14. http://www.se16.info/js/factor.htm (limit: 2<sup>53</sup>−1)
-15. https://web.archive.org/web/20230918044810/http://math.fau.edu/Richman/mla/factor-f.htm (limit: 2<sup>53</sup>−1)
-16. http://www.rsok.com/~jrm/factor.html (no limit)
-17. http://www.brennen.net/primes/FactorApplet.html (need run with Java)
-18. https://web.archive.org/web/20161004191531/http://britton.disted.camosun.bc.ca/jbprimefactor.htm (limit: 10<sup>6</sup>)
-19. http://wims.unice.fr/~wims/en_tool~algebra~factor.en.html (no limit)
-20. http://www.analyzemath.com/Calculators_3/prime_factors.html (limit: 2<sup>53</sup>−1)
-21. https://www.archimedes-lab.org/primOmatic.html (limit: 10<sup>12</sup>−1)
-22. http://www.proftnj.com/calcprem.htm (in French) (use the box "Factoriser un nombre" and click "Factoriser") (limit: 2<sup>53</sup>−1)
-23. http://www.positiveintegers.org/ (just enter the number) (limit: 1000000)
-24. https://numdic.com/ (just enter the number) (limit: 700000)
-25. https://numbermatics.com/ (just enter the number) (limit: 10<sup>26</sup>+2)
-26. https://metanumbers.com/ (just enter the number) (limit: 2<sup>63</sup>−1)
-27. https://int.darkbyte.ru/ (just enter the number) (limit: 2<sup>31</sup>−2)
-28. https://www.numbersaplenty.com/ (just enter the number) (limit: 10<sup>15</sup>−1)
-29. http://factordb.com/ (online factor database, "P" means definitely prime, "PRP" means unproven probable prime, "FF" means composite and fully factored, "CF" means composite and has known proper factor but not fully factored, "C" means composite and has no known proper factor, "U" means number with unknown status, "Unit" means the number "1", "Zero" means the number "0", see http://factordb.com/status.html, also, this online factor database uses colors to show the status of the numbers, black means definitely prime ("P"), blue means composite ("C" or "CF" or "FF"), brown means unproven probable prime ("PRP"), red means number with unknown status ("U"), also, this online factor database automatically stores all numbers < 10<sup>18</sup> and automatically checks the probable-primality of the numbers with unknown status < 10<sup>49999</sup> and automatically proves the primality of the probable primes < 10<sup>299</sup> and automatically factors the composites < 10<sup>69</sup>, see https://web.archive.org/web/20150812084455/http://factordb.com/status.php)
-30. https://578d0722p8.goho.co/index.html (more types of numbers in the online factor database)
-31. http://myfactorcollection.mooo.com:8090/dbio.html (online factor database for numbers of the form *b*<sup>*n*</sup>±1)
-32. http://myfactorcollection.mooo.com:8090/interactive.html (online factor database for numbers of the form *b*<sup>*n*</sup>±1)
-33. https://web.archive.org/web/20120722020628/http://homes.cerias.purdue.edu/~ssw/cun/prime.php (online factor database for numbers of the form *b*<sup>*n*</sup>±1 for 2 ≤ *b* ≤ 12)
-34. https://web.archive.org/web/20120330032919/http://homes.cerias.purdue.edu/~ssw/cun/clientold.html (online factor database for numbers of the form *b*<sup>*n*</sup>±1 for 2 ≤ *b* ≤ 12)
+9. https://www.walter-fendt.de/html5/men/primenumbers_en.htm (limit: 10<sup>12</sup>)
+10. https://web.archive.org/web/20230122202627/https://betaprojects.com/calculators/prime_factors.html (limit: 2<sup>53</sup>−1)
+11. https://www.emathhelp.net/calculators/pre-algebra/prime-factorization-calculator/ (limit: 10<sup>9</sup>)
+12. https://primefan.tripod.com/Factorer.html (need run with Java)
+13. https://www.calculatorsoup.com/calculators/math/prime-factors.php (limit: 10<sup>13</sup>−1)
+14. https://www.calculator.net/prime-factorization-calculator.html (limit: 10<sup>14</sup>−1)
+15. http://www.se16.info/js/factor.htm (limit: 2<sup>53</sup>−1)
+16. https://web.archive.org/web/20230918044810/http://math.fau.edu/Richman/mla/factor-f.htm (limit: 2<sup>53</sup>−1)
+17. http://www.rsok.com/~jrm/factor.html (no limit)
+18. http://www.brennen.net/primes/FactorApplet.html (need run with Java)
+19. https://web.archive.org/web/20161004191531/http://britton.disted.camosun.bc.ca/jbprimefactor.htm (limit: 10<sup>6</sup>)
+20. http://wims.unice.fr/~wims/en_tool~algebra~factor.en.html (no limit)
+21. http://www.analyzemath.com/Calculators_3/prime_factors.html (limit: 2<sup>53</sup>−1)
+22. https://www.archimedes-lab.org/primOmatic.html (limit: 10<sup>12</sup>−1)
+23. http://www.proftnj.com/calcprem.htm (in French) (use the box "Factoriser un nombre" and click "Factoriser") (limit: 2<sup>53</sup>−1)
+24. http://www.positiveintegers.org/ (just enter the number) (limit: 1000000)
+25. https://numdic.com/ (just enter the number) (limit: 700000)
+26. https://numbermatics.com/ (just enter the number) (limit: 10<sup>26</sup>+2)
+27. https://metanumbers.com/ (just enter the number) (limit: 2<sup>63</sup>−1)
+28. https://int.darkbyte.ru/ (just enter the number) (limit: 2<sup>31</sup>−2)
+29. https://www.numbersaplenty.com/ (just enter the number) (limit: 10<sup>15</sup>−1)
+30. http://factordb.com/ (online factor database, "P" means definitely prime, "PRP" means unproven probable prime, "FF" means composite and fully factored, "CF" means composite and has known proper factor but not fully factored, "C" means composite and has no known proper factor, "U" means number with unknown status, "Unit" means the number "1", "Zero" means the number "0", see http://factordb.com/status.html, also, this online factor database uses colors to show the status of the numbers, black means definitely prime ("P"), blue means composite ("C" or "CF" or "FF"), brown means unproven probable prime ("PRP"), red means number with unknown status ("U"), also, this online factor database automatically stores all numbers < 10<sup>18</sup> and automatically checks the probable-primality of the numbers with unknown status < 10<sup>49999</sup> and automatically proves the primality of the probable primes < 10<sup>299</sup> and automatically factors the composites < 10<sup>69</sup>, see https://web.archive.org/web/20150812084455/http://factordb.com/status.php)
+31. https://578d0722p8.goho.co/index.html (more types of numbers in the online factor database)
+32. http://myfactorcollection.mooo.com:8090/dbio.html (online factor database for numbers of the form *b*<sup>*n*</sup>±1)
+33. http://myfactorcollection.mooo.com:8090/interactive.html (online factor database for numbers of the form *b*<sup>*n*</sup>±1)
+34. https://web.archive.org/web/20120722020628/http://homes.cerias.purdue.edu/~ssw/cun/prime.php (online factor database for numbers of the form *b*<sup>*n*</sup>±1 for 2 ≤ *b* ≤ 12)
+35. https://web.archive.org/web/20120330032919/http://homes.cerias.purdue.edu/~ssw/cun/clientold.html (online factor database for numbers of the form *b*<sup>*n*</sup>±1 for 2 ≤ *b* ≤ 12)
 
 Prime generators:
 
@@ -2746,40 +2749,40 @@ Expression generators:
 
 Lists of small primes: (see https://t5k.org/notes/faq/LongestList.html and https://t5k.org/notes/faq/x_digit_primes.html, although we can quickly determine whether a number < 10<sup>300</sup> is prime or not, but there is no list of all primes < 10<sup>300</sup>, since the space which we need is larger than the number of elementary particles (https://en.wikipedia.org/wiki/Elementary_particle) (i.e. quarks (https://en.wikipedia.org/wiki/Quark) and electrons (https://en.wikipedia.org/wiki/Electron)) in the universe (https://en.wikipedia.org/wiki/Universe))
 
-1. https://t5k.org/lists/small/1000.txt
-2. https://t5k.org/lists/small/10000.txt
-3. https://t5k.org/lists/small/100000.txt
-4. https://t5k.org/lists/small/millions/
-5. https://oeis.org/A000040/b000040.txt
-6. https://oeis.org/A000040/a000040.txt
-7. https://oeis.org/A000040/b000040_1.txt
-8. https://oeis.org/A000040/a000040_1B.7z
-9. http://www.prime-numbers.org/
-10. https://web.archive.org/web/20091027064420/http://geocities.com/primes_r_us/small/index.html
-11. http://prime-numbers.org/sample.zip
-12. https://metanumbers.com/prime-numbers
-13. https://www.numberempire.com/primenumberstable.php
-14. https://www.calculatorsoup.com/calculators/math/prime-numbers.php
-15. https://www2.cs.arizona.edu/icon/oddsends/primes.htm
-16. https://www.numbersaplenty.com/set/prime_number/more.php
-17. https://cdn1.byjus.com/wp-content/uploads/2021/10/Prime-Numbers-from-1-to-1000.png
-18. http://noe-education.org/D11102.php (in French)
-19. https://web.archive.org/web/20060513054350/http://www.walter-fendt.de/m14i/primes_i.htm (in Italian)
-20. https://primefan.tripod.com/500Primes1.html **(warning: this site incorrectly includes 1 as a prime and misses the primes 3229 and 3329)**
-21. https://www.gutenberg.org/files/65/65.txt
-22. http://www.primos.mat.br/indexen.html
-23. https://www.walter-fendt.de/html5/men/primenumbers_en.htm
-24. http://www.rsok.com/~jrm/printprimes.html
-25. http://www.numbertheory.org/php/prime_generator.html
-26. http://www.primzahlen.de/primzahltests/2-100003.htm (in German)
-27. https://jocelyn.quizz.chat/np/cache/index.html (in French)
-28. http://www.sosmath.com/tables/prime/prime.html
-29. https://www.bigprimes.net/archive/prime
-30. https://web.archive.org/web/20201130071856/http://www.mathematical.com/primelist1to100kk.html
-31. https://web.archive.org/web/20191118082053/http://www.tsm-resources.com/alists/prim.html
-32. https://web.archive.org/web/20090917191047/http://planetmath.org/encyclopedia/FirstThousandPositivePrimeNumbers.html
+1. https://t5k.org/lists/small/1000.txt (limit: first 1000 primes, up to 7919)
+2. https://t5k.org/lists/small/10000.txt (limit: first 10000 primes, up to 104729)
+3. https://t5k.org/lists/small/100000.txt (limit: first 100008 primes, up to 1299827)
+4. https://t5k.org/lists/small/millions/ (limit: first 50000000 primes, up to 982451653)
+5. https://oeis.org/A000040/b000040.txt (limit: first 10000 primes, up to 104729)
+6. https://oeis.org/A000040/a000040.txt (limit: first 100000 primes, up to 1299709)
+7. https://oeis.org/A000040/b000040_1.txt (limit: first 500000 primes, up to 7368787)
+8. https://oeis.org/A000040/a000040_1B.7z (limit: first 1000000000 primes, up to 22801763489)
+9. http://www.prime-numbers.org/ (limit: first 4118044813 primes, up to 99999999977)
+10. https://web.archive.org/web/20091027064420/http://geocities.com/primes_r_us/small/index.html (limit: first 5800000 primes, up to 100711433)
+11. http://prime-numbers.org/sample.zip (limit: first 1000 primes, up to 7919)
+12. https://metanumbers.com/prime-numbers (limit: first 1229 primes, up to 9973)
+13. https://www.numberempire.com/primenumberstable.php (limit: first 1229 primes, up to 9973)
+14. https://www.calculatorsoup.com/calculators/math/prime-numbers.php (limit: first 1009 primes, up to 8011)
+15. https://www2.cs.arizona.edu/icon/oddsends/primes.htm (limit: first 50000 primes, up to 611953)
+16. https://www.numbersaplenty.com/set/prime_number/more.php (limit: first 600 primes, up to 4409)
+17. https://cdn1.byjus.com/wp-content/uploads/2021/10/Prime-Numbers-from-1-to-1000.png (limit: first 168 primes, up to 997)
+18. http://noe-education.org/D11102.php (in French) (limit: first 5133 primes, up to 49999)
+19. https://web.archive.org/web/20060513054350/http://www.walter-fendt.de/m14i/primes_i.htm (in Italian) (limit: first 37607912018 primes, up to 999999999989)
+20. https://primefan.tripod.com/500Primes1.html (limit: first 501 primes, up to 3581) **(warning: this site incorrectly includes 1 as a prime and misses the primes 3229 and 3329, thus this site actually lists the first 500−1+2 = 501 primes)**
+21. https://www.gutenberg.org/files/65/65.txt (limit: first 101341 primes, up to 1318699)
+22. https://web.archive.org/web/20231024091219/http://www.primos.mat.br/indexen.html (limit: first 37607912018 primes, up to 999999999989)
+23. https://www.walter-fendt.de/html5/men/primenumbers_en.htm (limit: first 37607912018 primes, up to 999999999989)
+24. http://www.rsok.com/~jrm/printprimes.html (limit: first ? primes, up to 1999999973)
+25. http://www.numbertheory.org/php/prime_generator.html (limit: first 455052511 primes, up to 9999999967)
+26. http://www.primzahlen.de/primzahltests/2-100003.htm (in German) (limit: first 9593 primes, up to 100003)
+27. https://jocelyn.quizz.chat/np/cache/index.html (in French) (limit: first 1000000 primes, up to 15485863)
+28. http://www.sosmath.com/tables/prime/prime.html (limit: first 1000 primes, up to 7919)
+29. https://www.bigprimes.net/archive/prime (limit: first 1000000 primes, up to 15485863)
+30. https://web.archive.org/web/20201130071856/http://www.mathematical.com/primelist1to100kk.html (limit: first 664579 primes, up to 9999991)
+31. https://web.archive.org/web/20191118082053/http://www.tsm-resources.com/alists/prim.html (limit: first 2000 primes, up to 17389)
+32. https://web.archive.org/web/20090917191047/http://planetmath.org/encyclopedia/FirstThousandPositivePrimeNumbers.html (limit: first 1000 primes, up to 7919)
 33. https://faculty.lynchburg.edu/~nicely/gaps/gaplist.html (the longest list ever calculated, with all primes < 2<sup>64</sup> (but unlikely other lists here, the primes are not all stored))
-34. https://en.wikipedia.org/wiki/List_of_prime_numbers#The_first_1000_prime_numbers
+34. https://en.wikipedia.org/wiki/List_of_prime_numbers#The_first_1000_prime_numbers (limit: first 1000 primes, up to 7919)
 
 Lists of factorizations of small integers:
 
