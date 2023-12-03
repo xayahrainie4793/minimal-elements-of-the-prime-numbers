@@ -2693,7 +2693,7 @@ Integer factorizers:
 31. http://factordb.com/ (online factor database, "P" means definitely prime, "PRP" means unproven probable prime, "FF" means composite and fully factored, "CF" means composite and has known proper factor but not fully factored, "C" means composite and has no known proper factor, "U" means number with unknown status, "Unit" means the number "1", "Zero" means the number "0", see http://factordb.com/status.html, also, this online factor database uses colors to show the status of the numbers, black means definitely prime ("P"), blue means composite ("C" or "CF" or "FF"), brown means unproven probable prime ("PRP"), red means number with unknown status ("U"), also, this online factor database automatically stores all numbers < 10<sup>18</sup> and automatically checks the probable-primality of the numbers with unknown status < 10<sup>49999</sup> and automatically proves the primality of the probable primes < 10<sup>299</sup> and automatically factors the composites < 10<sup>69</sup>, see https://web.archive.org/web/20150812084455/http://factordb.com/status.php) (limit: 10<sup>10000000</sup>−1 (see http://factordb.com/index.php?query=999999999%5E999999999%2B1) or 10<sup>4000000</sup>−1 for Fibonacci and Lucas numbers (see http://factordb.com/index.php?query=I999999999 and http://factordb.com/index.php?query=L999999999) or 10<sup>2000000</sup>−1 for factorial and primorial (see http://factordb.com/index.php?query=999999999%21%2B1 and http://factordb.com/index.php?query=999999999%23%2B1))
 32. https://578d0722p8.goho.co/index.html (more types of numbers in the online factor database) (limit: 10<sup>10000000</sup>−1 (see http://factordb.com/index.php?query=999999999%5E999999999%2B1) or 10<sup>4000000</sup>−1 for Fibonacci and Lucas numbers (see http://factordb.com/index.php?query=I999999999 and http://factordb.com/index.php?query=L999999999) or 10<sup>2000000</sup>−1 for factorial and primorial (see http://factordb.com/index.php?query=999999999%21%2B1 and http://factordb.com/index.php?query=999999999%23%2B1))
 33. http://myfactorcollection.mooo.com:8090/dbio.html (online factor database for numbers of the form *b*<sup>*n*</sup>±1)
-34. http://myfactorcollection.mooo.com:8090/interactive.html (online factor database for numbers of the form *b*<sup>*n*</sup>±1) (only list the greatest prime factor) (the lattices saparated to two lattices means the number has Aurifeuillean factorization, and for such lattices, the left lattice is for the Aurifeuillean *L* part, and the right lattice is for the Aurifeuillean *M* part)
+34. http://myfactorcollection.mooo.com:8090/interactive.html (online factor database for numbers of the form *b*<sup>*n*</sup>±1) (only list the greatest prime factor, and only list the number of decimal digits of the factor if the factor is > 10<sup>6</sup>) (the lattices saparated to two lattices means the number has Aurifeuillean factorization, and for such lattices, the left lattice is for the Aurifeuillean *L* part, and the right lattice is for the Aurifeuillean *M* part)
 35. https://web.archive.org/web/20120722020628/http://homes.cerias.purdue.edu/~ssw/cun/prime.php (online factor database for numbers of the form *b*<sup>*n*</sup>±1 for 2 ≤ *b* ≤ 12)
 36. https://web.archive.org/web/20120330032919/http://homes.cerias.purdue.edu/~ssw/cun/clientold.html (online factor database for numbers of the form *b*<sup>*n*</sup>±1 for 2 ≤ *b* ≤ 12)
 
@@ -2778,15 +2778,16 @@ Lists of small primes: (see https://t5k.org/notes/faq/LongestList.html and https
 24. https://www.rsok.com/~jrm/first100primes.html (limit: first 100 primes, up to 541)
 25. http://www.rsok.com/~jrm/printprimes.html (limit: first ? primes, up to 1999999973)
 26. http://www.numbertheory.org/php/prime_generator.html (limit: first 455052511 primes, up to 9999999967)
-27. http://www.primzahlen.de/primzahltests/2-100003.htm (in German) (limit: first 9593 primes, up to 100003)
-28. https://jocelyn.quizz.chat/np/cache/index.html (in French) (limit: first 1000000 primes, up to 15485863)
-29. http://www.sosmath.com/tables/prime/prime.html (limit: first 1000 primes, up to 7919)
-30. https://www.bigprimes.net/archive/prime (page limit: first 100 primes, up to 541, total limit: first 1000099 primes, up to 15487457)
-31. https://web.archive.org/web/20201130071856/http://www.mathematical.com/primelist1to100kk.html (limit: first 664579 primes, up to 9999991)
-32. https://web.archive.org/web/20191118082053/http://www.tsm-resources.com/alists/prim.html (limit: first 2000 primes, up to 17389)
-33. https://web.archive.org/web/20090917191047/http://planetmath.org/encyclopedia/FirstThousandPositivePrimeNumbers.html (limit: first 1000 primes, up to 7919)
-34. https://faculty.lynchburg.edu/~nicely/gaps/gaplist.html (the longest list ever calculated, with all primes < 2<sup>64</sup> (but unlikely other lists here, the primes are not all stored))
-35. https://en.wikipedia.org/wiki/List_of_prime_numbers#The_first_1000_prime_numbers (limit: first 1000 primes, up to 7919)
+27. http://mrteverett.com/numbers/primes/factest.txt (limit: first 14172 primes, up to 153757) **(warning: this site does not list the primes 2 and 3 and start with the prime 5, thus this site actually only has 14172−2 = 14170 primes)**
+28. http://www.primzahlen.de/primzahltests/2-100003.htm (in German) (limit: first 9593 primes, up to 100003)
+29. https://jocelyn.quizz.chat/np/cache/index.html (in French) (limit: first 1000000 primes, up to 15485863)
+30. http://www.sosmath.com/tables/prime/prime.html (limit: first 1000 primes, up to 7919)
+31. https://www.bigprimes.net/archive/prime (page limit: first 100 primes, up to 541, total limit: first 1000099 primes, up to 15487457)
+32. https://web.archive.org/web/20201130071856/http://www.mathematical.com/primelist1to100kk.html (limit: first 664579 primes, up to 9999991)
+33. https://web.archive.org/web/20191118082053/http://www.tsm-resources.com/alists/prim.html (limit: first 2000 primes, up to 17389)
+34. https://web.archive.org/web/20090917191047/http://planetmath.org/encyclopedia/FirstThousandPositivePrimeNumbers.html (limit: first 1000 primes, up to 7919)
+35. https://faculty.lynchburg.edu/~nicely/gaps/gaplist.html (the longest list ever calculated, with all primes < 2<sup>64</sup> (but unlikely other lists here, the primes are not all stored))
+36. https://en.wikipedia.org/wiki/List_of_prime_numbers#The_first_1000_prime_numbers (limit: first 1000 primes, up to 7919)
 
 Lists of factorizations of small integers:
 
