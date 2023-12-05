@@ -407,7 +407,7 @@ If 08 ◁ *y*, then **2087** ◁ *p*. If 88 ◁ *y*, then 887 ◁ *p*. Hence we 
 
 If *y* ∈ {0}, then *p* ∈ 2{0}7. But then, since the sum of the digits of *p* is 9, *p* is divisible by 3, so *p* cannot be prime.
 
-If y ∈ 8{0}, then *p* ∈ 28{0}7. But then *p* is divisible by 7, since for *n* ≥ 0 we have 7 × 40<sub>*n*</sub>1 = 280<sub>*n*</sub>7.
+If y ∈ 8{0}, then *p* ∈ 28{0}7. But then *p* is divisible by 7, since for *n* ≥ 0 we have 7 × 40<sub>*n*</sub>1 = 280<sub>*n*</sub>7, so *p* cannot be prime.
 
 Case 3.2: *p* begins with 5.
 
@@ -445,7 +445,7 @@ In this case we can write *p* = 3*y*4*z*9, where all digits of *y*, *z* are 0, 3
 
 Case 4.2: *p* begins with 4.
 
-In this case we can write *p* = 4*y*9, where all digits of *y* are 0, 3, 6, or 9. If 0 ◁ *y*, then **409** ◁ *p*. If 3 ◁ *y*, then 43 ◁ *p*. If 9 ◁ *y*, then **499** ◁ *p*. Hence we may assume *y* ∈ {6}, and thus *p* ∈ 4{6}9. But then *p* is divisible by 7, since for *n* ≥ 0 we have 7 × 6<sub>*n*</sub>7 = 46<sub>*n*</sub>9.
+In this case we can write *p* = 4*y*9, where all digits of *y* are 0, 3, 6, or 9. If 0 ◁ *y*, then **409** ◁ *p*. If 3 ◁ *y*, then 43 ◁ *p*. If 9 ◁ *y*, then **499** ◁ *p*. Hence we may assume *y* ∈ {6}, and thus *p* ∈ 4{6}9. But then *p* is divisible by 7, since for *n* ≥ 0 we have 7 × 6<sub>*n*</sub>7 = 46<sub>*n*</sub>9, so *p* cannot be prime.
 
 Case 4.3: *p* begins with 6.
 
