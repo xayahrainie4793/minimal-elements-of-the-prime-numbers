@@ -1446,6 +1446,17 @@ The unsolved families for bases *b* = 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14
 
 |*b*<br>(2 ≤ *b* ≤ 36)|base-*b* form of the unsolved family|algebraic ((*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1)) form of the unsolved family|current searching limit of length of this family|factorization of the numbers in this family (*n* is the number of digits in the "{}", start with the smallest *n* making the number > *b* (if *n* = 0 already makes the number > *b*, then start with *n* = 0))|
 |---|---|---|---|---|
+|17|1{7}|(23×17<sup>*n*</sup>−7)/16|100000|http://factordb.com/index.php?query=%2823*17%5En-7%29%2F16&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|17|1F{0}7|32×17<sup>*n*+1</sup>+7|100000|http://factordb.com/index.php?query=32*17%5E%28n%2B1%29%2B7&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|17|4{7}A|(71×17<sup>*n*+1</sup>+41)/16|100000|http://factordb.com/index.php?query=%2871*17%5E%28n%2B1%29%2B41%29%2F16&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|17|4{9}|(73×17<sup>*n*</sup>−9)/16|100000|http://factordb.com/index.php?query=%2873*17%5En-9%29%2F16&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|17|51{0}D|86×17<sup>*n*+1</sup>+13|100000|http://factordb.com/index.php?query=86*17%5E%28n%2B1%29%2B13&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|17|70F{0}D|2038×17<sup>*n*+1</sup>+13|100000|http://factordb.com/index.php?query=2038*17%5E%28n%2B1%29%2B13&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|17|8{B}9|(139×17<sup>*n*+1</sup>−43)/16|100000|http://factordb.com/index.php?query=%28139*17%5E%28n%2B1%29-43%29%2F16&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|17|9{5}9|(149×17<sup>*n*+1</sup>+59)/16|100000|http://factordb.com/index.php?query=%28149*17%5E%28n%2B1%29%2B59%29%2F16&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|17|95{F}|(2543×17<sup>*n*</sup>−15)/16|100000|http://factordb.com/index.php?query=%282543*17%5En-15%29%2F16&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|17|97{0}1|160×17<sup>*n*+1</sup>+1|100000|http://factordb.com/index.php?query=160*17%5E%28n%2B1%29%2B1&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
+|17|A{D}F|(173×17<sup>*n*+1</sup>+19)/16|100000|http://factordb.com/index.php?query=%28173*17%5E%28n%2B1%29%2B19%29%2F16&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |21|2{7}9D|(47×21<sup>*n*+2</sup>+953)/20|100000|http://factordb.com/index.php?query=%2847*21%5E%28n%2B2%29%2B953%29%2F20&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |21|2F{C}A|(288×21<sup>*n*+1</sup>−13)/5|100000|http://factordb.com/index.php?query=%28288*21%5E%28n%2B1%29-13%29%2F5&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |21|5{0}DJ|5×21<sup>*n*+2</sup>+292|100000|http://factordb.com/index.php?query=5*21%5E%28n%2B2%29%2B292&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
