@@ -2680,7 +2680,7 @@ Besides, the sets of the minimal elements of other classical sets under the subs
 |Fibonacci numbers|1, 2, 3, 5, 8 (this set is conjectured to be complete, but not proven, this conjecture is true if all Fibonacci numbers contain at least one of 1, 2, 3, 5, 8)|≥ 5|≥ 1|
 |Lucas numbers|1, 3, 4, 7, 29 (this set is conjectured to be complete, but not proven, this conjecture is true if all Lucas numbers other than 29 contain at least one of 1, 3, 4, 7)|≥ 5|≥ 2|
 
-Tools about this research: (in fact, you can also use *Wolfram Alpha* (https://www.wolframalpha.com/) or online *Magma* calculator (http://magma.maths.usyd.edu.au/calc/) or *Pari*/*GP* (https://pari.math.u-bordeaux.fr/) or *Wolfram Mathematica* (https://www.wolfram.com/mathematica/) or *Maple* (https://www.maplesoft.com/), also (for "Integer factorizers") more links to factoring programs in https://mersenneforum.org/showthread.php?t=3255)
+Tools about this research: (in fact, you can also use *Wolfram Alpha* (https://www.wolframalpha.com/) or online *Magma* calculator (http://magma.maths.usyd.edu.au/calc/) or *Pari*/*GP* (https://pari.math.u-bordeaux.fr/) or *Wolfram Mathematica* (https://www.wolfram.com/mathematica/) or *Maple* (https://www.maplesoft.com/))
 
 Prime checkers:
 
@@ -2882,7 +2882,7 @@ Sieving (https://www.rieselprime.de/ziki/Sieving, https://www.rieselprime.de/zik
 2. *MTSieve* (https://sourceforge.net/projects/mtsieve/, http://mersenneforum.org/rogue/mtsieve.html, https://t5k.org/bios/page.php?id=449, https://www.rieselprime.de/ziki/Mtsieve, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/mtsieve_2.4.8)
 3. *NewPGen* (https://t5k.org/programs/NewPGen/, https://t5k.org/bios/page.php?id=105, https://www.rieselprime.de/ziki/NewPGen, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/newpgen, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/newpgenlinux)
 
-Integer factoring (https://en.wikipedia.org/wiki/Integer_factorization, https://www.rieselprime.de/ziki/Factorization, https://mathworld.wolfram.com/PrimeFactorization.html, https://mathworld.wolfram.com/PrimeFactorizationAlgorithms.html, http://www.numericana.com/answer/factoring.htm) programs (https://www.rieselprime.de/ziki/Factoring_program):
+Integer factoring (https://en.wikipedia.org/wiki/Integer_factorization, https://www.rieselprime.de/ziki/Factorization, https://mathworld.wolfram.com/PrimeFactorization.html, https://mathworld.wolfram.com/PrimeFactorizationAlgorithms.html, http://www.numericana.com/answer/factoring.htm) programs (https://www.rieselprime.de/ziki/Factoring_program): (for more integer factoring programs see https://mersenneforum.org/showthread.php?t=3255)
 
 1. *GMP*-*ECM* (https://web.archive.org/web/20210803045418/https://gforge.inria.fr/projects/ecm, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/ecm704dev-svn2990-win64, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/ecm704dev-svn2990-linux64, https://www.rieselprime.de/ziki/GMP-ECM)
 2. *MSieve* (https://sourceforge.net/projects/msieve, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/msieve153_win64)
