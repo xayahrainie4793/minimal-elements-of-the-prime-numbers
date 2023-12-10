@@ -2847,6 +2847,8 @@ Lists of small primes: (see https://t5k.org/notes/faq/LongestList.html and https
 35. https://faculty.lynchburg.edu/~nicely/gaps/gaplist.html (the longest list ever calculated, with all primes < 2<sup>64</sup> (but unlikely other lists here, the primes are not all stored))
 36. https://en.wikipedia.org/wiki/List_of_prime_numbers#The_first_1000_prime_numbers (limit: first 1000 primes, up to 7919)
 
+Also http://95.216.153.126/primes.tar.xz for all primes and probable primes > 10<sup>18</sup> in *factordb* (i.e. the numbers in either http://factordb.com/listtype.php?t=4 or http://factordb.com/listtype.php?t=1)
+
 Lists of factorizations of small integers:
 
 1. http://primefan.tripod.com/500factored.html (page limit: 500, total limit: 2500)
