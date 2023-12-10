@@ -2767,7 +2767,7 @@ Base converters:
 1. https://baseconvert.com/ (any base *b*) (no limit)
 2. https://baseconvert.com/high-precision (any base *b*) (no limit)
 3. https://baseconvert.com/ieee-754-floating-point (for IEEE 754 (https://en.wikipedia.org/wiki/IEEE_754), only bases *b* = 2, 10, 16) (no limit)
-4. https://www.calculand.com/unit-converter/zahlen.php?og=Base+2-36&ug=1 (bases 2 ≤ *b* ≤ 36) (limit: 12 digits input)
+4. https://www.calculand.com/unit-converter/zahlen.php?og=Base+2-36&ug=1 (bases 2 ≤ *b* ≤ 36) (limit: 12 digits in the input base *b*)
 5. https://www.calculand.com/unit-converter/zahlen.php?og=Base62&ug=1 (covert base *b* = 62 to any base 2 ≤ *b* ≤ 200) (no limit)
 6. https://www.calculand.com/unit-converter/zahlen.php?og=Base64&ug=1 (covert base *b* = 64 to any base 2 ≤ *b* ≤ 200) (no limit)
 7. https://www.calculand.com/unit-converter/zahlen.php?og=Base85&ug=1 (covert base *b* = 85 to any base 2 ≤ *b* ≤ 200) (no limit)
