@@ -32,19 +32,34 @@ Primes which either *N*−1 or *N*+1 is trivially (https://en.wikipedia.org/wiki
 
 (these primes can be proven prime using Yves Gallot's *Proth.exe* (https://t5k.org/programs/gallot/, https://t5k.org/bios/page.php?id=411, https://www.rieselprime.de/ziki/Proth.exe, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/proth), these primes can also be proven prime using Jean Penné's *LLR* (http://jpenne.free.fr/index2.html, https://t5k.org/bios/page.php?id=431, https://www.rieselprime.de/ziki/LLR, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/llr403win64, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/llr403linux64), see the *README* file for *LLR* (https://github.com/xayahrainie4793/prime-programs-cached-copy/blob/main/llr403win64/Readme.txt, https://github.com/xayahrainie4793/prime-programs-cached-copy/blob/main/llr403linux64/Readme.txt, http://jpenne.free.fr/index2.html))
 
-Also, there are no primality certificates for these primes in *factordb* because although they are > 10<sup>299</sup>, but their *N*−1 or *N*+1 is fully factored (but not trivially (https://en.wikipedia.org/wiki/Triviality_(mathematics), https://mathworld.wolfram.com/Trivial.html) fully factored, however, only need trial division (https://en.wikipedia.org/wiki/Trial_division, https://t5k.org/glossary/xpage/TrialDivision.html, https://www.rieselprime.de/ziki/Trial_factoring, https://mathworld.wolfram.com/TrialDivision.html, http://www.numericana.com/answer/factoring.htm#trial, https://www.mersenne.ca/tf1G/, https://www.mersenne.ca/tfmissed.php, https://oeis.org/A189172) to 10<sup>8</sup>) and the largest prime factor is < 10<sup>299</sup> (primes < 10<sup>299</sup> are automatically proven primes in *factordb*): (i.e. their *N*−1 or *N*+1 are product of a 10<sup>8</sup>-smooth number (https://en.wikipedia.org/wiki/Smooth_number, https://mathworld.wolfram.com/SmoothNumber.html, https://oeis.org/A003586, https://oeis.org/A051037, https://oeis.org/A002473, https://oeis.org/A051038, https://oeis.org/A080197, https://oeis.org/A080681, https://oeis.org/A080682, https://oeis.org/A080683) and a prime < 10<sup>299</sup>) (i.e. the greatest prime factor (http://mathworld.wolfram.com/GreatestPrimeFactor.html, https://oeis.org/A006530) of *N*−1 or *N*+1 is < 10<sup>299</sup>, and the second-greatest prime factor (https://oeis.org/A087039, https://stdkmd.net/nrr/records.htm#BIGFACTOR, https://homes.cerias.purdue.edu/~ssw/cun/champ.txt (section "Largest penultimate prime factor (ultimate factor shown also):")) of this number (*N*−1 or *N*+1) is < 10<sup>8</sup>)
+Also, there are no primality certificates for these primes in *factordb* because although they are > 10<sup>299</sup>, but their *N*−1 or *N*+1 is fully factored (but not trivially (https://en.wikipedia.org/wiki/Triviality_(mathematics), https://mathworld.wolfram.com/Trivial.html) fully factored, however, only need trial division (https://en.wikipedia.org/wiki/Trial_division, https://t5k.org/glossary/xpage/TrialDivision.html, https://www.rieselprime.de/ziki/Trial_factoring, https://mathworld.wolfram.com/TrialDivision.html, http://www.numericana.com/answer/factoring.htm#trial, https://www.mersenne.ca/tf1G/, https://www.mersenne.ca/tfmissed.php, https://oeis.org/A189172) to 10<sup>12</sup>) and the largest prime factor is < 10<sup>299</sup> (primes < 10<sup>299</sup> are automatically proven primes in *factordb*): (i.e. their *N*−1 or *N*+1 are product of a 10<sup>12</sup>-smooth number (https://en.wikipedia.org/wiki/Smooth_number, https://mathworld.wolfram.com/SmoothNumber.html, https://oeis.org/A003586, https://oeis.org/A051037, https://oeis.org/A002473, https://oeis.org/A051038, https://oeis.org/A080197, https://oeis.org/A080681, https://oeis.org/A080682, https://oeis.org/A080683) and a prime < 10<sup>299</sup>) (i.e. the greatest prime factor (http://mathworld.wolfram.com/GreatestPrimeFactor.html, https://oeis.org/A006530) of *N*−1 or *N*+1 is < 10<sup>299</sup>, and the second-greatest prime factor (https://oeis.org/A087039, https://stdkmd.net/nrr/records.htm#BIGFACTOR, https://homes.cerias.purdue.edu/~ssw/cun/champ.txt (section "Largest penultimate prime factor (ultimate factor shown also):")) of this number (*N*−1 or *N*+1) is < 10<sup>12</sup>)
 
 * the 2328th minimal prime in base 16, 880<sub>246</sub>7, with 300 decimal digits, *N*−1 is 2<sup>3</sup> × 3 × 7 × 13 × 25703261 × (289-digit prime)
+* the 10311st minimal prime in base 17, 85A<sub>241</sub>55, with 302 decimal digits, *N*+1 is 2 × 1291 × 942385161439 × (286-digit prime)
+* the 10312nd minimal prime in base 17, 90<sub>242</sub>701, with 303 decimal digits, *N*−1 is 2<sup>6</sup> × 17<sup>2</sup> × 1773259 × 4348181 × 603217519 × (277-digit prime)
+* the 10315th minimal prime in base 17, E7<sub>255</sub>A, with 317 decimal digits, *N*−1 is 2<sup>4</sup> × 283 × 619471 × 62754967151 × (296-digit prime)
 * the 25174th minimal prime in base 26, OL0<sub>214</sub>M9, with 309 decimal digits, *N*−1 is 2<sup>2</sup> × 5<sup>2</sup> × 7 × 223 × 42849349 × (296-digit prime)
 * the 25485th minimal prime in base 28, JN<sub>206</sub>, with 300 decimal digits, *N*−1 is 2 × 1061 × 1171 × 74311 × (289-digit prime)
 
 The helper file for the 2328th minimal prime in base 16 (880<sub>246</sub>7) in *factordb*: http://factordb.com/helper.php?id=1100000002468140199
+
+The helper file for the 10311st minimal prime in base 17 (85A<sub>241</sub>55) in *factordb*: http://factordb.com/helper.php?id=1100000003782940703
+
+The helper file for the 10312nd minimal prime in base 17 (90<sub>242</sub>701) in *factordb*: http://factordb.com/helper.php?id=1100000003782940704
+
+The helper file for the 10315th minimal prime in base 17 (E7<sub>255</sub>A) in *factordb*: http://factordb.com/helper.php?id=1100000003782940707
 
 The helper file for the 25174th minimal prime in base 26 (OL0<sub>214</sub>M9) in *factordb*: http://factordb.com/helper.php?id=1100000000840631576
 
 The helper file for the 25485th minimal prime in base 28 (JN<sub>206</sub>) in *factordb*: http://factordb.com/helper.php?id=1100000002611724435
 
 Factorization of *N*−1 for the 2328th minimal prime in base 16 (880<sub>246</sub>7) in *factordb*: http://factordb.com/index.php?id=1100000002468140641&open=ecm
+
+Factorization of *N*+1 for the 10311st minimal prime in base 17 (85A<sub>241</sub>55) in *factordb*: http://factordb.com/index.php?id=1100000003782944423&open=ecm
+
+Factorization of *N*−1 for the 10312nd minimal prime in base 17 (90<sub>242</sub>701) in *factordb*: http://factordb.com/index.php?id=1100000003782941925&open=ecm
+
+Factorization of *N*−1 for the 10315th minimal prime in base 17 (E7<sub>255</sub>A) in *factordb*: http://factordb.com/index.php?id=1100000003782941928&open=ecm
 
 Factorization of *N*−1 for the 25174th minimal prime in base 26 (OL0<sub>214</sub>M9) in *factordb*: http://factordb.com/index.php?id=1100000000840631577&open=ecm
 
