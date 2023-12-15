@@ -52,7 +52,7 @@ The minimal set *M*(*L*) of a language (https://en.wikipedia.org/wiki/Formal_lan
 * *sub*(*L*) = {*x* ∈ Σ\* : there exists *y* ∈ *L* such that *x* is a subsequence of *y*}
 * *sup*(*L*) = {*x* ∈ Σ\* : there exists *y* ∈ *L* such that *y* is a subsequence of *x*}
 
-An amazing fact is that *sub*(*L*) and *sup*(*L*) are always regular. This follows from the classical theorem that every set of pairwise incomparable strings is finite.
+An amazing fact is that *sub*(*L*) and *sup*(*L*) are always regular. This follows from the classical theorem that every set of pairwise incomparable strings is finite, for the proof see https://www.sciencedirect.com/science/article/pii/S0021980069801110 (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_329.pdf).
 
 Although the minimal set *M*(*L*) is necessary finite even for infinite set *L*, but computing (https://en.wikipedia.org/wiki/Computing) the minimal set *M*(*L*) is undecidable (https://en.wikipedia.org/wiki/Undecidable_problem, https://mathworld.wolfram.com/Undecidable.html) in general and can be very difficult to compute even for simple languages, and can lead to some strange behaviour ...
 
