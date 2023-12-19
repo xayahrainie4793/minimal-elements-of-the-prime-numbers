@@ -1074,6 +1074,126 @@ Example 8, family {B}9B in base *b* = 12:
 * BBBBBBBBBB9B = BBBBB7 × 1000005
 * BBBBBBBBBBB9B = 11 × B0B0B0B0B0AB
 
+Example 9, family B{0}1 in base *b* = 14:
+
+* B1 = 5 × 23
+* B01 = 3 × 395
+* B001 = 5 × 22B3
+* B0001 = 3 × 39495
+* B00001 = 5 × 22B2B3
+* B000001 = 3 × 3949495
+* B0000001 = 5 × 22B2B2B3
+* B00000001 = 3 × 394949495
+* B000000001 = 5 × 22B2B2B2B3
+* B0000000001 = 3 × 39494949495
+* B00000000001 = 5 × 22B2B2B2B2B3
+* B000000000001 = 3 × 3949494949495
+
+Example 10, family 3{0}95 in base *b* = 13:
+
+* 395 = 14 × 2B
+* 3095 = 7 × 58A
+* 30095 = 5 × 7A71
+* 300095 = 7 × 5758A
+* 3000095 = 14 × 23A92B
+* 30000095 = 7 × 575758A
+* 300000095 = 5 × 7A527A71
+* 3000000095 = 7 × 57575758A
+* 30000000095 = 14 × 23A923A92B
+* 300000000095 = 7 × 5757575758A
+* 3000000000095 = 5 × 7A527A527A71
+* 30000000000095 = 7 × 575757575758A
+
+Example 11, family {4}D in base *b* = 16:
+
+* 4D = 7 × B
+* 44D = 3 × 16F
+* 444D = D × 541
+* 4444D = 7 × 9C0B
+* 44444D = 3 × 16C16F
+* 444444D = D × 540541
+* 4444444D = 7 × 9C09C0B
+* 44444444D = 3 × 16C16C16F
+* 444444444D = D × 540540541
+* 4444444444D = 7 × 9C09C09C0B
+* 44444444444D = 3 × 16C16C16C16F
+* 444444444444D = D × 540540540541
+
+Example 12, family {C}D in base *b* = 16:
+
+* CD = 5 × 29
+* CCD = 71 × 1D
+* CCCD = 1E1 × 6D
+* CCCCD = 18D × 841
+* CCCCCD = 64D × 2081
+* CCCCCCD = 7F01 × 19CD
+* CCCCCCCD = 1FE01 × 66CD
+* CCCCCCCCD = 198CD × 80401
+* CCCCCCCCCD = 664CD × 200801
+* CCCCCCCCCCD = 7FF001 × 199CCD
+* CCCCCCCCCCCD = 1FFE001 × 666CCD
+* CCCCCCCCCCCCD = 1998CCD × 8004001
+
+Example 13, family 1{9} in base *b* = 17:
+
+* 19 = 2 × D
+* 199 = B × 27
+* 1999 = 2 × D4D
+* 19999 = AB × 287
+* 199999 = 2 × D4D4D
+* 1999999 = AAB × 2887
+* 19999999 = 2 × D4D4D4D
+* 199999999 = AAAB × 28887
+* 1999999999 = 2 × D4D4D4D4D
+* 19999999999 = AAAAB × 288887
+* 199999999999 = 2 × D4D4D4D4D4D
+* 1999999999999 = AAAAAB × 2888887
+
+Example 14, family 1{6} in base *b* = 19:
+
+* 16 = 5 × 5
+* 166 = D × 1I
+* 1666 = 5 × 515
+* 16666 = CD × 1II
+* 166666 = 5 × 51515
+* 1666666 = CCD × 1III
+* 16666666 = 5 × 5151515
+* 166666666 = CCCD × 1IIII
+* 1666666666 = 5 × 515151515
+* 16666666666 = CCCCD × 1IIIII
+* 166666666666 = 5 × 51515151515
+* 1666666666666 = CCCCCD × 1IIIIII
+
+Example 15, family 2{1} in base *b* = 25:
+
+* 21 = 3 × H
+* 211 = 14 × 1J
+* 2111 = 2N × HC
+* 21111 = 144 × 1IJ
+* 211111 = 2MN × HCC
+* 2111111 = 1444 × 1IIJ
+* 21111111 = 2MMN × HCCC
+* 211111111 = 14444 × 1IIIJ
+* 2111111111 = 2MMMN × HCCCC
+* 21111111111 = 144444 × 1IIIIJ
+* 211111111111 = 2MMMMN × HCCCCC
+* 2111111111111 = 1444444 × 1IIIIIJ
+
+Example 16, family O{Z} in base *b* = 36:
+
+* OZ = T × V
+* OZZ = 4Z × 51
+* OZZZ = TZ × U1
+* OZZZZ = 4ZZ × 501
+* OZZZZZ = TZZ × U01
+* OZZZZZZ = 4ZZZ × 5001
+* OZZZZZZZ = TZZZ × U001
+* OZZZZZZZZ = 4ZZZZ × 50001
+* OZZZZZZZZZ = TZZZZ × U0001
+* OZZZZZZZZZZ = 4ZZZZZ × 500001
+* OZZZZZZZZZZZ = TZZZZZ × U00001
+* OZZZZZZZZZZZZ = 4ZZZZZZ × 5000001
+
 (only list the families which can be proven to be not covered by any prime > *b* (this would include all such families of the form *x*{0}*y* and all such families of the form *x*{*y*} (unless *y* = 1) and all such families of the form {*x*}*y* (unless *x* = 1)), the only exceptions are the base 21 family B0{H}6H (which is covered by the smallest prime in the family B{H}6H in base 21 (if such prime exists)) and the base 8 family 6{4}7 (which is covered by the prime 4<sub>220</sub>7 in base 8))
 
 **(Note: There are families with more that one covering congruence, for more such examples see https://oeis.org/A263391 and https://oeis.org/A263392, also the case "444...44407" in https://sites.google.com/view/smallest-quasi-repdigit-primes, also the cases "936Rn" and "1222Rn" and "2739Rn" in https://web.archive.org/web/20070220134129/http://www.users.globalnet.co.uk/~perry/maths/wildeprimes/wildeprimes.htm)**
