@@ -935,6 +935,10 @@ Family 1{F}5 in base *b* = 27: (its algebraic form is (41×27<sup>*n*+1</sup>−
 
 Since 275 is not a perfect power, thus the family 1F<sub>*n*</sub>5 (in base *b* = 27) has no algebraic factorization for any *n*, thus if this family can be ruled out as only containing composites, then it must have a covering congruence, and if the period of its covering congruence is *m*, consider the prime factor *p* dividing (41×27<sup>*n*+1</sup>−275)/26 for all *n* == −1 mod *m*, *p* must divide (41×27<sup>(−1)+1</sup>−275)/26 = −9, and thus *p* must be 3 (since 3 is the only prime factor of −9), but no numbers in the family 1{F}5 (in base *b* = 27) are divisible by 3 (since all numbers in this family are == 5 mod 27, thus are == 2 mod 3), which is a contradiction.
 
+In fact, the corresponding families for the largest minimal primes in bases *b* = 7, 10, 14, 22, 30 are such families, since:
+
+Families {3}1 in base *b* = 7:
+
 (for the examples of nonlinear families, see https://stdkmd.net/nrr/prime/primecount3.htm and https://stdkmd.net/nrr/prime/primecount3.txt (only base 10 families), nonlinear families usually have small primes if they cannot be ruled out as only containing composites by covering congruence, see the section above)
 
 e.g. (only list the families which all numbers do not contain "prime > *b*" subsequence) (see post https://mersenneforum.org/showpost.php?p=594923&postcount=231 for the factor pattern for some of these families) (for the case of covering congruence, we can show that the corresponding numbers are > all elements in the sets if the corresponding numbers are > *b*, thus these factorizations are nontrivial; and for the case of algebraic factorization, we can show that both factors are > 1 if the corresponding numbers are > *b*, thus these factorizations are nontrivial; for the case of combine of them, we can show that for the part of covering congruence, the corresponding numbers are > all elements in the sets if the corresponding numbers are > *b*, and for the part of algebraic factorization, both factors are > 1 if the corresponding numbers are > *b*, thus these factorizations are nontrivial)
