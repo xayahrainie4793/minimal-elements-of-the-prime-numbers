@@ -1086,7 +1086,7 @@ Example 8, family {B}9B in base *b* = 12: (its algebraic form is 12<sup>*n*+2</s
 * BBBBBBBBBB9B = BBBBB7 × 1000005
 * BBBBBBBBBBB9B = 11 × B0B0B0B0B0AB
 
-Example 9, family B{0}1 in base *b* = 14:
+Example 9, family B{0}1 in base *b* = 14: (its algebraic form is 11×14<sup>*n*+1</sup>+1, and for the factorization of the numbers in the family (*n* is the number of digits in the "{}", start with the smallest *n* making the number > *b*) see http://factordb.com/index.php?query=11*14%5E%28n%2B1%29%2B1&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show)
 
 * B1 = 5 × 23
 * B01 = 3 × 395
@@ -1101,7 +1101,7 @@ Example 9, family B{0}1 in base *b* = 14:
 * B00000000001 = 5 × 22B2B2B2B2B3
 * B000000000001 = 3 × 3949494949495
 
-Example 10, family 3{0}95 in base *b* = 13:
+Example 10, family 3{0}95 in base *b* = 13: (its algebraic form is 3×13<sup>*n*+2</sup>+122, and for the factorization of the numbers in the family (*n* is the number of digits in the "{}", start with the smallest *n* making the number > *b*) see http://factordb.com/index.php?query=3*13%5E%28n%2B2%29%2B122&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show)
 
 * 395 = 14 × 2B
 * 3095 = 7 × 58A
@@ -1116,7 +1116,7 @@ Example 10, family 3{0}95 in base *b* = 13:
 * 3000000000095 = 5 × 7A527A527A71
 * 30000000000095 = 7 × 575757575758A
 
-Example 11, family {4}D in base *b* = 16:
+Example 11, family {4}D in base *b* = 16: (its algebraic form is (4×16<sup>*n*+1</sup>+131)/15, and for the factorization of the numbers in the family (*n* is the number of digits in the "{}", start with the smallest *n* making the number > *b*) see http://factordb.com/index.php?query=%284*16%5E%28n%2B1%29%2B131%29%2F15&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show)
 
 * 4D = 7 × B
 * 44D = 3 × 16F
@@ -1131,7 +1131,7 @@ Example 11, family {4}D in base *b* = 16:
 * 44444444444D = 3 × 16C16C16C16F
 * 444444444444D = D × 540540540541
 
-Example 12, family {C}D in base *b* = 16:
+Example 12, family {C}D in base *b* = 16: (its algebraic form is (4×16<sup>*n*+1</sup>+1)/5, and for the factorization of the numbers in the family (*n* is the number of digits in the "{}", start with the smallest *n* making the number > *b*) see http://factordb.com/index.php?query=%284*16%5E%28n%2B1%29%2B1%29%2F5&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show)
 
 * CD = 5 × 29
 * CCD = 71 × 1D
@@ -1146,7 +1146,7 @@ Example 12, family {C}D in base *b* = 16:
 * CCCCCCCCCCCD = 1FFE001 × 666CCD
 * CCCCCCCCCCCCD = 1998CCD × 8004001
 
-Example 13, family 1{9} in base *b* = 17:
+Example 13, family 1{9} in base *b* = 17: (its algebraic form is (25×17<sup>*n*</sup>−9)/16, and for the factorization of the numbers in the family (*n* is the number of digits in the "{}", start with the smallest *n* making the number > *b*) see http://factordb.com/index.php?query=%2825*17%5En-9%29%2F16&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show)
 
 * 19 = 2 × D
 * 199 = B × 27
@@ -1161,7 +1161,7 @@ Example 13, family 1{9} in base *b* = 17:
 * 199999999999 = 2 × D4D4D4D4D4D
 * 1999999999999 = AAAAAB × 2888887
 
-Example 14, family 1{6} in base *b* = 19:
+Example 14, family 1{6} in base *b* = 19: (its algebraic form is (4×19<sup>*n*</sup>−1)/3, and for the factorization of the numbers in the family (*n* is the number of digits in the "{}", start with the smallest *n* making the number > *b*) see http://factordb.com/index.php?query=%284*19%5En-1%29%2F3&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show)
 
 * 16 = 5 × 5
 * 166 = D × 1I
@@ -1176,7 +1176,7 @@ Example 14, family 1{6} in base *b* = 19:
 * 166666666666 = 5 × 51515151515
 * 1666666666666 = CCCCCD × 1IIIIII
 
-Example 15, family 2{1} in base *b* = 25:
+Example 15, family 2{1} in base *b* = 25: (its algebraic form is (49×25<sup>*n*</sup>−1)/24, and for the factorization of the numbers in the family (*n* is the number of digits in the "{}", start with the smallest *n* making the number > *b*) see http://factordb.com/index.php?query=%2849*25%5En-1%29%2F24&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show)
 
 * 21 = 3 × H
 * 211 = 14 × 1J
@@ -1191,7 +1191,7 @@ Example 15, family 2{1} in base *b* = 25:
 * 211111111111 = 2MMMMN × HCCCCC
 * 2111111111111 = 1444444 × 1IIIIIJ
 
-Example 16, family O{Z} in base *b* = 36:
+Example 16, family O{Z} in base *b* = 36: (its algebraic form is 25×36<sup>*n*</sup>−1, and for the factorization of the numbers in the family (*n* is the number of digits in the "{}", start with the smallest *n* making the number > *b*) see http://factordb.com/index.php?query=25*36%5En-1&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show)
 
 * OZ = T × V
 * OZZ = 4Z × 51
