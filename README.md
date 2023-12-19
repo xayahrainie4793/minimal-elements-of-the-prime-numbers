@@ -937,11 +937,33 @@ Since 275 is not a perfect power, thus the family 1F<sub>*n*</sub>5 (in base *b*
 
 In fact, the corresponding families for the largest minimal primes in bases *b* = 7, 10, 14, 22, 30 are such families, since:
 
-Families {3}1 in base *b* = 7:
+Families {3}1 in base *b* = 7: (its algebraic form is (7<sup>*n*+1</sup>−5)/2, and for the factorization of the numbers in the family (*n* is the number of digits in the "{}", start with the smallest *n* making the number > *b*) see http://factordb.com/index.php?query=%287%5E%28n%2B1%29-5%29%2F2&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show)
+
+Since 5 is not a perfect power
 
 (for the examples of nonlinear families, see https://stdkmd.net/nrr/prime/primecount3.htm and https://stdkmd.net/nrr/prime/primecount3.txt (only base 10 families), nonlinear families usually have small primes if they cannot be ruled out as only containing composites by covering congruence, see the section above)
 
 e.g. (only list the families which all numbers do not contain "prime > *b*" subsequence) (see post https://mersenneforum.org/showpost.php?p=594923&postcount=231 for the factor pattern for some of these families) (for the case of covering congruence, we can show that the corresponding numbers are > all elements in the sets if the corresponding numbers are > *b*, thus these factorizations are nontrivial; and for the case of algebraic factorization, we can show that both factors are > 1 if the corresponding numbers are > *b*, thus these factorizations are nontrivial; for the case of combine of them, we can show that for the part of covering congruence, the corresponding numbers are > all elements in the sets if the corresponding numbers are > *b*, and for the part of algebraic factorization, both factors are > 1 if the corresponding numbers are > *b*, thus these factorizations are nontrivial)
+
+For the factor patterns of some families:
+
+Example 1: family 4{6}9 in base *b* = 10:
+
+49 = 7 × 7
+469 = 7 × 67
+4669 = 7 × 667
+46669 = 7 × 6667
+466669 = 7 × 66667
+4666669 = 7 × 66667
+
+Example 4: family 3{8} in base *b* = 9:
+
+38 = 5 × 7
+388 = 18 × 21
+3888 = 58 × 61
+38888 = 188 × 201
+388888 = 588 × 601
+3888888 = 1888 × 2001
 
 (only list the families which can be proven to be not covered by any prime > *b* (this would include all such families of the form *x*{0}*y* and all such families of the form *x*{*y*} (unless *y* = 1) and all such families of the form {*x*}*y* (unless *x* = 1)), the only exceptions are the base 21 family B0{H}6H (which is covered by the smallest prime in the family B{H}6H in base 21 (if such prime exists)) and the base 8 family 6{4}7 (which is covered by the prime 4<sub>220</sub>7 in base 8))
 
