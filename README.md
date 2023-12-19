@@ -953,7 +953,7 @@ Since 27 is a cube, thus 5×10<sup>*n*+2</sup>+27 has sum-of-two-cubes factoriza
 
 Family 4{D} in base *b* = 14: (its algebraic form is 5×14<sup>*n*</sup>−1, and for the factorization of the numbers in the family (*n* is the number of digits in the "{}", start with the smallest *n* making the number > *b*) see http://factordb.com/index.php?query=5*14%5En-1&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show)
 
-Since 1 is an *r*th power for all *r*, thus 5×14<sup>*n*</sup>−1 has algebraic factorization if 5×14<sup>*n*</sup> is a perfect power (if not, then it has no algebraic factorization), but 5×14<sup>*n*</sup> cannot be a perfect power, after all, 5×14<sup>*n*</sup> is divisible by 5 but not 5<sup>2</sup>, thus the family 4D<sub>*n*</sub> (in base *b* = 14) has no algebraic factorization for any *n*, thus if this family can be ruled out as only containing composites, then it must have a covering congruence, and if the period of its covering congruence is *m*, consider the prime factor *p* dividing 5×14<sup>*n*</sup>−1 for all *n* == 0 mod *m*, *p* must divide 5×14<sup>0</sup>−1 = 4, and thus *p* must be 2 (since 2 is the only prime factor of 4), but no numbers in the family 4{D} (in base *b* = 14) are divisible by 2 (since all numbers in this family are == 13 mod 14, thus are == 1 mod 2), which is a contradiction.
+Since 1 is an *r*th power for all *r*, thus 5×14<sup>*n*</sup>−1 has difference-of-two-*r*th-powers factorization if 5×14<sup>*n*</sup> is an *r*th power (if not, then it has no algebraic factorization), but 5×14<sup>*n*</sup> cannot be a perfect power, after all, 5×14<sup>*n*</sup> is divisible by 5 but not 5<sup>2</sup>, thus the family 4D<sub>*n*</sub> (in base *b* = 14) has no algebraic factorization for any *n*, thus if this family can be ruled out as only containing composites, then it must have a covering congruence, and if the period of its covering congruence is *m*, consider the prime factor *p* dividing 5×14<sup>*n*</sup>−1 for all *n* == 0 mod *m*, *p* must divide 5×14<sup>0</sup>−1 = 4, and thus *p* must be 2 (since 2 is the only prime factor of 4), but no numbers in the family 4{D} (in base *b* = 14) are divisible by 2 (since all numbers in this family are == 13 mod 14, thus are == 1 mod 2), which is a contradiction.
 
 Family B{K}5 in base *b* = 22: (its algebraic form is (251×22<sup>*n*+1</sup>−335)/21, and for the factorization of the numbers in the family (*n* is the number of digits in the "{}", start with the smallest *n* making the number > *b*) see http://factordb.com/index.php?query=%28251*22%5E%28n%2B1%29-335%29%2F21&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show)
 
@@ -961,7 +961,7 @@ Since 335 is not a perfect power, thus the family BK<sub>*n*</sub>5 (in base *b*
 
 Family O{T} in base *b* = 30: (its algebraic form is 25×30<sup>*n*</sup>−1, and for the factorization of the numbers in the family (*n* is the number of digits in the "{}", start with the smallest *n* making the number > *b*) see http://factordb.com/index.php?query=25*30%5En-1&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show)
 
-Since 1 is an *r*th power for all *r*, thus 25×30<sup>*n*</sup>−1 has algebraic factorization if 25×30<sup>*n*</sup> is a perfect power (if not, then it has no algebraic factorization), and indeed 25×30<sup>*n*</sup> is a square if *n* == 0 mod 2, but 25×30<sup>*n*</sup> cannot be a perfect power if *n* == 1 mod 2, since the prime factorization of 25×30<sup>*n*</sup> is 2<sup>*n*</sup> × 3<sup>*n*</sup> × 5<sup>*n*+2</sup>, but *n* and *n*+2 must be coprime if *n* == 1 mod 2, thus 2<sup>*n*</sup> × 3<sup>*n*</sup> × 5<sup>*n*+2</sup> cannot be a perfect power if *n* == 1 mod 2, thus the family OT<sub>*n*</sub> (in base *b* = 30) has no algebraic factorization for any *n* == 1 mod 2, thus if this family can be ruled out as only containing composites, then it must have a covering congruence on the *n* == 1 mod 2, and if the period of its covering congruence is *m*, consider the prime factor *p* dividing 25×30<sup>*n*</sup>−1 for all *n* == −1 mod 2×*m* (such *n* must be == 1 mod 2), *p* must divide the numerator of 25×30<sup>−1</sup>−1 = −1/6, i.e. *p* divides 1, which is a contradiction.
+Since 1 is an *r*th power for all *r*, thus 25×30<sup>*n*</sup>−1 has difference-of-two-*r*th-powers factorization if 25×30<sup>*n*</sup> is an *r*th power (if not, then it has no algebraic factorization), and indeed 25×30<sup>*n*</sup> is a square if *n* == 0 mod 2, but 25×30<sup>*n*</sup> cannot be a perfect power if *n* == 1 mod 2, since the prime factorization of 25×30<sup>*n*</sup> is 2<sup>*n*</sup> × 3<sup>*n*</sup> × 5<sup>*n*+2</sup>, but *n* and *n*+2 must be coprime if *n* == 1 mod 2, thus 2<sup>*n*</sup> × 3<sup>*n*</sup> × 5<sup>*n*+2</sup> cannot be a perfect power if *n* == 1 mod 2, thus the family OT<sub>*n*</sub> (in base *b* = 30) has no algebraic factorization for any *n* == 1 mod 2, thus if this family can be ruled out as only containing composites, then it must have a covering congruence on the *n* == 1 mod 2, and if the period of its covering congruence is *m*, consider the prime factor *p* dividing 25×30<sup>*n*</sup>−1 for all *n* == −1 mod 2×*m* (such *n* must be == 1 mod 2), *p* must divide the numerator of 25×30<sup>−1</sup>−1 = −1/6, i.e. *p* divides 1, which is a contradiction.
 
 e.g. (only list the families which all numbers do not contain "prime > *b*" subsequence) (for the case of covering congruence, we can show that the corresponding numbers are > all elements in the sets if the corresponding numbers are > *b*, thus these factorizations are nontrivial; and for the case of algebraic factorization, we can show that both factors are > 1 if the corresponding numbers are > *b*, thus these factorizations are nontrivial; for the case of combine of them, we can show that for the part of covering congruence, the corresponding numbers are > all elements in the sets if the corresponding numbers are > *b*, and for the part of algebraic factorization, both factors are > 1 if the corresponding numbers are > *b*, thus these factorizations are nontrivial)
 
@@ -1134,16 +1134,16 @@ Example 11, family {4}D in base *b* = 16: (its algebraic form is (4×16<sup>*n*+
 Example 12, family {C}D in base *b* = 16: (its algebraic form is (4×16<sup>*n*+1</sup>+1)/5, and for the factorization of the numbers in the family (*n* is the number of digits in the "{}", start with the smallest *n* making the number > *b*) see http://factordb.com/index.php?query=%284*16%5E%28n%2B1%29%2B1%29%2F5&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show)
 
 * CD = 5 × 29
-* CCD = 71 × 1D
-* CCCD = 1E1 × 6D
+* CCD = 1D × 71
+* CCCD = 6D × 1E1
 * CCCCD = 18D × 841
 * CCCCCD = 64D × 2081
-* CCCCCCD = 7F01 × 19CD
-* CCCCCCCD = 1FE01 × 66CD
+* CCCCCCD = 19CD × 7F01
+* CCCCCCCD = 66CD × 1FE01
 * CCCCCCCCD = 198CD × 80401
 * CCCCCCCCCD = 664CD × 200801
-* CCCCCCCCCCD = 7FF001 × 199CCD
-* CCCCCCCCCCCD = 1FFE001 × 666CCD
+* CCCCCCCCCCD = 199CCD × 7FF001
+* CCCCCCCCCCCD = 666CCD × 1FFE001
 * CCCCCCCCCCCCD = 1998CCD × 8004001
 
 Example 13, family 1{9} in base *b* = 17: (its algebraic form is (25×17<sup>*n*</sup>−9)/16, and for the factorization of the numbers in the family (*n* is the number of digits in the "{}", start with the smallest *n* making the number > *b*) see http://factordb.com/index.php?query=%2825*17%5En-9%29%2F16&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show)
