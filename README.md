@@ -963,27 +963,116 @@ Since 1 is an *r*th power for all *r*, thus 25×30<sup>*n*</sup>−1 has algebra
 
 (for the examples of nonlinear families, see https://stdkmd.net/nrr/prime/primecount3.htm and https://stdkmd.net/nrr/prime/primecount3.txt (only base 10 families), nonlinear families usually have small primes if they cannot be ruled out as only containing composites by covering congruence, see the section above)
 
-e.g. (only list the families which all numbers do not contain "prime > *b*" subsequence) (see post https://mersenneforum.org/showpost.php?p=594923&postcount=231 for the factor pattern for some of these families) (for the case of covering congruence, we can show that the corresponding numbers are > all elements in the sets if the corresponding numbers are > *b*, thus these factorizations are nontrivial; and for the case of algebraic factorization, we can show that both factors are > 1 if the corresponding numbers are > *b*, thus these factorizations are nontrivial; for the case of combine of them, we can show that for the part of covering congruence, the corresponding numbers are > all elements in the sets if the corresponding numbers are > *b*, and for the part of algebraic factorization, both factors are > 1 if the corresponding numbers are > *b*, thus these factorizations are nontrivial)
+e.g. (only list the families which all numbers do not contain "prime > *b*" subsequence) (for the case of covering congruence, we can show that the corresponding numbers are > all elements in the sets if the corresponding numbers are > *b*, thus these factorizations are nontrivial; and for the case of algebraic factorization, we can show that both factors are > 1 if the corresponding numbers are > *b*, thus these factorizations are nontrivial; for the case of combine of them, we can show that for the part of covering congruence, the corresponding numbers are > all elements in the sets if the corresponding numbers are > *b*, and for the part of algebraic factorization, both factors are > 1 if the corresponding numbers are > *b*, thus these factorizations are nontrivial)
 
 For the factor patterns of some families:
 
-Example 1: family 4{6}9 in base *b* = 10:
+Example 1, family 4{6}9 in base *b* = 10:
 
-49 = 7 × 7
-469 = 7 × 67
-4669 = 7 × 667
-46669 = 7 × 6667
-466669 = 7 × 66667
-4666669 = 7 × 66667
+* 49 = 7 × 7
+* 469 = 7 × 67
+* 4669 = 7 × 667
+* 46669 = 7 × 6667
+* 466669 = 7 × 66667
+* 4666669 = 7 × 66667
 
-Example 4: family 3{8} in base *b* = 9:
+Example 2, family 28{0}7 in base *b* = 10:
 
-38 = 5 × 7
-388 = 18 × 21
-3888 = 58 × 61
-38888 = 188 × 201
-388888 = 588 × 601
-3888888 = 1888 × 2001
+* 287 = 7 × 41
+* 2807 = 7 × 401
+* 28007 = 7 × 4001
+* 280007 = 7 × 40001
+* 2800007 = 7 × 400001
+* 28000007 = 7 × 4000001
+
+Example 3, family {1} in base *b* = 9:
+
+* 11 = 2 × 5
+* 111 = 7 × 14
+* 1111 = 22 × 45
+* 11111 = 67 × 144
+* 111111 = 222 × 445
+* 1111111 = 667 × 1444
+* 11111111 = 2222 × 4445
+* 111111111 = 6667 × 14444
+* 1111111111 = 22222 × 44445
+* 11111111111 = 66667 × 144444
+* 111111111111 = 222222 × 444445
+* 1111111111111 = 666667 × 1444444
+
+Example 4, family 3{8} in base *b* = 9:
+
+* 38 = 5 × 7
+* 388 = 18 × 21
+* 3888 = 58 × 61
+* 38888 = 188 × 201
+* 388888 = 588 × 601
+* 3888888 = 1888 × 2001
+* 38888888 = 5888 × 6001
+* 388888888 = 18888 × 20001
+* 3888888888 = 58888 × 60001
+* 38888888888 = 188888 × 200001
+* 388888888888 = 588888 × 600001
+* 3888888888888 = 1888888 × 2000001
+
+Example 5, family 1{0}1 in base *b* = 8:
+
+* 11 = 3 × 3
+* 101 = 5 × 15
+* 1001 = 11 × 71
+* 10001 = 21 × 361
+* 100001 = 41 × 1741
+* 1000001 = 101 × 7701
+* 10000001 = 201 × 37601
+* 100000001 = 401 × 177401
+* 1000000001 = 1001 × 777001
+* 10000000001 = 2001 × 3776001
+* 100000000001 = 4001 × 17774001
+* 1000000000001 = 10001 × 77770001
+
+Example 6, family {8}5 in base *b* = 9:
+
+* 85 = 7 × 12
+* 885 = 27 × 32
+* 8885 = 87 × 102
+* 88885 = 287 × 302
+* 888885 = 887 × 1002
+* 8888885 = 2887 × 3002
+* 88888885 = 8887 × 10002
+* 888888885 = 28887 × 30002
+* 8888888885 = 88887 × 100002
+* 88888888885 = 288887 × 300002
+* 888888888885 = 888887 × 1000002
+
+Example 7, family {2}5 in base *b* = 11:
+
+* 25 = 3 × 9
+* 255 = 2 × 128
+* 2555 = 3 × 919
+* 25555 = 2 × 12828
+* 255555 = 3 × 91919
+* 2555555 = 2 × 1282828
+* 25555555 = 3 × 9191919
+* 255555555 = 2 × 128282828
+* 2555555555 = 3 × 919191919
+* 25555555555 = 2 × 12828282828
+* 255555555555 = 3 × 91919191919
+* 2555555555555 = 2 × 1282828282828
+
+Example 8, family {B}9B in base *b* = 12:
+
+* 9B = 7 × 15
+* B9B = 11 × AB
+* BB9B = B7 × 105
+* BBB9B = 11 × B0AB
+* BBBB9B = BB7 × 1005
+* BBBBB9B = 11 × B0B0AB
+* BBBBBB9B = BBB7 × 10005
+* BBBBBBB9B = 11 × B0B0B0AB
+* BBBBBBBB9B = BBBB7 × 100005
+* BBBBBBBBB9B = 11 × B0B0B0B0AB
+* BBBBBBBBBB9B = BBBBB7 × 1000005
+* BBBBBBBBBBB9B = 11 × B0B0B0B0B0AB
 
 (only list the families which can be proven to be not covered by any prime > *b* (this would include all such families of the form *x*{0}*y* and all such families of the form *x*{*y*} (unless *y* = 1) and all such families of the form {*x*}*y* (unless *x* = 1)), the only exceptions are the base 21 family B0{H}6H (which is covered by the smallest prime in the family B{H}6H in base 21 (if such prime exists)) and the base 8 family 6{4}7 (which is covered by the prime 4<sub>220</sub>7 in base 8))
 
