@@ -965,7 +965,7 @@ Since 1 is an *r*th power for all *r*, thus 25×30<sup>*n*</sup>−1 has algebra
 
 e.g. (only list the families which all numbers do not contain "prime > *b*" subsequence) (for the case of covering congruence, we can show that the corresponding numbers are > all elements in the sets if the corresponding numbers are > *b*, thus these factorizations are nontrivial; and for the case of algebraic factorization, we can show that both factors are > 1 if the corresponding numbers are > *b*, thus these factorizations are nontrivial; for the case of combine of them, we can show that for the part of covering congruence, the corresponding numbers are > all elements in the sets if the corresponding numbers are > *b*, and for the part of algebraic factorization, both factors are > 1 if the corresponding numbers are > *b*, thus these factorizations are nontrivial)
 
-For the factor patterns of some families:
+For the factor patterns of some families: (these factorizations are nontrivial (https://en.wikipedia.org/wiki/Triviality_(mathematics), https://mathworld.wolfram.com/Trivial.html), i.e. both of these two factors are > 1, of course, one or two of these two factors may be composite)
 
 Example 1, family 4{6}9 in base *b* = 10:
 
@@ -974,7 +974,13 @@ Example 1, family 4{6}9 in base *b* = 10:
 * 4669 = 7 × 667
 * 46669 = 7 × 6667
 * 466669 = 7 × 66667
-* 4666669 = 7 × 66667
+* 4666669 = 7 × 666667
+* 46666669 = 7 × 6666667
+* 466666669 = 7 × 66666667
+* 4666666669 = 7 × 666666667
+* 46666666669 = 7 × 6666666667
+* 466666666669 = 7 × 66666666667
+* 4666666666669 = 7 × 666666666667
 
 Example 2, family 28{0}7 in base *b* = 10:
 
@@ -984,6 +990,12 @@ Example 2, family 28{0}7 in base *b* = 10:
 * 280007 = 7 × 40001
 * 2800007 = 7 × 400001
 * 28000007 = 7 × 4000001
+* 280000007 = 7 × 40000001
+* 2800000007 = 7 × 400000001
+* 28000000007 = 7 × 4000000001
+* 2800000000007 = 7 × 4000000001
+* 28000000000007 = 7 × 40000000001
+* 280000000000007 = 7 × 400000000001
 
 Example 3, family {1} in base *b* = 9:
 
