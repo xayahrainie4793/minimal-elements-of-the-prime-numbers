@@ -2251,64 +2251,64 @@ and the search result page for the top (probable) primes of special forms: (note
 
 Definitely primes (i.e. *c* = ±1 and *d* = 1):
 
-* *b*<sup>*n*</sup>+1: https://t5k.org/primes/search.php?Description=%5E[[:digit:]]%7B1,%7D%5E[[:digit:]]%7B1,%7D%2B1&OnList=all&Number=1000000&Style=HTML
-* *b*<sup>*n*</sup>−1: https://t5k.org/primes/search.php?Description=%5E[[:digit:]]%7B1,%7D%5E[[:digit:]]%7B1,%7D-1&OnList=all&Number=1000000&Style=HTML
-* *a*×*b*<sup>*n*</sup>+1: https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*[[:digit:]]%7B1,%7D%5E[[:digit:]]%7B1,%7D%2B1&OnList=all&Number=1000000&Style=HTML
-* *a*×*b*<sup>*n*</sup>−1: https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*[[:digit:]]%7B1,%7D%5E[[:digit:]]%7B1,%7D-1&OnList=all&Number=1000000&Style=HTML
-* *a*×2<sup>*n*</sup>+1 (which includes *a*×4<sup>*n*</sup>+1, *a*×8<sup>*n*</sup>+1, *a*×16<sup>*n*</sup>+1, *a*×32<sup>*n*</sup>+1): https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*2%5E[[:digit:]]%7B1,%7D%2B1&OnList=all&Number=1000000&Style=HTML
-* *a*×2<sup>*n*</sup>−1 (which includes *a*×4<sup>*n*</sup>−1, *a*×8<sup>*n*</sup>−1, *a*×16<sup>*n*</sup>−1, *a*×32<sup>*n*</sup>−1): https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*2%5E[[:digit:]]%7B1,%7D-1&OnList=all&Number=1000000&Style=HTML
-* *a*×3<sup>*n*</sup>+1 (which includes *a*×9<sup>*n*</sup>+1, *a*×27<sup>*n*</sup>+1): https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*3%5E[[:digit:]]%7B1,%7D%2B1&OnList=all&Number=1000000&Style=HTML
-* *a*×3<sup>*n*</sup>−1 (which includes *a*×9<sup>*n*</sup>−1, *a*×27<sup>*n*</sup>−1): https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*3%5E[[:digit:]]%7B1,%7D-1&OnList=all&Number=1000000&Style=HTML
-* *a*×5<sup>*n*</sup>+1 (which includes *a*×25<sup>*n*</sup>+1): https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*5%5E[[:digit:]]%7B1,%7D%2B1&OnList=all&Number=1000000&Style=HTML
-* *a*×5<sup>*n*</sup>−1 (which includes *a*×25<sup>*n*</sup>−1): https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*5%5E[[:digit:]]%7B1,%7D-1&OnList=all&Number=1000000&Style=HTML
-* *a*×6<sup>*n*</sup>+1 (which includes *a*×36<sup>*n*</sup>+1): https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*6%5E[[:digit:]]%7B1,%7D%2B1&OnList=all&Number=1000000&Style=HTML
-* *a*×6<sup>*n*</sup>−1 (which includes *a*×36<sup>*n*</sup>−1): https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*6%5E[[:digit:]]%7B1,%7D-1&OnList=all&Number=1000000&Style=HTML
-* *a*×7<sup>*n*</sup>+1: https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*7%5E[[:digit:]]%7B1,%7D%2B1&OnList=all&Number=1000000&Style=HTML
-* *a*×7<sup>*n*</sup>−1: https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*7%5E[[:digit:]]%7B1,%7D-1&OnList=all&Number=1000000&Style=HTML
-* *a*×10<sup>*n*</sup>+1: https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*10%5E[[:digit:]]%7B1,%7D%2B1&OnList=all&Number=1000000&Style=HTML
-* *a*×10<sup>*n*</sup>−1: https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*10%5E[[:digit:]]%7B1,%7D-1&OnList=all&Number=1000000&Style=HTML
-* *a*×11<sup>*n*</sup>+1: https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*11%5E[[:digit:]]%7B1,%7D%2B1&OnList=all&Number=1000000&Style=HTML
-* *a*×11<sup>*n*</sup>−1: https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*11%5E[[:digit:]]%7B1,%7D-1&OnList=all&Number=1000000&Style=HTML
-* *a*×12<sup>*n*</sup>+1: https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*12%5E[[:digit:]]%7B1,%7D%2B1&OnList=all&Number=1000000&Style=HTML
-* *a*×12<sup>*n*</sup>−1: https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*12%5E[[:digit:]]%7B1,%7D-1&OnList=all&Number=1000000&Style=HTML
-* *a*×13<sup>*n*</sup>+1: https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*13%5E[[:digit:]]%7B1,%7D%2B1&OnList=all&Number=1000000&Style=HTML
-* *a*×13<sup>*n*</sup>−1: https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*13%5E[[:digit:]]%7B1,%7D-1&OnList=all&Number=1000000&Style=HTML
-* *a*×14<sup>*n*</sup>+1: https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*14%5E[[:digit:]]%7B1,%7D%2B1&OnList=all&Number=1000000&Style=HTML
-* *a*×14<sup>*n*</sup>−1: https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*14%5E[[:digit:]]%7B1,%7D-1&OnList=all&Number=1000000&Style=HTML
-* *a*×15<sup>*n*</sup>+1: https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*15%5E[[:digit:]]%7B1,%7D%2B1&OnList=all&Number=1000000&Style=HTML
-* *a*×15<sup>*n*</sup>−1: https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*15%5E[[:digit:]]%7B1,%7D-1&OnList=all&Number=1000000&Style=HTML
-* *a*×17<sup>*n*</sup>+1: https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*17%5E[[:digit:]]%7B1,%7D%2B1&OnList=all&Number=1000000&Style=HTML
-* *a*×17<sup>*n*</sup>−1: https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*17%5E[[:digit:]]%7B1,%7D-1&OnList=all&Number=1000000&Style=HTML
-* *a*×18<sup>*n*</sup>+1: https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*18%5E[[:digit:]]%7B1,%7D%2B1&OnList=all&Number=1000000&Style=HTML
-* *a*×18<sup>*n*</sup>−1: https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*18%5E[[:digit:]]%7B1,%7D-1&OnList=all&Number=1000000&Style=HTML
-* *a*×19<sup>*n*</sup>+1: https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*19%5E[[:digit:]]%7B1,%7D%2B1&OnList=all&Number=1000000&Style=HTML
-* *a*×19<sup>*n*</sup>−1: https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*19%5E[[:digit:]]%7B1,%7D-1&OnList=all&Number=1000000&Style=HTML
-* *a*×20<sup>*n*</sup>+1: https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*20%5E[[:digit:]]%7B1,%7D%2B1&OnList=all&Number=1000000&Style=HTML
-* *a*×20<sup>*n*</sup>−1: https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*20%5E[[:digit:]]%7B1,%7D-1&OnList=all&Number=1000000&Style=HTML
-* *a*×21<sup>*n*</sup>+1: https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*21%5E[[:digit:]]%7B1,%7D%2B1&OnList=all&Number=1000000&Style=HTML
-* *a*×21<sup>*n*</sup>−1: https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*21%5E[[:digit:]]%7B1,%7D-1&OnList=all&Number=1000000&Style=HTML
-* *a*×22<sup>*n*</sup>+1: https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*22%5E[[:digit:]]%7B1,%7D%2B1&OnList=all&Number=1000000&Style=HTML
-* *a*×22<sup>*n*</sup>−1: https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*22%5E[[:digit:]]%7B1,%7D-1&OnList=all&Number=1000000&Style=HTML
-* *a*×23<sup>*n*</sup>+1: https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*23%5E[[:digit:]]%7B1,%7D%2B1&OnList=all&Number=1000000&Style=HTML
-* *a*×23<sup>*n*</sup>−1: https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*23%5E[[:digit:]]%7B1,%7D-1&OnList=all&Number=1000000&Style=HTML
-* *a*×24<sup>*n*</sup>+1: https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*24%5E[[:digit:]]%7B1,%7D%2B1&OnList=all&Number=1000000&Style=HTML
-* *a*×24<sup>*n*</sup>−1: https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*24%5E[[:digit:]]%7B1,%7D-1&OnList=all&Number=1000000&Style=HTML
-* *a*×26<sup>*n*</sup>+1: https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*26%5E[[:digit:]]%7B1,%7D%2B1&OnList=all&Number=1000000&Style=HTML
-* *a*×26<sup>*n*</sup>−1: https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*26%5E[[:digit:]]%7B1,%7D-1&OnList=all&Number=1000000&Style=HTML
-* *a*×28<sup>*n*</sup>+1: https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*28%5E[[:digit:]]%7B1,%7D%2B1&OnList=all&Number=1000000&Style=HTML
-* *a*×28<sup>*n*</sup>−1: https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*28%5E[[:digit:]]%7B1,%7D-1&OnList=all&Number=1000000&Style=HTML
-* *a*×29<sup>*n*</sup>+1: https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*29%5E[[:digit:]]%7B1,%7D%2B1&OnList=all&Number=1000000&Style=HTML
-* *a*×29<sup>*n*</sup>−1: https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*29%5E[[:digit:]]%7B1,%7D-1&OnList=all&Number=1000000&Style=HTML
-* *a*×30<sup>*n*</sup>+1: https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*30%5E[[:digit:]]%7B1,%7D%2B1&OnList=all&Number=1000000&Style=HTML
-* *a*×30<sup>*n*</sup>−1: https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*30%5E[[:digit:]]%7B1,%7D-1&OnList=all&Number=1000000&Style=HTML
-* *a*×31<sup>*n*</sup>+1: https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*31%5E[[:digit:]]%7B1,%7D%2B1&OnList=all&Number=1000000&Style=HTML
-* *a*×31<sup>*n*</sup>−1: https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*31%5E[[:digit:]]%7B1,%7D-1&OnList=all&Number=1000000&Style=HTML
-* *a*×33<sup>*n*</sup>+1: https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*33%5E[[:digit:]]%7B1,%7D%2B1&OnList=all&Number=1000000&Style=HTML
-* *a*×33<sup>*n*</sup>−1: https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*33%5E[[:digit:]]%7B1,%7D-1&OnList=all&Number=1000000&Style=HTML
-* *a*×34<sup>*n*</sup>+1: https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*34%5E[[:digit:]]%7B1,%7D%2B1&OnList=all&Number=1000000&Style=HTML
-* *a*×34<sup>*n*</sup>−1: https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*34%5E[[:digit:]]%7B1,%7D-1&OnList=all&Number=1000000&Style=HTML
-* *a*×35<sup>*n*</sup>+1: https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*35%5E[[:digit:]]%7B1,%7D%2B1&OnList=all&Number=1000000&Style=HTML
-* *a*×35<sup>*n*</sup>−1: https://t5k.org/primes/search.php?Description=[[:digit:]]%7B1,%7D*35%5E[[:digit:]]%7B1,%7D-1&OnList=all&Number=1000000&Style=HTML
+* *b*<sup>*n*</sup>+1: https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D%5E[[:digit:]]%7B1,%7D%2B1$&OnList=all&Number=1000000&Style=HTML
+* *b*<sup>*n*</sup>−1: https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D%5E[[:digit:]]%7B1,%7D-1$&OnList=all&Number=1000000&Style=HTML
+* *a*×*b*<sup>*n*</sup>+1: https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*[[:digit:]]%7B1,%7D%5E[[:digit:]]%7B1,%7D%2B1$&OnList=all&Number=1000000&Style=HTML
+* *a*×*b*<sup>*n*</sup>−1: https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*[[:digit:]]%7B1,%7D%5E[[:digit:]]%7B1,%7D-1$&OnList=all&Number=1000000&Style=HTML
+* *a*×2<sup>*n*</sup>+1 (which includes *a*×4<sup>*n*</sup>+1, *a*×8<sup>*n*</sup>+1, *a*×16<sup>*n*</sup>+1, *a*×32<sup>*n*</sup>+1): https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*2%5E[[:digit:]]%7B1,%7D%2B1$&OnList=all&Number=1000000&Style=HTML
+* *a*×2<sup>*n*</sup>−1 (which includes *a*×4<sup>*n*</sup>−1, *a*×8<sup>*n*</sup>−1, *a*×16<sup>*n*</sup>−1, *a*×32<sup>*n*</sup>−1): https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*2%5E[[:digit:]]%7B1,%7D-1$&OnList=all&Number=1000000&Style=HTML
+* *a*×3<sup>*n*</sup>+1 (which includes *a*×9<sup>*n*</sup>+1, *a*×27<sup>*n*</sup>+1): https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*3%5E[[:digit:]]%7B1,%7D%2B1$&OnList=all&Number=1000000&Style=HTML
+* *a*×3<sup>*n*</sup>−1 (which includes *a*×9<sup>*n*</sup>−1, *a*×27<sup>*n*</sup>−1): https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*3%5E[[:digit:]]%7B1,%7D-1$&OnList=all&Number=1000000&Style=HTML
+* *a*×5<sup>*n*</sup>+1 (which includes *a*×25<sup>*n*</sup>+1): https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*5%5E[[:digit:]]%7B1,%7D%2B1$&OnList=all&Number=1000000&Style=HTML
+* *a*×5<sup>*n*</sup>−1 (which includes *a*×25<sup>*n*</sup>−1): https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*5%5E[[:digit:]]%7B1,%7D-1$&OnList=all&Number=1000000&Style=HTML
+* *a*×6<sup>*n*</sup>+1 (which includes *a*×36<sup>*n*</sup>+1): https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*6%5E[[:digit:]]%7B1,%7D%2B1$&OnList=all&Number=1000000&Style=HTML
+* *a*×6<sup>*n*</sup>−1 (which includes *a*×36<sup>*n*</sup>−1): https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*6%5E[[:digit:]]%7B1,%7D-1$&OnList=all&Number=1000000&Style=HTML
+* *a*×7<sup>*n*</sup>+1: https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*7%5E[[:digit:]]%7B1,%7D%2B1$&OnList=all&Number=1000000&Style=HTML
+* *a*×7<sup>*n*</sup>−1: https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*7%5E[[:digit:]]%7B1,%7D-1$&OnList=all&Number=1000000&Style=HTML
+* *a*×10<sup>*n*</sup>+1: https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*10%5E[[:digit:]]%7B1,%7D%2B1$&OnList=all&Number=1000000&Style=HTML
+* *a*×10<sup>*n*</sup>−1: https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*10%5E[[:digit:]]%7B1,%7D-1$&OnList=all&Number=1000000&Style=HTML
+* *a*×11<sup>*n*</sup>+1: https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*11%5E[[:digit:]]%7B1,%7D%2B1$&OnList=all&Number=1000000&Style=HTML
+* *a*×11<sup>*n*</sup>−1: https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*11%5E[[:digit:]]%7B1,%7D-1$&OnList=all&Number=1000000&Style=HTML
+* *a*×12<sup>*n*</sup>+1: https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*12%5E[[:digit:]]%7B1,%7D%2B1$&OnList=all&Number=1000000&Style=HTML
+* *a*×12<sup>*n*</sup>−1: https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*12%5E[[:digit:]]%7B1,%7D-1$&OnList=all&Number=1000000&Style=HTML
+* *a*×13<sup>*n*</sup>+1: https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*13%5E[[:digit:]]%7B1,%7D%2B1$&OnList=all&Number=1000000&Style=HTML
+* *a*×13<sup>*n*</sup>−1: https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*13%5E[[:digit:]]%7B1,%7D-1$&OnList=all&Number=1000000&Style=HTML
+* *a*×14<sup>*n*</sup>+1: https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*14%5E[[:digit:]]%7B1,%7D%2B1$&OnList=all&Number=1000000&Style=HTML
+* *a*×14<sup>*n*</sup>−1: https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*14%5E[[:digit:]]%7B1,%7D-1$&OnList=all&Number=1000000&Style=HTML
+* *a*×15<sup>*n*</sup>+1: https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*15%5E[[:digit:]]%7B1,%7D%2B1$&OnList=all&Number=1000000&Style=HTML
+* *a*×15<sup>*n*</sup>−1: https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*15%5E[[:digit:]]%7B1,%7D-1$&OnList=all&Number=1000000&Style=HTML
+* *a*×17<sup>*n*</sup>+1: https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*17%5E[[:digit:]]%7B1,%7D%2B1$&OnList=all&Number=1000000&Style=HTML
+* *a*×17<sup>*n*</sup>−1: https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*17%5E[[:digit:]]%7B1,%7D-1$&OnList=all&Number=1000000&Style=HTML
+* *a*×18<sup>*n*</sup>+1: https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*18%5E[[:digit:]]%7B1,%7D%2B1$&OnList=all&Number=1000000&Style=HTML
+* *a*×18<sup>*n*</sup>−1: https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*18%5E[[:digit:]]%7B1,%7D-1$&OnList=all&Number=1000000&Style=HTML
+* *a*×19<sup>*n*</sup>+1: https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*19%5E[[:digit:]]%7B1,%7D%2B1$&OnList=all&Number=1000000&Style=HTML
+* *a*×19<sup>*n*</sup>−1: https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*19%5E[[:digit:]]%7B1,%7D-1$&OnList=all&Number=1000000&Style=HTML
+* *a*×20<sup>*n*</sup>+1: https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*20%5E[[:digit:]]%7B1,%7D%2B1$&OnList=all&Number=1000000&Style=HTML
+* *a*×20<sup>*n*</sup>−1: https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*20%5E[[:digit:]]%7B1,%7D-1$&OnList=all&Number=1000000&Style=HTML
+* *a*×21<sup>*n*</sup>+1: https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*21%5E[[:digit:]]%7B1,%7D%2B1$&OnList=all&Number=1000000&Style=HTML
+* *a*×21<sup>*n*</sup>−1: https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*21%5E[[:digit:]]%7B1,%7D-1$&OnList=all&Number=1000000&Style=HTML
+* *a*×22<sup>*n*</sup>+1: https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*22%5E[[:digit:]]%7B1,%7D%2B1$&OnList=all&Number=1000000&Style=HTML
+* *a*×22<sup>*n*</sup>−1: https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*22%5E[[:digit:]]%7B1,%7D-1$&OnList=all&Number=1000000&Style=HTML
+* *a*×23<sup>*n*</sup>+1: https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*23%5E[[:digit:]]%7B1,%7D%2B1$&OnList=all&Number=1000000&Style=HTML
+* *a*×23<sup>*n*</sup>−1: https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*23%5E[[:digit:]]%7B1,%7D-1$&OnList=all&Number=1000000&Style=HTML
+* *a*×24<sup>*n*</sup>+1: https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*24%5E[[:digit:]]%7B1,%7D%2B1$&OnList=all&Number=1000000&Style=HTML
+* *a*×24<sup>*n*</sup>−1: https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*24%5E[[:digit:]]%7B1,%7D-1$&OnList=all&Number=1000000&Style=HTML
+* *a*×26<sup>*n*</sup>+1: https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*26%5E[[:digit:]]%7B1,%7D%2B1$&OnList=all&Number=1000000&Style=HTML
+* *a*×26<sup>*n*</sup>−1: https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*26%5E[[:digit:]]%7B1,%7D-1$&OnList=all&Number=1000000&Style=HTML
+* *a*×28<sup>*n*</sup>+1: https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*28%5E[[:digit:]]%7B1,%7D%2B1$&OnList=all&Number=1000000&Style=HTML
+* *a*×28<sup>*n*</sup>−1: https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*28%5E[[:digit:]]%7B1,%7D-1$&OnList=all&Number=1000000&Style=HTML
+* *a*×29<sup>*n*</sup>+1: https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*29%5E[[:digit:]]%7B1,%7D%2B1$&OnList=all&Number=1000000&Style=HTML
+* *a*×29<sup>*n*</sup>−1: https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*29%5E[[:digit:]]%7B1,%7D-1$&OnList=all&Number=1000000&Style=HTML
+* *a*×30<sup>*n*</sup>+1: https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*30%5E[[:digit:]]%7B1,%7D%2B1$&OnList=all&Number=1000000&Style=HTML
+* *a*×30<sup>*n*</sup>−1: https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*30%5E[[:digit:]]%7B1,%7D-1$&OnList=all&Number=1000000&Style=HTML
+* *a*×31<sup>*n*</sup>+1: https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*31%5E[[:digit:]]%7B1,%7D%2B1$&OnList=all&Number=1000000&Style=HTML
+* *a*×31<sup>*n*</sup>−1: https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*31%5E[[:digit:]]%7B1,%7D-1$&OnList=all&Number=1000000&Style=HTML
+* *a*×33<sup>*n*</sup>+1: https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*33%5E[[:digit:]]%7B1,%7D%2B1$&OnList=all&Number=1000000&Style=HTML
+* *a*×33<sup>*n*</sup>−1: https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*33%5E[[:digit:]]%7B1,%7D-1$&OnList=all&Number=1000000&Style=HTML
+* *a*×34<sup>*n*</sup>+1: https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*34%5E[[:digit:]]%7B1,%7D%2B1$&OnList=all&Number=1000000&Style=HTML
+* *a*×34<sup>*n*</sup>−1: https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*34%5E[[:digit:]]%7B1,%7D-1$&OnList=all&Number=1000000&Style=HTML
+* *a*×35<sup>*n*</sup>+1: https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*35%5E[[:digit:]]%7B1,%7D%2B1$&OnList=all&Number=1000000&Style=HTML
+* *a*×35<sup>*n*</sup>−1: https://t5k.org/primes/search.php?Description=^[[:digit:]]%7B1,%7D*35%5E[[:digit:]]%7B1,%7D-1$&OnList=all&Number=1000000&Style=HTML
 * *a*×2<sup>*n*</sup>±1 (which includes *a*×4<sup>*n*</sup>±1, *a*×8<sup>*n*</sup>±1, *a*×16<sup>*n*</sup>±1, *a*×32<sup>*n*</sup>±1): https://t5k.org/primes/search_proth.php?base=2&min_k=&max_k=&min_n=&max_n=&plus=on&minus=on&number=1000000&search=Start+Search
 * *a*×3<sup>*n*</sup>±1 (which includes *a*×9<sup>*n*</sup>±1, *a*×27<sup>*n*</sup>±1): https://t5k.org/primes/search_proth.php?base=3&min_k=&max_k=&min_n=&max_n=&plus=on&minus=on&number=1000000&search=Start+Search
 * *a*×5<sup>*n*</sup>±1 (which includes *a*×25<sup>*n*</sup>±1): https://t5k.org/primes/search_proth.php?base=5&min_k=&max_k=&min_n=&max_n=&plus=on&minus=on&number=1000000&search=Start+Search
