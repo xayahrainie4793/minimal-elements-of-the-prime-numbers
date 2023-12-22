@@ -1164,6 +1164,14 @@ Example 9, family B{0}1 in base *b* = 14: (the period of the pattern is 2, and i
 * B0000000001 = 3 × 39494949495
 * B00000000001 = 5 × 22B2B2B2B2B3
 * B000000000001 = 3 × 3949494949495
+* B0000000000001 = 5 × 22B2B2B2B2B2B3
+* B00000000000001 = 3 × 394949494949495
+* B000000000000001 = 5 × 22B2B2B2B2B2B2B3
+* B0000000000000001 = 3 × 39494949494949495
+* B00000000000000001 = 5 × 22B2B2B2B2B2B2B2B3
+* B000000000000000001 = 3 × 3949494949494949495
+* B0000000000000000001 = 5 × 22B2B2B2B2B2B2B2B2B3
+* B00000000000000000001 = 3 × 394949494949494949495
 
 Example 10, family 3{0}95 in base *b* = 13: (the period of the pattern is 4, and its algebraic form is 3×13<sup>*n*+2</sup>+122, and for the factorization of the numbers in the family (*n* is the number of digits in the "{}", start with the smallest *n* making the number > *b*) see http://factordb.com/index.php?query=3*13%5E%28n%2B2%29%2B122&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show)
 
@@ -1179,6 +1187,14 @@ Example 10, family 3{0}95 in base *b* = 13: (the period of the pattern is 4, and
 * 300000000095 = 7 × 5757575758A
 * 3000000000095 = 5 × 7A527A527A71
 * 30000000000095 = 7 × 575757575758A
+* 300000000000095 = 14 × 23A923A923A92B
+* 3000000000000095 = 7 × 57575757575758A
+* 30000000000000095 = 5 × 7A527A527A527A71
+* 300000000000000095 = 7 × 5757575757575758A
+* 3000000000000000095 = 14 × 23A923A923A923A92B
+* 30000000000000000095 = 7 × 575757575757575758A
+* 300000000000000000095 = 5 × 7A527A527A527A527A71
+* 3000000000000000000095 = 7 × 57575757575757575758A
 
 Example 11, family {4}D in base *b* = 16: (the period of the pattern is 3, and its algebraic form is (4×16<sup>*n*+1</sup>+131)/15, and for the factorization of the numbers in the family (*n* is the number of digits in the "{}", start with the smallest *n* making the number > *b*) see http://factordb.com/index.php?query=%284*16%5E%28n%2B1%29%2B131%29%2F15&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show)
 
@@ -1194,6 +1210,14 @@ Example 11, family {4}D in base *b* = 16: (the period of the pattern is 3, and i
 * 4444444444D = 7 × 9C09C09C0B
 * 44444444444D = 3 × 16C16C16C16F
 * 444444444444D = D × 540540540541
+* 4444444444444D = 7 × 9C09C09C09C0B
+* 44444444444444D = 3 × 16C16C16C16C16F
+* 444444444444444D = D × 540540540540541
+* 4444444444444444D = 7 × 9C09C09C09C09C0B
+* 44444444444444444D = 3 × 16C16C16C16C16C16F
+* 444444444444444444D = D × 540540540540540541
+* 4444444444444444444D = 7 × 9C09C09C09C09C09C0B
+* 44444444444444444444D = 3 × 16C16C16C16C16C16C16F
 
 Example 12, family {C}D in base *b* = 16: (the period of the pattern is 4, and its algebraic form is (4×16<sup>*n*+1</sup>+1)/5, and for the factorization of the numbers in the family (*n* is the number of digits in the "{}", start with the smallest *n* making the number > *b*) see http://factordb.com/index.php?query=%284*16%5E%28n%2B1%29%2B1%29%2F5&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show)
 
@@ -1209,6 +1233,14 @@ Example 12, family {C}D in base *b* = 16: (the period of the pattern is 4, and i
 * CCCCCCCCCCD = 199CCD × 7FF001
 * CCCCCCCCCCCD = 666CCD × 1FFE001
 * CCCCCCCCCCCCD = 1998CCD × 8004001
+* CCCCCCCCCCCCCD = 6664CCD × 20008001
+* CCCCCCCCCCCCCCD = 1999CCCD × 7FFF0001
+* CCCCCCCCCCCCCCCD = 6666CCCD × 1FFFE0001
+* CCCCCCCCCCCCCCCCD = 19998CCCD × 800040001
+* CCCCCCCCCCCCCCCCCD = 66664CCCD × 2000080001
+* CCCCCCCCCCCCCCCCCCD = 19999CCCCD × 7FFFF00001
+* CCCCCCCCCCCCCCCCCCCD = 66666CCCCD × 1FFFFE00001
+* CCCCCCCCCCCCCCCCCCCCD = 199998CCCCD × 80000400001
 
 Example 13, family 1{9} in base *b* = 17: (the period of the pattern is 2, and its algebraic form is (25×17<sup>*n*</sup>−9)/16, and for the factorization of the numbers in the family (*n* is the number of digits in the "{}", start with the smallest *n* making the number > *b*) see http://factordb.com/index.php?query=%2825*17%5En-9%29%2F16&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show)
 
@@ -1224,6 +1256,14 @@ Example 13, family 1{9} in base *b* = 17: (the period of the pattern is 2, and i
 * 19999999999 = AAAAB × 288887
 * 199999999999 = 2 × D4D4D4D4D4D
 * 1999999999999 = AAAAAB × 2888887
+* 19999999999999 = 2 × D4D4D4D4D4D4D
+* 199999999999999 = AAAAAAB × 28888887
+* 1999999999999999 = 2 × D4D4D4D4D4D4D4D
+* 19999999999999999 = AAAAAAAB × 288888887
+* 199999999999999999 = 2 × D4D4D4D4D4D4D4D4D
+* 1999999999999999999 = AAAAAAAAB × 2888888887
+* 19999999999999999999 = 2 × D4D4D4D4D4D4D4D4D4D
+* 199999999999999999999 = AAAAAAAAAB × 28888888887
 
 Example 14, family 1{6} in base *b* = 19: (the period of the pattern is 2, and its algebraic form is (4×19<sup>*n*</sup>−1)/3, and for the factorization of the numbers in the family (*n* is the number of digits in the "{}", start with the smallest *n* making the number > *b*) see http://factordb.com/index.php?query=%284*19%5En-1%29%2F3&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show)
 
@@ -1239,6 +1279,14 @@ Example 14, family 1{6} in base *b* = 19: (the period of the pattern is 2, and i
 * 16666666666 = CCCCD × 1IIIII
 * 166666666666 = 5 × 51515151515
 * 1666666666666 = CCCCCD × 1IIIIII
+* 16666666666666 = 5 × 5151515151515
+* 166666666666666 = CCCCCCD × 1IIIIIII
+* 1666666666666666 = 5 × 515151515151515
+* 16666666666666666 = CCCCCCCD × 1IIIIIIII
+* 166666666666666666 = 5 × 51515151515151515
+* 1666666666666666666 = CCCCCCCCD × 1IIIIIIIII
+* 16666666666666666666 = 5 × 5151515151515151515
+* 166666666666666666666 = CCCCCCCCCD × 1IIIIIIIIII
 
 Example 15, family {D}GA in base *b* = 23: (the period of the pattern is 12, and its algebraic form is (13×23<sup>*n*+2</sup>+1439)/22, and for the factorization of the numbers in the family (*n* is the number of digits in the "{}", start with the smallest *n* making the number > *b*) see http://factordb.com/index.php?query=%2813*23%5E%28n%2B2%29%2B1439%29%2F22&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show)
 
@@ -1277,6 +1325,14 @@ Example 16, family 2{1} in base *b* = 25: (the period of the pattern is 2, and i
 * 21111111111 = 144444 × 1IIIIJ
 * 211111111111 = 2MMMMN × HCCCCC
 * 2111111111111 = 1444444 × 1IIIIIJ
+* 21111111111111 = 2MMMMMN × HCCCCCC
+* 211111111111111 = 14444444 × 1IIIIIIJ
+* 2111111111111111 = 2MMMMMMN × HCCCCCCC
+* 21111111111111111 = 144444444 × 1IIIIIIIJ
+* 211111111111111111 = 2MMMMMMMN × HCCCCCCCC
+* 2111111111111111111 = 1444444444 × 1IIIIIIIIJ
+* 21111111111111111111 = 2MMMMMMMMN × HCCCCCCCCC
+* 211111111111111111111 = 14444444444 × 1IIIIIIIIIJ
 
 Example 17, family 7{Q} in base *b* = 27: (the period of the pattern is 3, and its algebraic form is 8×27<sup>*n*</sup>−1, and for the factorization of the numbers in the family (*n* is the number of digits in the "{}", start with the smallest *n* making the number > *b*) see http://factordb.com/index.php?query=8*27%5En-1&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show)
 
@@ -1292,6 +1348,14 @@ Example 17, family 7{Q} in base *b* = 27: (the period of the pattern is 3, and i
 * 7QQQQQQQQQQ = 5QQQ × 19006001
 * 7QQQQQQQQQQQ = HQQQ × C000I001
 * 7QQQQQQQQQQQQ = 1QQQQ × 400020001
+* 7QQQQQQQQQQQQQ = 5QQQQ × 1900060001
+* 7QQQQQQQQQQQQQQ = HQQQQ × C0000I0001
+* 7QQQQQQQQQQQQQQQ = 1QQQQQ × 40000200001
+* 7QQQQQQQQQQQQQQQQ = 5QQQQQ × 190000600001
+* 7QQQQQQQQQQQQQQQQQ = HQQQQQ × C00000I00001
+* 7QQQQQQQQQQQQQQQQQQ = 1QQQQQQ × 4000002000001
+* 7QQQQQQQQQQQQQQQQQQQ = 5QQQQQQ × 19000006000001
+* 7QQQQQQQQQQQQQQQQQQQQ = HQQQQQQ × C000000I000001
 
 Example 18, family A{0}9J in base *b* = 30: (the period of the pattern is 6, and its algebraic form is 10×30<sup>*n*+2</sup>+289, and for the factorization of the numbers in the family (*n* is the number of digits in the "{}", start with the smallest *n* making the number > *b*) see http://factordb.com/index.php?query=10*30%5E%28n%2B2%29%2B289&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show)
 
@@ -1352,6 +1416,14 @@ Example 20, family 3{7} in base *b* = 36: (the period of the pattern is 2, and i
 * 37777777777 = SSSST × 3ZZZZZ
 * 377777777777 = 4SSSST × NZZZZZ
 * 3777777777777 = SSSSST × 3ZZZZZZ
+* 37777777777777 = 4SSSSST × NZZZZZZ
+* 377777777777777 = SSSSSST × 3ZZZZZZZ
+* 3777777777777777 = 4SSSSSST × NZZZZZZZ
+* 37777777777777777 = SSSSSSST × 3ZZZZZZZZ
+* 377777777777777777 = 4SSSSSSST × NZZZZZZZZ
+* 3777777777777777777 = SSSSSSSST × 3ZZZZZZZZZ
+* 37777777777777777777 = 4SSSSSSSST × NZZZZZZZZZ
+* 377777777777777777777 = SSSSSSSSST × 3ZZZZZZZZZZ
 
 (only list the families which can be proven to be not covered by any prime > *b* (this would include all such families of the form *x*{0}*y* and all such families of the form *x*{*y*} (unless *y* = 1) and all such families of the form {*x*}*y* (unless *x* = 1)), the only exceptions are the base 21 family B0{H}6H (which is covered by the smallest prime in the family B{H}6H in base 21 (if such prime exists)) and the base 8 family 6{4}7 (which is covered by the prime 4<sub>220</sub>7 in base 8))
 
