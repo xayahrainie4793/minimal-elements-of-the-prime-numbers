@@ -1278,12 +1278,65 @@ Example 16, family 2{1} in base *b* = 25: (the period of the pattern is 2, and i
 * 211111111111 = 2MMMMN × HCCCCC
 * 2111111111111 = 1444444 × 1IIIIIJ
 
-Example 17, family 9{G} in base *b* = 27:
+Example 17, family 7{Q} in base *b* = 27: (the period of the pattern is 3, and its algebraic form is 8×27<sup>*n*</sup>−1, and for the factorization of the numbers in the family (*n* is the number of digits in the "{}", start with the smallest *n* making the number > *b*) see http://factordb.com/index.php?query=8*27%5En-1&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show)
 
-* 9G = 7 × 1A
-* 9GG = 1G × 61
-* 9GGG = 4P × 1PJ
-* 9GGGG = 14 ×
+* 7Q = 5 × 1G
+* 7QQ = H × CJ
+* 7QQQ = 1Q × 421
+* 7QQQQ = 5Q × 1961
+* 7QQQQQ = HQ × C0I1
+* 7QQQQQQ = 1QQ × 40201
+* 7QQQQQQQ = 5QQ × 190601
+* 7QQQQQQQQ = HQQ × C00I01
+* 7QQQQQQQQQ = 1QQQ × 4002001
+* 7QQQQQQQQQQ = 5QQQ × 19006001
+* 7QQQQQQQQQQQ = HQQQ × C000I001
+* 7QQQQQQQQQQQQ = 1QQQQ × 400020001
+
+Example 18, family A{0}9J in base *b* = 30: (the period of the pattern is 6, and its algebraic form is 10×30<sup>*n*+2</sup>+289, and for the factorization of the numbers in the family (*n* is the number of digits in the "{}", start with the smallest *n* making the number > *b*) see http://factordb.com/index.php?query=10*30%5E%28n%2B2%29%2B289&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show)
+
+* A9J = 7 × 1E7
+* A09J = 11 × 9KJ
+* A009J = J × FNL1
+* A0009J = 11 × 9K9KJ
+* A00009J = D × N296SD
+* A000009J = 11 × 9K9K9KJ
+* A0000009J = 7 × 1CPLCPLE7
+* A00000009J = 11 × 9K9K9K9KJ
+* A000000009J = J × FNKFNKFNL1
+* A0000000009J = 11 × 9K9K9K9K9KJ
+* A00000000009J = D × N296RKN296SD
+* A000000000009J = 11 × 9K9K9K9K9K9KJ
+* A0000000000009J = 7 × 1CPLCPLCPLCPLE7
+* A00000000000009J = 11 × 9K9K9K9K9K9K9KJ
+* A000000000000009J = J × FNKFNKFNKFNKFNL1
+* A0000000000000009J = 11 × 9K9K9K9K9K9K9K9KJ
+* A00000000000000009J = D × N296RKN296RKN296SD
+* A000000000000000009J = 11 × 9K9K9K9K9K9K9K9K9KJ
+* A0000000000000000009J = 7 × 1CPLCPLCPLCPLCPLCPLE7
+* A00000000000000000009J = 11 × 9K9K9K9K9K9K9K9K9K9KJ
+
+Example 19, family {1} in base *b* = 32: (the period of the pattern is 5, and its algebraic form is (32<sup>*n*</sup>−1)/31, and for the factorization of the numbers in the family (*n* is the number of digits in the "{}", start with the smallest *n* making the number > *b*) see http://factordb.com/index.php?query=%2832%5En-1%29%2F31&use=n&n=2&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show)
+
+* 11 = 3 × B
+* 111 = 7 × 4N
+* 1111 = F × 26F
+* 11111 = IP × 1O9
+* 111111 = 1V × GOSV
+* 1111111 = 3V × 8AAQV
+* 11111111 = 7V × 44KMMV
+* 111111111 = FV × 2266EEV
+* 1111111111 = IP × 1O9001O9
+* 11111111111 = 1VV × GGOOSSUV
+* 111111111111 = 3VV × 88AAAQQUV
+* 1111111111111 = 7VV × 444KKMMMUV
+* 11111111111111 = FVV × 222666EEEUV
+* 111111111111111 = IP × 1O9001O9001O9
+* 1111111111111111 = 1VVV × GGGOOOSSSUV
+* 11111111111111111 = 3VVV × 888AAAAQQQUUV
+* 111111111111111111 = 7VVV × 4444KKKMMMMUUV
+* 1111111111111111111 = FVVV × 22226666EEEEUUV
+* 11111111111111111111 = IP × 1O9001O9001O9001O9
 
 Example 20, family 3{7} in base *b* = 36: (the period of the pattern is 2, and its algebraic form is (16×36<sup>*n*</sup>−1)/5, and for the factorization of the numbers in the family (*n* is the number of digits in the "{}", start with the smallest *n* making the number > *b*) see http://factordb.com/index.php?query=%2816*36%5En-1%29%2F5&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show)
 
