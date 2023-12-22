@@ -1240,7 +1240,30 @@ Example 14, family 1{6} in base *b* = 19: (the period of the pattern is 2, and i
 * 166666666666 = 5 × 51515151515
 * 1666666666666 = CCCCCD × 1IIIIII
 
-Example 15, family 2{1} in base *b* = 25: (the period of the pattern is 2, and its algebraic form is (49×25<sup>*n*</sup>−1)/24, and for the factorization of the numbers in the family (*n* is the number of digits in the "{}", start with the smallest *n* making the number > *b*) see http://factordb.com/index.php?query=%2849*25%5En-1%29%2F24&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show)
+Example 15, family {D}GA in base *b* = 23: (the period of the pattern is 12, and its algebraic form is (13×23<sup>*n*+2</sup>+1439)/22, and for the factorization of the numbers in the family (*n* is the number of digits in the "{}", start with the smallest *n* making the number > *b*) see http://factordb.com/index.php?query=%2813*23%5E%28n%2B2%29%2B1439%29%2F22&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show)
+
+* GA = 6 × 2H
+* DGA = 5 × 2H2
+* DDGA = 6 × 262H
+* DDDGA = 7 × 1LF28
+* DDDDGA = 6 × 26262H
+* DDDDDGA = 3A × 3M03M1
+* DDDDDDGA = 6 × 2626262H
+* DDDDDDDGA = 1E × 8A74GC44
+* DDDDDDDDGA = 6 × 262626262H
+* DDDDDDDDDGA = 5 × 2GBL2GBL2H2
+* DDDDDDDDDDGA = 6 × 26262626262H
+* DDDDDDDDDDDGA = 3A × 3M03M03M03M1
+* DDDDDDDDDDDDGA = 6 × 2626262626262H
+* DDDDDDDDDDDDDGA = 5 × 2GBL2GBL2GBL2H2
+* DDDDDDDDDDDDDDGA = 6 × 262626262626262H
+* DDDDDDDDDDDDDDDGA = 7 × 1LF1LF1LF1LF1LF28
+* DDDDDDDDDDDDDDDDGA = 6 × 26262626262626262H
+* DDDDDDDDDDDDDDDDDGA = 3A × 3M03M03M03M03M03M1
+* DDDDDDDDDDDDDDDDDDGA = 6 × 2626262626262626262H
+* DDDDDDDDDDDDDDDDDDDGA = 1E × 8A74GC4257J08A74GC44
+
+Example 16, family 2{1} in base *b* = 25: (the period of the pattern is 2, and its algebraic form is (49×25<sup>*n*</sup>−1)/24, and for the factorization of the numbers in the family (*n* is the number of digits in the "{}", start with the smallest *n* making the number > *b*) see http://factordb.com/index.php?query=%2849*25%5En-1%29%2F24&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show)
 
 * 21 = 3 × H
 * 211 = 14 × 1J
@@ -1255,20 +1278,27 @@ Example 15, family 2{1} in base *b* = 25: (the period of the pattern is 2, and i
 * 211111111111 = 2MMMMN × HCCCCC
 * 2111111111111 = 1444444 × 1IIIIIJ
 
-Example 16, family O{Z} in base *b* = 36: (the period of the pattern is 2, and its algebraic form is 25×36<sup>*n*</sup>−1, and for the factorization of the numbers in the family (*n* is the number of digits in the "{}", start with the smallest *n* making the number > *b*) see http://factordb.com/index.php?query=25*36%5En-1&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show)
+Example 17, family 9{G} in base *b* = 27:
 
-* OZ = T × V
-* OZZ = 4Z × 51
-* OZZZ = TZ × U1
-* OZZZZ = 4ZZ × 501
-* OZZZZZ = TZZ × U01
-* OZZZZZZ = 4ZZZ × 5001
-* OZZZZZZZ = TZZZ × U001
-* OZZZZZZZZ = 4ZZZZ × 50001
-* OZZZZZZZZZ = TZZZZ × U0001
-* OZZZZZZZZZZ = 4ZZZZZ × 500001
-* OZZZZZZZZZZZ = TZZZZZ × U00001
-* OZZZZZZZZZZZZ = 4ZZZZZZ × 5000001
+* 9G = 7 × 1A
+* 9GG = 1G × 61
+* 9GGG = 4P × 1PJ
+* 9GGGG = 14 ×
+
+Example 20, family 3{7} in base *b* = 36: (the period of the pattern is 2, and its algebraic form is (16×36<sup>*n*</sup>−1)/5, and for the factorization of the numbers in the family (*n* is the number of digits in the "{}", start with the smallest *n* making the number > *b*) see http://factordb.com/index.php?query=%2816*36%5En-1%29%2F5&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show)
+
+* 37 = 5 × N
+* 377 = T × 3Z
+* 3777 = 4T × NZ
+* 37777 = ST × 3ZZ
+* 377777 = 4ST × NZZ
+* 3777777 = SST × 3ZZZ
+* 37777777 = 4SST × NZZZ
+* 377777777 = SSST × 3ZZZZ
+* 3777777777 = 4SSST × NZZZZ
+* 37777777777 = SSSST × 3ZZZZZ
+* 377777777777 = 4SSSST × NZZZZZ
+* 3777777777777 = SSSSST × 3ZZZZZZ
 
 (only list the families which can be proven to be not covered by any prime > *b* (this would include all such families of the form *x*{0}*y* and all such families of the form *x*{*y*} (unless *y* = 1) and all such families of the form {*x*}*y* (unless *x* = 1)), the only exceptions are the base 21 family B0{H}6H (which is covered by the smallest prime in the family B{H}6H in base 21 (if such prime exists)) and the base 8 family 6{4}7 (which is covered by the prime 4<sub>220</sub>7 in base 8))
 
