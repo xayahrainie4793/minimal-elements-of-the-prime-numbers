@@ -856,40 +856,52 @@ We can show that: For the case of covering congruence, the numbers in the family
 * The algebraic form of 9<sub>*n*</sub>D (in base *b* = 21) is (9×21<sup>*n*+1</sup>+71)/20, and 71 is not a perfect power, thus the family 9<sub>*n*</sub>D (in base *b* = 21) has no algebraic factorization for any *n*
 * 9<sub>*n*</sub>D (in base *b* = 21) is divisible by 2 if and only if *n* == 1 mod 2
 * 9<sub>*n*</sub>D (in base *b* = 21) is divisible by 43 if and only if *n* == 2 mod 7
+* 9<sub>*n*</sub>D (in base *b* = 21) is divisible by 97 if and only if *n* == 2 mod 96
 * 9<sub>*n*</sub>D (in base *b* = 21) is divisible by 5 if and only if *n* == 3 mod 5
+* 9<sub>*n*</sub>D (in base *b* = 21) is divisible by 547 if and only if *n* == 3 mod 39
 * 9<sub>*n*</sub>D (in base *b* = 21) is divisible by 13 if and only if *n* == 0 mod 4
+* 9<sub>*n*</sub>D (in base *b* = 21) is divisible by 109 if and only if *n* == 4 mod 27
+* 9<sub>*n*</sub>D (in base *b* = 21) is divisible by 1297 if and only if *n* == 4 mod 648
 * 9<sub>*n*</sub>D (in base *b* = 21) is divisible by 23 if and only if *n* == 6 mod 22
 * 9<sub>*n*</sub>D (in base *b* = 21) is divisible by 37 if and only if *n* == 6 mod 18
 * 9<sub>*n*</sub>D (in base *b* = 21) is divisible by 138679 if and only if *n* == 10 mod 69339
 * 9<sub>*n*</sub>D (in base *b* = 21) is divisible by 31 if and only if *n* == 14 mod 30
 * 9<sub>*n*</sub>D (in base *b* = 21) is divisible by 957158401 if and only if *n* == 22 mod 957158400
+* 9<sub>*n*</sub>D (in base *b* = 21) is divisible by 113 if and only if *n* == 26 mod 112
+* 9<sub>*n*</sub>D (in base *b* = 21) is divisible by 149 if and only if *n* == 26 mod 148
+* 9<sub>*n*</sub>D (in base *b* = 21) is divisible by 83 if and only if *n* == 34 mod 41
+* 9<sub>*n*</sub>D (in base *b* = 21) is divisible by 151 if and only if *n* == 34 mod 75
+* 9<sub>*n*</sub>D (in base *b* = 21) is divisible by 317 if and only if *n* == 34 mod 316
+* 9<sub>*n*</sub>D (in base *b* = 21) is divisible by 571 if and only if *n* == 46 mod 285
 
 etc.
 
 and it does not appear to be any covering set (of either primes or algebraic factors, or both), thus this form cannot be ruled out as only containing composites (only count the numbers > *b*) (by covering congruence, algebraic factorization, or combine of them), and its Nash weight (or difficulty) is positive, and it has prime candidate, and hence there must be a prime at some point.
 
-Also, you can see the prime factorizations (https://en.wikipedia.org/wiki/Integer_factorization, https://www.rieselprime.de/ziki/Factorization, https://mathworld.wolfram.com/PrimeFactorization.html, https://mathworld.wolfram.com/PrimeFactorizationAlgorithms.html, http://www.numericana.com/answer/factoring.htm) of the numbers in the family A3<sub>*n*</sub>A in base *b* = 13: (for more information, see http://factordb.com/index.php?query=%2841*13%5E%28n%2B1%29%2B27%29%2F4&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show)
+Also, you can see the prime factorizations (https://en.wikipedia.org/wiki/Integer_factorization, https://www.rieselprime.de/ziki/Factorization, https://mathworld.wolfram.com/PrimeFactorization.html, https://mathworld.wolfram.com/PrimeFactorizationAlgorithms.html, http://www.numericana.com/answer/factoring.htm) of the numbers in the family 9<sub>*n*</sub>D in base *b* = 21: (for more information, see http://factordb.com/index.php?query=%289*21%5E%28n%2B1%29%2B71%29%2F20&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show)
 
-|*n*|the prime factorization of the number A3<sub>*n*</sub>A in base *b* = 13|
+|*n*|the prime factorization of the number 9<sub>*n*</sub>D in base *b* = 21|
 |---|---|
-|0|2<sup>2</sup> × 5 × 7|
-|1|37 × 47|
-|2|2 × 7 × 1609|
-|3|17<sup>2</sup> × 1013|
-|5|11 × 1889 × 2381|
-|9|53 × 142567 × 187009|
-|13|31 × 2621 × 28439 × 17465771|
-|17|75347 × 15298126285818457|
-|21|71 × 463680964775172744054409|
-|29|167 × 523 × 22918717 × 13034888437 × 1029221036131|
-|33|1321 × 8731 × 66501438241666259854546190716169|
-|41|30539 × 51193 × 400202013734942254309190117806115523457|
-|49|247547 × 22924129 × 97947345662199443009 × 918223277656889902919777|
-|53|9122228879 × 641529835909 × 2490847082546934353120732206210798124029|
-|57|266491 × (61-digit prime)|
-|69|89 × 44449 × 263387 × (67-digit prime)|
+|1|2 × 101|
+|2|43 × 97|
+|3|2<sup>5</sup> × 5 × 547|
+|4|13 × 109 × 1297|
+|5|2 × 19297379|
+|6|23 × 37 × 952397|
+|8|5 × 13 × 373 × 14742257|
+|10|138679 × 1136616757|
+|14|31 × 20605229 × 47991331061|
+|18|5 × 44600683 × 127256483 × 210081439|
+|22|957158401 × 1211357903339029702951|
+|26|113 × 149 × 293877403 × 45572469859265068620757|
+|34|83 × 151 × 317 × 116959 × 1833983 × 10007937292019458273806456107|
+|46|571 × 172443379 × (51-digit prime)|
+|54|64514074883 × 1952284707517 × (50-digit prime)|
+|62|1987 × 2179 × 4491749 × 31018210441926961332833324941 × (42-digit prime)|
+|66|10169 × 669662569903 × (73-digit prime)|
+|70|2107831759082832524772111929 × 194079650340743929919158086605141 × 8297867485221151080164383803051187|
 
-and it does not appear to be any covering congruence of primes, since if there is a covering congruence of primes for the family A{3}A in base *b* = 13, then the period must be at least *lcm*(*ord*<sub>37</sub>(13), *ord*<sub>17</sub>(13), *ord*<sub>11</sub>(13), *ord*<sub>53</sub>(13), *ord*<sub>31</sub>(13), *ord*<sub>75347</sub>(13), *ord*<sub>71</sub>(13), *ord*<sub>167</sub>(13), *ord*<sub>1321</sub>(13), *ord*<sub>30539</sub>(13), *ord*<sub>247547</sub>(13), *ord*<sub>9122228879</sub>(13), *ord*<sub>266491</sub>(13), *ord*<sub>89</sub>(13)) (where *lcm* is the least common multiple (https://en.wikipedia.org/wiki/Least_common_multiple, https://mathworld.wolfram.com/LeastCommonMultiple.html, http://www.numericana.com/answer/numbers.htm#lcm), *ord*<sub>*n*</sub>(*b*) is the multiplicative order (https://en.wikipedia.org/wiki/Multiplicative_order, https://t5k.org/glossary/xpage/Order.html, https://mathworld.wolfram.com/MultiplicativeOrder.html, http://www.numbertheory.org/php/order.html, https://oeis.org/A250211, https://oeis.org/A139366, https://oeis.org/A323376, https://oeis.org/A057593, https://oeis.org/A086145) of *b* mod *n*) = *lcm*(36, 4, 10, 13, 30, 37673, 70, 166, 1320, 30538, 123773, 4561114439, 3807, 88) = 45149332369792385962649447985960 > 4.51493 × 10<sup>31</sup>, which is very impossible, and since there is no *n* such that 41×13<sup>*n*+1</sup> is perfect power (after all, 41×13<sup>*n*+1</sup> is divisible by 41 but not 41<sup>2</sup>), thus the family A3<sub>*n*</sub>A (in base *b* = 13) = (41×13<sup>*n*+1</sup>+27)/4 has no algebraic factorization for any *n*, thus the possbility that the family A{3}A in base *b* = 13 can be ruled out as only containing composites (only count the numbers > *b*) (by covering congruence, algebraic factorization, or combine of them) is *very* small (< 1/(4.51493 × 10<sup>31</sup>)), thus we can *almost* sure that there is a prime in the family A{3}A in base *b* = 13, in fact, we can *almost* sure that there are infinitely many primes in the family A{3}A in base *b* = 13.
+and it does not appear to be any covering congruence of primes, since if there is a covering congruence of primes for the family {9}D in base *b* = 21, then the period must be at least *lcm*(*ord*<sub>43</sub>(21), *ord*<sub>13</sub>(21), *ord*<sub>23</sub>(21), *ord*<sub>138679</sub>(21), *ord*<sub>31</sub>(21), *ord*<sub>957158401</sub>(21), *ord*<sub>113</sub>(21), *ord*<sub>83</sub>(21), *ord*<sub>571</sub>(21), *ord*<sub>64514074883</sub>(21), *ord*<sub>1987</sub>(21), *ord*<sub>10169</sub>(21), *ord*<sub>2107831759082832524772111929</sub>(21)) (where *lcm* is the least common multiple (https://en.wikipedia.org/wiki/Least_common_multiple, https://mathworld.wolfram.com/LeastCommonMultiple.html, http://www.numericana.com/answer/numbers.htm#lcm), *ord*<sub>*n*</sub>(*b*) is the multiplicative order (https://en.wikipedia.org/wiki/Multiplicative_order, https://t5k.org/glossary/xpage/Order.html, https://mathworld.wolfram.com/MultiplicativeOrder.html, http://www.numbertheory.org/php/order.html, https://oeis.org/A250211, https://oeis.org/A139366, https://oeis.org/A323376, https://oeis.org/A057593, https://oeis.org/A086145) of *b* mod *n*) = *lcm*(7, 4, 22, 69339, 30, 957158400, 112, 41, 285, 32257037441, 662, 2542, 2107831759082832524772111928) = 7191035432210805538926222608335822284250318907919283200 > 7.19103 × 10<sup>54</sup>, which is very impossible, and since 71 is not a perfect power, thus the family 9<sub>*n*</sub>D (in base *b* = 21) = (9×21<sup>*n*+1</sup>+71)/20 has no algebraic factorization for any *n*, thus the possbility that the family {9}D in base *b* = 21 can be ruled out as only containing composites (only count the numbers > *b*) (by covering congruence, algebraic factorization, or combine of them) is *very* small (< 1/(7.19103 × 10<sup>54</sup>)), thus we can *almost* sure that there is a prime > *b* in the family {9}D in base *b* = 21, in fact, we can *almost* sure that there are infinitely many primes > *b* in the family {9}D in base *b* = 21.
 
 For an example of an unsolved family in bases 2 ≤ *b* ≤ 36 with a very low (but still positive) Nash weight (https://www.rieselprime.de/ziki/Nash_weight, http://irvinemclean.com/maths/nash.htm, http://www.brennen.net/primes/ProthWeight.html, https://www.mersenneforum.org/showthread.php?t=11844, https://www.mersenneforum.org/showthread.php?t=2645, https://www.mersenneforum.org/showthread.php?t=7213, https://www.mersenneforum.org/showthread.php?t=18818, https://www.mersenneforum.org/attachment.php?attachmentid=13663&d=1451910741, https://github.com/happy5214/nash, https://github.com/xayahrainie4793/prime-programs-cached-copy/tree/main/allnash, https://www.rieselprime.de/ziki/Riesel_2_Low-weight, https://www.rieselprime.de/ziki/Proth_2_Low-weight, https://www.rieselprime.de/ziki/Category:Riesel_2_Low-weight, https://www.rieselprime.de/ziki/Category:Proth_2_Low-weight, https://www.rieselprime.de/ziki/Category:Riesel_5_Low-weight, https://www.rieselprime.de/ziki/Category:Proth_5_Low-weight, https://web.archive.org/web/20230928115952/http://www.noprimeleftbehind.net/crus/vstats_new/riesel_weights.txt, https://web.archive.org/web/20230928120009/http://www.noprimeleftbehind.net/crus/vstats_new/sierpinski_weights.txt, https://arxiv.org/pdf/2307.07894.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_203.pdf), https://web.archive.org/web/20231002020455/http://yves.gallot.pagesperso-orange.fr/papers/weight.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_216.pdf)) (or difficulty (https://stdkmd.net/nrr/prime/primedifficulty.htm, https://stdkmd.net/nrr/prime/primedifficulty.txt, http://www.noprimeleftbehind.net/crus/vstats_new/crus-unproven.htm, https://web.archive.org/web/20230928120025/http://www.noprimeleftbehind.net/crus/vstats_new/riesel_difficulty.txt, https://web.archive.org/web/20230928120047/http://www.noprimeleftbehind.net/crus/vstats_new/sierpinski_difficulty.txt)), the family 5{H}5 in base *b* = 19: (its algebraic form is (107×19<sup>*n*+1</sup>−233)/18, and for the factorization of the numbers in the family (*n* is the number of digits in the "{}", start with the smallest *n* making the number > *b*) see http://factordb.com/index.php?query=%28107*19%5E%28n%2B1%29-233%29%2F18&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show)
 
