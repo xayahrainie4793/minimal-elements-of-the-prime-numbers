@@ -25,7 +25,7 @@ e.g.
 
 These primes are called **minimal primes**.
 
-(the prime curios related to minimal primes: https://t5k.org/curios/cpage/40841.html and https://t5k.org/curios/cpage/40899.html)
+(the prime curios related to minimal primes: https://t5k.org/curios/cpage/40841.html and https://t5k.org/curios/cpage/40899.html, also curios for other bases *b*: https://t5k.org/curios/cpage/43236.html (*b* = 5) and https://t5k.org/curios/cpage/42961.html (*b* = 7))
 
 Let *b* > 1 be a natural number (https://en.wikipedia.org/wiki/Natural_number, https://www.rieselprime.de/ziki/Natural_number, https://mathworld.wolfram.com/NaturalNumber.html). A minimal prime base *b* is a prime number (https://en.wikipedia.org/wiki/Prime_number, https://t5k.org/glossary/xpage/Prime.html, https://www.rieselprime.de/ziki/Prime, https://mathworld.wolfram.com/PrimeNumber.html, https://www.numbersaplenty.com/set/prime_number/, http://www.numericana.com/answer/primes.htm#definition, http://irvinemclean.com/maths/pfaq2.htm, https://oeis.org/A000040, https://t5k.org/lists/small/1000.txt, https://t5k.org/lists/small/10000.txt, https://t5k.org/lists/small/100000.txt, https://t5k.org/lists/small/millions/) greater than (https://en.wikipedia.org/wiki/Greater_than, https://mathworld.wolfram.com/Greater.html) *b* whose base-*b* (i.e. the positional numeral system (https://en.wikipedia.org/wiki/Positional_numeral_system) with radix (https://en.wikipedia.org/wiki/Radix, https://t5k.org/glossary/xpage/Radix.html, https://www.rieselprime.de/ziki/Base, https://mathworld.wolfram.com/Radix.html) *b*) representation has no proper subsequence (https://en.wikipedia.org/wiki/Subsequence, https://mathworld.wolfram.com/Subsequence.html) which is also a prime number greater than *b*.
 
