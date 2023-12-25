@@ -3171,6 +3171,22 @@ Other sets:
 1. https://arxiv.org/pdf/1607.01548.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_14.pdf) (sums of three squares, quadratic residues mod 6, quadratic residues mod 7, range of Euler's totient function, range of "Euler's totient function + 3", range of Dedekind psi function, perfect numbers)
 2. https://nntdm.net/papers/nntdm-25/NNTDM-25-1-036-047.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_15.pdf) (range of "Euler's totient function + *n*", for 0 ≤ *n* ≤ 5)
 
+The prime curios for them:
+
+* https://t5k.org/curios/cpage/40841.html (primes > *b*, *b* = 10)
+* https://t5k.org/curios/cpage/40899.html (primes > *b*, *b* = 10, number of minimal primes)
+* https://t5k.org/curios/cpage/43236.html (primes > *b*, *b* = 5)
+* https://t5k.org/curios/cpage/42961.html (primes > *b*, *b* = 7)
+* https://t5k.org/curios/cpage/42048.html (primes > *b*, *b* = 16) **(warning: this curio is not true, this prime (DB<sub>32234</sub>) is just the third-largest minimal prime in base *b* = 16, at the time of this curio was submitted the first-largest and second-largest minimal primes in base *b* = 16 (3<sub>116137</sub>AF and 4<sub>72785</sub>DD, respectively) were still not found, even the families corresponding to the first-largest and second-largest minimal primes in base *b* = 16 ({3}AF and {4}DD, respectively) were not found)**
+* https://t5k.org/curios/cpage/5154.html (all primes (includes the primes ≤ *b*), *b* = 10)
+* https://t5k.org/curios/cpage/5060.html (all primes (includes the primes ≤ *b*), *b* = 10, number of minimal primes)
+* https://t5k.org/curios/cpage/5425.html (all primes (includes the primes ≤ *b*), *b* = 6)
+* https://t5k.org/curios/cpage/5426.html (all primes (includes the primes ≤ *b*), *b* = 7)
+* https://t5k.org/curios/cpage/5481.html (all primes (includes the primes ≤ *b*), *b* = 8)
+* https://t5k.org/curios/cpage/5480.html (all primes (includes the primes ≤ *b*), *b* = 9)
+* https://t5k.org/curios/cpage/13013.html (primes == 3 mod 4)
+* https://t5k.org/curios/cpage/40914.html (palindromic primes)
+
 The sets of the minimal elements of these sets under the subsequence ordering are:
 
 |set (in decimal, i.e. base *b* = 10)|the set of the minimal elements under the subsequence ordering|number of such elements|length of the longest such element|
@@ -3193,22 +3209,6 @@ The sets of the minimal elements of these sets under the subsequence ordering ar
 |perfect numbers|6, 28 (this set is conjectured to be complete, but not proven, this conjecture is true if there are no odd perfect numbers, since all even perfect numbers end with either 6 or 28, and odd perfect numbers are conjectured not exist, this is a famous open problem)|≥ 2|2 or > 1500|
 
 (for the primality certificate for the largest element in the minimal set of "primes == 3 mod 4" (2<sub>19151</sub>99), see http://factordb.com/cert.php?id=1100000000301493137 and https://stdkmd.net/nrr/cert/2/2w99_19153.zip and http://www.lix.polytechnique.fr/Labo/Francois.Morain/Primes/Certif/shallit.certif.gz, note that this prime is also an element of the minimal set of the primes > 100 in base *b* = 100, since this prime is written 2:22<sub>9575</sub>:99 in base *b* = 100 (use the character ":" to saparate the digits for bases *b* > 36 (and just use decimal to write the digits), just like https://baseconvert.com/ and https://baseconvert.com/high-precision), and both families 2:{22} in base *b* = 100 and {22}:99 in base *b* = 100 contain no primes, however, the element 994<sub>34019</sub>99 in the minimal set of "palindromic primes" is only a probable prime, i.e. not a definitely prime)
-
-The prime curios for them:
-
-* https://t5k.org/curios/cpage/40841.html (primes > *b*, *b* = 10)
-* https://t5k.org/curios/cpage/40899.html (primes > *b*, *b* = 10, number of minimal primes)
-* https://t5k.org/curios/cpage/43236.html (primes > *b*, *b* = 5)
-* https://t5k.org/curios/cpage/42961.html (primes > *b*, *b* = 7)
-* https://t5k.org/curios/cpage/42048.html (primes > *b*, *b* = 16) **(warning: this curio is not true, this prime (DB<sub>32234</sub>) is just the third-largest minimal prime in base *b* = 16, at the time of this curio was submitted the first-largest and second-largest minimal primes in base *b* = 16 (3<sub>116137</sub>AF and 4<sub>72785</sub>DD, respectively) were still not found, even the families corresponding to the first-largest and second-largest minimal primes in base *b* = 16 ({3}AF and {4}DD, respectively) were not found)**
-* https://t5k.org/curios/cpage/5154.html (all primes (includes the primes ≤ *b*), *b* = 10)
-* https://t5k.org/curios/cpage/5060.html (all primes (includes the primes ≤ *b*), *b* = 10, number of minimal primes)
-* https://t5k.org/curios/cpage/5425.html (all primes (includes the primes ≤ *b*), *b* = 6)
-* https://t5k.org/curios/cpage/5426.html (all primes (includes the primes ≤ *b*), *b* = 7)
-* https://t5k.org/curios/cpage/5481.html (all primes (includes the primes ≤ *b*), *b* = 8)
-* https://t5k.org/curios/cpage/5480.html (all primes (includes the primes ≤ *b*), *b* = 9)
-* https://t5k.org/curios/cpage/13013.html (primes == 3 mod 4)
-* https://t5k.org/curios/cpage/40914.html (palindromic primes)
 
 Besides, the sets of the minimal elements of other classical sets under the subsequence ordering are:
 
