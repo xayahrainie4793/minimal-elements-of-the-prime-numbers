@@ -3417,7 +3417,7 @@ Lists of factorizations of small integers:
 
 Lists of small integers in various bases:
 
-1. https://sites.google.com/view/integer-in-various-base (bases 2 ≤ *b* ≤ 36) (limit: 12000)
+1. https://sites.google.com/view/integer-in-various-base (bases 2 ≤ *b* ≤ 36) (limit: 12500)
 2. https://en.wikipedia.org/wiki/Table_of_bases (bases 2 ≤ *b* ≤ 36) (limit: 256)
 
 Also, programs related to this research: (some of these programs can also be downloaded in http://www.fermatsearch.org/download.php or https://www.mersenne.org/download/freeware.php or https://download.mersenne.ca/) (some of these programs need to use *GMP* (https://gmplib.org/))
