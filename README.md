@@ -3418,8 +3418,8 @@ Lists of factorizations of small integers:
 10. https://en.wikipedia.org/wiki/Table_of_prime_factors (limit: 1000)
 11. https://en.wikipedia.org/wiki/Table_of_divisors (all (prime or composite or unit) factors of *N*) (limit: 1000)
 12. http://factordb.com/index.php?query=n&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show (from *factordb*) (the limit in the list is 199, but you can change the number to get the list of the factorizations of larger integers)
-13. http://myfactorcollection.mooo.com:8090/cgi-bin/showFullRep?FBase=2&TBase=20001&FExp=1&TExp=1&c0=-&EN=&LM= (from an online factor database for numbers of the form *b*<sup>*n*</sup>±1) (the limit in the list is 20000, but you can change the number to get the list of the factorizations of larger integers)
-14. http://myfactorcollection.mooo.com:8090/cgi-bin/showFullRep?FBase=2&TBase=20001&FExp=1&TExp=1&c0=%2B&EN=&LM= (from an online factor database for numbers of the form *b*<sup>*n*</sup>±1) (the limit in the list is 20002, but you can change the number to get the list of the factorizations of larger integers)
+13. http://myfactorcollection.mooo.com:8090/cgi-bin/showFullRep?FBase=2&TBase=20001&FExp=1&TExp=1&c0=-&EN=&LM= (from an online factor database for numbers of the form *b*<sup>*n*</sup>±1) (the limit in the list is 20000, but you can change the number to get the list of the factorizations of larger integers (at most 1099999))
+14. http://myfactorcollection.mooo.com:8090/cgi-bin/showFullRep?FBase=2&TBase=20001&FExp=1&TExp=1&c0=%2B&EN=&LM= (from an online factor database for numbers of the form *b*<sup>*n*</sup>±1) (the limit in the list is 20002, but you can change the number to get the list of the factorizations of larger integers (at most 1100001))
 
 Lists of small integers in various bases:
 
