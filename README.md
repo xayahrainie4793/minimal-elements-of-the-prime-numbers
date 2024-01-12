@@ -793,7 +793,20 @@ Shrinking the family *x*{*Y*}*z* (where *x* and *z* are strings (may be empty) o
 * If *y*<sub>1</sub> ∈ *Y* and *y*<sub>2</sub> ∈ *Y* and *y*<sub>1</sub> ≠ *y*<sub>2</sub> and the string *xy*<sub>1</sub>*y*<sub>2</sub>*z* represents a prime > *b* in base *b* (in this case, add this prime to the list) or has a subsequence which represents a prime > *b* in base *b*, then *x*{*Y*}*z* can be replaced with *x*{*Y* \ *y*<sub>1</sub>}{*Y* \ *y*<sub>2</sub>}*z*.
 * If *y*<sub>1</sub> ∈ *Y* and *y*<sub>2</sub> ∈ *Y* and *y*<sub>1</sub> ≠ *y*<sub>2</sub> and both the strings *xy*<sub>1</sub>*y*<sub>2</sub>*z* and *xy*<sub>2</sub>*y*<sub>1</sub>*z* represent a prime > *b* in base *b* (in this case, add this prime to the list) or have a subsequence which represents a prime > *b* in base *b*, then *x*{*Y*}*z* can be replaced with *x*{*Y* \ *y*<sub>1</sub>}*z* ∪ *x*{*Y* \ *y*<sub>2</sub>}*z*.
 
+e.g. in decimal (base *b* = 10):
+
+* 2221 is a prime > 10, thus the family 2{0,2}1 splits into the two families 2{0}1 and 2{0}2{0}1.
+* 227 is a prime > 10, and it is a subsequence of 5227, thus the family 5{0,2}7 splits into the two families 5{0}7 and 5{0}2{0}7.
+* 449 is a prime > 10, and it is a subsequence of 6449, thus the family 6{0,3,4,6,9}9 splits into the two families 6{0,3,6,9}9 and 6{0,3,6,9}4{0,3,6,9}9.
+* Both 5051 and 5501 are primes > 10, thus the family 5{0,5}1 splits into the two families 5{0}1 and 5{5}1 = {5}1.
+* 8501 is a prime > 10, thus the family 8{0,5}1 splits into the family 8{0}{5}1.
+* 887 is a prime > 10, and it is a subsequence of 2887, also 2087 is a prime > 10, thus the family 2{0,8}7 splits into the two families 2{0}7 and 28{0}7.
+* 349 and 449 are primes > 10, and they are subsequences of 9349 and 9449, respectively, also 9049, 9649, 9949 are primes > 10, thus the family 9{0,3,4,6,9}9 splits into the two families 9{0,3,6,9}9 and 94{0,3,6,9}9.
+* 251, 281, 521, 821, 881 are primes > 10, and they are subsequences of 9251, 9281, 9521, 9821, 9881, respectively, also 9001, 9221, 9551, 9851 are primes > 10, thus the family 9{0,2,5,8}1 splits into the numbers {91, 901, 921, 951, 981, 9021, 9051, 9081, 9201, 9501, 9581, 9801, 90581, 95081, 95801}.
+
 If the methods we have discussed cannot be used to rule out or shrink *x*{*Y*}*z* where *Y* = {*y*<sub>1</sub>, *y*<sub>2</sub>, ..., *y*<sub>*n*</sub>}, then we can replace *x*{*Y*}*z* by *xy*<sub>1</sub>{*Y*}*z* ∪ *xy*<sub>2</sub>{*Y*}*z* ∪ ... ∪ *xy*<sub>*n*</sub>{*Y*}*z* and re-run the methods on this new language.
+
+If all remain families are linear families (i.e. of the form *x*{*y*}*z*), then we search the smallest (probable) primes in these families and add these primes to the list.
 
 There is no guarantee that the techniques discussed will ever terminate, but in practice they often do. They are able to determine the minimal primes in base *b* for 2 ≤ *b* ≤ 16 and *b* = 18, 20, 22, 24, 30. The bases *b* = 17, 19, 21, 23, 25 ≤ *b* ≤ 29, 31 ≤ *b* ≤ 36 are solved with the exception of 793+? families of the form *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base *b*, *y* is a digit in base *b*).
 
