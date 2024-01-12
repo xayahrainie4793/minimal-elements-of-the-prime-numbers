@@ -964,12 +964,12 @@ Thus the only interesting cases to search for possible primes are when *n* == 7 
 
 And for *n* == 7 mod 24, we have: (all "composites without known proper factor > 1" in the list below have been trial factored (https://en.wikipedia.org/wiki/Trial_division, https://t5k.org/glossary/xpage/TrialDivision.html, https://www.rieselprime.de/ziki/Trial_factoring, https://mathworld.wolfram.com/TrialDivision.html, http://www.numericana.com/answer/factoring.htm#trial, https://www.mersenne.ca/tf1G/, https://www.mersenne.ca/tfmissed.php, https://oeis.org/A189172) to 10<sup>12</sup>, also none of these composites have algebraic factors)
 
-|*n*|the prime factorization of the number 5H<sub>*n*</sub>5 in base *b* = 19|
+|*n*|the prime factorization of the number CH<sub>*n*</sub>C in base *b* = 19|
 |---|---|
 |7|2347 × 4937 × 18973|
 |31|951820073 × 682709071131761 × 1657326648944531039|
 |55|5039891 × 5312207 × 44999186966208286552983113 × 4379094008236471173214119625150027|
-|79|409 × 709 × 11467 × 37699 × 10660810089661 × (77-digit composite without known proper factor > 1)|
+|79|409 × 709 × 11467 × 37699 × 10660810089661 × 1282461768425116416287 × 76403952268139600660997011 × 197365776416390077077003257867|
 |103|11<sup>2</sup> × 1049 × 6997 × (126-digit prime)|
 |127|83 × 127498425829 × (152-digit composite without known proper factor > 1)|
 |151|29 × 89 × 1896473 × 5672167 × (180-digit composite without known proper factor > 1)|
