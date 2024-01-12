@@ -3459,7 +3459,7 @@ Lists of factorizations of small integers:
 2. http://www.sosmath.com/tables/factor/factor.html (page limit: 200, total limit: 1000)
 3. https://sites.google.com/view/prime-factorization-of-integer (limit: 25000)
 4. https://web.archive.org/web/20060210182347/http://bearnol.is-a-geek.com/Panfur%20Project/ (limit: 20000000, however, currently the data is only available up to 1500000 in the archive pages, the data for numbers > 1500000 has no available archive pages) **(warning: this site does not factor the composite numbers 15, 51, 85, 91, 255, 435, 451, 561, 595, 679, 703, 771, 1105, 1261, 1285, 1351, 1387, ...)**
-5. http://www.datapointed.net/visualizations/math/factorization/animated-diagrams/ (no limit)
+5. http://www.datapointed.net/visualizations/math/factorization/animated-diagrams/ (limit: 10000)
 6. http://www.datapointed.net/visualizations/math/factorization/animated-diagrams/?infinity (no limit)
 7. https://oeis.org/A027750/a027750.txt (all (prime or composite or unit) factors of *N*) (limit: 10000)
 8. http://factorzone.tripod.com/factors.htm (all (prime or composite or unit) factors of *N*) (limit: 1100)
