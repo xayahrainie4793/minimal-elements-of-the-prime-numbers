@@ -3427,17 +3427,16 @@ Lists of small primes: (see https://t5k.org/notes/faq/LongestList.html and https
 23. https://www.walter-fendt.de/html5/men/primenumbers_en.htm (limit: first 37607912018 primes, up to 999999999989)
 24. https://www.rsok.com/~jrm/first100primes.html (limit: first 100 primes, up to 541)
 25. http://www.rsok.com/~jrm/printprimes.html (limit: first ? primes, up to 1999999973)
-26. http://www.numbertheory.org/php/prime_generator.html (limit: first 455052511 primes, up to 9999999967)
-27. http://mrteverett.com/numbers/primes/factest.txt (limit: first 14172 primes, up to 153757) **(warning: this site does not list the primes 2 and 3 and start with the prime 5, thus this site actually only has 14172−2 = 14170 primes)**
-28. http://www.primzahlen.de/primzahltests/2-100003.htm (in German) (limit: first 9593 primes, up to 100003)
-29. https://jocelyn.quizz.chat/np/cache/index.html (in French) (limit: first 1000000 primes, up to 15485863)
-30. http://www.sosmath.com/tables/prime/prime.html (limit: first 1000 primes, up to 7919)
-31. https://www.bigprimes.net/archive/prime (page limit: first 100 primes, up to 541, total limit: first 1000099 primes, up to 15487457)
-32. https://web.archive.org/web/20201130071856/http://www.mathematical.com/primelist1to100kk.html (limit: first 664579 primes, up to 9999991)
-33. https://web.archive.org/web/20191118082053/http://www.tsm-resources.com/alists/prim.html (limit: first 2000 primes, up to 17389)
-34. https://web.archive.org/web/20090917191047/http://planetmath.org/encyclopedia/FirstThousandPositivePrimeNumbers.html (limit: first 1000 primes, up to 7919)
-35. https://faculty.lynchburg.edu/~nicely/gaps/gaplist.html (the longest list ever calculated, with all primes < 2<sup>64</sup> (but unlikely other lists here, the primes are not all stored))
-36. https://en.wikipedia.org/wiki/List_of_prime_numbers#The_first_1000_prime_numbers (limit: first 1000 primes, up to 7919)
+26. http://mrteverett.com/numbers/primes/factest.txt (limit: first 14172 primes, up to 153757) **(warning: this site does not list the primes 2 and 3 and start with the prime 5, thus this site actually only has 14172−2 = 14170 primes)**
+27. http://www.primzahlen.de/primzahltests/2-100003.htm (in German) (limit: first 9593 primes, up to 100003)
+28. https://jocelyn.quizz.chat/np/cache/index.html (in French) (limit: first 1000000 primes, up to 15485863)
+29. http://www.sosmath.com/tables/prime/prime.html (limit: first 1000 primes, up to 7919)
+30. https://www.bigprimes.net/archive/prime (page limit: first 100 primes, up to 541, total limit: first 1000099 primes, up to 15487457)
+31. https://web.archive.org/web/20201130071856/http://www.mathematical.com/primelist1to100kk.html (limit: first 664579 primes, up to 9999991)
+32. https://web.archive.org/web/20191118082053/http://www.tsm-resources.com/alists/prim.html (limit: first 2000 primes, up to 17389)
+33. https://web.archive.org/web/20090917191047/http://planetmath.org/encyclopedia/FirstThousandPositivePrimeNumbers.html (limit: first 1000 primes, up to 7919)
+34. https://faculty.lynchburg.edu/~nicely/gaps/gaplist.html (the longest list ever calculated, with all primes < 2<sup>64</sup> (but unlikely other lists here, the primes are not all stored))
+35. https://en.wikipedia.org/wiki/List_of_prime_numbers#The_first_1000_prime_numbers (limit: first 1000 primes, up to 7919)
 
 Also http://95.216.153.126/primes.tar.xz and https://download.mersenne.ca/factordb.com_primes_2023-01-19.tar.xz.torrent and https://mersenneforum.org/attachment.php?attachmentid=28019&d=1675880511 for all primes and probable primes > 10<sup>18</sup> in *factordb* (i.e. the numbers in either http://factordb.com/listtype.php?t=4 or http://factordb.com/listtype.php?t=1), also http://factordb.com/dlprp.php?n=1000000 for 10000 random chosen small unproven probable primes in *factordb* (i.e. the numbers in http://factordb.com/listtype.php?t=1), also http://factordb.com/dlc.php?n=1000000 for 5000 random chosen small composites with no known proper (prime or composite) factors in *factordb* (i.e. the numbers in http://factordb.com/listtype.php?t=3)
 
