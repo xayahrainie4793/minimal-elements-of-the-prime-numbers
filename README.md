@@ -3439,7 +3439,7 @@ Lists of small primes: (see https://t5k.org/notes/faq/LongestList.html and https
 22. https://web.archive.org/web/20231024091219/http://www.primos.mat.br/indexen.html (page limit: first 168 primes, up to 997, total limit: first 37607912018 primes, up to 999999999989)
 23. https://www.walter-fendt.de/html5/men/primenumbers_en.htm (limit: first 37607912018 primes, up to 999999999989)
 24. https://www.rsok.com/~jrm/first100primes.html (limit: first 100 primes, up to 541)
-25. http://www.rsok.com/~jrm/printprimes.html (limit: first ? primes, up to 1999999973)
+25. http://www.rsok.com/~jrm/printprimes.html (limit: first 98222287 primes, up to 1999999973)
 26. http://mrteverett.com/numbers/primes/factest.txt (limit: first 14172 primes, up to 153757) **(warning: this site does not list the primes 2 and 3 and start with the prime 5, thus this site actually only has 14172−2 = 14170 primes)**
 27. http://www.primzahlen.de/primzahltests/2-100003.htm (in German) (limit: first 9593 primes, up to 100003)
 28. https://jocelyn.quizz.chat/np/cache/index.html (in French) (limit: first 1000000 primes, up to 15485863)
