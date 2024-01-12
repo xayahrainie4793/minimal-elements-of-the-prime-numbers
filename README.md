@@ -785,7 +785,7 @@ and since the family 3{0,3,6,9}3 can be proven to contain no primes > base (sinc
 
 etc.
 
-The process of exploring/examining/splitting a family can be concisely expressed in a tree (https://en.wikipedia.org/wiki/Tree_(graph_theory), https://mathworld.wolfram.com/Tree.html) of decompositions, for an example of a tree of decompositions for a family (for the family 1{0,1,6}1 in base *b* = 9) see figure 1 of https://cs.uwaterloo.ca/~cbright/reports/mepn.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_17.pdf) and figure 1 of https://cs.uwaterloo.ca/~shallit/Papers/br10.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_18.pdf) and figure 1 of https://doi.org/10.1080/10586458.2015.1064048 (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_20.pdf).
+The process of exploring/examining/splitting a nonlinear family can be concisely expressed in a tree (https://en.wikipedia.org/wiki/Tree_(graph_theory), https://mathworld.wolfram.com/Tree.html) of decompositions, for an example of a tree of decompositions for a nonlinear family (for the family 1{0,1,6}1 in base *b* = 9) see figure 1 of https://cs.uwaterloo.ca/~cbright/reports/mepn.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_17.pdf) and figure 1 of https://cs.uwaterloo.ca/~shallit/Papers/br10.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_18.pdf) and figure 1 of https://doi.org/10.1080/10586458.2015.1064048 (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_20.pdf). (in fact, for the main problem in this project, we should consider the family 1{0,1,6,7}1 (in base *b* = 9) instead of 1{0,1,6}1 (in base *b* = 9), but these three articles are for the original minimal prime problem (i.e. prime > *b* is not required))
 
 Shrinking the family *x*{*Y*}*z* (where *x* and *z* are strings (may be empty) of digits in base *b*, *Y* is a set of digits in base *b*)
 
@@ -807,6 +807,12 @@ e.g. in decimal (base *b* = 10):
 If the methods we have discussed cannot be used to rule out or shrink *x*{*Y*}*z* where *Y* = {*y*<sub>1</sub>, *y*<sub>2</sub>, ..., *y*<sub>*n*</sub>}, then we can replace *x*{*Y*}*z* by *xy*<sub>1</sub>{*Y*}*z* ∪ *xy*<sub>2</sub>{*Y*}*z* ∪ ... ∪ *xy*<sub>*n*</sub>{*Y*}*z* and re-run the methods on this new language.
 
 If all remain families are linear families (i.e. of the form *x*{*y*}*z*), then we search the smallest (probable) primes in these families and add these primes to the list.
+
+e.g. in decimal (base *b* = 10):
+
+* The smallest prime in the family 5{0}27 is 5000000000000000000000000000027.
+* The smallest prime in the family {5}1 is 555555555551.
+* The smallest prime in the family 8{5}1 is 8555555555555555555551, but 8555555555555555555551 is not minimal prime since 555555555551 is a subsequence of 8555555555555555555551.
 
 There is no guarantee that the techniques discussed will ever terminate, but in practice they often do. They are able to determine the minimal primes in base *b* for 2 ≤ *b* ≤ 16 and *b* = 18, 20, 22, 24, 30. The bases *b* = 17, 19, 21, 23, 25 ≤ *b* ≤ 29, 31 ≤ *b* ≤ 36 are solved with the exception of 793+? families of the form *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base *b*, *y* is a digit in base *b*).
 
