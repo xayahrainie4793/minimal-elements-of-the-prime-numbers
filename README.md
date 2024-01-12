@@ -785,7 +785,7 @@ and since the family 3{0,3,6,9}3 can be proven to contain no primes > base (sinc
 
 etc.
 
-The process of exploring/examining/splitting a family can be concisely expressed in a tree (https://en.wikipedia.org/wiki/Tree_(graph_theory), https://mathworld.wolfram.com/Tree.html) of decompositions.
+The process of exploring/examining/splitting a family can be concisely expressed in a tree (https://en.wikipedia.org/wiki/Tree_(graph_theory), https://mathworld.wolfram.com/Tree.html) of decompositions, for an example of a tree of decompositions for a family (for the family 1{0,1,6}1 in base *b* = 9) see figure 1 of https://cs.uwaterloo.ca/~cbright/reports/mepn.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_17.pdf) and figure 1 of https://cs.uwaterloo.ca/~shallit/Papers/br10.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_18.pdf) and figure 1 of https://doi.org/10.1080/10586458.2015.1064048 (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_20.pdf).
 
 Shrinking the family *x*{*Y*}*z* (where *x* and *z* are strings (may be empty) of digits in base *b*, *Y* is a set of digits in base *b*)
 
