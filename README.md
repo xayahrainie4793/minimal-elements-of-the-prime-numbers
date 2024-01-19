@@ -3425,7 +3425,7 @@ Expression generators:
 6. *Magma* (http://magma.maths.usyd.edu.au/, https://en.wikipedia.org/wiki/Magma_(computer_algebra_system))
 7. *SageMath* (https://www.sagemath.org/, https://en.wikipedia.org/wiki/SageMath)
 
-Lists of small primes: (see https://t5k.org/notes/faq/LongestList.html and https://t5k.org/notes/faq/x_digit_primes.html, although we can quickly determine whether a number < 10<sup>300</sup> is prime or not, but there is no list of all primes < 10<sup>300</sup>, since the space which we need is larger than the number of elementary particles (https://en.wikipedia.org/wiki/Elementary_particle) (i.e. quarks (https://en.wikipedia.org/wiki/Quark) and electrons (https://en.wikipedia.org/wiki/Electron)) in the universe (https://en.wikipedia.org/wiki/Universe))
+Lists of small primes: (see https://t5k.org/notes/faq/LongestList.html, long lists just waste storage, and if placed on the Internet, they just waste bandwidth, since small primes are too easy to find, they can be found far faster than they can be read from a hard disk, also see https://t5k.org/notes/faq/x_digit_primes.html, although we can quickly determine whether a number < 10<sup>300</sup> is prime or not, but there is no list of all primes < 10<sup>300</sup>, since the space which we need is larger than the number of elementary particles (https://en.wikipedia.org/wiki/Elementary_particle) (i.e. quarks (https://en.wikipedia.org/wiki/Quark) and electrons (https://en.wikipedia.org/wiki/Electron)) in the universe (https://en.wikipedia.org/wiki/Universe), also see https://mersenneforum.org/showthread.php?t=24417)
 
 1. https://t5k.org/lists/small/1000.txt (limit: first 1000 primes, up to 7919)
 2. https://t5k.org/lists/small/10000.txt (limit: first 10000 primes, up to 104729)
