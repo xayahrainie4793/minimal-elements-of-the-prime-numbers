@@ -3317,7 +3317,7 @@ Prime checkers:
 13. https://www.bigprimes.net/primalitytest (use the first box) (limit: 2<sup>53</sup>−4)
 14. https://www.archimedes-lab.org/primOmatic.html (limit: 10<sup>12</sup>−1)
 15. http://www.sonic.net/~undoc/java/PrimeCalc.html (click "y=IsPrime(x)") (no limit)
-16. https://web.archive.org/web/20021011204430/http://www.miroe.de/proth/pr_prim.htm (limit: 2<sup>53</sup>)
+16. https://web.archive.org/web/20021011204430/http://www.miroe.de/proth/pr_prim.htm (limit: 10<sup>10</sup>−34)
 17. https://www.bigprimes.net/cruncher/ (limit: 10<sup>6</sup>−1)
 18. http://www.primzahlen.de/primzahltests/testverfahren.htm (in German) (use the box "Miller-Rabin-Test" and click "Test") (limit: 2<sup>53</sup>)
 19. http://www.proftnj.com/calcprem.htm (in French) (use the box "Rechercher si un nombre est premier" and click "Rechercher") (limit: 2<sup>53</sup>)
