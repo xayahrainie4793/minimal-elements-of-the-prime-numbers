@@ -924,7 +924,7 @@ and it does not appear to be any covering set (of either primes or algebraic fac
 
 Also, you can see the prime factorizations (https://en.wikipedia.org/wiki/Integer_factorization, https://www.rieselprime.de/ziki/Factorization, https://mathworld.wolfram.com/PrimeFactorization.html, https://mathworld.wolfram.com/PrimeFactorizationAlgorithms.html, http://www.numericana.com/answer/factoring.htm) of the numbers in the family 9<sub>*n*</sub>D in base *b* = 21: (for more information, see http://factordb.com/index.php?query=%289*21%5E%28n%2B1%29%2B71%29%2F20&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show)
 
-|*n*|the prime factorization of the number 9<sub>*n*</sub>D in base *b* = 21|
+|*n*|the currently known prime factorization of the number 9<sub>*n*</sub>D in base *b* = 21|
 |---|---|
 |1|2 × 101|
 |2|43 × 97|
@@ -960,7 +960,7 @@ Thus the only interesting cases to search for possible primes are when *n* == 15
 
 And for *n* == 15 mod 24, we have: (all "composites without known proper factor > 1" in the list below have been trial factored (https://en.wikipedia.org/wiki/Trial_division, https://t5k.org/glossary/xpage/TrialDivision.html, https://www.rieselprime.de/ziki/Trial_factoring, https://mathworld.wolfram.com/TrialDivision.html, http://www.numericana.com/answer/factoring.htm#trial, https://www.mersenne.ca/tf1G/, https://www.mersenne.ca/tfmissed.php, https://oeis.org/A189172) to 10<sup>12</sup>, also none of these composites have algebraic factors)
 
-|*n*|the prime factorization of the number 5H<sub>*n*</sub>5 in base *b* = 19|
+|*n*|the currently known prime factorization of the number 5H<sub>*n*</sub>5 in base *b* = 19|
 |---|---|
 |15|11 × 29 × 47 × 71 × 439 × 15287 × 240013247|
 |39|281 × 9833 × 99133 × 281717 × 390527 × 278727989572543299217912827703|
@@ -987,7 +987,7 @@ Thus the only interesting cases to search for possible primes are when *n* == 7 
 
 And for *n* == 7 mod 24, we have: (all "composites without known proper factor > 1" in the list below have been trial factored (https://en.wikipedia.org/wiki/Trial_division, https://t5k.org/glossary/xpage/TrialDivision.html, https://www.rieselprime.de/ziki/Trial_factoring, https://mathworld.wolfram.com/TrialDivision.html, http://www.numericana.com/answer/factoring.htm#trial, https://www.mersenne.ca/tf1G/, https://www.mersenne.ca/tfmissed.php, https://oeis.org/A189172) to 10<sup>12</sup>, also none of these composites have algebraic factors)
 
-|*n*|the prime factorization of the number CH<sub>*n*</sub>C in base *b* = 19|
+|*n*|the currently known prime factorization of the number CH<sub>*n*</sub>C in base *b* = 19|
 |---|---|
 |7|2347 × 4937 × 18973|
 |31|951820073 × 682709071131761 × 1657326648944531039|
