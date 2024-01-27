@@ -199,7 +199,7 @@ For the number 21<sup>230</sup>−1, it is the product of *Φ*<sub>*d*</sub>(21)
 
 For the number 21<sup>1064</sup>−1, it is the product of *Φ*<sub>*d*</sub>(21) with positive integers *d* dividing 1064 (i.e. *d* = 1, 2, 4, 7, 8, 14, 19, 28, 38, 56, 76, 133, 152, 266, 532, 1064), and the factorization of *Φ*<sub>*d*</sub>(21) for these positive integers *d* are:
 
-|from|prime factorization|
+|from|currently known prime factorization|
 |---|---|
 |*Φ*<sub>1</sub>(21)|2<sup>2</sup> × 5|
 |*Φ*<sub>2</sub>(21)|2 × 11|
