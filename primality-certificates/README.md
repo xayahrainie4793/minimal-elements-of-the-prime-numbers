@@ -189,6 +189,17 @@ For the number 13<sup>576</sup>−1, it is the product of *Φ*<sub>*d*</sub>(13)
 |*Φ*<sub>288</sub>(13)|2017 × 47521 × 54721 × 1590049 × 8299042833797200969471889569 × (61-digit prime)|
 |*Φ*<sub>576</sub>(13)|577 × 6337 × 5247817273269739636080024961 × 5497355933986265726220616321 × 1032606621363411464640473542092061600217962755283816476128113983937 (*GNFS*) × (86-digit prime)|
 
+For the number 17<sup>292</sup>−1, it is the product of *Φ*<sub>*d*</sub>(17) with positive integers *d* dividing 292 (i.e. *d* = 1, 2, 4, 73, 146, 292), and the factorization of *Φ*<sub>*d*</sub>(17) for these positive integers *d* are:
+
+|from|prime factorization|
+|---|---|
+|*Φ*<sub>1</sub>(17)|2<sup>4</sup>|
+|*Φ*<sub>2</sub>(17)|2 × 3<sup>2</sup>|
+|*Φ*<sub>4</sub>(17)|2 × 5 × 29|
+|*Φ*<sub>73</sub>(17)|293 × 1621745371 × 3038535503 × 319344640907 × 596137412912777 × (42-digit prime)|
+|*Φ*<sub>146</sub>(17)|284117 × 1517302254487813 × (68-digit prime)|
+|*Φ*<sub>292</sub>(17)|877 × 4673 × 734854949942641407221086529797643582883477575817985261656573824687508604116290261093 × (87-digit prime)|
+
 For the number 21<sup>230</sup>−1, it is the product of *Φ*<sub>*d*</sub>(21) with positive integers *d* dividing 230 (i.e. *d* = 1, 2, 5, 10, 23, 46, 115, 230), and the factorization of *Φ*<sub>*d*</sub>(21) for these positive integers *d* are:
 
 |from|prime factorization|
