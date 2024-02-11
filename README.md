@@ -2923,7 +2923,7 @@ base *b* = 10:
 * {2}1: https://oeis.org/A084832, https://oeis.org/A091189 (corresponding primes)
 * {2}3: https://oeis.org/A096506, https://oeis.org/A093162 (corresponding primes, with an additional prime 3)
 * {2}7: https://oeis.org/A099409, https://oeis.org/A093167 (corresponding primes, with an additional prime 7)
-* {2}9: https://oeis.org/A099410, https://oeis.org/A093401
+* {2}9: https://oeis.org/A099410, https://oeis.org/A093401 (corresponding primes)
 * 2{3}: https://oeis.org/A056701, https://oeis.org/A093672 (corresponding primes, with an additional prime 2)
 * 2{7}: https://oeis.org/A056702, https://oeis.org/A093938 (corresponding primes, with an additional prime 2)
 * 2{9}: https://oeis.org/A056703, https://oeis.org/A055559 (corresponding primes, with an additional prime 2)
@@ -2942,7 +2942,7 @@ base *b* = 10:
 * {4}1: https://oeis.org/A099412, https://oeis.org/A093174 (corresponding primes)
 * {4}3: https://oeis.org/A096845, https://oeis.org/A093163 (corresponding primes, with an additional prime 3)
 * {4}7: https://oeis.org/A099413, https://oeis.org/A092480 (corresponding primes, with an additional prime 7)
-* {4}9: https://oeis.org/A099414, https://oeis.org/A093402
+* {4}9: https://oeis.org/A099414, https://oeis.org/A093402 (corresponding primes)
 * 4{7}: https://oeis.org/A056708, https://oeis.org/A093940 (corresponding primes)
 * 4{9}: https://oeis.org/A056712, https://oeis.org/A093945 (corresponding primes)
 * 5{0}3: https://oeis.org/A096254, https://oeis.org/A177120 (corresponding primes)
