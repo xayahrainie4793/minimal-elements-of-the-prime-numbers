@@ -3501,7 +3501,7 @@ Lists of factorizations of small integers:
 5. http://www.datapointed.net/visualizations/math/factorization/animated-diagrams/ (limit: 10000)
 6. http://www.datapointed.net/visualizations/math/factorization/animated-diagrams/?infinity (no limit)
 7. https://oeis.org/A027750/a027750.txt (all (prime or composite or unit) factors of *N*) (limit: 10000)
-8. https://oeis.org/A054841/b054841.txt (the *n*th rightmost decimal digit means the exponent of the *n*th prime, but only for the exponents ≤ 9, thus the number will be incorrect if *N* is divisible by a 10th power (> 1), thus, the number is incorrect only for 9 values of *N*, namely *N* = 1024, 2048, 3072, 4096, 5120, 6144, 7168, 8192, 9216, since the limit of *N* is 10000) (limit: 10000)
+8. https://oeis.org/A054841/b054841.txt (the *n*th rightmost decimal digit represents the exponent of the *n*th prime, but only for the exponents ≤ 9, thus the number will be incorrect if *N* is divisible by a 10th power (> 1), thus, the number is incorrect only for 9 values of *N*, namely *N* = 1024, 2048, 3072, 4096, 5120, 6144, 7168, 8192, 9216, since the limit of *N* is 10000) (limit: 10000)
 9. http://factorzone.tripod.com/factors.htm (all (prime or composite or unit) factors of *N*) (limit: 1100)
 10. http://functions.wolfram.com/NumberTheoryFunctions/Divisors/03/02 (all (prime or composite or unit) factors of *N*) (limit: 50)
 11. https://en.wikipedia.org/wiki/Table_of_prime_factors (limit: 1000)
