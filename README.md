@@ -883,15 +883,15 @@ This is a list for all known generalized Wieferich primes in bases 2 ≤ *b* ≤
 
 We can show that: For the case of covering congruence, the numbers in the family are not equal to any element in *S*, if *n* makes the numbers > *b*, thus these factorizations are nontrivial (https://en.wikipedia.org/wiki/Triviality_(mathematics), https://mathworld.wolfram.com/Trivial.html); for the case of algebraic factorization (if the numbers are factored as *F* × *G* / *d*), both *F* and *G* are > *d*, if *n* makes the numbers > *b*, thus these factorizations are nontrivial (the exceptions are the base 9 family {1} and the base 25 family {1} and the base 27 family 9{G} and the base 32 family {1}. For the base 9 family {1}, the algebraic form is (9<sup>*n*</sup>−1)/8 with *n* ≥ 2, and can be factored to (3<sup>*n*</sup>−1) × (3<sup>*n*</sup>+1) / 8, if *n* ≥ 3, then both 3<sup>*n*</sup>−1 and 3<sup>*n*</sup>+1 are > 8, thus these factorizations are nontrivial, it only remains to check the case *n* = 2, but the number with *n* = 2 is 10 = 2 × 5 is not prime; for the base 25 family {1}, the algebraic form is (25<sup>*n*</sup>−1)/24 with *n* ≥ 2, and can be factored to (5<sup>*n*</sup>−1) × (5<sup>*n*</sup>+1) / 24, if *n* ≥ 3, then both 5<sup>*n*</sup>−1 and 5<sup>*n*</sup>+1 are > 24, thus these factorizations are nontrivial, it only remains to check the case *n* = 2, but the number with *n* = 2 is 26 = 2 × 13 is not prime; for the base 27 family 9{G}, the algebraic form is (125×27<sup>*n*</sup>−8)/13 with *n* ≥ 1, and can be factored to (5×3<sup>*n*</sup>−2) × (25×9<sup>*n*</sup>+10×3<sup>*n*</sup>+4) / 13, if *n* ≥ 2, then both 5×3<sup>*n*</sup>−2 and 25×9<sup>*n*</sup>+10×3<sup>*n*</sup>+4 are > 13, thus these factorizations are nontrivial, it only remains to check the case *n* = 1, but the number with *n* = 1 is 259 = 7 × 37 is not prime; for the base 32 family {1}, the algebraic form is (32<sup>*n*</sup>−1)/31 with *n* ≥ 2, and can be factored to (2<sup>*n*</sup>−1) × (16<sup>*n*</sup>+8<sup>*n*</sup>+4<sup>*n*</sup>+2<sup>*n*</sup>+1) / 31, if *n* ≥ 6, then both 2<sup>*n*</sup>−1 and 16<sup>*n*</sup>+8<sup>*n*</sup>+4<sup>*n*</sup>+2<sup>*n*</sup>+1 are > 31, thus these factorizations are nontrivial, it only remains to check the cases *n* = 2, 3, 4, 5, but the numbers with *n* = 2, 3, 4, 5 are 33 = 3 × 11, 1057 = 7 × 151, 33825 = 3 × 5<sup>2</sup> × 11 × 41, 1082401 = 601 × 1801 are not primes); for the case of combine of covering congruence and algebraic factorization (if the numbers are factored as *F* × *G* / *d*), the numbers in the family are not equal to any element in *S* and both *F* and *G* are > *d*, if *n* makes the numbers > *b*, thus these factorizations are nontrivial.
 
-|type for proving the families |possible bases *b*|such bases 2 ≤ *b* ≤ 36|
+|type for proving a family contains no primes > *b*|possible bases *b*|such bases 2 ≤ *b* ≤ 36|
 |---|---|---|
 |covering congruence with 1 prime|any base *b*<br>(however, all such families in base *b* = 2 end with 0 and thus have trailing zeros (https://en.wikipedia.org/wiki/Trailing_zero) and thus not counted)|(2), 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36|
 |covering congruence with 2 primes|*b* such that *b*+1 is not a prime power (https://oeis.org/A246655, https://en.wikipedia.org/wiki/Prime_power, https://mathworld.wolfram.com/PrimePower.html)<br>(however, the case *b* = 5 has only four such families: {1}3, {1}4, 3{1}, 4{1}, all of them are covered by the prime 111 (31 in decimal), thus the smallest base *b* with families which have covering congruence with 2 primes is *b* = 9)|(5), 9, 11, 13, 14, 17, 19, 20, 21, 23, 25, 27, 29, 32, 33, 34, 35|
 |covering congruence with 3 primes and period 3|*b* such that *omega*(*b*<sup>2</sup>+*b*+1) ≥ 3 (where *omega* is the omega function (https://en.wikipedia.org/wiki/Prime_omega_function, https://oeis.org/A001221), the number of *distinct* primes dividing *n*)|16, 25|
 |covering congruence with 3 primes and period 4|*b* such that *b*+1 is not a power of 2 (https://oeis.org/A000079, https://en.wikipedia.org/wiki/Power_of_two) and *b*<sup>2</sup>+1 is not a prime power (https://oeis.org/A246655, https://en.wikipedia.org/wiki/Prime_power, https://mathworld.wolfram.com/PrimePower.html)<br>(however, bases *b* = 5, 8, 9, 11, 12, 18 has no such families, base 8 family 6{4}7 is covered by the prime 4<sub>220</sub>7)|(5), (8), (9), (11), (12), 13, 17, (18), 19, 21, 22, 23, 25, 27, 28, 29, 30, 32, 33, 34, 35|
 |algebraic factorization with difference of two squares|*b* such that *b* is square (https://oeis.org/A000290, https://en.wikipedia.org/wiki/Square_number, https://www.rieselprime.de/ziki/Square_number, https://mathworld.wolfram.com/SquareNumber.html, https://www.numbersaplenty.com/set/square_number/)<br>(however, base *b* = 4 has no such families, the family {1} has the prime 11 (5 in decimal))|(4), 9, 16, 25, 36|
-|algebraic factorization with difference of two cubes|*b* such that *b* is cube (https://oeis.org/A000578, https://en.wikipedia.org/wiki/Cube_(algebra), https://mathworld.wolfram.com/CubicNumber.html, https://www.numbersaplenty.com/set/cubic_number/)|8, 27|
-|algebraic factorization with difference of two 5th powers|*b* such that *b* is 5th power (https://oeis.org/A000584, https://en.wikipedia.org/wiki/Fifth_power_(algebra))|32|
+|algebraic factorization with sum/difference of two cubes|*b* such that *b* is cube (https://oeis.org/A000578, https://en.wikipedia.org/wiki/Cube_(algebra), https://mathworld.wolfram.com/CubicNumber.html, https://www.numbersaplenty.com/set/cubic_number/)<br>(however, base *b* = 8 has no such families which have algebraic factorization with difference of two cubes, the family {1} has the prime 111 (73 in decimal), base *b* = 8 only have families which have algebraic factorization with sum of two cubes)|8, 27|
+|algebraic factorization with sum/difference of two 5th powers|*b* such that *b* is 5th power (https://oeis.org/A000584, https://en.wikipedia.org/wiki/Fifth_power_(algebra))|32|
 |algebraic factorization with *x*<sup>4</sup>+4×*y*<sup>4</sup>|*b* such that *b* is 4th power (https://oeis.org/A000583, https://en.wikipedia.org/wiki/Fourth_power, https://mathworld.wolfram.com/BiquadraticNumber.html)|16|
 |combine of covering congruence with 1 prime and algebraic factorization with difference of two squares|*b* such that *b* is not square (https://oeis.org/A000290, https://en.wikipedia.org/wiki/Square_number, https://www.rieselprime.de/ziki/Square_number, https://mathworld.wolfram.com/SquareNumber.html, https://www.numbersaplenty.com/set/square_number/) and *b*+1 has a prime factor *p* == 1 mod 4|12, 14, 19, 24, 28, 29, 33, 34|
 
@@ -1901,20 +1901,20 @@ Also, for bases 2 ≤ *b* ≤ 16, the reasons for families contain no primes > *
 |*b*|reasons for families contain no primes > *b* which are needed to use to prove the "minimal prime problem" in base *b*|
 |---|---|
 |2|–|
-|3|* Divisible by 2|
-|4|* Divisible by 3|
-|5|* Divisible by 2<br>* Divisible by 3|
-|6|* Divisible by 5|
-|7|* Divisible by 2<br>* Divisible by 3<br>* Divisible by 5|
-|8|* Divisible by 3<br>* Divisible by 5<br>* Divisible by 7<br>* Sum-of-two-cubes factorization|
-|9|* Divisible by 2<br>* Divisible by 5<br>* Divisible by 7<br>* Covering set {2,5}<br>* Difference-of-two-squares factorization|
-|10|* Divisible by 3<br>* Divisible by 7|
-|11|* Divisible by 2<br>* Divisible by 3<br>* Divisible by 5<br>* Divisible by 7<br>* Covering set {2,3}|
-|12|* Divisible by 5<br>* Divisible by 7<br>* Divisible by 11<br>* Combine of divisible by 13 and difference-of-two-squares factorization|
-|13|* Divisible by 2<br>* Divisible by 3<br>* Divisible by 5<br>* Divisible by 7<br>* Divisible by 11<br>* Covering set {2,7}<br>* Covering set {2,5,17}<br>* Covering set {5,7,17}|
-|14|* Divisible by 3<br>* Divisible by 5<br>* Divisible by 11<br>* Divisible by 13<br>* Covering set {3,5}<br>* Combine of divisible by 5 and difference-of-two-squares factorization|
-|15|* Divisible by 2<br>* Divisible by 7<br>* Divisible by 11<br>* Divisible by 13|
-|16|* Divisible by 3<br>* Divisible by 5<br>* Divisible by 7<br>* Divisible by 11<br>* Divisible by 13<br>* Covering set {3,7,13}<br>* Difference-of-two-squares factorization<br>Aurifeuillean factorization of *x*<sup>4</sup>+4×*y*<sup>4</sup>|
+|3|Divisible by 2|
+|4|Divisible by 3|
+|5|Divisible by 2<br>Divisible by 3|
+|6|Divisible by 5|
+|7|Divisible by 2<br>Divisible by 3<br>Divisible by 5|
+|8|Divisible by 3<br>Divisible by 5<br>Divisible by 7<br>Sum-of-two-cubes factorization|
+|9|Divisible by 2<br>Divisible by 5<br>Divisible by 7<br>Covering set {2,5}<br>Difference-of-two-squares factorization|
+|10|Divisible by 3<br>Divisible by 7|
+|11|Divisible by 2<br>Divisible by 3<br>Divisible by 5<br>Divisible by 7<br>Covering set {2,3}|
+|12|Divisible by 5<br>Divisible by 7<br>Divisible by 11<br>Combine of divisible by 13 and difference-of-two-squares factorization|
+|13|Divisible by 2<br>Divisible by 3<br>Divisible by 5<br>Divisible by 7<br>Divisible by 11<br>Covering set {2,7}<br>Covering set {2,5,17}<br>Covering set {5,7,17}|
+|14|Divisible by 3<br>Divisible by 5<br>Divisible by 11<br>Divisible by 13<br>Covering set {3,5}<br>Combine of divisible by 5 and difference-of-two-squares factorization|
+|15|Divisible by 2<br>Divisible by 7<br>Divisible by 11<br>Divisible by 13|
+|16|Divisible by 3<br>Divisible by 5<br>Divisible by 7<br>Divisible by 11<br>Divisible by 13<br>Covering set {3,7,13}<br>Difference-of-two-squares factorization<br>Aurifeuillean factorization of *x*<sup>4</sup>+4×*y*<sup>4</sup>|
 
 Some *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base *b*, *y* is a digit in base *b*) families could not be proven to contain no primes > *b* (by covering congruence, algebraic factorization, or combine of them) but no primes > *b* could be found in the family, even after searching through numbers with over 100000 digits. In such a case, the only way to proceed is to test the primality of larger and larger numbers of such form and hope a prime is eventually discovered.
 
