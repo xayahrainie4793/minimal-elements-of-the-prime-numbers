@@ -2875,7 +2875,7 @@ base *b* = 3:
 * {1}: https://oeis.org/A028491, https://oeis.org/A076481 (corresponding primes)
 * {1}2: https://oeis.org/A171381, https://oeis.org/A093625 (corresponding primes, with an additional prime 2)
 * 1{2}: https://oeis.org/A003307, https://oeis.org/A079363 (corresponding primes)
-* 2{0}1: https://oeis.org/A003306, https://oeis.org/A111974 (corresponding primes, with an additional prime 3)
+* 2{0}1: https://oeis.org/A003306, https://oeis.org/A216888 (*n* replaced by *n*−1), https://oeis.org/A111974 (corresponding primes, with an additional prime 3)
 * {2}1: https://oeis.org/A014224, https://oeis.org/A014232 (corresponding primes)
 
 base *b* = 4:
