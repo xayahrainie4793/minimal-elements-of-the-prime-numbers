@@ -2946,7 +2946,10 @@ base *b* = 9:
 * 1{0}4: https://oeis.org/A217384
 * 1{0}8: https://oeis.org/A217385
 * 1{4}: https://oeis.org/A028491 (*n* replaced by 2×*n*+1), https://oeis.org/A076481 (corresponding primes)
+* 2{0}1: https://oeis.org/A056802
+* 4{0}1: https://oeis.org/A056801
 * {4}5: https://oeis.org/A093625 (corresponding primes, with two additional primes 2 and 5)
+* 6{0}1: https://oeis.org/A056800
 * {6}7: https://oeis.org/A007658 (*n* replaced by 2×*n*+1), https://oeis.org/A111010 (corresponding primes, with two additional primes 2 and 7)
 * 7{8}: https://oeis.org/A268356
 * 8{0}1: https://oeis.org/A056799
