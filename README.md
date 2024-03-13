@@ -2627,6 +2627,7 @@ Links for top (probable) primes: (also pages for the largest known prime: https:
 * https://t5k.org/primes/help/search_description.php (examples of advanced search page of top definitely primes)
 * https://t5k.org/primes/search_proth.php (search page of top definitely primes of the form *k*×*b*<sup>*n*</sup>±1)
 * https://t5k.org/top20/index.php (the top 20 definitely primes of certain selected forms)
+* https://t5k.org/top20/home.php (the home page of the top 20 definitely primes of certain selected forms)
 * https://t5k.org/bios/submission.php (submit page of top definitely primes)
 * https://t5k.org/bios/newprover.php (submit page of top definitely primes, create a new prover account)
 * https://t5k.org/bios/newcode.php (submit page of top definitely primes, create a new prover code)
