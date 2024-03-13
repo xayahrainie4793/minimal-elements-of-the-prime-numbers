@@ -3469,7 +3469,7 @@ Base converters:
 8. https://www.calculand.com/unit-converter/zahlen.php?og=System+calculand&ug=1 (bases 2 ≤ *b* ≤ 200) (limit: 2<sup>53</sup>)
 9. http://www.unitconversion.org/unit_converter/numbers.html (bases 2 ≤ *b* ≤ 36) (limit: 2<sup>53</sup>)
 10. http://www.unitconversion.org/unit_converter/numbers-ex.html (bases 2 ≤ *b* ≤ 36) (limit: 2<sup>53</sup>)
-11. http://extraconversion.com/base-number (bases 2 ≤ *b* ≤ 36) (limit: 2<sup>63</sup>−1)
+11. http://extraconversion.com/base-number (bases 2 ≤ *b* ≤ 36) (use lower case letters instead of upper case letters) (limit: 2<sup>63</sup>−1)
 12. http://www.math.com/students/converters/source/base.htm (any base *b*) (limit: 2<sup>52</sup>)
 13. https://www.dcode.fr/base-n-convert (bases 2 ≤ *b* ≤ 62) (no limit)
 14. https://www.cut-the-knot.org/binary.shtml (bases *b* = 2, 3, 5, 8, 10, 12, 16, 36) (limit: 2<sup>53</sup>)
