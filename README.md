@@ -3470,9 +3470,10 @@ Integer factorizers:
 Prime generators:
 
 1. http://www.numbertheory.org/php/prime_generator.html
-2. https://www.rsok.com/~jrm/printprimes.html
-3. http://www.sonic.net/~undoc/java/PrimeCalc.html (click "ShowPrimes(x..y)")
-4. http://www.primzahlen.de/primzahltests/testverfahren.htm (in German) (use the box "Primzahlgenerator" and click "erzeugen")
+2. http://www.se16.info/js/prime.htm
+3. http://www.rsok.com/~jrm/printprimes.html
+4. http://www.sonic.net/~undoc/java/PrimeCalc.html (click "ShowPrimes(x..y)")
+5. http://www.primzahlen.de/primzahltests/testverfahren.htm (in German) (use the box "Primzahlgenerator" and click "erzeugen")
 
 Base converters:
 
