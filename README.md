@@ -2827,7 +2827,7 @@ Index pages of searching the primes of the form (*a*×*b*<sup>*n*</sup>+*c*)/*gc
 5. http://www.prothsearch.com/
 6. https://web.archive.org/web/20210817181915/http://www.15k.org/
 7. https://web.archive.org/web/20091027064415/http://geocities.com/primes_r_us/riesel/index.html
-8. https://www.mersenneforum.org/321search/index.html
+8. https://web.archive.org/web/20231223043356/https://www.mersenneforum.org/321search/index.html
 9. https://web.archive.org/web/20110601231527/http://www.bodang.com/12121/
 10. https://www.rieselprime.de/default.htm
 11. https://www.rieselprime.de/Related/ (subpages not available in this page, the subpages are https://www.rieselprime.de/Related/RieselTwinSG.htm and https://www.rieselprime.de/Related/LiskovetsGallot.htm)
