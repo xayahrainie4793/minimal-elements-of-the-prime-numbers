@@ -2826,7 +2826,7 @@ Index pages of searching the primes of the form (*a*×*b*<sup>*n*</sup>+*c*)/*gc
 4. http://www.noprimeleftbehind.net/gary/ (subpages not available in this page, the subpages are http://www.noprimeleftbehind.net/gary/primes-kx10n-1.htm and http://www.noprimeleftbehind.net/gary/primes-kx2n-1-001.htm and http://www.noprimeleftbehind.net/gary/Rieselprimes-ranges.htm and http://www.noprimeleftbehind.net/gary/twins100K.htm and http://www.noprimeleftbehind.net/gary/twins1M.htm)
 5. http://www.prothsearch.com/
 6. https://web.archive.org/web/20210817181915/http://www.15k.org/
-7. https://web.archive.org/web/20091027064415/http://geocities.com/primes_r_us/riesel/index.html
+7. https://web.archive.org/web/20091027064415/http://www.geocities.com/primes_r_us/riesel/index.html
 8. https://web.archive.org/web/20231223043356/https://www.mersenneforum.org/321search/index.html
 9. https://web.archive.org/web/20110601231527/http://www.bodang.com/12121/
 10. https://www.rieselprime.de/default.htm
