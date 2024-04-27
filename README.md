@@ -2826,27 +2826,30 @@ Index pages of searching the primes of the form (*a*×*b*<sup>*n*</sup>+*c*)/*gc
 4. http://www.noprimeleftbehind.net/gary/ (subpages not available in this page, the subpages are http://www.noprimeleftbehind.net/gary/primes-kx10n-1.htm and http://www.noprimeleftbehind.net/gary/primes-kx2n-1-001.htm and http://www.noprimeleftbehind.net/gary/Rieselprimes-ranges.htm and http://www.noprimeleftbehind.net/gary/twins100K.htm and http://www.noprimeleftbehind.net/gary/twins1M.htm)
 5. http://www.prothsearch.com/
 6. https://web.archive.org/web/20210817181915/http://www.15k.org/
-7. https://www.rieselprime.de/default.htm
-8. https://www.rieselprime.de/Related/ (subpages not available in this page, the subpages are https://www.rieselprime.de/Related/RieselTwinSG.htm and https://www.rieselprime.de/Related/LiskovetsGallot.htm)
-9. http://www.fermatquotient.com/
-10. https://web.archive.org/web/20021001222643/http://www.users.globalnet.co.uk/~aads/index.html
-11. http://www.primenumbers.net/Henri/us/
-12. https://pzktupel.de/ktuplets.php
-13. http://harvey563.tripod.com/
-14. http://guenter.loeh.name/
-15. http://www.fermatsearch.org/
-16. http://jeppesn.dk/
-17. https://web.archive.org/web/20231002190634/http://yves.gallot.pagesperso-orange.fr/primes/index.html
-18. https://stdkmd.net/ (sections https://stdkmd.net/nrr/prime/ and https://stdkmd.net/nrr/cert/ and https://web.archive.org/web/20240202224722/https://stdkmd.net/nrr/records.htm#primenumbers and https://web.archive.org/web/20240202224722/https://stdkmd.net/nrr/records.htm#probableprimenumbers)
-19. https://kurtbeschorner.de/ (section "Rprime project; base 10")
-20. http://www.elektrosoft.it/matematica/repunit/repunit.htm
-21. https://www.mersenne.org/
-22. https://www.mersenne.ca/
-23. https://web.archive.org/web/20211011120227/http://mprime.s3-website.us-west-1.amazonaws.com/
-24. http://kenta.blogspot.com/2012/11/ezgxggdm-dual-sierpinski-problem.html
-25. https://oeis.org/A076336/a076336c.html (special situation: in theory this reference should be http://web.archive.org/web/20080908010544/http://sierpinski.insider.com/dual, but this page is excluded from the Wayback Machine, thus linked to the cached copy page)
-26. http://www.doublemersennes.org/
-27. http://www.hoegge.dk/mersenne/NMC.html
+7. https://web.archive.org/web/20091027064415/http://geocities.com/primes_r_us/riesel/index.html
+8. https://www.mersenneforum.org/321search/index.html
+9. https://web.archive.org/web/20110601231527/http://www.bodang.com/12121/
+10. https://www.rieselprime.de/default.htm
+11. https://www.rieselprime.de/Related/ (subpages not available in this page, the subpages are https://www.rieselprime.de/Related/RieselTwinSG.htm and https://www.rieselprime.de/Related/LiskovetsGallot.htm)
+12. http://www.fermatquotient.com/
+13. https://web.archive.org/web/20021001222643/http://www.users.globalnet.co.uk/~aads/index.html
+14. http://www.primenumbers.net/Henri/us/
+15. https://pzktupel.de/ktuplets.php
+16. http://harvey563.tripod.com/
+17. http://guenter.loeh.name/
+18. http://www.fermatsearch.org/
+19. http://jeppesn.dk/
+20. https://web.archive.org/web/20231002190634/http://yves.gallot.pagesperso-orange.fr/primes/index.html
+21. https://stdkmd.net/ (sections https://stdkmd.net/nrr/prime/ and https://stdkmd.net/nrr/cert/ and https://web.archive.org/web/20240202224722/https://stdkmd.net/nrr/records.htm#primenumbers and https://web.archive.org/web/20240202224722/https://stdkmd.net/nrr/records.htm#probableprimenumbers)
+22. https://kurtbeschorner.de/ (section "Rprime project; base 10")
+23. http://www.elektrosoft.it/matematica/repunit/repunit.htm
+24. https://www.mersenne.org/
+25. https://www.mersenne.ca/
+26. https://web.archive.org/web/20211011120227/http://mprime.s3-website.us-west-1.amazonaws.com/
+27. http://kenta.blogspot.com/2012/11/ezgxggdm-dual-sierpinski-problem.html
+28. https://oeis.org/A076336/a076336c.html (special situation: in theory this reference should be http://web.archive.org/web/20080908010544/http://sierpinski.insider.com/dual, but this page is excluded from the Wayback Machine, thus linked to the cached copy page)
+29. http://www.doublemersennes.org/
+30. http://www.hoegge.dk/mersenne/NMC.html
 
 Index pages of factoring the numbers of the form (*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1):
 
