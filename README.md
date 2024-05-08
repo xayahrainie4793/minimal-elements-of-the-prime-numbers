@@ -3635,15 +3635,18 @@ Lists of factorizations of small integers:
 4. https://web.archive.org/web/20060210182347/http://bearnol.is-a-geek.com/Panfur%20Project/ (limit: 20000000, however, currently the data is only available up to 1500000 in the archive pages, the data for numbers > 1500000 has no available archive pages) **(warning: this site does not factor the composite numbers 15, 51, 85, 91, 255, 435, 451, 561, 595, 679, 703, 771, 1105, 1261, 1285, 1351, 1387, ...)**
 5. http://www.datapointed.net/visualizations/math/factorization/animated-diagrams/ (limit: 10000)
 6. http://www.datapointed.net/visualizations/math/factorization/animated-diagrams/?infinity (no limit)
-7. https://oeis.org/A027750/a027750.txt (all (prime or composite or unit) factors of *N*) (limit: 10000)
-8. https://oeis.org/A054841/b054841.txt (the *n*th rightmost decimal digit represents the exponent of the *n*th prime, but only for the exponents ≤ 9, thus the number will be incorrect if *N* is divisible by a 10th power (> 1), thus, the number is incorrect only for 9 values of *N*, namely *N* = 1024, 2048, 3072, 4096, 5120, 6144, 7168, 8192, 9216, since the limit of *N* is 10000) (limit: 10000)
-9. http://factorzone.tripod.com/factors.htm (all (prime or composite or unit) factors of *N*) (limit: 1100)
-10. http://functions.wolfram.com/NumberTheoryFunctions/Divisors/03/02 (all (prime or composite or unit) factors of *N*) (limit: 50)
-11. https://en.wikipedia.org/wiki/Table_of_prime_factors (limit: 1000)
-12. https://en.wikipedia.org/wiki/Table_of_divisors (all (prime or composite or unit) factors of *N*) (limit: 1000)
-13. http://factordb.com/index.php?query=n&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show (from *factordb*) (the limit in the list is 199, but you can change the number to get the list of the factorizations of larger integers (at most 1000000000000000000000000000198, since the start value of *n* in *factordb* must be ≤ 999999999999999999999999999999))
-14. http://myfactorcollection.mooo.com:8090/cgi-bin/showFullRep?FBase=2&TBase=20001&FExp=1&TExp=1&c0=-&EN=&LM= (from an online factor database for numbers of the form *b*<sup>*n*</sup>±1) (the limit in the list is 20000, but you can change the number to get the list of the factorizations of larger integers (at most 1099999, since the base *b* in http://myfactors.mooo.com/ must be ≤ 1100000))
-15. http://myfactorcollection.mooo.com:8090/cgi-bin/showFullRep?FBase=2&TBase=20001&FExp=1&TExp=1&c0=%2B&EN=&LM= (from an online factor database for numbers of the form *b*<sup>*n*</sup>±1) (the limit in the list is 20002, but you can change the number to get the list of the factorizations of larger integers (at most 1100001, since the base *b* in http://myfactors.mooo.com/ must be ≤ 1100000))
+7. https://oeis.org/A027746/b027746.txt (flattened rows, the *N*th row ends with the term with index https://oeis.org/A022559) (limit: 2048)
+8. https://oeis.org/A112798/b112798.txt (replace the *n*th prime by *n*, flattened rows, the *N*th row ends with the term with index https://oeis.org/A022559) (limit: 3275)
+9. https://oeis.org/A027750/a027750.txt (all (prime or composite or unit) factors of *N*) (limit: 10000)
+10. https://oeis.org/A027750/b027750.txt (all (prime or composite or unit) factors of *N*, flattened rows, the *N*th row ends with the term with index https://oeis.org/A006218) (limit: 1000)
+11. https://oeis.org/A054841/b054841.txt (the *n*th rightmost decimal digit represents the exponent of the *n*th prime, but only for the exponents ≤ 9, thus the number will be incorrect if *N* is divisible by a 10th power (> 1), thus, the number is incorrect only for 9 values of *N*, namely *N* = 1024, 2048, 3072, 4096, 5120, 6144, 7168, 8192, 9216, since the limit of *N* is 10000) (limit: 10000)
+12. http://factorzone.tripod.com/factors.htm (all (prime or composite or unit) factors of *N*) (limit: 1100)
+13. http://functions.wolfram.com/NumberTheoryFunctions/Divisors/03/02 (all (prime or composite or unit) factors of *N*) (limit: 50)
+14. https://en.wikipedia.org/wiki/Table_of_prime_factors (limit: 1000)
+15. https://en.wikipedia.org/wiki/Table_of_divisors (all (prime or composite or unit) factors of *N*) (limit: 1000)
+16. http://factordb.com/index.php?query=n&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show (from *factordb*) (the limit in the list is 199, but you can change the number to get the list of the factorizations of larger integers (at most 1000000000000000000000000000198, since the start value of *n* in *factordb* must be ≤ 999999999999999999999999999999))
+17. http://myfactorcollection.mooo.com:8090/cgi-bin/showFullRep?FBase=2&TBase=20001&FExp=1&TExp=1&c0=-&EN=&LM= (from an online factor database for numbers of the form *b*<sup>*n*</sup>±1) (the limit in the list is 20000, but you can change the number to get the list of the factorizations of larger integers (at most 1099999, since the base *b* in http://myfactors.mooo.com/ must be ≤ 1100000))
+18. http://myfactorcollection.mooo.com:8090/cgi-bin/showFullRep?FBase=2&TBase=20001&FExp=1&TExp=1&c0=%2B&EN=&LM= (from an online factor database for numbers of the form *b*<sup>*n*</sup>±1) (the limit in the list is 20002, but you can change the number to get the list of the factorizations of larger integers (at most 1100001, since the base *b* in http://myfactors.mooo.com/ must be ≤ 1100000))
 
 Lists of small integers in various bases:
 
