@@ -3635,10 +3635,10 @@ Lists of factorizations of small integers:
 4. https://web.archive.org/web/20060210182347/http://bearnol.is-a-geek.com/Panfur%20Project/ (limit: 20000000, however, currently the data is only available up to 1500000 in the archive pages, the data for numbers > 1500000 has no available archive pages) **(warning: this site does not factor the composite numbers 15, 51, 85, 91, 255, 435, 451, 561, 595, 679, 703, 771, 1105, 1261, 1285, 1351, 1387, ...)**
 5. http://www.datapointed.net/visualizations/math/factorization/animated-diagrams/ (limit: 10000)
 6. http://www.datapointed.net/visualizations/math/factorization/animated-diagrams/?infinity (no limit)
-7. https://oeis.org/A027746/b027746.txt (flattened rows, the *N*th row ends with the term with index https://oeis.org/A022559) (limit: 2048)
-8. https://oeis.org/A112798/b112798.txt (replace the *n*th prime by *n*, flattened rows, the *N*th row ends with the term with index https://oeis.org/A022559) (limit: 3275)
+7. https://oeis.org/A027746/b027746.txt (flattened rows, the *N*th row ends with the term with index "the *N*th term of https://oeis.org/A022559") (limit: 2048)
+8. https://oeis.org/A112798/b112798.txt (replace the *n*th prime by *n*, flattened rows, the *N*th row ends with the term with index "the *N*th term of https://oeis.org/A022559") (limit: 3275)
 9. https://oeis.org/A027750/a027750.txt (all (prime or composite or unit) factors of *N*) (limit: 10000)
-10. https://oeis.org/A027750/b027750.txt (all (prime or composite or unit) factors of *N*, flattened rows, the *N*th row ends with the term with index https://oeis.org/A006218) (limit: 1000)
+10. https://oeis.org/A027750/b027750.txt (all (prime or composite or unit) factors of *N*, flattened rows, the *N*th row ends with the term with index "the *N*th term of https://oeis.org/A006218") (limit: 1000)
 11. https://oeis.org/A054841/b054841.txt (the *n*th rightmost decimal digit represents the exponent of the *n*th prime, but only for the exponents ≤ 9, thus the number will be incorrect if *N* is divisible by a 10th power (> 1), thus, the number is incorrect only for 9 values of *N*, namely *N* = 1024, 2048, 3072, 4096, 5120, 6144, 7168, 8192, 9216, since the limit of *N* is 10000) (limit: 10000)
 12. http://factorzone.tripod.com/factors.htm (all (prime or composite or unit) factors of *N*) (limit: 1100)
 13. http://functions.wolfram.com/NumberTheoryFunctions/Divisors/03/02 (all (prime or composite or unit) factors of *N*) (limit: 50)
