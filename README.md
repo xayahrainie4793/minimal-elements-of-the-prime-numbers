@@ -2956,11 +2956,12 @@ Index pages of factoring the numbers of the form (*a*×*b*<sup>*n*</sup>+*c*)/*g
 22. https://cs.stanford.edu/people/rpropper/math/factors/3n-2.txt
 23. https://web.archive.org/web/20020320010222/http://proth.cjb.net/
 24. https://brnikat.com/nums/index.html
-25. https://web.archive.org/web/20120426061657/http://oddperfect.org/
-26. https://web.archive.org/web/20081006071311/http://www-staff.maths.uts.edu.au/~rons/fact/fact.htm
-27. http://www.loria.fr/~zimmerma/ecmnet/ (finding the factors of the numbers)
-28. https://www.rechenkraft.net/yoyo/ (finding the factors of the numbers)
-29. http://escatter11.fullerton.edu/nfs/ (finding the factors of the numbers)
+25. https://www.asahi-net.or.jp/~KC2H-MSM/mathland/matha1/index.htm
+26. https://web.archive.org/web/20120426061657/http://oddperfect.org/
+27. https://web.archive.org/web/20081006071311/http://www-staff.maths.uts.edu.au/~rons/fact/fact.htm
+28. http://www.loria.fr/~zimmerma/ecmnet/ (finding the factors of the numbers)
+29. https://www.rechenkraft.net/yoyo/ (finding the factors of the numbers)
+30. http://escatter11.fullerton.edu/nfs/ (finding the factors of the numbers)
 
 *OEIS* sequences for the exponents *n* for the primes in given families in given base *b* (only list those for families {*x*}, *x*{*y*}, {*x*}*y*, *x*{0}*y* (where *x* and *y* are any digits in base *b*), since the smallest prime in these families **must** be minimal primes in the same base *b* (except the cases that the repeating digit (i.e. *y* in *x*{*y*}, or *x* in {*x*}*y*) is 1), also only count the primes > *b*):
 
