@@ -2944,26 +2944,28 @@ Index pages of factoring the numbers of the form (*a*×*b*<sup>*n*</sup>+*c*)/*g
 10. https://web.archive.org/web/20211011120227/http://mprime.s3-website.us-west-1.amazonaws.com/
 11. http://www.doublemersennes.org/
 12. http://bearnol.is-a-geek.com/Mersenneplustwo/Mersenneplustwo.html
-13. https://stdkmd.net/
-14. https://kurtbeschorner.de/
-15. https://repunit-koide.jimdofree.com/
-16. https://gmplib.org/~tege/repunit.html
-17. https://web.archive.org/web/20070708171301/http://www.ludwigsgymnasium.de/unterr/mathe/prim/zehnp.htm
-18. http://chesswanks.com/pxp/repfactors.html
-19. https://alfredreichlg.de/
-20. https://web.archive.org/web/20021001222643/http://www.users.globalnet.co.uk/~aads/index.html
-21. http://www.asahi-net.or.jp/~KC2H-MSM/mathland/matha1/index.htm
-22. http://mklasson.com/factors/index.php
-23. https://cs.stanford.edu/people/rpropper/math/factors/3n-2.txt
-24. https://web.archive.org/web/20020320010222/http://proth.cjb.net/
-25. https://brnikat.com/nums/index.html
-26. https://www.asahi-net.or.jp/~KC2H-MSM/mathland/matha1/index.htm
-27. https://web.archive.org/web/20120426061657/http://oddperfect.org/
-28. https://web.archive.org/web/20190211112446/http://home.earthlink.net/~elevensmooth/
-29. https://web.archive.org/web/20081006071311/http://www-staff.maths.uts.edu.au/~rons/fact/fact.htm
-30. http://www.loria.fr/~zimmerma/ecmnet/ (finding the factors of the numbers)
-31. https://www.rechenkraft.net/yoyo/ (finding the factors of the numbers)
-32. http://escatter11.fullerton.edu/nfs/ (finding the factors of the numbers)
+13. https://web.archive.org/web/20130530210800/http://www.euronet.nl/users/bota/medium-p.htm
+14. https://stdkmd.net/
+15. https://kurtbeschorner.de/
+16. https://repunit-koide.jimdofree.com/
+17. https://gmplib.org/~tege/repunit.html
+18. https://web.archive.org/web/20070708171301/http://www.ludwigsgymnasium.de/unterr/mathe/prim/zehnp.htm
+19. http://chesswanks.com/pxp/repfactors.html
+20. https://alfredreichlg.de/
+21. https://web.archive.org/web/20021001222643/http://www.users.globalnet.co.uk/~aads/index.html
+22. http://www.asahi-net.or.jp/~KC2H-MSM/mathland/matha1/index.htm
+23. http://mklasson.com/factors/index.php
+24. https://cs.stanford.edu/people/rpropper/math/factors/3n-2.txt
+25. https://web.archive.org/web/20020320010222/http://proth.cjb.net/
+26. https://brnikat.com/nums/index.html
+27. https://www.asahi-net.or.jp/~KC2H-MSM/mathland/matha1/index.htm
+28. https://www.lirmm.fr/~ochem/opn/
+29. https://web.archive.org/web/20120426061657/http://oddperfect.org/
+30. https://web.archive.org/web/20190211112446/http://home.earthlink.net/~elevensmooth/
+31. https://web.archive.org/web/20081006071311/http://www-staff.maths.uts.edu.au/~rons/fact/fact.htm
+32. http://www.loria.fr/~zimmerma/ecmnet/ (finding the factors of the numbers)
+33. https://www.rechenkraft.net/yoyo/ (finding the factors of the numbers)
+34. http://escatter11.fullerton.edu/nfs/ (finding the factors of the numbers)
 
 *OEIS* sequences for the exponents *n* for the primes in given families in given base *b* (only list those for families {*x*}, *x*{*y*}, {*x*}*y*, *x*{0}*y* (where *x* and *y* are any digits in base *b*), since the smallest prime in these families **must** be minimal primes in the same base *b* (except the cases that the repeating digit (i.e. *y* in *x*{*y*}, or *x* in {*x*}*y*) is 1), also only count the primes > *b*):
 
