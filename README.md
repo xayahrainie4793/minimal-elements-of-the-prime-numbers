@@ -2902,7 +2902,7 @@ Index pages of searching the primes of the form (*a*×*b*<sup>*n*</sup>+*c*)/*gc
 1. https://www.primegrid.com/
 2. http://www.noprimeleftbehind.net/stats/
 3. http://www.noprimeleftbehind.net/crus/
-4. http://www.noprimeleftbehind.net/gary/ (subpages not available in this page, the subpages are http://www.noprimeleftbehind.net/gary/primes-kx10n-1.htm and http://www.noprimeleftbehind.net/gary/primes-kx2n-1-001.htm and http://www.noprimeleftbehind.net/gary/Rieselprimes-ranges.htm and http://www.noprimeleftbehind.net/gary/twins100K.htm and http://www.noprimeleftbehind.net/gary/twins1M.htm)
+4. https://web.archive.org/web/20230706153536/http://www.noprimeleftbehind.net/gary/
 5. http://www.prothsearch.com/
 6. https://web.archive.org/web/20210817181915/http://www.15k.org/
 7. https://web.archive.org/web/20091027064415/http://www.geocities.com/primes_r_us/riesel/index.html
