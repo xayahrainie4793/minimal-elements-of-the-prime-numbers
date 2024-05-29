@@ -2998,7 +2998,7 @@ base *b* = 5:
 
 * 1{0}2: https://oeis.org/A087885, https://oeis.org/A182330 (corresponding primes, with an additional prime 3)
 * 1{0}4: https://oeis.org/A124621, https://oeis.org/A228028 (corresponding primes, with an additional prime 5)
-* {1}: https://oeis.org/A004061, https://oeis.org/A086122 (corresponding primes)
+* {1}: https://oeis.org/A004061, https://oeis.org/A086123 (*n* replaced by *n*−1), https://oeis.org/A086122 (corresponding primes)
 * 1{4}: https://oeis.org/A120375, https://oeis.org/A120376 (corresponding primes)
 * 2{0}1: https://oeis.org/A058934, https://oeis.org/A205771 (corresponding primes, with an additional prime 3)
 * 3{4}: https://oeis.org/A046865
@@ -3244,7 +3244,7 @@ base *b* = 24:
 base *b* = 25:
 
 * 1{0}4: https://oeis.org/A124621 (*n* replaced by 2×*n*), https://oeis.org/A228028 (corresponding primes, with an additional prime 5)
-* 1{6}: https://oeis.org/A004061 (*n* replaced by 2×*n*+1), https://oeis.org/A086122 (corresponding primes)
+* 1{6}: https://oeis.org/A086123 (*n* replaced by 2×*n*), https://oeis.org/A004061 (*n* replaced by 2×*n*+1), https://oeis.org/A086122 (corresponding primes)
 * 1{O}: https://oeis.org/A002958, https://oeis.org/A120375 (*n* replaced by 2×*n*), https://oeis.org/A120376 (corresponding primes)
 * 4{0}1: https://oeis.org/A204322 (*n* replaced by 2×*n*)
 * 5{0}2: https://oeis.org/A087885 (*n* replaced by 2×*n*+1, with an additional term 0), https://oeis.org/A182330 (corresponding primes, with two additional primes 3 and 7)
