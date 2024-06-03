@@ -3372,51 +3372,51 @@ Other researches for the minimal elements of other subsets of positive integers 
 
 Primes == 1 mod 4:
 
-1. https://www.primepuzzles.net/puzzles/puzz_178.htm
-2. https://github.com/curtisbright/mepn-data/blob/master/data/primes1mod4/minimal.10.txt
-3. https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/doc_1.doc) **(warning: the data has many errors, the data wrongly including many primes which are not minimal primes, including the largest "minimal 4×*k*+1 prime" in the list: 9<sub>**630**</sub>493, this prime is not a minimal 4×*k*+1 prime since 9949 is also a prime == 1 mod 4, and 9949 is a subsequence of 9<sub>**630**</sub>493, there are 146 (instead of 173) minimal 4×*k*+1 primes and 113 (instead of 138) minimal 4×*k*−1 primes, and the largest minimal 4×*k*+1 prime is 8<sub>**77**</sub>33 = (8×10<sup>**79**</sup>−503)/9 instead of 9<sub>**630**</sub>493 = 10<sup>**633**</sup>−507)**
-4. https://oeis.org/A111055
+1. https://www.primepuzzles.net/puzzles/puzz_178.htm (base *b* = 10)
+2. https://github.com/curtisbright/mepn-data/blob/master/data/primes1mod4/minimal.10.txt (base *b* = 10)
+3. https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/doc_1.doc) (base *b* = 10) **(warning: the data has many errors, the data wrongly including many primes which are not minimal primes, including the largest "minimal 4×*k*+1 prime" in the list: 9<sub>**630**</sub>493, this prime is not a minimal 4×*k*+1 prime since 9949 is also a prime == 1 mod 4, and 9949 is a subsequence of 9<sub>**630**</sub>493, there are 146 (instead of 173) minimal 4×*k*+1 primes and 113 (instead of 138) minimal 4×*k*−1 primes, and the largest minimal 4×*k*+1 prime is 8<sub>**77**</sub>33 = (8×10<sup>**79**</sup>−503)/9 instead of 9<sub>**630**</sub>493 = 10<sup>**633**</sup>−507)**
+4. https://oeis.org/A111055 (base *b* = 10)
 
 Primes == 3 mod 4:
 
-1. https://www.primepuzzles.net/puzzles/puzz_178.htm
-2. https://github.com/curtisbright/mepn-data/blob/master/data/primes3mod4/minimal.10.txt
-3. https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/doc_1.doc) **(warning: the data has many errors, the data wrongly including many primes which are not minimal primes, including the largest "minimal 4×*k*+1 prime" in the list: 9<sub>**630**</sub>493, this prime is not a minimal 4×*k*+1 prime since 9949 is also a prime == 1 mod 4, and 9949 is a subsequence of 9<sub>**630**</sub>493, there are 146 (instead of 173) minimal 4×*k*+1 primes and 113 (instead of 138) minimal 4×*k*−1 primes, and the largest minimal 4×*k*+1 prime is 8<sub>**77**</sub>33 = (8×10<sup>**79**</sup>−503)/9 instead of 9<sub>**630**</sub>493 = 10<sup>**633**</sup>−507)**
-4. https://oeis.org/A111056 **(warning: the b-file does not include the prime 2<sub>**19151**</sub>99)**
+1. https://www.primepuzzles.net/puzzles/puzz_178.htm (base *b* = 10)
+2. https://github.com/curtisbright/mepn-data/blob/master/data/primes3mod4/minimal.10.txt (base *b* = 10)
+3. https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/doc_1.doc) (base *b* = 10) **(warning: the data has many errors, the data wrongly including many primes which are not minimal primes, including the largest "minimal 4×*k*+1 prime" in the list: 9<sub>**630**</sub>493, this prime is not a minimal 4×*k*+1 prime since 9949 is also a prime == 1 mod 4, and 9949 is a subsequence of 9<sub>**630**</sub>493, there are 146 (instead of 173) minimal 4×*k*+1 primes and 113 (instead of 138) minimal 4×*k*−1 primes, and the largest minimal 4×*k*+1 prime is 8<sub>**77**</sub>33 = (8×10<sup>**79**</sup>−503)/9 instead of 9<sub>**630**</sub>493 = 10<sup>**633**</sup>−507)**
+4. https://oeis.org/A111056 (base *b* = 10) **(warning: the b-file does not include the prime 2<sub>**19151**</sub>99 since the limit of the numbers in the b-files in *OEIS* is 10<sup>1000</sup>−1)**
 
 Palindromic primes:
 
-1. https://www.primepuzzles.net/puzzles/puzz_178.htm
-2. https://oeis.org/A114835 **(warning: the b-file does not include the probable prime 994<sub>**34019**</sub>99)**
+1. https://www.primepuzzles.net/puzzles/puzz_178.htm (base *b* = 10)
+2. https://oeis.org/A114835 (base *b* = 10) **(warning: the b-file does not include the probable prime 994<sub>**34019**</sub>99 since the limit of the numbers in the b-files in *OEIS* is 10<sup>1000</sup>−1)**
 
 Composites:
 
-1. https://github.com/curtisbright/mepn-data/tree/master/data/composites
-2. http://www.bitman.name/math/table/504
-3. https://oeis.org/A071070
+1. https://github.com/curtisbright/mepn-data/tree/master/data/composites (bases 2 ≤ *b* ≤ 30)
+2. http://www.bitman.name/math/table/504 (bases 2 ≤ *b* ≤ 20)
+3. https://oeis.org/A071070 (base *b* = 10)
 
 Squares:
 
-1. http://recursed.blogspot.com/2006/12/prime-game.html
-2. https://oeis.org/A130448
+1. http://recursed.blogspot.com/2006/12/prime-game.html (base *b* = 10)
+2. https://oeis.org/A130448 (base *b* = 10)
 
 Powers of 2:
 
-1. https://oeis.org/A071071/a071071.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_13.pdf)
-2. https://oeis.org/A071071
+1. https://oeis.org/A071071/a071071.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_13.pdf) (base *b* = 10)
+2. https://oeis.org/A071071 (base *b* = 10)
 
 Multiples of 3:
 
-1. https://oeis.org/A071073
+1. https://oeis.org/A071073 (base *b* = 10)
 
 Multiples of 4:
 
-1. https://oeis.org/A071072
+1. https://oeis.org/A071072 (base *b* = 10)
 
 Other sets:
 
-1. https://arxiv.org/pdf/1607.01548.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_14.pdf) (sums of three squares, quadratic residues mod 6, quadratic residues mod 7, range of Euler's totient function, range of "Euler's totient function + 3", range of Dedekind psi function, perfect numbers)
-2. https://nntdm.net/papers/nntdm-25/NNTDM-25-1-036-047.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_15.pdf) (range of "Euler's totient function + *n*", for 0 ≤ *n* ≤ 5)
+1. https://arxiv.org/pdf/1607.01548.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_14.pdf) (sums of three squares, quadratic residues mod 6, quadratic residues mod 7, range of Euler's totient function, range of "Euler's totient function + 3", range of Dedekind psi function, perfect numbers) (base *b* = 10)
+2. https://nntdm.net/papers/nntdm-25/NNTDM-25-1-036-047.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_15.pdf) (range of "Euler's totient function + *n*", for 0 ≤ *n* ≤ 5) (base *b* = 10)
 
 The prime curios for them:
 
