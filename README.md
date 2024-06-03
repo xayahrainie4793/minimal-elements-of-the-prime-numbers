@@ -2943,7 +2943,7 @@ Index pages of factoring the numbers of the form (*a*×*b*<sup>*n*</sup>+*c*)/*g
 9. http://www.prothsearch.com/ (section "Fermat numbers")
 10. https://web.archive.org/web/20211011120227/http://mprime.s3-website.us-west-1.amazonaws.com/
 11. http://www.doublemersennes.org/
-12. http://bearnol.is-a-geek.com/Mersenneplustwo/Mersenneplustwo.html
+12. http://bearnol.is-a-geek.com/Mersenneplustwo/Mersenneplustwo.html **(warning: the number 2<sup>2<sup>127</sup>−1</sup>−1 is not known to be prime, many pages in https://web.archive.org/web/20151025022357/http://www.bearnol.pwp.blueyonder.co.uk/Math/ (including https://web.archive.org/web/20151025022406/http://www.bearnol.pwp.blueyonder.co.uk/Math/mmprime.html) are only hoaxes, e.g. Riemann hypothesis and *abc* conjecture and Collatz conjecture and Goldbach's conjecture and twin prime conjecture are unsolved problems, but this page has false proofs of Riemann hypothesis and *abc* conjecture and Collatz conjecture and twin prime conjecture, and has false disproof of Goldbach's conjecture)**
 13. https://web.archive.org/web/20130530210800/http://www.euronet.nl/users/bota/medium-p.htm
 14. https://stdkmd.net/
 15. https://kurtbeschorner.de/
