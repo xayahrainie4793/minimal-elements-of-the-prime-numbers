@@ -3334,7 +3334,11 @@ References of minimal primes (https://en.wikipedia.org/wiki/Minimal_prime_(recre
 25. http://www.bitman.name/math/table/500 (in Italian) (base *b* = 19)
 26. http://www.bitman.name/math/table/501 (in Italian) (base *b* = 20)
 27. https://www.primepuzzles.net/puzzles/puzz_178.htm (base *b* = 10)
-28. https://oeis.org/A071062 (base *b* = 10)
+28. https://oeis.org/A326609 (largest minimal prime in base *b*)
+29. https://oeis.org/A330049 (length of the largest minimal prime in base *b*)
+30. https://oeis.org/A330048 (number of minimal primes in base *b*)
+31. https://oeis.org/A071062 (base *b* = 10)
+32. https://oeis.org/A110600 (base *b* = 12)
 
 Other researches for the digits of the primes:
 
@@ -3353,6 +3357,19 @@ Left-truncatable primes (https://en.wikipedia.org/wiki/Truncatable_prime, https:
 11. https://oeis.org/A103443 (largest left-truncatable prime in base *b*)
 12. https://oeis.org/A103463 (length of the largest left-truncatable prime in base *b*)
 13. https://oeis.org/A076623 (number of left-truncatable primes in base *b*)
+14. https://oeis.org/A024785 (base *b* = 10)
+15. https://oeis.org/A129940 (base *b* = 4)
+16. https://oeis.org/A024779 (base *b* = 4, written in base *b*)
+17. https://oeis.org/A129941 (base *b* = 5)
+18. https://oeis.org/A024780 (base *b* = 5, written in base *b*)
+19. https://oeis.org/A129942 (base *b* = 6)
+20. https://oeis.org/A024781 (base *b* = 6, written in base *b*)
+21. https://oeis.org/A129943 (base *b* = 7)
+22. https://oeis.org/A024782 (base *b* = 7, written in base *b*)
+23. https://oeis.org/A129944 (base *b* = 8)
+24. https://oeis.org/A024783 (base *b* = 8, written in base *b*)
+25. https://oeis.org/A129945 (base *b* = 9)
+26. https://oeis.org/A024784 (base *b* = 9, written in base *b*)
 
 Right-truncatable primes (https://en.wikipedia.org/wiki/Truncatable_prime, https://t5k.org/glossary/xpage/RightTruncatablePrime.html, https://mathworld.wolfram.com/TruncatablePrime.html, https://www.numbersaplenty.com/set/truncatable_prime/), i.e. every nonempty prefix is prime:
 
@@ -3367,6 +3384,22 @@ Right-truncatable primes (https://en.wikipedia.org/wiki/Truncatable_prime, https
 9. https://oeis.org/A023107 (largest right-truncatable prime in base *b*)
 10. https://oeis.org/A103483 (length of the largest right-truncatable prime in base *b*)
 11. https://oeis.org/A076586 (number of right-truncatable primes in base *b*)
+12. https://oeis.org/A024770 (base *b* = 10)
+13. https://oeis.org/A129669 (base *b* = 3)
+14. https://oeis.org/A024763 (base *b* = 3, written in base *b*)
+15. https://oeis.org/A129670 (base *b* = 4)
+16. https://oeis.org/A024764 (base *b* = 4, written in base *b*)
+17. https://oeis.org/A129671 (base *b* = 5)
+18. https://oeis.org/A024765 (base *b* = 5, written in base *b*)
+19. https://oeis.org/A129672 (base *b* = 6)
+20. https://oeis.org/A024766 (base *b* = 6, written in base *b*)
+21. https://oeis.org/A129673 (base *b* = 7)
+22. https://oeis.org/A024767 (base *b* = 7, written in base *b*)
+23. https://oeis.org/A129692 (base *b* = 8)
+24. https://oeis.org/A024768 (base *b* = 8, written in base *b*)
+25. https://oeis.org/A129693 (base *b* = 9)
+26. https://oeis.org/A024769 (base *b* = 9, written in base *b*)
+27. https://oeis.org/A237600 (base *b* = 16)
 
 Other researches for the minimal elements of other subsets of positive integers written in the positional numeral system with radix *b*, as digit strings with subsequence ordering:
 
@@ -3376,6 +3409,7 @@ Primes == 1 mod 4:
 2. https://github.com/curtisbright/mepn-data/blob/master/data/primes1mod4/minimal.10.txt (base *b* = 10)
 3. https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/doc_1.doc) (base *b* = 10) **(warning: the data has many errors, the data wrongly including many primes which are not minimal primes, including the largest "minimal 4×*k*+1 prime" in the list: 9<sub>**630**</sub>493, this prime is not a minimal 4×*k*+1 prime since 9949 is also a prime == 1 mod 4, and 9949 is a subsequence of 9<sub>**630**</sub>493, there are 146 (instead of 173) minimal 4×*k*+1 primes and 113 (instead of 138) minimal 4×*k*−1 primes, and the largest minimal 4×*k*+1 prime is 8<sub>**77**</sub>33 = (8×10<sup>**79**</sup>−503)/9 instead of 9<sub>**630**</sub>493 = 10<sup>**633**</sup>−507)**
 4. https://oeis.org/A111055 (base *b* = 10)
+5. https://oeis.org/A111057 (base *b* = 12)
 
 Primes == 3 mod 4:
 
