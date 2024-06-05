@@ -3325,8 +3325,8 @@ References of minimal primes (https://en.wikipedia.org/wiki/Minimal_prime_(recre
 16. https://math.stackexchange.com/questions/58292/how-to-check-if-an-integer-has-a-prime-number-in-it (base *b* = 10)
 17. https://www.metafilter.com/62794/3-is-an-odd-prime-5-is-an-odd-prime-7-is-an-odd-prime-9-is-a-very-odd-prime (base *b* = 10)
 18. https://www.ocf.berkeley.edu/~wwu/cgi-bin/yabb/YaBB.cgi?board=riddles_medium;action=display;num=1165031124 (base *b* = 10)
-19. https://www.cristal.univ-lille.fr/profil/jdelahay/pls:2002:094.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_100.pdf) (bases 2 ≤ *b* ≤ 10) **(warning: the data for base 8 has error, the data misses the primes 444641 and 444444441)**
-20. https://logs.esolangs.org/freenode-esoteric/2011-02-04.html (bases 2 ≤ *b* ≤ 10) **(warning: the data for base 8 has error, the data misses the prime 111 and instead wrongly includes the primes 1101, 101111, 600111, 1000011, 1000111, 4411111, 64111111, 601111111, 41111111111111111, and possibly 6111111111111111111111 if the author of this article continues to search, in fact, the data for base 8 misses not only 111 but also 1011)**
+19. https://www.cristal.univ-lille.fr/profil/jdelahay/pls:2002:094.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_100.pdf) (bases 2 ≤ *b* ≤ 10) **(warning: the data for base *b* = 8 has error, the data misses the primes 444641 and 444444441)**
+20. https://logs.esolangs.org/freenode-esoteric/2011-02-04.html (bases 2 ≤ *b* ≤ 10) **(warning: the data for base *b* = 8 has error, the data misses the prime 111 and instead wrongly includes the primes 1101, 101111, 600111, 1000011, 1000111, 4411111, 64111111, 601111111, 41111111111111111, and possibly 6111111111111111111111 if the author of this article continues to search, in fact, the data for base *b* = 8 misses not only 111 but also 1011)**
 21. http://www.bitman.name/math/article/730 (in Italian) (bases 2 ≤ *b* ≤ 20)
 22. http://www.bitman.name/math/table/497 (in Italian) (bases 2 ≤ *b* ≤ 16)
 23. http://www.bitman.name/math/table/498 (in Italian) (base *b* = 17)
