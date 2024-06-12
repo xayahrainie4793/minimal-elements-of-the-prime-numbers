@@ -2962,11 +2962,12 @@ Index pages of factoring the numbers of the form (*a*×*b*<sup>*n*</sup>+*c*)/*g
 28. https://www.lirmm.fr/~ochem/opn/
 29. https://web.archive.org/web/20120426061657/http://oddperfect.org/
 30. https://web.archive.org/web/20190211112446/http://home.earthlink.net/~elevensmooth/
-31. https://web.archive.org/web/20081006071311/http://www-staff.maths.uts.edu.au/~rons/fact/fact.htm
-32. https://homes.cerias.purdue.edu/~ssw/bell/index.html
-33. http://www.loria.fr/~zimmerma/ecmnet/ (finding the factors of the numbers)
-34. https://www.rechenkraft.net/yoyo/ (finding the factors of the numbers)
-35. http://escatter11.fullerton.edu/nfs/ (finding the factors of the numbers)
+31. https://2721.hddkillers.com/
+32. https://web.archive.org/web/20081006071311/http://www-staff.maths.uts.edu.au/~rons/fact/fact.htm
+33. https://homes.cerias.purdue.edu/~ssw/bell/index.html
+34. http://www.loria.fr/~zimmerma/ecmnet/ (finding the factors of the numbers)
+35. https://www.rechenkraft.net/yoyo/ (finding the factors of the numbers)
+36. http://escatter11.fullerton.edu/nfs/ (finding the factors of the numbers)
 
 *OEIS* sequences for the exponents *n* for the primes in given families in given base *b* (only list those for families {*x*}, *x*{*y*}, {*x*}*y*, *x*{0}*y* (where *x* and *y* are any digits in base *b*), since the smallest prime in these families **must** be minimal primes in the same base *b* (except the cases that the repeating digit (i.e. *y* in *x*{*y*}, or *x* in {*x*}*y*) is 1), also only count the primes > *b*):
 
