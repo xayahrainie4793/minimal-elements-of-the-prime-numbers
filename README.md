@@ -2912,7 +2912,7 @@ Index pages of searching the primes of the form (*a*×*b*<sup>*n*</sup>+*c*)/*gc
 11. https://www.rieselprime.de/Related/ (subpages not available in this page, the subpages are https://www.rieselprime.de/Related/RieselTwinSG.htm and https://www.rieselprime.de/Related/LiskovetsGallot.htm)
 12. http://www.fermatquotient.com/
 13. https://web.archive.org/web/20021001222643/http://www.users.globalnet.co.uk/~aads/index.html
-14. http://www.primenumbers.net/Henri/us/
+14. http://www.primenumbers.net/
 15. https://pzktupel.de/ktuplets.php
 16. http://harvey563.tripod.com/
 17. http://guenter.loeh.name/
