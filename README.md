@@ -2670,6 +2670,11 @@ Also, if we write all minimal primes base *b*, then we will write these numbers 
 |5|105|24|4|22|14|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|
 |6|3|9|2|2|8|5|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|
 |7|43|73|21|67|24|51|9|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|
+|8|22|49|13|24|283|48|25|59|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|
+|9|1350|174|32|108|24|107|357|794|58|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|
+|10|69|33|27|9|19|45|21|31|22|34|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|
+|11|2666|523|227|250|722|1514|251|66917|357|592|1395|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|
+|12|105|42|28|4|25|23|14|43|4|38|38|69|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|–|
 
 Links for top (probable) primes: (also pages for the largest known prime: https://en.wikipedia.org/wiki/Largest_known_prime_number, https://en.wikipedia.org/wiki/List_of_largest_known_primes_and_probable_primes, http://www.numericana.com/answer/primes.htm#history, and related pages: https://web.archive.org/web/20210416051711/https://en.wikipedia.org/wiki/Titanic_prime, https://web.archive.org/web/20210219091535/https://en.wikipedia.org/wiki/Gigantic_prime, https://en.wikipedia.org/wiki/Megaprime, https://t5k.org/glossary/xpage/TitanicPrime.html, https://t5k.org/glossary/xpage/GiganticPrime.html, https://t5k.org/glossary/xpage/Megaprime.html, https://www.rieselprime.de/ziki/Titanic_prime, https://www.rieselprime.de/ziki/Gigantic_prime, https://www.rieselprime.de/ziki/Megaprime, https://www.rieselprime.de/ziki/Gigaprime, https://mathworld.wolfram.com/TitanicPrime.html, https://mathworld.wolfram.com/GiganticPrime.html, titanic primes are the primes with ≥ 1000 decimal digits, gigantic primes are the primes with ≥ 10000 decimal digits, megaprimes are the primes with ≥ 1000000 decimal digits, bevaprimes (also called gigaprimes) are the primes with ≥ 1000000000 decimal digits)
 
