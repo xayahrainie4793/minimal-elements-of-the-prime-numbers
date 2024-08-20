@@ -2973,16 +2973,17 @@ Index pages of searching the primes of the form (*a*×*b*<sup>*n*</sup>+*c*)/*gc
 19. http://jeppesn.dk/
 20. https://web.archive.org/web/20231002190634/http://yves.gallot.pagesperso-orange.fr/primes/index.html
 21. http://boincvm.proxyma.ru:30080/test4vm/index.php
-22. https://stdkmd.net/ (sections https://stdkmd.net/nrr/prime/ and https://stdkmd.net/nrr/cert/ and https://web.archive.org/web/20240202224722/https://stdkmd.net/nrr/records.htm#primenumbers and https://web.archive.org/web/20240202224722/https://stdkmd.net/nrr/records.htm#probableprimenumbers)
-23. https://kurtbeschorner.de/ (section "Rprime project; base 10")
-24. http://www.elektrosoft.it/matematica/repunit/repunit.htm
-25. https://www.mersenne.org/
-26. https://www.mersenne.ca/
-27. https://web.archive.org/web/20211011120227/http://mprime.s3-website.us-west-1.amazonaws.com/
-28. http://kenta.blogspot.com/2012/11/ezgxggdm-dual-sierpinski-problem.html
-29. https://oeis.org/A076336/a076336c.html (special situation: in theory this reference should be http://web.archive.org/web/20080908010544/http://sierpinski.insider.com/dual, but this page is excluded from the Wayback Machine, thus linked to the cached copy page)
-30. http://www.doublemersennes.org/
-31. http://www.hoegge.dk/mersenne/NMC.html
+22. http://prpnet.primegrid.com/
+23. https://stdkmd.net/ (sections https://stdkmd.net/nrr/prime/ and https://stdkmd.net/nrr/cert/ and https://web.archive.org/web/20240202224722/https://stdkmd.net/nrr/records.htm#primenumbers and https://web.archive.org/web/20240202224722/https://stdkmd.net/nrr/records.htm#probableprimenumbers)
+24. https://kurtbeschorner.de/ (section "Rprime project; base 10")
+25. http://www.elektrosoft.it/matematica/repunit/repunit.htm
+26. https://www.mersenne.org/
+27. https://www.mersenne.ca/
+28. https://web.archive.org/web/20211011120227/http://mprime.s3-website.us-west-1.amazonaws.com/
+29. http://kenta.blogspot.com/2012/11/ezgxggdm-dual-sierpinski-problem.html
+30. https://oeis.org/A076336/a076336c.html (special situation: in theory this reference should be http://web.archive.org/web/20080908010544/http://sierpinski.insider.com/dual, but this page is excluded from the Wayback Machine, thus linked to the cached copy page)
+31. http://www.doublemersennes.org/
+32. http://www.hoegge.dk/mersenne/NMC.html
 
 Index pages of factoring the numbers of the form (*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1):
 
