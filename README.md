@@ -146,7 +146,7 @@ Some bases 2 ≤ *b* ≤ 36 are notable: (fortunately, all of these bases except
 * *b* = 16: hexadecimal (https://en.wikipedia.org/wiki/Hexadecimal, https://mathworld.wolfram.com/Hexadecimal.html, https://oeis.org/A055645)
 * *b* = 18: octodecimal (https://web.archive.org/web/20141218113446/https://en.wikipedia.org/wiki/Octodecimal, https://ja.wikipedia.org/wiki/%E5%8D%81%E5%85%AB%E9%80%B2%E6%B3%95 (in Japanese))
 * *b* = 20: vigesimal (https://en.wikipedia.org/wiki/Vigesimal, https://mathworld.wolfram.com/Vigesimal.html, https://oeis.org/A055644)
-* *b* = 24: quadravigesimal (https://ja.wikipedia.org/wiki/%E4%BA%8C%E5%8D%81%E5%9B%9B%E9%80%B2%E6%B3%95 (in Japanese))
+* *b* = 24: quadrivigesimal (https://web.archive.org/web/20141218113447/https://en.wikipedia.org/wiki/Base_24, https://ja.wikipedia.org/wiki/%E4%BA%8C%E5%8D%81%E5%9B%9B%E9%80%B2%E6%B3%95 (in Japanese))
 * *b* = 30: trigesimal (https://ja.wikipedia.org/wiki/%E4%B8%89%E5%8D%81%E9%80%B2%E6%B3%95 (in Japanese))
 * *b* = 32: duotrigesimal (https://web.archive.org/web/20141218113451/https://en.wikipedia.org/wiki/Base_32, https://ja.wikipedia.org/wiki/%E4%B8%89%E5%8D%81%E4%BA%8C%E9%80%B2%E6%B3%95 (in Japanese))
 * *b* = 36: hexatrigesimal (https://web.archive.org/web/20150320103231/https://en.wikipedia.org/wiki/Base_36, https://fr.wikipedia.org/wiki/Syst%C3%A8me_%C3%A0_base_36 (in Franch), https://ja.wikipedia.org/wiki/%E4%B8%89%E5%8D%81%E5%85%AD%E9%80%B2%E6%B3%95 (in Japanese))
