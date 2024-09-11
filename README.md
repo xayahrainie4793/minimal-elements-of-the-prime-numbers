@@ -3332,6 +3332,7 @@ base *b* = 29:
 * 1{0}2: https://oeis.org/A087886
 * {1}: https://oeis.org/A181979
 * 2{0}1: https://oeis.org/A141802
+* {S}R: https://oeis.org/A359695
 
 base *b* = 30:
 
