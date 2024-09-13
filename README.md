@@ -518,7 +518,7 @@ This is the list of the known generalized repunit (probable) primes in bases 2 �
 |6|2, 3, 7, 29, 71, 127, 271, 509, 1049, 6389, 6883, 10613, 19889, *79987*, *608099*, *1365019*, *3360347*, ...|3360347|https://oeis.org/A004062|
 |7|5, 13, 131, 149, 1699, 14221, *35201*, *126037*, *371669*, *1264699*, ...|1264699|https://oeis.org/A004063|
 |8|3 (this is all, since (8<sup>*n*</sup>−1)/7 = (2<sup>*n*</sup>−1) × (4<sup>*n*</sup>+2<sup>*n*</sup>+1) / 7, and both 2<sup>*n*</sup>−1 and 4<sup>*n*</sup>+2<sup>*n*</sup>+1 are > 7 for *n* > 3, thus this factorization is nontrivial for *n* > 3, it only remains to check the cases *n* = 2 and *n* = 3, but (8<sup>2</sup>−1)/7 = 9 = 3<sup>2</sup> is not prime)|∞|–|
-|9|not exist (since (9<sup>*n*</sup>−1)/8 = (3<sup>*n*</sup>−1) × (3<sup>*n*</sup>+1) / 8, and both 3<sup>*n*</sup>−1 and 3<sup>*n*</sup>+1 are > 8 for *n* > 2, thus this factorization is nontrivial for *n* > 2, it only remains to check the case *n* = 2, but (9<sup>2</sup>−1)/8 = 10 = 2 × 5 is not prime)|∞|–|
+|9|(not exist, since (9<sup>*n*</sup>−1)/8 = (3<sup>*n*</sup>−1) × (3<sup>*n*</sup>+1) / 8, and both 3<sup>*n*</sup>−1 and 3<sup>*n*</sup>+1 are > 8 for *n* > 2, thus this factorization is nontrivial for *n* > 2, it only remains to check the case *n* = 2, but (9<sup>2</sup>−1)/8 = 10 = 2 × 5 is not prime)|∞|–|
 |10|2, 19, 23, 317, 1031, 49081, 86453, *109297*, *270343*, *5794777*, *8177207*, ...|10800000|https://oeis.org/A004023|
 |11|17, 19, 73, 139, 907, 1907, 2029, 4801, 5153, 10867, 20161, *293831*, *1868983*, ...|1868983|https://oeis.org/A005808|
 |12|2, 3, 5, 19, 97, 109, 317, 353, 701, 9739, 14951, *37573*, *46889*, *769543*, ...|1000000|https://oeis.org/A004064|
@@ -534,14 +534,14 @@ This is the list of the known generalized repunit (probable) primes in bases 2 �
 |22|2, 5, 79, 101, 359, 857, 4463, *9029*, *27823*, ...|1000000|https://oeis.org/A127997|
 |23|5, 3181, *61441*, *91943*, *121949*, *221411*, ...|1000000|https://oeis.org/A204940|
 |24|3, 5, 19, 53, 71, 653, 661, *10343*, *49307*, *115597*, *152783*, ...|1000000|https://oeis.org/A127998|
-|25|not exist (since (25<sup>*n*</sup>−1)/24 = (5<sup>*n*</sup>−1) × (5<sup>*n*</sup>+1) / 24, and both 5<sup>*n*</sup>−1 and 5<sup>*n*</sup>+1 are > 24 for *n* > 2, thus this factorization is nontrivial for *n* > 2, it only remains to check the case *n* = 2, but (25<sup>2</sup>−1)/24 = 26 = 2 × 13 is not prime)|∞|–|
+|25|(not exist, since (25<sup>*n*</sup>−1)/24 = (5<sup>*n*</sup>−1) × (5<sup>*n*</sup>+1) / 24, and both 5<sup>*n*</sup>−1 and 5<sup>*n*</sup>+1 are > 24 for *n* > 2, thus this factorization is nontrivial for *n* > 2, it only remains to check the case *n* = 2, but (25<sup>2</sup>−1)/24 = 26 = 2 × 13 is not prime)|∞|–|
 |26|7, 43, 347, *12421*, *12473*, *26717*, ...|1000000|https://oeis.org/A127999|
 |27|3 (this is all, since (27<sup>*n*</sup>−1)/26 = (3<sup>*n*</sup>−1) × (9<sup>*n*</sup>+3<sup>*n*</sup>+1) / 26, and both 3<sup>*n*</sup>−1 and 9<sup>*n*</sup>+3<sup>*n*</sup>+1 are > 26 for *n* > 3, thus this factorization is nontrivial for *n* > 3, it only remains to check the cases *n* = 2 and *n* = 3, but (27<sup>2</sup>−1)/26 = 28 = 2<sup>2</sup>×7 is not prime)|∞|–|
 |28|2, 5, 17, 457, 1423, *115877*, ...|1000000|https://oeis.org/A128000|
 |29|5, 151, 3719, *49211*, *77237*, ...|1000000|https://oeis.org/A181979|
 |30|2, 5, 11, 163, 569, 1789, *8447*, *72871*, *78857*, *82883*, ...|1000000|https://oeis.org/A098438|
 |31|7, 17, 31, 5581, *9973*, *54493*, *101111*, *535571*, ...|1000000|https://oeis.org/A128002|
-|32|not exist (since (32<sup>*n*</sup>−1)/31 = (2<sup>*n*</sup>−1) × (16<sup>*n*</sup>+8<sup>*n*</sup>+4<sup>*n*</sup>+2<sup>*n*</sup>+1) / 31, and both 2<sup>*n*</sup>−1 and 16<sup>*n*</sup>+8<sup>*n*</sup>+4<sup>*n*</sup>+2<sup>*n*</sup>+1 are > 31 for *n* > 5, thus this factorization is nontrivial for *n* > 5, it only remains to check the cases *n* = 2 and *n* = 3 and *n* = 4 and *n* = 5, but (32<sup>2</sup>−1)/31 = 33 = 3 × 11 and (32<sup>3</sup>−1)/31 = 1057 = 7 × 151 and (32<sup>4</sup>−1)/31 = 33825 = 3 × 5<sup>2</sup> × 11 × 41 and (32<sup>5</sup>−1)/31 = 1082401 = 601 × 1801 are not primes)|∞|–|
+|32|(not exist, since (32<sup>*n*</sup>−1)/31 = (2<sup>*n*</sup>−1) × (16<sup>*n*</sup>+8<sup>*n*</sup>+4<sup>*n*</sup>+2<sup>*n*</sup>+1) / 31, and both 2<sup>*n*</sup>−1 and 16<sup>*n*</sup>+8<sup>*n*</sup>+4<sup>*n*</sup>+2<sup>*n*</sup>+1 are > 31 for *n* > 5, thus this factorization is nontrivial for *n* > 5, it only remains to check the cases *n* = 2 and *n* = 3 and *n* = 4 and *n* = 5, but (32<sup>2</sup>−1)/31 = 33 = 3 × 11 and (32<sup>3</sup>−1)/31 = 1057 = 7 × 151 and (32<sup>4</sup>−1)/31 = 33825 = 3 × 5<sup>2</sup> × 11 × 41 and (32<sup>5</sup>−1)/31 = 1082401 = 601 × 1801 are not primes)|∞|–|
 |33|3, 197, 3581, *6871*, *183661*, ...|1000000|https://oeis.org/A209120|
 |34|13, 1493, *5851*, *6379*, *125101*, ...|1000000|https://oeis.org/A185073|
 |35|313, 1297, *568453*, ...|1000000|https://oeis.org/A348170|
