@@ -3224,6 +3224,7 @@ base *b* = 12:
 
 base *b* = 13:
 
+* 1{0}4: https://oeis.org/A137236
 * {1}: https://oeis.org/A016054
 * 1{C}: https://oeis.org/A174153
 * A{0}1: https://oeis.org/A057464
@@ -3247,6 +3248,7 @@ base *b* = 14:
 base *b* = 15:
 
 * 1{0}2: https://oeis.org/A138048
+* 1{0}4: https://oeis.org/A247166
 * {1}: https://oeis.org/A006033
 * {E}D: https://oeis.org/A128458
 
@@ -3260,6 +3262,7 @@ base *b* = 16:
 base *b* = 17:
 
 * 1{0}2: https://oeis.org/A113480
+* 1{0}4: https://oeis.org/A253380
 * {1}: https://oeis.org/A006034
 * 1{G}: https://oeis.org/A193177
 * 2{0}1: https://oeis.org/A141797
@@ -3272,6 +3275,7 @@ base *b* = 18:
 
 base *b* = 19:
 
+* 1{0}4: https://oeis.org/A243397
 * {1}: https://oeis.org/A006035
 * {I}H: https://oeis.org/A128460
 
