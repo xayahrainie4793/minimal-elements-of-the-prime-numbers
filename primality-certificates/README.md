@@ -421,11 +421,11 @@ For the number 26<sup>1886</sup>−1, it is the product of *Φ*<sub>*d*</sub>(26
 |*Φ*<sub>1</sub>(26)|5<sup>2</sup>|
 |*Φ*<sub>2</sub>(26)|3<sup>3</sup>|
 |*Φ*<sub>23</sub>(26)|13709 × 1086199 × 1528507873 × 615551139461|
-|*Φ*<sub>41</sub>(26)|83 × 2633923 × (49-digit prime)|
+|*Φ*<sub>41</sub>(26)|83 × 2633923 × 1889235471403240170024149023898147623088722803599|
 |*Φ*<sub>46</sub>(26)|47 × 1157729 × 378673381 × 629584013567417|
-|*Φ*<sub>82</sub>(26)|9677 × 1532581 × (47-digit prime)|
-|*Φ*<sub>943</sub>(26)|384118835398327 × (1231-digit composite with no known proper factor, *SNFS* difficulty is 1334.320, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSNFS?Number=&Base=26&Exp=943&c0=-&LM=&SA=)|
-|*Φ*<sub>1886</sub>(26)|(1246-digit composite with no known proper factor, *SNFS* difficulty is 1334.320, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSNFS?Number=&Base=26&Exp=943&c0=%2B&LM=&SA=)|
+|*Φ*<sub>82</sub>(26)|9677 × 1532581 × 25785723680423291494502376192531526522653945523|
+|*Φ*<sub>943</sub>(26)|384118835398327 × 3758783152...3598994513 (1231-digit composite with no known proper factor, *SNFS* difficulty is 1334.320, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSNFS?Number=&Base=26&Exp=943&c0=-&LM=&SA=)|
+|*Φ*<sub>1886</sub>(26)|1559324959...7203892251 (1246-digit composite with no known proper factor, *SNFS* difficulty is 1334.320, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSNFS?Number=&Base=26&Exp=943&c0=%2B&LM=&SA=)|
 
 For the number 36<sup>3933</sup>−1 = 6<sup>7866</sup>−1, it is the product of *Φ*<sub>*d*</sub>(6) with positive integers *d* dividing 7866 (i.e. *d* = 1, 2, 3, 6, 9, 18, 19, 23, 38, 46, 57, 69, 114, 138, 171, 207, 342, 414, 437, 874, 1311, 2622, 3933, 7866), and the factorization of *Φ*<sub>*d*</sub>(6) for these positive integers *d* are:
 
@@ -445,16 +445,16 @@ For the number 36<sup>3933</sup>−1 = 6<sup>7866</sup>−1, it is the product o
 |*Φ*<sub>69</sub>(6)|11731 × 1236385853432057889667843739281|
 |*Φ*<sub>114</sub>(6)|457 × 137713 × 190324492938225748951|
 |*Φ*<sub>138</sub>(6)|24648570768391 × 816214079084081564521|
-|*Φ*<sub>171</sub>(6)|19 × 25896916098621777025320461067950269867 × (46-digit prime)|
-|*Φ*<sub>207</sub>(6)|399097 × (98-digit prime)|
-|*Φ*<sub>342</sub>(6)|62174327387790051073 × (65-digit prime)|
-|*Φ*<sub>414</sub>(6)|4811469913 × 61040960263 × 25280883279243199352415750302719 × (51-digit prime)|
-|*Φ*<sub>437</sub>(6)|989723472495640900314985156529340457 × (273-digit composite with no known proper factor, *SNFS* difficulty is 340.830, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSNFS?Number=&Base=6&Exp=437&c0=-&LM=&SA=, this composite has already checked with *P*−1 to *B1* = 50000 and 3 times *P*+1 to *B1* = 150000 and 10 times *ECM* to *B1* = 250000 (these can be checked for composites < 10<sup>300</sup>), see http://factordb.com/sequences.php?se=1&aq=%286%5E437-1%29*5%2F%286%5E23-1%29%2F%286%5E19-1%29&action=all&fr=0&to=100, the "Check for factors" box shows "Already checked", this is the *ECM* effort t-level (https://oeis.org/wiki/OEIS_sequences_needing_factors#T-levels, https://stdkmd.net/nrr/wanted.htm (the "ECM" column of the three tables), https://stdkmd.net/nrr/c.cgi?q=37771_259#ecm, https://stdkmd.net/nrr/c.cgi?q=23333_233#ecm, http://myfactorcollection.mooo.com:8090/lists.html (the labels "Brent Format with t-level" and "Wagstaff Format with t-level" of the lists in the boxes), http://myfactorcollection.mooo.com:8090/dbio.html (the labels "Brent Format with t-level" and "Wagstaff Format with t-level" of the DB inputs/outputs in the boxes), https://github.com/brubsby/t-level, https://www.mersenneforum.org/showthread.php?t=29615) t30 (see http://www.loria.fr/~zimmerma/records/ecm/params.html and https://www.rieselprime.de/ziki/Elliptic_curve_method#Choosing_the_best_parameters_for_ECM), i.e. the prime factors of this composite number are probably > 10<sup>30</sup>)|
-|*Φ*<sub>874</sub>(6)|(309-digit prime, for its *ECPP* primality certificate see http://factordb.com/cert.php?id=1100000000019287760, and for its certificate chain see http://factordb.com/certchain.php?fid=1100000000019287760&action=all&fr=0&to=100)|
-|*Φ*<sub>1311</sub>(6)|100745107 × 1719861571 × 2376829061449 × (587-digit composite with no known proper factor, *SNFS* difficulty is 681.660, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSNFS?Number=&Base=6&Exp=1311&c0=-&LM=&SA=)|
-|*Φ*<sub>2622</sub>(6)|41953 × 266030354191322260711 × (592-digit composite with no known proper factor, *SNFS* difficulty is 681.660, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSNFS?Number=&Base=6&Exp=1311&c0=%2B&LM=&SA=)|
-|*Φ*<sub>3933</sub>(6)|7867 × (1845-digit composite with no known proper factor, *SNFS* difficulty is too large to handle for the script, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSNFS?Number=&Base=6&Exp=3933&c0=-&LM=&SA=)|
-|*Φ*<sub>7866</sub>(6)|(1849-digit composite with no known proper factor, *SNFS* difficulty is too large to handle for the script, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSNFS?Number=&Base=6&Exp=3933&c0=%2B&LM=&SA=)|
+|*Φ*<sub>171</sub>(6)|19 × 25896916098621777025320461067950269867 × 2219821955745760247086895900084483710540707577|
+|*Φ*<sub>207</sub>(6)|399097 × 1296795035...8878205873 (98-digit prime)|
+|*Φ*<sub>342</sub>(6)|62174327387790051073 × 17730863455565010457215015481519172763685683806181388676488969177|
+|*Φ*<sub>414</sub>(6)|4811469913 × 61040960263 × 25280883279243199352415750302719 × 703525130194638933868239585175540752922537827762121|
+|*Φ*<sub>437</sub>(6)|989723472495640900314985156529340457 × 1183586589...4089509763 (273-digit composite with no known proper factor, *SNFS* difficulty is 340.830, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSNFS?Number=&Base=6&Exp=437&c0=-&LM=&SA=, this composite has already checked with *P*−1 to *B1* = 50000 and 3 times *P*+1 to *B1* = 150000 and 10 times *ECM* to *B1* = 250000 (these can be checked for composites < 10<sup>300</sup>), see http://factordb.com/sequences.php?se=1&aq=%286%5E437-1%29*5%2F%286%5E23-1%29%2F%286%5E19-1%29&action=all&fr=0&to=100, the "Check for factors" box shows "Already checked", this is the *ECM* effort t-level (https://oeis.org/wiki/OEIS_sequences_needing_factors#T-levels, https://stdkmd.net/nrr/wanted.htm (the "ECM" column of the three tables), https://stdkmd.net/nrr/c.cgi?q=37771_259#ecm, https://stdkmd.net/nrr/c.cgi?q=23333_233#ecm, http://myfactorcollection.mooo.com:8090/lists.html (the labels "Brent Format with t-level" and "Wagstaff Format with t-level" of the lists in the boxes), http://myfactorcollection.mooo.com:8090/dbio.html (the labels "Brent Format with t-level" and "Wagstaff Format with t-level" of the DB inputs/outputs in the boxes), https://github.com/brubsby/t-level, https://www.mersenneforum.org/showthread.php?t=29615) t30 (see http://www.loria.fr/~zimmerma/records/ecm/params.html and https://www.rieselprime.de/ziki/Elliptic_curve_method#Choosing_the_best_parameters_for_ECM), i.e. the prime factors of this composite number are probably > 10<sup>30</sup>)|
+|*Φ*<sub>874</sub>(6)|1639992800...0751325191 (309-digit prime, for its *ECPP* primality certificate see http://factordb.com/cert.php?id=1100000000019287760, and for its certificate chain see http://factordb.com/certchain.php?fid=1100000000019287760&action=all&fr=0&to=100)|
+|*Φ*<sub>1311</sub>(6)|100745107 × 1719861571 × 2376829061449 × 5731137850...5945971627 (587-digit composite with no known proper factor, *SNFS* difficulty is 681.660, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSNFS?Number=&Base=6&Exp=1311&c0=-&LM=&SA=)|
+|*Φ*<sub>2622</sub>(6)|41953 × 266030354191322260711 × 1524597776...3813110057 (592-digit composite with no known proper factor, *SNFS* difficulty is 681.660, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSNFS?Number=&Base=6&Exp=1311&c0=%2B&LM=&SA=)|
+|*Φ*<sub>3933</sub>(6)|7867 × 9853193450...6484376123 (1845-digit composite with no known proper factor, *SNFS* difficulty is too large to handle for the script, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSNFS?Number=&Base=6&Exp=3933&c0=-&LM=&SA=)|
+|*Φ*<sub>7866</sub>(6)|7680066348...5279841641 (1849-digit composite with no known proper factor, *SNFS* difficulty is too large to handle for the script, see http://myfactorcollection.mooo.com:8090/cgi-bin/showSNFS?Number=&Base=6&Exp=3933&c0=%2B&LM=&SA=)|
 
 For the files in this page:
 
