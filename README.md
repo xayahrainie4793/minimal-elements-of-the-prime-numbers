@@ -2534,7 +2534,7 @@ Four coincidences (https://en.wikipedia.org/wiki/Mathematical_coincidence, https
 * Bases *b* = 20 and *b* = 23 have two same type of families which have the minimal prime with the same length: (*b*−1)×*b*<sup>*n*</sup>+1 (both have length 15: J00000000000001 and M00000000000001, respectively) and *b*<sup>*n*</sup>−(*b*−1) (both have length 17: JJJJJJJJJJJJJJJJ1 and MMMMMMMMMMMMMMMM1, respectively).
 * A minimal prime in base *b* = 34 has length exactly 100000 (it is GFGC<sub>99996</sub>5).
 
-Two interesting large gaps between the minimal primes in bases *b* = 24 and *b* = 28 (bases *b* = 5 (length 6 and 96), 8 (length 15 and 221), 11 (length 1013 and 62669), 14 (length 710 and 19699), 18 (length 768 and 6271), 22 (length 3817 and 22003) have a large gap between the largest minimal prime and the second-largest minimal prime, but these are "uninteresting" large gaps):
+Two interesting large gaps between the minimal primes in bases *b* = 24 and *b* = 28 (bases *b* = 5 (length 6 and 96) and *b* = 8 (length 15 and 221) and *b* = 11 (length 1013 and 62669) and *b* = 14 (length 710 and 19699) and *b* = 18 (length 768 and 6271) and *b* = 22 (length 3817 and 22003) have a large gap between the largest minimal prime and the second-largest minimal prime, but these are "uninteresting" large gaps):
 
 * The gap between the minimal prime BC0<sub>331</sub>B (length 334) and the next minimal prime N<sub>2644</sub>LLN (length 2647) in base *b* = 24, their lengths have ratio 2647/334 = 7.9251497005...
 * The gap between the minimal prime D0<sub>5267</sub>77D (length 5271) and the next minimal prime N6<sub>24051</sub>LR (length 24054) in base *b* = 28, their lengths have ratio 24054/5271 = 4.5634604439...
