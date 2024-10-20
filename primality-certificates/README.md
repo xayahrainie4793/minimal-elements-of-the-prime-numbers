@@ -40,7 +40,7 @@ Also, there are no primality certificates for these primes in *factordb* because
 
 * the 2328th minimal prime in base 16, 880<sub>246</sub>7, with 300 decimal digits, *N*−1 is 2<sup>3</sup> × 3 × 7 × 13 × 25703261 × 6337730447...9538196901 (289-digit prime)
 * the 10311st minimal prime in base 17, 85A<sub>241</sub>55, with 302 decimal digits, *N*+1 is 2 × 1291 × 942385161439 × 5808221106...7462348093 (286-digit prime)
-* the 10312nd minimal prime in base 17, 90<sub>242</sub>701, with 303 decimal digits, *N*−1 is 2<sup>6</sup> × 17<sup>2</sup> × 1773259 × 4348181 × 603217519 × 	3017148579...9019429591 (277-digit prime)
+* the 10312nd minimal prime in base 17, 90<sub>242</sub>701, with 303 decimal digits, *N*−1 is 2<sup>6</sup> × 17<sup>2</sup> × 1773259 × 4348181 × 603217519 × 3017148579...9019429591 (277-digit prime)
 * the 10315th minimal prime in base 17, E7<sub>255</sub>A, with 317 decimal digits, *N*−1 is 2<sup>4</sup> × 283 × 619471 × 62754967151 × 8106630255...8039432867 (296-digit prime)
 * the 25174th minimal prime in base 26, OL0<sub>214</sub>M9, with 309 decimal digits, *N*−1 is 2<sup>2</sup> × 5<sup>2</sup> × 7 × 223 × 42849349 × 4153897205...7752943149 (296-digit prime)
 * the 25485th minimal prime in base 28, JN<sub>206</sub>, with 300 decimal digits, *N*−1 is 2 × 1061 × 1171 × 74311 × 1399587650...4611396621 (289-digit prime)
