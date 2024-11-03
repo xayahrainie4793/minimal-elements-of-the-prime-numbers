@@ -14,8 +14,8 @@ e.g.
 * Write down the prime 439 → I can strike out the digit 9, to get the prime 43
 * Write down the prime 857 → I can strike out zero digits, to get the prime 857
 * Write down the prime 2081 → I can strike out the digit 0, to get the prime 281
-* Write down the largest known double Mersenne prime 170141183460469231731687303715884105727 (2<sup>127</sup>−1) → I can strike out all digits except the third-leftmost 1 and the second-rightmost 3, to get the prime 13 (also I can choose to strike out all digits except the second-leftmost 4 and the third-rightmost 7, to get the prime 47)
-* Write down the largest known Fermat prime 65537 → I can strike out the 6 and the 3, to get the prime 557 (also I can choose to strike out the 6 and two 5's, to get the prime 37) (also I can choose to strike out two 5's and the 3, to get the prime 67) (also I can choose to strike out the 6, one 5, and the 7, to get the prime 53)
+* Write down the largest known double Mersenne prime 170141183460469231731687303715884105727 (2<sup>2<sup>7</sup>−1</sup>−1 = 2<sup>127</sup>−1) → I can strike out all digits except the third-leftmost 1 and the second-rightmost 3, to get the prime 13 (also I can choose to strike out all digits except the second-leftmost 4 and the third-rightmost 7, to get the prime 47)
+* Write down the largest known Fermat prime 65537 (2<sup>2<sup>4</sup></sup>+1 = 2<sup>16</sup>+1) → I can strike out the 6 and the 3, to get the prime 557 (also I can choose to strike out the 6 and two 5's, to get the prime 37) (also I can choose to strike out two 5's and the 3, to get the prime 67) (also I can choose to strike out the 6, one 5, and the 7, to get the prime 53)
 * Write down the famous repunit prime 1111111111111111111 (with 19 1's) → I can strike out 17 1's, to get the prime 11
 * Write down the prime 1000000000000000000000000000000000000000000000000000000000007 (which is the next prime after 10<sup>60</sup>) → I can strike out all 0's, to get the prime 17
 * Write down the prime 95801 → I can strike out the 9, to get the prime 5801
