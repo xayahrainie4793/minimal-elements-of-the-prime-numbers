@@ -3807,7 +3807,7 @@ Lists of small integers in various bases:
 2. https://math.tools/table/bases-table/ (bases 2 ≤ *b* ≤ 35) (use lower case letters instead of upper case letters) (limit: 256)
 3. https://math.tools/table/base/ (bases 2 ≤ *b* ≤ 64) (limit: 64, together with 70, 80, 90, 100, 200, 300, 400, 500, 600, 700, 800, 900, 1000)
 4. https://linesegment.web.fc2.com/application/math/numbers/RadixConversion.html (in Japanese) (bases 2 ≤ *b* ≤ 36 and *b* = 62) (limit: 1024 for *b* = 2 and *b* = 4, 2187 for *b* = 3, 3125 for *b* = 5, *b*<sup>4</sup> for 6 ≤ *b* ≤ 8, 729 for *b* = 9, 3993 for *b* = 11, 3456 for *b* = 12, 4394 for *b* = 13, *b*<sup>3</sup> for 14 ≤ *b* ≤ 17, *b*<sup>2</sup> for 18 ≤ *b* ≤ 36, 3843 for *b* = 62)
-5. https://en.wikipedia.org/wiki/Table_of_bases (bases 2 ≤ *b* ≤ 36) (limit: 1296)
+5. https://web.archive.org/web/20240824165354/https://en.wikipedia.org/wiki/Table_of_bases (bases 2 ≤ *b* ≤ 36) (limit: 1296)
 
 Also, programs related to this research: (some of these programs can also be downloaded in http://www.fermatsearch.org/download.php or https://www.mersenne.org/download/freeware.php or https://download.mersenne.ca/) (some of these programs need to use *GMP* (https://gmplib.org/))
 
