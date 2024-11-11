@@ -821,7 +821,7 @@ e.g. in decimal (base *b* = 10):
 * The smallest prime in the family {5}1 is 555555555551.
 * The smallest prime in the family 8{5}1 is 8555555555555555555551, but 8555555555555555555551 is not minimal prime since 555555555551 is a subsequence of 8555555555555555555551.
 
-There is no guarantee that the techniques discussed will ever terminate, but in practice they often do. They are able to determine the minimal primes in base *b* for 2 ≤ *b* ≤ 16 and *b* = 18, 20, 22, 24, 30. The bases *b* = 17, 19, 21, 23, 25 ≤ *b* ≤ 29, 31 ≤ *b* ≤ 36 are solved with the exception of 793+? families of the form *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base *b*, *y* is a digit in base *b*).
+There is no guarantee that the techniques discussed will ever terminate, but in practice they often do. They are able to determine the minimal primes in base *b* for 2 ≤ *b* ≤ 16 and *b* = 18, 20, 22, 24, 30. The bases *b* = 17, 19, 21, 23, 25 ≤ *b* ≤ 29, 31 ≤ *b* ≤ 36 are solved with the exception of 910 families of the form *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base *b*, *y* is a digit in base *b*).
 
 (for the examples of nonlinear families, see https://web.archive.org/web/20240305201337/https://stdkmd.net/nrr/prime/primecount3.htm and https://web.archive.org/web/20240305201316/https://stdkmd.net/nrr/prime/primecount3.txt (only base 10 families), nonlinear families usually have small primes if they cannot be ruled out as only containing composites by covering congruence, see the section above)
 
