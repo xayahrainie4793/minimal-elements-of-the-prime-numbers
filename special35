@@ -1,0 +1,46 @@
+10H000000000000000000{K}0{K0}D
+ primes: 1H0KKD K00D
+ to be examined: 10H{0}D first prime registered
+                 10H{0}KD  divided by 17
+                 10H{0}K0D divided by 3,17
+1H0000000000000000000{K}0{K0}D
+ primes: 1H0KKD K00D
+ to be examined: 1H{0}D   divided by 13
+                 1H{0}KD  divided by 17
+                 1H{0}K0D divided by 17
+6000000000000000000{R}0{R0}RPR
+ primes: R00PR 60RRRPR
+ to be examined: 6{0}RPR   divided by 17
+                 6{0}RRPR  divided by 2
+                 6{0}R0RPR divided by 2
+AFFFFFFFFFFFFFFFFFFFF{S}F{FS}2
+ primes: FSS2 SSF2 FFFSFF2 AFFSFF2 FFFFFF...S2 FFFF...2
+ to be examined: A{F}2     divided by (2,3)
+                 A{F}S2    divided by (2,3)
+                 A{F}SF2   covered
+BXXXXXXXXXXXXXXXXXXX{0}X{0X}PM
+ primes: BX0000PM BXXXXXXXXOOXPM BXXXXXXX0XPM
+ to be examined: B{X}PM ADDED TO LEFT
+                 B{X}0PM ADDED TO LEFT
+                 B{X}00PM ADDED TO LEFT
+                 B{X}000PM ADDED TO LEFT
+X0000000000000000000{V}0{0V}J{J}J
+ primes: VVJ V00JJ
+ to be examined: X{0}JJ{J}     divided by (2,3)
+                 X{0}VJJ       divided by 2
+                 X{0}V0JJ      divided by 2
+Y0T000000000000000000{5}0{05}H
+ primes: 55H
+ to be examined: Y0T{0}H       divided by 2
+                 Y0T{0}5{0}H   divided by 17
+Y0YT00000000000000000{5}0{05}H
+ primes: 55H
+ to be examined: Y0YT{0}H       divided by 2
+                 Y0YT{0}5{0}H   divided by 17
+YV0000000000000000000{7}0{07}D
+ primes: 770D 7777D YV7077D
+ to be examined: YV{0}D       divided by 2
+                 YV{0}7{0}D   divided by 17
+                 YV{0}7{7}D   divided by {2,3}
+                 YV{0}7{0}7D  divided by 2
+
