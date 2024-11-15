@@ -3024,9 +3024,9 @@ Index pages of factoring the numbers of the form (*a*×*b*<sup>*n*</sup>+*c*)/*g
 15. https://kurtbeschorner.de/
 16. https://repunit-koide.jimdofree.com/
 17. https://gmplib.org/~tege/repunit.html
-18. https://web.archive.org/web/20070708171301/http://www.ludwigsgymnasium.de/unterr/mathe/prim/zehnp.htm
-19. http://chesswanks.com/pxp/repfactors.html
-20. https://www.alfredreichlg.de/
+18. https://www.alfredreichlg.de/
+19. https://web.archive.org/web/20070708171301/http://www.ludwigsgymnasium.de/unterr/mathe/prim/zehnp.htm
+20. http://chesswanks.com/pxp/repfactors.html
 21. https://web.archive.org/web/20021001222643/http://www.users.globalnet.co.uk/~aads/index.html
 22. http://www.asahi-net.or.jp/~KC2H-MSM/mathland/matha1/index.htm
 23. http://mklasson.com/factors/index.php
