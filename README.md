@@ -3112,20 +3112,21 @@ Index pages of searching the primes of the form (*a*×*b*<sup>*n*</sup>+*c*)/*gc
 16. http://harvey563.tripod.com/
 17. http://guenter.loeh.name/
 18. http://www.fermatsearch.org/
-19. http://jeppesn.dk/
-20. https://web.archive.org/web/20231002190634/http://yves.gallot.pagesperso-orange.fr/primes/index.html
-21. http://boincvm.proxyma.ru:30080/test4vm/index.php
-22. http://prpnet.primegrid.com/
-23. https://stdkmd.net/ (sections https://stdkmd.net/nrr/prime/ and https://stdkmd.net/nrr/cert/ and https://web.archive.org/web/20240202224722/https://stdkmd.net/nrr/records.htm#primenumbers and https://web.archive.org/web/20240202224722/https://stdkmd.net/nrr/records.htm#probableprimenumbers)
-24. https://kurtbeschorner.de/ (section "Rprime project; base 10")
-25. http://www.elektrosoft.it/matematica/repunit/repunit.htm
-26. https://www.mersenne.org/
-27. https://www.mersenne.ca/
-28. https://web.archive.org/web/20211011120227/http://mprime.s3-website.us-west-1.amazonaws.com/
-29. http://kenta.blogspot.com/2012/11/ezgxggdm-dual-sierpinski-problem.html
-30. https://oeis.org/A076336/a076336c.html (special situation: in theory this reference should be http://web.archive.org/web/20080908010544/http://sierpinski.insider.com/dual, but this page is excluded from the Wayback Machine, thus linked to the cached copy page)
-31. http://www.doublemersennes.org/
-32. http://www.hoegge.dk/mersenne/NMC.html
+19. https://64ordle.au/
+20. http://jeppesn.dk/
+21. https://web.archive.org/web/20231002190634/http://yves.gallot.pagesperso-orange.fr/primes/index.html
+22. http://boincvm.proxyma.ru:30080/test4vm/index.php
+23. http://prpnet.primegrid.com/
+24. https://stdkmd.net/ (sections https://stdkmd.net/nrr/prime/ and https://stdkmd.net/nrr/cert/ and https://web.archive.org/web/20240202224722/https://stdkmd.net/nrr/records.htm#primenumbers and https://web.archive.org/web/20240202224722/https://stdkmd.net/nrr/records.htm#probableprimenumbers)
+25. https://kurtbeschorner.de/ (section "Rprime project; base 10")
+26. http://www.elektrosoft.it/matematica/repunit/repunit.htm
+27. https://www.mersenne.org/
+28. https://www.mersenne.ca/
+29. https://web.archive.org/web/20211011120227/http://mprime.s3-website.us-west-1.amazonaws.com/
+30. http://kenta.blogspot.com/2012/11/ezgxggdm-dual-sierpinski-problem.html
+31. https://oeis.org/A076336/a076336c.html (special situation: in theory this reference should be http://web.archive.org/web/20080908010544/http://sierpinski.insider.com/dual, but this page is excluded from the Wayback Machine, thus linked to the cached copy page)
+32. http://www.doublemersennes.org/
+33. http://www.hoegge.dk/mersenne/NMC.html
 
 Index pages of factoring the numbers of the form (*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1):
 
@@ -3137,34 +3138,35 @@ Index pages of factoring the numbers of the form (*a*×*b*<sup>*n*</sup>+*c*)/*g
 6. https://www.mersenne.ca/
 7. https://mers.sourceforge.io/mersenne.html
 8. http://www.fermatsearch.org/
-9. http://www.prothsearch.com/ (section "Fermat numbers")
-10. https://web.archive.org/web/20211011120227/http://mprime.s3-website.us-west-1.amazonaws.com/
-11. http://www.doublemersennes.org/
-12. https://sites.google.com/site/bearnol **(warning: currently it is still unknown whether the number 2<sup>2<sup>127</sup>−1</sup>−1 is prime, in fact, many subpages in https://sites.google.com/site/bearnol/math (including https://sites.google.com/site/bearnol/prime-onlyseries) are only hoaxes (although some subpages are not), e.g. Riemann hypothesis (https://en.wikipedia.org/wiki/Riemann_hypothesis, https://t5k.org/glossary/xpage/RiemannHypothesis.html, https://mathworld.wolfram.com/RiemannHypothesis.html, https://t5k.org/notes/rh.html, http://www.numericana.com/answer/open.htm#rh) and *abc* conjecture (https://en.wikipedia.org/wiki/Abc_conjecture, https://mathworld.wolfram.com/abcConjecture.html, http://www.numericana.com/answer/open.htm#abc) and Collatz conjecture (https://en.wikipedia.org/wiki/Collatz_conjecture, https://mathworld.wolfram.com/CollatzProblem.html, http://www.numericana.com/answer/open.htm#collatz, http://www.ericr.nl/wondrous/index.html, http://www.ericr.nl/wondrous/delrecs.html, http://www.ericr.nl/wondrous/pathrecs.html, http://www.ericr.nl/wondrous/comprecs.html, http://www.ericr.nl/wondrous/glidrecs.html, http://www.ericr.nl/wondrous/residues.html, http://www.ericr.nl/wondrous/classrec.html, http://www.ericr.nl/wondrous/strengths.html, http://www.ericr.nl/wondrous/progress.html, http://www.ericr.nl/wondrous/techpage.html, http://www.ericr.nl/wondrous/showsteps.html, https://pcbarina.fit.vutbr.cz/, https://pcbarina.fit.vutbr.cz/path-records.htm, http://sweet.ua.pt/tos/3x_plus_1.html, http://www.rechenkraft.net/yoyo/y_status_col.php, https://oeis.org/A006370, https://oeis.org/A070165, https://oeis.org/A006577, https://oeis.org/A006877, https://oeis.org/A006878, https://oeis.org/A025586, https://oeis.org/A006884, https://oeis.org/A006885) and Beal's conjecture (https://en.wikipedia.org/wiki/Beal_conjecture, https://t5k.org/glossary/xpage/BealsConjecture.html, https://mathworld.wolfram.com/BealsConjecture.html) and Goldbach's conjecture (https://en.wikipedia.org/wiki/Goldbach%27s_conjecture, https://t5k.org/glossary/xpage/GoldbachConjecture.html, https://mathworld.wolfram.com/GoldbachConjecture.html, http://www.numericana.com/answer/open.htm#goldbach, https://oeis.org/A045917, https://oeis.org/A035026, https://oeis.org/A002375, https://oeis.org/A002372) and twin prime conjecture (https://en.wikipedia.org/wiki/Twin_prime_conjecture, https://t5k.org/glossary/xpage/TwinPrimeConjecture.html, https://mathworld.wolfram.com/TwinPrimeConjecture.html, http://www.numericana.com/answer/open.htm#twin, https://oeis.org/A001097, https://oeis.org/A077800, https://oeis.org/A001359, https://oeis.org/A006512) are currently still unsolved problems, but this page has false proofs of Riemann hypothesis and Collatz conjecture and Beal's conjecture and twin prime conjecture, and has false disproofs of *abc* conjecture and Goldbach's conjecture, also, the Catalan-Mersenne number conjecture (https://en.wikipedia.org/wiki/Catalan%E2%80%93Mersenne_number_conjecture, https://mathworld.wolfram.com/Catalan-MersenneNumber.html, https://t5k.org/mersenne/index.html#c, https://oeis.org/A007013) is currently still an unsolved problem, it is still unknown whether the number 2<sup>2<sup>127</sup>−1</sup>−1 is prime, and the New Mersenne conjecture (https://en.wikipedia.org/wiki/New_Mersenne_conjecture, https://t5k.org/glossary/xpage/NewMersenneConjecture.html, https://mathworld.wolfram.com/NewMersennePrimeConjecture.html, https://t5k.org/mersenne/NewMersenneConjecture.html, http://www.hoegge.dk/mersenne/NMC.html, http://www.primenumbers.net/rl/nmc/, https://web.archive.org/web/20010809112857/http://orca.st.usm.edu/~cwcurry/NMC.html, https://web.archive.org/web/20211128180850/http://mprime.s3-website.us-west-1.amazonaws.com/new_mersenne_conjecture.html, https://oeis.org/A107360, https://oeis.org/A122834, https://oeis.org/A120334) is currently also still an unsolved problem, however, it is known that the Catalan-Mersenne number conjecture and the New Mersenne conjecture is not both true, i.e. at least one of them is false, since the prime 886407410000361345663448535540258622490179142922169401 divides the number (2<sup>2<sup>127</sup>−1</sup>+1)/3 (this prime factor is found by trial division, all prime factors of (2<sup>2<sup>127</sup>−1</sup>+1)/3 and all prime factors of 2<sup>2<sup>127</sup>−1</sup>−1 are == 1 mod 2×(2<sup>127</sup>−1)), see https://www.mersenneforum.org/showpost.php?p=549829&postcount=1 and https://t5k.org/curios/cpage/40578.html)**
-13. https://web.archive.org/web/20130530210800/http://www.euronet.nl/users/bota/medium-p.htm
-14. https://stdkmd.net/
-15. https://kurtbeschorner.de/
-16. https://repunit-koide.jimdofree.com/
-17. https://gmplib.org/~tege/repunit.html
-18. https://www.alfredreichlg.de/
-19. https://web.archive.org/web/20070708171301/http://www.ludwigsgymnasium.de/unterr/mathe/prim/zehnp.htm
-20. http://chesswanks.com/pxp/repfactors.html
-21. https://web.archive.org/web/20021001222643/http://www.users.globalnet.co.uk/~aads/index.html
-22. http://www.asahi-net.or.jp/~KC2H-MSM/mathland/matha1/index.htm
-23. http://mklasson.com/factors/index.php
-24. https://cs.stanford.edu/people/rpropper/math/factors/3n-2.txt
-25. https://web.archive.org/web/20020320010222/http://proth.cjb.net/
-26. https://brnikat.com/nums/index.html
-27. https://www.asahi-net.or.jp/~KC2H-MSM/mathland/matha1/index.htm
-28. https://www.lirmm.fr/~ochem/opn/
-29. https://web.archive.org/web/20120426061657/http://oddperfect.org/
-30. https://web.archive.org/web/20190211112446/http://home.earthlink.net/~elevensmooth/
-31. https://2721.hddkillers.com/
-32. https://web.archive.org/web/20081006071311/http://www-staff.maths.uts.edu.au/~rons/fact/fact.htm
-33. https://homes.cerias.purdue.edu/~ssw/bell/index.html
-34. http://www.loria.fr/~zimmerma/ecmnet/ (finding the factors of the numbers)
-35. https://www.rechenkraft.net/yoyo/ (finding the factors of the numbers)
-36. http://escatter11.fullerton.edu/nfs/ (finding the factors of the numbers)
+9. https://64ordle.au/
+10. http://www.prothsearch.com/ (section "Fermat numbers")
+11. https://web.archive.org/web/20211011120227/http://mprime.s3-website.us-west-1.amazonaws.com/
+12. http://www.doublemersennes.org/
+13. https://sites.google.com/site/bearnol **(warning: currently it is still unknown whether the number 2<sup>2<sup>127</sup>−1</sup>−1 is prime, in fact, many subpages in https://sites.google.com/site/bearnol/math (including https://sites.google.com/site/bearnol/prime-onlyseries) are only hoaxes (although some subpages are not), e.g. Riemann hypothesis (https://en.wikipedia.org/wiki/Riemann_hypothesis, https://t5k.org/glossary/xpage/RiemannHypothesis.html, https://mathworld.wolfram.com/RiemannHypothesis.html, https://t5k.org/notes/rh.html, http://www.numericana.com/answer/open.htm#rh) and *abc* conjecture (https://en.wikipedia.org/wiki/Abc_conjecture, https://mathworld.wolfram.com/abcConjecture.html, http://www.numericana.com/answer/open.htm#abc) and Collatz conjecture (https://en.wikipedia.org/wiki/Collatz_conjecture, https://mathworld.wolfram.com/CollatzProblem.html, http://www.numericana.com/answer/open.htm#collatz, http://www.ericr.nl/wondrous/index.html, http://www.ericr.nl/wondrous/delrecs.html, http://www.ericr.nl/wondrous/pathrecs.html, http://www.ericr.nl/wondrous/comprecs.html, http://www.ericr.nl/wondrous/glidrecs.html, http://www.ericr.nl/wondrous/residues.html, http://www.ericr.nl/wondrous/classrec.html, http://www.ericr.nl/wondrous/strengths.html, http://www.ericr.nl/wondrous/progress.html, http://www.ericr.nl/wondrous/techpage.html, http://www.ericr.nl/wondrous/showsteps.html, https://pcbarina.fit.vutbr.cz/, https://pcbarina.fit.vutbr.cz/path-records.htm, http://sweet.ua.pt/tos/3x_plus_1.html, http://www.rechenkraft.net/yoyo/y_status_col.php, https://oeis.org/A006370, https://oeis.org/A070165, https://oeis.org/A006577, https://oeis.org/A006877, https://oeis.org/A006878, https://oeis.org/A025586, https://oeis.org/A006884, https://oeis.org/A006885) and Beal's conjecture (https://en.wikipedia.org/wiki/Beal_conjecture, https://t5k.org/glossary/xpage/BealsConjecture.html, https://mathworld.wolfram.com/BealsConjecture.html) and Goldbach's conjecture (https://en.wikipedia.org/wiki/Goldbach%27s_conjecture, https://t5k.org/glossary/xpage/GoldbachConjecture.html, https://mathworld.wolfram.com/GoldbachConjecture.html, http://www.numericana.com/answer/open.htm#goldbach, https://oeis.org/A045917, https://oeis.org/A035026, https://oeis.org/A002375, https://oeis.org/A002372) and twin prime conjecture (https://en.wikipedia.org/wiki/Twin_prime_conjecture, https://t5k.org/glossary/xpage/TwinPrimeConjecture.html, https://mathworld.wolfram.com/TwinPrimeConjecture.html, http://www.numericana.com/answer/open.htm#twin, https://oeis.org/A001097, https://oeis.org/A077800, https://oeis.org/A001359, https://oeis.org/A006512) are currently still unsolved problems, but this page has false proofs of Riemann hypothesis and Collatz conjecture and Beal's conjecture and twin prime conjecture, and has false disproofs of *abc* conjecture and Goldbach's conjecture, also, the Catalan-Mersenne number conjecture (https://en.wikipedia.org/wiki/Catalan%E2%80%93Mersenne_number_conjecture, https://mathworld.wolfram.com/Catalan-MersenneNumber.html, https://t5k.org/mersenne/index.html#c, https://oeis.org/A007013) is currently still an unsolved problem, it is still unknown whether the number 2<sup>2<sup>127</sup>−1</sup>−1 is prime, and the New Mersenne conjecture (https://en.wikipedia.org/wiki/New_Mersenne_conjecture, https://t5k.org/glossary/xpage/NewMersenneConjecture.html, https://mathworld.wolfram.com/NewMersennePrimeConjecture.html, https://t5k.org/mersenne/NewMersenneConjecture.html, http://www.hoegge.dk/mersenne/NMC.html, http://www.primenumbers.net/rl/nmc/, https://web.archive.org/web/20010809112857/http://orca.st.usm.edu/~cwcurry/NMC.html, https://web.archive.org/web/20211128180850/http://mprime.s3-website.us-west-1.amazonaws.com/new_mersenne_conjecture.html, https://oeis.org/A107360, https://oeis.org/A122834, https://oeis.org/A120334) is currently also still an unsolved problem, however, it is known that the Catalan-Mersenne number conjecture and the New Mersenne conjecture is not both true, i.e. at least one of them is false, since the prime 886407410000361345663448535540258622490179142922169401 divides the number (2<sup>2<sup>127</sup>−1</sup>+1)/3 (this prime factor is found by trial division, all prime factors of (2<sup>2<sup>127</sup>−1</sup>+1)/3 and all prime factors of 2<sup>2<sup>127</sup>−1</sup>−1 are == 1 mod 2×(2<sup>127</sup>−1)), see https://www.mersenneforum.org/showpost.php?p=549829&postcount=1 and https://t5k.org/curios/cpage/40578.html)**
+14. https://web.archive.org/web/20130530210800/http://www.euronet.nl/users/bota/medium-p.htm
+15. https://stdkmd.net/
+16. https://kurtbeschorner.de/
+17. https://repunit-koide.jimdofree.com/
+18. https://gmplib.org/~tege/repunit.html
+19. https://www.alfredreichlg.de/
+20. https://web.archive.org/web/20070708171301/http://www.ludwigsgymnasium.de/unterr/mathe/prim/zehnp.htm
+21. http://chesswanks.com/pxp/repfactors.html
+22. https://web.archive.org/web/20021001222643/http://www.users.globalnet.co.uk/~aads/index.html
+23. http://www.asahi-net.or.jp/~KC2H-MSM/mathland/matha1/index.htm
+24. http://mklasson.com/factors/index.php
+25. https://cs.stanford.edu/people/rpropper/math/factors/3n-2.txt
+26. https://web.archive.org/web/20020320010222/http://proth.cjb.net/
+27. https://brnikat.com/nums/index.html
+28. https://www.asahi-net.or.jp/~KC2H-MSM/mathland/matha1/index.htm
+29. https://www.lirmm.fr/~ochem/opn/
+30. https://web.archive.org/web/20120426061657/http://oddperfect.org/
+31. https://web.archive.org/web/20190211112446/http://home.earthlink.net/~elevensmooth/
+32. https://2721.hddkillers.com/
+33. https://web.archive.org/web/20081006071311/http://www-staff.maths.uts.edu.au/~rons/fact/fact.htm
+34. https://homes.cerias.purdue.edu/~ssw/bell/index.html
+35. http://www.loria.fr/~zimmerma/ecmnet/ (finding the factors of the numbers)
+36. https://www.rechenkraft.net/yoyo/ (finding the factors of the numbers)
+37. http://escatter11.fullerton.edu/nfs/ (finding the factors of the numbers)
 
 *OEIS* sequences for the exponents *n* for the primes in given families in given base *b* (only list those for families {*x*}, *x*{*y*}, {*x*}*y*, *x*{0}*y* (where *x* and *y* are any digits in base *b*), since the smallest prime in these families **must** be minimal primes in the same base *b* (except the cases that the repeating digit (i.e. *y* in *x*{*y*}, or *x* in {*x*}*y*) is 1), also only count the primes > *b*):
 
