@@ -3576,67 +3576,6 @@ References of minimal primes (https://en.wikipedia.org/wiki/Minimal_prime_(recre
 31. https://oeis.org/A071062 (base *b* = 10)
 32. https://oeis.org/A110600 (base *b* = 12)
 
-Other researches for the digits of the primes:
-
-Left-truncatable primes (https://en.wikipedia.org/wiki/Truncatable_prime, https://t5k.org/glossary/xpage/LeftTruncatablePrime.html, https://mathworld.wolfram.com/TruncatablePrime.html, https://www.numbersaplenty.com/set/truncatable_prime/), i.e. every nonempty suffix is prime:
-
-1. http://primerecords.dk/left-truncatable.txt (base *b* = 10)
-2. http://chesswanks.com/num/LTPs/ (bases 3 ≤ *b* ≤ 120)
-3. https://rosettacode.org/wiki/Find_largest_left_truncatable_prime_in_a_given_base (bases 3 ≤ *b* ≤ 17)
-4. https://www.ams.org/journals/mcom/1977-31-137/S0025-5718-1977-0427213-2/S0025-5718-1977-0427213-2.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_28.pdf) (bases 3 ≤ *b* ≤ 11)
-5. http://www.primerecords.dk/left-truncatable.htm (base *b* = 10)
-6. http://rosettacode.org/wiki/Truncatable_primes (base *b* = 10)
-7. https://www.primepuzzles.net/puzzles/puzz_002.htm (base *b* = 10)
-8. https://web.archive.org/web/20041204160717/http://www.wschnei.de/digit-related-numbers/circular-primes.html (base *b* = 10)
-9. http://www.bitman.name/math/article/1155 (in Italian) (bases 2 ≤ *b* ≤ 20)
-10. http://www.bitman.name/math/table/524 (in Italian) (bases 2 ≤ *b* ≤ 20)
-11. https://oeis.org/A103443 (largest left-truncatable prime in base *b*)
-12. https://oeis.org/A103463 (length of the largest left-truncatable prime in base *b*)
-13. https://oeis.org/A076623 (number of left-truncatable primes in base *b*)
-14. https://oeis.org/A024785 (base *b* = 10)
-15. https://oeis.org/A129940 (base *b* = 4)
-16. https://oeis.org/A024779 (base *b* = 4, written in base *b*)
-17. https://oeis.org/A129941 (base *b* = 5)
-18. https://oeis.org/A024780 (base *b* = 5, written in base *b*)
-19. https://oeis.org/A129942 (base *b* = 6)
-20. https://oeis.org/A024781 (base *b* = 6, written in base *b*)
-21. https://oeis.org/A129943 (base *b* = 7)
-22. https://oeis.org/A024782 (base *b* = 7, written in base *b*)
-23. https://oeis.org/A129944 (base *b* = 8)
-24. https://oeis.org/A024783 (base *b* = 8, written in base *b*)
-25. https://oeis.org/A129945 (base *b* = 9)
-26. https://oeis.org/A024784 (base *b* = 9, written in base *b*)
-
-Right-truncatable primes (https://en.wikipedia.org/wiki/Truncatable_prime, https://t5k.org/glossary/xpage/RightTruncatablePrime.html, https://mathworld.wolfram.com/TruncatablePrime.html, https://www.numbersaplenty.com/set/truncatable_prime/), i.e. every nonempty prefix is prime:
-
-1. http://primerecords.dk/right-truncatable.txt (base *b* = 10)
-2. http://fatphil.org/maths/rtp/rtp.html (bases 3 ≤ *b* ≤ 90)
-3. https://www.ams.org/journals/mcom/1977-31-137/S0025-5718-1977-0427213-2/S0025-5718-1977-0427213-2.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_28.pdf) (bases 3 ≤ *b* ≤ 15)
-4. http://rosettacode.org/wiki/Truncatable_primes (base *b* = 10)
-5. https://www.primepuzzles.net/puzzles/puzz_002.htm (base *b* = 10)
-6. https://web.archive.org/web/20041204160717/http://www.wschnei.de/digit-related-numbers/circular-primes.html (base *b* = 10)
-7. http://www.bitman.name/math/article/1155 (in Italian) (bases 2 ≤ *b* ≤ 20)
-8. http://www.bitman.name/math/table/525 (in Italian) (bases 2 ≤ *b* ≤ 20)
-9. https://oeis.org/A023107 (largest right-truncatable prime in base *b*)
-10. https://oeis.org/A103483 (length of the largest right-truncatable prime in base *b*)
-11. https://oeis.org/A076586 (number of right-truncatable primes in base *b*)
-12. https://oeis.org/A024770 (base *b* = 10)
-13. https://oeis.org/A129669 (base *b* = 3)
-14. https://oeis.org/A024763 (base *b* = 3, written in base *b*)
-15. https://oeis.org/A129670 (base *b* = 4)
-16. https://oeis.org/A024764 (base *b* = 4, written in base *b*)
-17. https://oeis.org/A129671 (base *b* = 5)
-18. https://oeis.org/A024765 (base *b* = 5, written in base *b*)
-19. https://oeis.org/A129672 (base *b* = 6)
-20. https://oeis.org/A024766 (base *b* = 6, written in base *b*)
-21. https://oeis.org/A129673 (base *b* = 7)
-22. https://oeis.org/A024767 (base *b* = 7, written in base *b*)
-23. https://oeis.org/A129692 (base *b* = 8)
-24. https://oeis.org/A024768 (base *b* = 8, written in base *b*)
-25. https://oeis.org/A129693 (base *b* = 9)
-26. https://oeis.org/A024769 (base *b* = 9, written in base *b*)
-27. https://oeis.org/A237600 (base *b* = 16)
-
 Other researches for the minimal elements of other subsets of positive integers written in the positional numeral system with radix *b*, as digit strings with subsequence ordering:
 
 Primes == 1 mod 4:
