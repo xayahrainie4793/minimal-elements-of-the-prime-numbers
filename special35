@@ -39,8 +39,8 @@ Y0YT00000000000000000{5}0{05}H
                  Y0YT{0}5{0}H   divided by 17
 YV0000000000000000000{7}0{07}D
  primes: 770D 7777D YV7077D
- to be examined: YV{0}D       divided by 2
-                 YV{0}7{0}D   divided by 17
-                 YV{0}7{7}D   divided by {2,3}
-                 YV{0}7{0}7D  divided by 2
+ to be examined: YV{0}D        divided by 2
+                 YV{0}7{0}D    divided by 17
+                 YV{0}7{7}D    divided by (2,3)
+                 YV{0}7{0}7D   divided by 2
 
