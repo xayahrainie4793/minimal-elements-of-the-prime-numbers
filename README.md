@@ -3631,22 +3631,6 @@ Other sets:
 1. https://arxiv.org/pdf/1607.01548.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_14.pdf) (sums of three squares, quadratic residues mod 6, quadratic residues mod 7, range of Euler's totient function, range of "Euler's totient function + 3", range of Dedekind psi function, perfect numbers) (base *b* = 10)
 2. https://nntdm.net/papers/nntdm-25/NNTDM-25-1-036-047.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_15.pdf) (range of "Euler's totient function + *n*", for 0 ≤ *n* ≤ 5) (base *b* = 10)
 
-The prime curios for them:
-
-* https://t5k.org/curios/cpage/40841.html (primes > *b*, *b* = 10)
-* https://t5k.org/curios/cpage/40899.html (primes > *b*, *b* = 10, number of minimal primes)
-* https://t5k.org/curios/cpage/43236.html (primes > *b*, *b* = 5)
-* https://t5k.org/curios/cpage/42961.html (primes > *b*, *b* = 7)
-* https://t5k.org/curios/cpage/42048.html (primes > *b*, *b* = 16) **(warning: this curio is not true, this prime (DB<sub>32234</sub>) is just the third-largest minimal prime in base *b* = 16, at the time of this curio was submitted the first-largest and second-largest minimal primes in base *b* = 16 (3<sub>116137</sub>AF and 4<sub>72785</sub>DD, respectively) were still not found, even the families corresponding to the first-largest and second-largest minimal primes in base *b* = 16 ({3}AF and {4}DD, respectively) were not found)**
-* https://t5k.org/curios/cpage/5154.html (all primes (includes the primes ≤ *b*), *b* = 10)
-* https://t5k.org/curios/cpage/5060.html (all primes (includes the primes ≤ *b*), *b* = 10, number of minimal primes)
-* https://t5k.org/curios/cpage/5425.html (all primes (includes the primes ≤ *b*), *b* = 6)
-* https://t5k.org/curios/cpage/5426.html (all primes (includes the primes ≤ *b*), *b* = 7)
-* https://t5k.org/curios/cpage/5481.html (all primes (includes the primes ≤ *b*), *b* = 8)
-* https://t5k.org/curios/cpage/5480.html (all primes (includes the primes ≤ *b*), *b* = 9)
-* https://t5k.org/curios/cpage/13013.html (primes == 3 mod 4)
-* https://t5k.org/curios/cpage/40914.html (palindromic primes)
-
 The sets of the minimal elements of these sets under the subsequence ordering are:
 
 |set (in decimal, i.e. base *b* = 10)|the set of the minimal elements under the subsequence ordering|number of such elements|length of the longest such element|
