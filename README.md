@@ -989,13 +989,13 @@ This is a list for all known generalized Wieferich primes in bases 2 ≤ *b* ≤
 
 |*b*|generalized Wieferich primes in base *b* (written in base 10)|search limit|*OEIS* sequence|
 |---|---|---|---|
-|2|1093, 3511, ...|6×10<sup>17</sup>|https://oeis.org/A001220|
+|2|1093, 3511, ...|2<sup>64</sup>|https://oeis.org/A001220|
 |3|11, 1006003, ...|1.2×10<sup>15</sup>|https://oeis.org/A014127|
-|4|1093, 3511, ...|6×10<sup>17</sup>|the same as https://oeis.org/A001220|
+|4|1093, 3511, ...|2<sup>64</sup>|the same as https://oeis.org/A001220|
 |5|2, 20771, 40487, 53471161, 1645333507, 6692367337, 188748146801, ...|1.2×10<sup>15</sup>|https://oeis.org/A123692|
 |6|66161, 534851, 3152573, ...|1.987×10<sup>14</sup>|https://oeis.org/A212583|
 |7|5, 491531, ...|1.2×10<sup>15</sup>|https://oeis.org/A123693|
-|8|3, 1093, 3511, ...|6×10<sup>17</sup>|the same as https://oeis.org/A001220 plus the prime 3|
+|8|3, 1093, 3511, ...|2<sup>64</sup>|the same as https://oeis.org/A001220 plus the prime 3|
 |9|2 (order 2), 11, 1006003, ...|1.2×10<sup>15</sup>|the same as https://oeis.org/A014127 plus the prime 2|
 |10|3, 487, 56598313, ...|1.987×10<sup>14</sup>|https://oeis.org/A045616|
 |11|71, ...|1.987×10<sup>14</sup>|–|
@@ -1003,7 +1003,7 @@ This is a list for all known generalized Wieferich primes in bases 2 ≤ *b* ≤
 |13|2, 863, 1747591, ...|1.987×10<sup>14</sup>|https://oeis.org/A128667|
 |14|29, 353, 7596952219, ...|1.987×10<sup>14</sup>|https://oeis.org/A234810|
 |15|29131, 119327070011, ...|1.987×10<sup>14</sup>|https://oeis.org/A242741|
-|16|1093, 3511, ...|6×10<sup>17</sup>|the same as https://oeis.org/A001220|
+|16|1093, 3511, ...|2<sup>64</sup>|the same as https://oeis.org/A001220|
 |17|2 (order 3), 3, 46021, 48947, 478225523351, ...|1.987×10<sup>14</sup>|https://oeis.org/A128668|
 |18|5, 7 (order 2), 37, 331, 33923, 1284043, ...|1.987×10<sup>14</sup>|https://oeis.org/A244260|
 |19|3, 7 (order 2), 13, 43, 137, 63061489, ...|1.987×10<sup>14</sup>|https://oeis.org/A090968|
@@ -1019,7 +1019,7 @@ This is a list for all known generalized Wieferich primes in bases 2 ≤ *b* ≤
 |29|2, ...|1.987×10<sup>14</sup>|–|
 |30|7, 160541, 94727075783, ...|1.987×10<sup>14</sup>|https://oeis.org/A306256|
 |31|7, 79, 6451, 2806861, ...|1.987×10<sup>14</sup>|https://oeis.org/A331424|
-|32|5, 1093, 3511, ...|6×10<sup>17</sup>|the same as https://oeis.org/A001220 plus the prime 5|
+|32|5, 1093, 3511, ...|2<sup>64</sup>|the same as https://oeis.org/A001220 plus the prime 5|
 |33|2 (order 4), 233, 47441, 9639595369, ...|1.987×10<sup>14</sup>|–|
 |34|46145917691, ...|1.987×10<sup>14</sup>|–|
 |35|3, 1613, 3571, ...|1.987×10<sup>14</sup>|–|
