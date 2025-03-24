@@ -867,13 +867,51 @@ In fact,
 
 And there are conjectures of these four situations:
 
-* For all period lengths *n*, there are infinitely many bases *b* such that the (*n*,*b*) combo is the 1st situation.
-* For all period lengths *n* not in https://oeis.org/A253235, there are infinitely many bases *b* such that the (*n*,*b*) combo is the 2nd situation.
-* For all bases *b* ≥ 2, there are infinitely many period lengths *n* such that the (*n*,*b*) combo is the 1st situation.
-* For all bases *b* ≥ 2, there are infinitely many period lengths (or no period lengths) *n* such that the (*n*,*b*) combo is the 2nd situation (although only few such period lengths *n* are known for each base *b*, specially, in base *b* = 2, the only known period lengths *n* such that the (*n*,*b*) combo is the 2nd situation are 18, 20, 21, 54, 147, 342, 602, 889, 258121 (https://oeis.org/A333973), and in base *b* = 3, the only known period lengths *n* such that the (*n*,*b*) combo is the 2nd situation are 2, 4, 8, 20, 32, 64, 128, and in base *b* = 5, the only known period lengths *n* such that the (*n*,*b*) combo is the 2nd situation are 2, 4, 6, 8, 18, 171, 2162, and in base *b* = 6, the only known period lengths *n* such that the (*n*,*b*) combo is the 2nd situation are 5, 129, 186, and in base *b* = 10, the only known period lengths *n* such that the (*n*,*b*) combo is the 2nd situation are 3, 9, 294).
+* For all period lengths *n*, there are infinitely many bases *b* such that the (*n*,*b*) combo is the 1st situation
+* For all period lengths *n* not in https://oeis.org/A253235, there are infinitely many bases *b* such that the (*n*,*b*) combo is the 2nd situation
+* For all bases *b* ≥ 2, there are infinitely many period lengths *n* such that the (*n*,*b*) combo is the 1st situation
+* For all bases *b* ≥ 2, there are infinitely many period lengths (or no period lengths) *n* such that the (*n*,*b*) combo is the 2nd situation (although only few such period lengths *n* are known for each base *b*, for the known period lengths *n* such that the (*n*,*b*) combo is the 2nd situation, see the list below)
 * The only (*n*,*b*) combo which is the 3rd situation are (1,*p*<sup>*r*</sup>+1) with *p* prime and *r* ≥ 2, (2,*p*<sup>*r*</sup>−1) with *p* odd prime and *r* ≥ 2, (3,18), (5,3), (6,19)
 * The only (*n*,*b*) combo which is the 4th situation are (2,2<sup>*r*</sup>×*p*<sup>*s*</sup>−1) with *p* odd prime and *r* ≥ 1 and *s* ≥ 2, (3,*b*) with *b* in https://oeis.org/A028231 in the case of (*b*<sup>2</sup>+*b*+1)/3 is square of prime (it is conjectured that powers with exponent > 2 cannot exist) (the first such bases *b* are 22, 313, 4366, 847078, 11798281, 2288805793, 31878952246, ...) (corresponding primes *p* are in https://oeis.org/A001570), (4,*b*) with *b* in https://oeis.org/A002315 in the case of (*b*<sup>2</sup>+1)/2 is square of prime or 28561=13<sup>4</sup> (it is conjectured that powers with exponent > 2 cannot exist, except (239<sup>2</sup>+1)/2 = 28561 = 13<sup>4</sup>) (the first such bases *b* are 7, 41, 239, 8119, 47321, 63018038201, ...) (corresponding primes *p* are in https://oeis.org/A001653, except *b* = 239 and *p* = 13), (6,*b*) with *b*−1 in https://oeis.org/A028231 in the case of (*b*<sup>2</sup>−*b*+1)/3 is square of prime (it is conjectured that powers with exponent > 2 cannot exist) (the first such bases *b* are 23, 314, 4367, 847079, 11798282, 2288805794, 31878952247, ...) (corresponding primes *p* are in https://oeis.org/A001570)
 * Almost all (https://en.wikipedia.org/wiki/Almost_all, https://mathworld.wolfram.com/AlmostAll.html) (*n*,*b*) combos are the 1st situation
+
+|*b*|period lengths *n* such that the (*n*,*b*) combo is the 2nd situation|*OEIS* sequence|
+|---|---|---|
+|2|18, 20, 21, 54, 147, 342, 602, 889, 258121, ...|https://oeis.org/A333973|
+|3|4, 8, 20, 32, 64, 128, ...||
+|4|3, 10, ...||
+|5|2, 4, 6, 8, 18, 171, 2162, ...||
+|6|5, 129, 186, ...||
+|7|3, 8, ...||
+|8|6, 18, 114, ...||
+|9|2, 4, 10, 16, 32, 64, ...||
+|10|3, 9, 294, ...||
+|11|2, 4, 5, 6, 8, 18, ...||
+|12|20, ...||
+|13|2, 3, 8, 9, 16, ...||
+|14|6, 55, ...||
+|15|4, 7, ...||
+|16|...||
+|17|8, 42, 110, ...||
+|18|17, 21, 38, ...||
+|19|2, 3, 4, 156, ...||
+|20|6, 98, ...||
+|21|2, 5, 8, 64, ...||
+|22|7, 100, 602, ...||
+|23|2, 8, 11, 54, 147, 212, ...||
+|24|...||
+|25|2, 4, ...||
+|26|18, 186, ...||
+|27|2, ...||
+|28|3, 81, 156, 465, 500, 506, ...||
+|29|4, 6, 7, 8, 32, 39, 50, ...||
+|30|21, ...||
+|31|3, ...||
+|32|6, ...||
+|33|2, 16, ...||
+|34|3, 10, ...||
+|35|4, 6, 8, 18, 128, ...||
+|36|...||
 
 The *ord*<sub>*p*</sub>(*b*) for 2 ≤ *b* ≤ 36 and first 100 primes *p* are listed below:
 
