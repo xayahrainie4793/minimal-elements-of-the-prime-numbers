@@ -3162,13 +3162,16 @@ Index pages of searching the primes of the form (*a*×*b*<sup>*n*</sup>+*c*)/*gc
 25. https://stdkmd.net/ (sections https://stdkmd.net/nrr/prime/ and https://stdkmd.net/nrr/cert/ and https://web.archive.org/web/20240202224722/https://stdkmd.net/nrr/records.htm#primenumbers and https://web.archive.org/web/20240202224722/https://stdkmd.net/nrr/records.htm#probableprimenumbers)
 26. https://kurtbeschorner.de/ (section "Rprime project; base 10")
 27. http://www.elektrosoft.it/matematica/repunit/repunit.htm
-28. https://www.mersenne.org/
-29. https://www.mersenne.ca/
-30. https://web.archive.org/web/20211011120227/http://mprime.s3-website.us-west-1.amazonaws.com/
-31. http://kenta.blogspot.com/2012/11/ezgxggdm-dual-sierpinski-problem.html
-32. https://oeis.org/A076336/a076336c.html (special situation: in theory this reference should be http://web.archive.org/web/20080908010544/http://sierpinski.insider.com/dual, but this page is excluded from the Wayback Machine, thus linked to the cached copy page)
-33. http://www.doublemersennes.org/
-34. http://www.hoegge.dk/mersenne/NMC.html
+28. https://www.alfredreichlg.de/
+29. https://www.mersenne.org/
+30. https://www.mersenne.ca/
+31. https://web.archive.org/web/20211011120227/http://mprime.s3-website.us-west-1.amazonaws.com/
+32. http://kenta.blogspot.com/2012/11/ezgxggdm-dual-sierpinski-problem.html
+33. https://oeis.org/A076336/a076336c.html (special situation: in theory this reference should be http://web.archive.org/web/20080908010544/http://sierpinski.insider.com/dual, but this page is excluded from the Wayback Machine, thus linked to the cached copy page)
+34. https://sites.google.com/ocdsb.ca/2n25
+35. http://ostracodfiles.com/primes14/primes.php **(warning: all numbers in that page are definitely primes, i.e. not merely probable primes, since all of them can be proven prime by the *N*+1 primality proving, also, there are no primes in families 3{D}, 8{D}, A{D} in base *b* = 14)**
+36. http://www.doublemersennes.org/
+37. http://www.hoegge.dk/mersenne/NMC.html
 
 Index pages of factoring the numbers of the form (*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1):
 
