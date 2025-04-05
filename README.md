@@ -3393,6 +3393,7 @@ base *b* = 10:
 base *b* = 11:
 
 * 1{0}2: https://oeis.org/A109076
+* 1{0}6: https://oeis.org/A317886
 * {1}: https://oeis.org/A005808
 * 1{A}: https://oeis.org/A120378, https://oeis.org/A120377 (corresponding primes)
 * 2{0}1: https://oeis.org/A141774
@@ -3456,6 +3457,7 @@ base *b* = 17:
 * 2{0}1: https://oeis.org/A141797
 * 3{G}: https://oeis.org/A205796
 * 4{0}1: https://oeis.org/A180431
+* 6{0}1: https://oeis.org/A332763
 * {G}1: https://oeis.org/A034922
 * {G}F: https://oeis.org/A128459
 
