@@ -2926,7 +2926,7 @@ Links for top (probable) primes: (also pages for the largest known prime: https:
 
 * https://t5k.org/primes/lists/all.txt (top definitely primes)
 * https://t5k.org/primes/lists/all.zip (top definitely primes, zipped file)
-* https://t5k.org/primes/lists/short.txt (definitely primes with ≥ 800000 decimal digits)
+* https://web.archive.org/web/20250326004217/https://t5k.org/primes/lists/short.txt (definitely primes with ≥ 800000 decimal digits)
 * https://t5k.org/primes/search.php?OnList=all&Number=1000000&Style=HTML (all numbers in the list of top definitely primes, html version)
 * https://t5k.org/primes/search.php?OnList=all&Number=1000000 (all numbers in the list of top definitely primes, text version)
 * https://t5k.org/primes/ (index of top definitely primes)
@@ -3393,7 +3393,6 @@ base *b* = 10:
 base *b* = 11:
 
 * 1{0}2: https://oeis.org/A109076
-* 1{0}6: https://oeis.org/A317886
 * {1}: https://oeis.org/A005808
 * 1{A}: https://oeis.org/A120378, https://oeis.org/A120377 (corresponding primes)
 * 2{0}1: https://oeis.org/A141774
@@ -3457,7 +3456,6 @@ base *b* = 17:
 * 2{0}1: https://oeis.org/A141797
 * 3{G}: https://oeis.org/A205796
 * 4{0}1: https://oeis.org/A180431
-* 6{0}1: https://oeis.org/A332763
 * {G}1: https://oeis.org/A034922
 * {G}F: https://oeis.org/A128459
 
