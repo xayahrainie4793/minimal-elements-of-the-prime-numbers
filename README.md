@@ -3272,6 +3272,7 @@ base *b* = 7:
 * 1{0}6: https://oeis.org/A217130, https://oeis.org/A228030 (corresponding primes, with an additional prime 7)
 * {1}: https://oeis.org/A004063, https://oeis.org/A102170 (corresponding primes)
 * 1{6}: https://oeis.org/A002959, https://oeis.org/A158795 (corresponding primes)
+* 3{2}: https://oeis.org/A057018
 * 4{0}1: https://oeis.org/A204323
 * 5{6}: https://oeis.org/A046866
 * 6{0}1: https://oeis.org/A245241
@@ -3395,6 +3396,7 @@ base *b* = 11:
 * {1}: https://oeis.org/A005808
 * 1{A}: https://oeis.org/A120378, https://oeis.org/A120377 (corresponding primes)
 * 2{0}1: https://oeis.org/A141774
+* 3{A}: https://oeis.org/A205521
 * 9{A}: https://oeis.org/A046867
 * A{0}1: https://oeis.org/A057462
 * {A}9: https://oeis.org/A133982, https://oeis.org/A133858 (corresponding primes)
@@ -3452,6 +3454,8 @@ base *b* = 17:
 * {1}: https://oeis.org/A006034
 * 1{G}: https://oeis.org/A193177
 * 2{0}1: https://oeis.org/A141797
+* 3{G}: https://oeis.org/A205796
+* 4{0}1: https://oeis.org/A180431
 * {G}1: https://oeis.org/A034922
 * {G}F: https://oeis.org/A128459
 
