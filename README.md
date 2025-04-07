@@ -3233,7 +3233,7 @@ base *b* = 4:
 
 * 1{0}1: https://oeis.org/A222008 (corresponding primes), https://oeis.org/A019434 (corresponding primes, with an additional prime 3), https://oeis.org/A092506 (corresponding primes, with two additional primes 2 and 3)
 * 1{0}3: https://oeis.org/A089437, https://oeis.org/A228026 (corresponding primes)
-* {1}3: https://oeis.org/A261539
+* {1}3: https://oeis.org/A261539, https://oeis.org/A273009 (*n* replaced by 2×*n*)
 * 1{3}: https://oeis.org/A146768, https://oeis.org/A090748 (*n* replaced by 2×*n*, with an additional term 1), https://oeis.org/A000043 (*n* replaced by 2×*n*+1, with an additional term 2), https://oeis.org/A050475 (*n* replaced by 2×*n*+2, with an additional term 3), https://oeis.org/A133033 (*n* replaced by 4×*n*+1, with an additional term 3), https://oeis.org/A061645 (*n* replaced by 4×*n*+2, with an additional term 4), https://oeis.org/A000668 (corresponding primes, with an additional prime 3)
 * {2}3: https://oeis.org/A127936, https://oeis.org/A127964 (*n* replaced by *n*−1), https://oeis.org/A127963 (*n* replaced by *n*+1), https://oeis.org/A127965 (*n* replaced by 2×*n*), https://oeis.org/A000978 (*n* replaced by 2×*n*+1), https://oeis.org/A107036 (*n* replaced by 2×*n*+1, with an additional term 4), https://oeis.org/A000979 (corresponding primes, with an additional prime 3), https://oeis.org/A049883 (corresponding primes, with two additional primes 3 and 5)
 * 2{3}: https://oeis.org/A272057
@@ -3347,7 +3347,7 @@ base *b* = 10:
 * {4}7: https://oeis.org/A099413, https://oeis.org/A056682 (*n* replaced by *n*−1), https://oeis.org/A092480 (corresponding primes, with an additional prime 7)
 * {4}9: https://oeis.org/A099414, https://oeis.org/A056683 (*n* replaced by *n*−1), https://oeis.org/A093402 (corresponding primes)
 * 4{7}: https://oeis.org/A056708, https://oeis.org/A093940 (corresponding primes)
-* 4{9}: https://oeis.org/A056712, https://oeis.org/A093945 (corresponding primes)
+* 4{9}: https://oeis.org/A056712, https://oeis.org/A295988 (*n* replaced by *n*+1), https://oeis.org/A093945 (corresponding primes)
 * 5{0}3: https://oeis.org/A096254, https://oeis.org/A177120 (corresponding primes)
 * 5{0}9: https://oeis.org/A103004
 * 5{1}: https://oeis.org/A056713, https://oeis.org/A068816 (corresponding primes)
