@@ -3201,7 +3201,7 @@ Index pages of factoring the numbers of the form (*a*×*b*<sup>*n*</sup>+*c*)/*g
 22. https://web.archive.org/web/20021001222643/http://www.users.globalnet.co.uk/~aads/index.html
 23. http://www.asahi-net.or.jp/~KC2H-MSM/mathland/matha1/index.htm
 24. http://mklasson.com/factors/index.php
-25. https://cs.stanford.edu/people/rpropper/math/factors/ (subpages not available in this page, the subpages are https://cs.stanford.edu/people/rpropper/math/factors/3n-2.txt and https://cs.stanford.edu/~rpropper/factors_rc_2200_r2_large.txt)
+25. https://cs.stanford.edu/ (subpages not available in this page, the subpages are https://cs.stanford.edu/people/rpropper/math/factors/3n-2.txt and https://cs.stanford.edu/~rpropper/factors_rc_2200_r2_large.txt)
 26. https://web.archive.org/web/20020320010222/http://proth.cjb.net/
 27. https://brnikat.com/nums/index.html
 28. https://www.asahi-net.or.jp/~KC2H-MSM/mathland/matha1/index.htm
