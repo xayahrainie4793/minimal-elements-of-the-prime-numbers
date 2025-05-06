@@ -1056,37 +1056,37 @@ This is a list for all known generalized Wieferich primes in bases 2 ≤ *b* ≤
 |3|11, 1006003, ...|1.2×10<sup>15</sup>|https://oeis.org/A014127|
 |4|1093, 3511, ...|2<sup>64</sup>|the same as https://oeis.org/A001220|
 |5|2, 20771, 40487, 53471161, 1645333507, 6692367337, 188748146801, ...|1.2×10<sup>15</sup>|https://oeis.org/A123692|
-|6|66161, 534851, 3152573, ...|1.987×10<sup>14</sup>|https://oeis.org/A212583|
+|6|66161, 534851, 3152573, ...|2×10<sup>14</sup>|https://oeis.org/A212583|
 |7|5, 491531, ...|1.2×10<sup>15</sup>|https://oeis.org/A123693|
 |8|3, 1093, 3511, ...|2<sup>64</sup>|the same as https://oeis.org/A001220 plus the prime 3|
 |9|2 (order 2), 11, 1006003, ...|1.2×10<sup>15</sup>|the same as https://oeis.org/A014127 plus the prime 2|
-|10|3, 487, 56598313, ...|1.987×10<sup>14</sup>|https://oeis.org/A045616|
-|11|71, ...|1.987×10<sup>14</sup>|–|
-|12|2693, 123653, ...|1.987×10<sup>14</sup>|https://oeis.org/A111027|
-|13|2, 863, 1747591, ...|1.987×10<sup>14</sup>|https://oeis.org/A128667|
-|14|29, 353, 7596952219, ...|1.987×10<sup>14</sup>|https://oeis.org/A234810|
-|15|29131, 119327070011, ...|1.987×10<sup>14</sup>|https://oeis.org/A242741|
+|10|3, 487, 56598313, ...|2×10<sup>14</sup>|https://oeis.org/A045616|
+|11|71, ...|2×10<sup>14</sup>|–|
+|12|2693, 123653, ...|2×10<sup>14</sup>|https://oeis.org/A111027|
+|13|2, 863, 1747591, ...|2×10<sup>14</sup>|https://oeis.org/A128667|
+|14|29, 353, 7596952219, ...|2×10<sup>14</sup>|https://oeis.org/A234810|
+|15|29131, 119327070011, ...|2×10<sup>14</sup>|https://oeis.org/A242741|
 |16|1093, 3511, ...|2<sup>64</sup>|the same as https://oeis.org/A001220|
-|17|2 (order 3), 3, 46021, 48947, 478225523351, ...|1.987×10<sup>14</sup>|https://oeis.org/A128668|
-|18|5, 7 (order 2), 37, 331, 33923, 1284043, ...|1.987×10<sup>14</sup>|https://oeis.org/A244260|
-|19|3, 7 (order 2), 13, 43, 137, 63061489, ...|1.987×10<sup>14</sup>|https://oeis.org/A090968|
-|20|281, 46457, 9377747, 122959073, ...|1.987×10<sup>14</sup>|https://oeis.org/A242982|
-|21|2, ...|1.987×10<sup>14</sup>|–|
-|22|13, 673, 1595813, 492366587, 9809862296159, ...|1.987×10<sup>14</sup>|https://oeis.org/A298951|
-|23|13, 2481757, 13703077, 15546404183, 2549536629329, ...|1.987×10<sup>14</sup>|https://oeis.org/A128669|
-|24|5, 25633, ...|1.987×10<sup>14</sup>|–|
+|17|2 (order 3), 3, 46021, 48947, 478225523351, ...|2×10<sup>14</sup>|https://oeis.org/A128668|
+|18|5, 7 (order 2), 37, 331, 33923, 1284043, ...|2×10<sup>14</sup>|https://oeis.org/A244260|
+|19|3, 7 (order 2), 13, 43, 137, 63061489, ...|2×10<sup>14</sup>|https://oeis.org/A090968|
+|20|281, 46457, 9377747, 122959073, ...|2×10<sup>14</sup>|https://oeis.org/A242982|
+|21|2, ...|2×10<sup>14</sup>|–|
+|22|13, 673, 1595813, 492366587, 9809862296159, ...|2×10<sup>14</sup>|https://oeis.org/A298951|
+|23|13, 2481757, 13703077, 15546404183, 2549536629329, ...|2×10<sup>14</sup>|https://oeis.org/A128669|
+|24|5, 25633, ...|2×10<sup>14</sup>|–|
 |25|2 (order 2), 20771, 40487, 53471161, 1645333507, 6692367337, 188748146801, ...|1.2×10<sup>15</sup>|the same as https://oeis.org/A123692|
-|26|3 (order 2), 5, 71, 486999673, 6695256707, ...|1.987×10<sup>14</sup>|https://oeis.org/A306255|
+|26|3 (order 2), 5, 71, 486999673, 6695256707, ...|2×10<sup>14</sup>|https://oeis.org/A306255|
 |27|11, 1006003, ...|1.2×10<sup>15</sup>|the same as https://oeis.org/A014127|
-|28|3 (order 2), 19, 23, ...|1.987×10<sup>14</sup>|–|
-|29|2, ...|1.987×10<sup>14</sup>|–|
-|30|7, 160541, 94727075783, ...|1.987×10<sup>14</sup>|https://oeis.org/A306256|
-|31|7, 79, 6451, 2806861, ...|1.987×10<sup>14</sup>|https://oeis.org/A331424|
+|28|3 (order 2), 19, 23, ...|2×10<sup>14</sup>|–|
+|29|2, ...|2×10<sup>14</sup>|–|
+|30|7, 160541, 94727075783, ...|2×10<sup>14</sup>|https://oeis.org/A306256|
+|31|7, 79, 6451, 2806861, ...|2×10<sup>14</sup>|https://oeis.org/A331424|
 |32|5, 1093, 3511, ...|2<sup>64</sup>|the same as https://oeis.org/A001220 plus the prime 5|
-|33|2 (order 4), 233, 47441, 9639595369, ...|1.987×10<sup>14</sup>|–|
-|34|46145917691, ...|1.987×10<sup>14</sup>|–|
-|35|3, 1613, 3571, ...|1.987×10<sup>14</sup>|–|
-|36|66161, 534851, 3152573, ...|1.987×10<sup>14</sup>|the same as https://oeis.org/A212583|
+|33|2 (order 4), 233, 47441, 9639595369, ...|2×10<sup>14</sup>|–|
+|34|46145917691, ...|2×10<sup>14</sup>|–|
+|35|3, 1613, 3571, ...|2×10<sup>14</sup>|–|
+|36|66161, 534851, 3152573, ...|2×10<sup>14</sup>|the same as https://oeis.org/A212583|
 
 (*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1) (with *a* ≥ 1, *b* ≥ 2, *c* ≠ 0, *gcd*(*a*,*c*) = 1, *gcd*(*b*,*c*) = 1) has algebraic factorization if and only if either "there is an integer *r* > 1 such that *a*×*b*<sup>*n*</sup> and −*c* are both *r*th powers" (in this case, (*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1) has sum-of-two-*r*th-powers factorization if *c* > 0, or difference-of-two-*r*th-powers factorization if *c* < 0, although there is no "sum-of-two-*r*th-powers factorization" for even *r*, but no such situation (i.e. *c* > 0 and *r* is even) exists, since if *c* > 0 then −*c* < 0, but negative numbers cannot be squares, however, if *r* is even then all *r*th powers are squares (since if *s* divides *r*, then all *r*th powers are *s*th powers), thus, −*c* cannot be an *r*th power if *c* > 0 and *r* is even) or "one of *a*×*b*<sup>*n*</sup> and *c* is a 4th power, and the other is of the form 4×*m*<sup>4</sup>" (in this case, (*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1) has Aurifeuillean factorization of *x*<sup>4</sup>+4×*y*<sup>4</sup>), thus, if \|*c*\| (the absolute value (https://en.wikipedia.org/wiki/Absolute_value, https://www.rieselprime.de/ziki/Absolute_value, https://mathworld.wolfram.com/AbsoluteValue.html) of *c*) is not a perfect power (https://oeis.org/A001597, https://en.wikipedia.org/wiki/Perfect_power, https://mathworld.wolfram.com/PerfectPower.html, https://www.numbersaplenty.com/set/perfect_power/), then there is no *n* such that (*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1) has algebraic factorization, also, if there is no *n* such that *a*×*b*<sup>*n*</sup> is a perfect power (https://oeis.org/A001597, https://en.wikipedia.org/wiki/Perfect_power, https://mathworld.wolfram.com/PerfectPower.html, https://www.numbersaplenty.com/set/perfect_power/), then there is no *n* such that (*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1) has algebraic factorization.
 
