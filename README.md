@@ -398,7 +398,7 @@ If *y* ∈ {8}, since if 88 ◁ *y*, then 881 ◁ *p*, hence we may assume *y* �
 
 Case 1.3: *p* begins with 8.
 
-In this case we can write p = 8*y*1. If 2 ◁ *y*, then **821** ◁ *p*. If 8 ◁ *y*, then **881** ◁ *p*. If 9 ◁ *y*, then 89 ◁ *p*. Hence we may assume all digits of *y* are 0 or 5.
+In this case we can write *p* = 8*y*1. If 2 ◁ *y*, then **821** ◁ *p*. If 8 ◁ *y*, then **881** ◁ *p*. If 9 ◁ *y*, then 89 ◁ *p*. Hence we may assume all digits of *y* are 0 or 5.
 
 If 50 ◁ *y*, then **8501** ◁ *p*. Hence we may assume y ∈ {0}{5}.
 
@@ -412,7 +412,7 @@ If *y* ∈ 0{5}, since if 55555555555 ◁ *y*, then 555555555551 ◁ *p*, hence 
 
 Case 1.4: *p* begins with 9.
 
-In this case we can write p = 9*y*1. If 9 ◁ *y*, then **991** ◁ *p*. Hence we may assume all digits of *y* are 0, 2, 5, or 8.
+In this case we can write *p* = 9*y*1. If 9 ◁ *y*, then **991** ◁ *p*. Hence we may assume all digits of *y* are 0, 2, 5, or 8.
 
 If 00 ◁ *y*, then **9001** ◁ *p*. If 22 ◁ *y*, then **9221** ◁ *p*. If 55 ◁ *y*, then **9551** ◁ *p*. If 88 ◁ *y*, then 881 ◁ *p*. Hence we may assume *y* contains at most one 0, at most one 2, at most one 5, and at most one 8.
 
@@ -424,7 +424,7 @@ If 85 ◁ *y*, then **9851** ◁ *p*. Hence we may assume *y* ∈ {58, 580, 508,
 
 Case 2: *p* ends with 3.
 
-In this case we can write p = *x*3. If *x* contains 1, 2, 4, 5, 7, or 8, then (respectively) **13** ◁ *p*, **23** ◁ *p*, **43** ◁ *p*, **53** ◁ *p*, **73** ◁ *p*, or **83** ◁ *p*. Hence we may assume all digits of *x* are 0, 3, 6, or 9, and thus all digits of *p* are 0, 3, 6, or 9. But then, since the digits of *p* all have a common factor 3, *p* is divisible by 3, so *p* cannot be prime.
+In this case we can write *p* = *x*3. If *x* contains 1, 2, 4, 5, 7, or 8, then (respectively) **13** ◁ *p*, **23** ◁ *p*, **43** ◁ *p*, **53** ◁ *p*, **73** ◁ *p*, or **83** ◁ *p*. Hence we may assume all digits of *x* are 0, 3, 6, or 9, and thus all digits of *p* are 0, 3, 6, or 9. But then, since the digits of *p* all have a common factor 3, *p* is divisible by 3, so *p* cannot be prime.
 
 Case 3: *p* ends with 7.
 
@@ -480,7 +480,7 @@ In this case we can write *p* = 4*y*9, where all digits of *y* are 0, 3, 6, or 9
 
 Case 4.3: *p* begins with 6.
 
-In this case we can write p = 6*y*4*z*9, where all digits of *y*, *z* are 0, 3, 6, or 9. If 0 ◁ *z*, then 409 ◁ *p*. If 3 ◁ *z*, then 43 ◁ *p*. If 6 ◁ *z*, then **6469** ◁ *p*. If 9 ◁ *z*, then 499 ◁ *p*. Hence we may assume *z* is empty.
+In this case we can write *p* = 6*y*4*z*9, where all digits of *y*, *z* are 0, 3, 6, or 9. If 0 ◁ *z*, then 409 ◁ *p*. If 3 ◁ *z*, then 43 ◁ *p*. If 6 ◁ *z*, then **6469** ◁ *p*. If 9 ◁ *z*, then 499 ◁ *p*. Hence we may assume *z* is empty.
 
 If 3 ◁ *y*, then 349 ◁ *p*. If 9 ◁ *y*, then **6949** ◁ *p*. Hence we may assume all digits of *y* are 0 or 6.
 
@@ -490,7 +490,7 @@ If 666 ◁ *y*, then **666649** ◁ *p*. If 00000 ◁ *y*, then **60000049** ◁
 
 Case 4.4: *p* begins with 9.
 
-In this case we can write p = 9*y*4*z*9, where all digits of *y*, *z* are 0, 3, 6, or 9. If 0 ◁ *y*, then **9049** ◁ *p*. If 3 ◁ *y*, then 349 ◁ *p*. If 6 ◁ *y*, then **9649** ◁ *p*. If 9 ◁ *y*, then **9949** ◁ *p*. Hence we may assume *y* is empty.
+In this case we can write *p* = 9*y*4*z*9, where all digits of *y*, *z* are 0, 3, 6, or 9. If 0 ◁ *y*, then **9049** ◁ *p*. If 3 ◁ *y*, then 349 ◁ *p*. If 6 ◁ *y*, then **9649** ◁ *p*. If 9 ◁ *y*, then **9949** ◁ *p*. Hence we may assume *y* is empty.
 
 If 0 ◁ *z*, then 409 ◁ *p*. If 3 ◁ *z*, then 43 ◁ *p*. If 9 ◁ *z*, then 499 ◁ *p*. Hence we may assume *z* ∈ {6}, and thus *p* ∈ 94{6}9, and the smallest prime *p* ∈ 94{6}9 is 946669.
 
