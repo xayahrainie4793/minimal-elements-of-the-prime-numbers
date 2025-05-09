@@ -3909,7 +3909,7 @@ Lists of small integers in various bases:
 4. https://linesegment.web.fc2.com/application/math/numbers/RadixConversion.html (in Japanese) (bases 2 ≤ *b* ≤ 36 and *b* = 62) (limit: 1024 for *b* = 2 and *b* = 4, 2187 for *b* = 3, 3125 for *b* = 5, *b*<sup>4</sup> for 6 ≤ *b* ≤ 8, 729 for *b* = 9, 3993 for *b* = 11, 3456 for *b* = 12, 4394 for *b* = 13, *b*<sup>3</sup> for 14 ≤ *b* ≤ 17, *b*<sup>2</sup> for 18 ≤ *b* ≤ 36, 3843 for *b* = 62)
 5. https://web.archive.org/web/20240824165354/https://en.wikipedia.org/wiki/Table_of_bases (bases 2 ≤ *b* ≤ 36) (limit: 1296)
 
-Also, programs related to this research: (some of these programs can also be downloaded in http://www.fermatsearch.org/download.php or https://www.mersenne.org/download/freeware.php or https://download.mersenne.ca/) (some of these programs need to use *GMP* (https://gmplib.org/))
+Also, programs related to this research: (some of these programs can also be downloaded in https://pzktupel.de/Software.php or https://www.mersenne.org/download/freeware.php or https://download.mersenne.ca/ or http://www.primegrid.com/download/ or http://www.fermatsearch.org/download.php) (some of these programs need to use *GMP* (https://gmplib.org/))
 
 Primality (or probable primality) testing (https://en.wikipedia.org/wiki/Primality_test, https://www.rieselprime.de/ziki/Primality_test, https://mathworld.wolfram.com/PrimalityTest.html, https://t5k.org/prove/index.html) programs (https://www.rieselprime.de/ziki/Primality_testing_program):
 
