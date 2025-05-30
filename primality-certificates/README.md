@@ -222,7 +222,7 @@ Factorization status (and *ECM* efforts for the prime factors between 10<sup>24<
 
 Factorization status (and *ECM* efforts for the prime factors between 10<sup>24</sup> and 10<sup>100</sup>) of *N*−1 for the 25200th minimal prime in base 26 (8<sub>354</sub>1) in *factordb*: http://factordb.com/index.php?id=1100000000840632623&open=ecm
 
-(in fact, all corresponding *N*−1 or *N*+1 of these minimal primes are fully factored, the only one exception is *N*+1 for the 13355th minimal prime in base 21 (3<sub>1063</sub>2), which has a 558-digit composite with no known proper factor (1555264046...2932943937) remaining)
+(in fact, all corresponding *N*−1 or *N*+1 for these minimal primes are fully factored, the only one exception is *N*+1 for the 13355th minimal prime in base 21 (3<sub>1063</sub>2), which has a 558-digit composite with no known proper factor (1555264046...2932943937) remaining)
 
 (in the tables below, *Φ* is the cyclotomic polynomial (https://en.wikipedia.org/wiki/Cyclotomic_polynomial, https://mathworld.wolfram.com/CyclotomicPolynomial.html, http://www.numericana.com/answer/polynomial.htm#cyclotomic, https://stdkmd.net/nrr/repunit/repunitnote.htm#cyclotomic, https://oeis.org/A013595, https://oeis.org/A013596, https://oeis.org/A253240))
 
