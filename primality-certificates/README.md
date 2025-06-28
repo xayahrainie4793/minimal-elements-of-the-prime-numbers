@@ -203,6 +203,407 @@ It is a true power of a prime (i.e. of the form *p*<sup>*r*</sup> with *r* > 1) 
 
 (*Φ*<sub>*nL*</sub>(*b*) and *Φ*<sub>*nM*</sub>(*b*) and *Zs*(*nL*, *b*, 1) and *Zs*(*nM*, *b*, 1) are only defined when *b* is not a perfect power (i.e. of the form *m*<sup>*r*</sup> with *r* > 1) (https://oeis.org/A001597, https://en.wikipedia.org/wiki/Perfect_power, https://mathworld.wolfram.com/PerfectPower.html, https://www.numbersaplenty.com/set/perfect_power/) and the cyclotomic number *Φ*<sub>*n*</sub>(*b*) has Aurifeuillean factorization, and if *Φ*<sub>*nL*</sub>(*b*) and *Φ*<sub>*nM*</sub>(*b*) and *Zs*(*nL*, *b*, 1) and *Zs*(*nM*, *b*, 1) are defined, then *Φ*<sub>*nL*</sub>(*b*) × *Φ*<sub>*nM*</sub>(*b*) = *Φ*<sub>*n*</sub>(*b*) and and *Zs*(*nL*, *b*, 1) × *Zs*(*nM*, *b*, 1) = *Zs*(*n*, *b*, 1))
 
+|1|||
+|2|*b* == 1 mod 2||
+|3|*b* == 1 mod 3||
+|4|*b* == 1 mod 2|*b* = 2 × *m*<sup>2</sup>|
+|5|*b* == 1 mod 5|*b* = 5 × *m*<sup>2</sup>|
+|6|*b* == 2 mod 3|*b* = 3 × *m*<sup>2</sup>|
+|7|*b* == 1 mod 7||
+|8|*b* == 1 mod 2||
+|9|*b* == 1 mod 3||
+|10|*b* == 4 mod 5||
+|11|*b* == 1 mod 11||
+|12||*b* = 2 × *m*<sup>2</sup>, *b* = 6 × *m*<sup>2</sup>|
+|13|*b* == 1 mod 13|*b* = 13 × *m*<sup>2</sup>|
+|14|*b* == 6 mod 7|*b* = 7 × *m*<sup>2</sup>|
+|15||*b* = 5 × *m*<sup>2</sup>|
+|16|*b* == 1 mod 2||
+|17|*b* == 1 mod 17|*b* = 17 × *m*<sup>2</sup>|
+|18|*b* == 2 mod 3|*b* = 3 × *m*<sup>2</sup>|
+|19|*b* == 1 mod 19||
+|20|*b* == 2, 3 mod 5|*b* = 2 × *m*<sup>2</sup>, *b* = 10 × *m*<sup>2</sup>|
+|21|*b* == 2, 4 mod 7|*b* = 21 × *m*<sup>2</sup>|
+|22|*b* == 10 mod 11|*b* = 11 × *m*<sup>2</sup>|
+|23|*b* == 1 mod 23||
+|24|||
+|25|*b* == 1 mod 5|*b* = 5 × *m*<sup>2</sup>|
+|26|*b* == 12 mod 13||
+|27|*b* == 1 mod 3||
+|28||*b* = 2 × *m*<sup>2</sup>, *b* = 14 × *m*<sup>2</sup>|
+|29|*b* == 1 mod 29|*b* = 29 × *m*<sup>2</sup>|
+|30||*b* = 3 × *m*<sup>2</sup>, *b* = 15 × *m*<sup>2</sup>|
+|31|*b* == 1 mod 31||
+|32|*b* == 1 mod 2||
+|33||*b* = 33 × *m*<sup>2</sup>|
+|34|*b* == 16 mod 17||
+|35||*b* = 5 × *m*<sup>2</sup>|
+|36||*b* = 2 × *m*<sup>2</sup>, *b* = 6 × *m*<sup>2</sup>|
+|37|*b* == 1 mod 37|*b* = 37 × *m*<sup>2</sup>|
+|38|*b* == 18 mod 19|*b* = 19 × *m*<sup>2</sup>|
+|39|*b* == 3, 9 mod 13|*b* = 13 × *m*<sup>2</sup>|
+|40|||
+|41|*b* == 1 mod 41|*b* = 41 × *m*<sup>2</sup>|
+|42|*b* == 3, 5 mod 7|*b* = 3 × *m*<sup>2</sup>, *b* = 7 × *m*<sup>2</sup>|
+|43|*b* == 1 mod 43||
+|44||*b* = 2 × *m*<sup>2</sup>, *b* = 22 × *m*<sup>2</sup>|
+|45||*b* = 5 × *m*<sup>2</sup>|
+|46|*b* == 22 mod 23|*b* = 23 × *m*<sup>2</sup>|
+|47|*b* == 1 mod 47||
+|48|||
+|49|*b* == 1 mod 7||
+|50|*b* == 4 mod 5||
+|51||*b* = 17 × *m*<sup>2</sup>|
+|52|*b* == 5, 8 mod 13|*b* = 2 × *m*<sup>2</sup>, *b* = 26 × *m*<sup>2</sup>|
+|53|*b* == 1 mod 53|*b* = 53 × *m*<sup>2</sup>|
+|54|*b* == 2 mod 3|*b* = 3 × *m*<sup>2</sup>|
+|55|*b* == 3, 4, 5, 9 mod 11|*b* = 5 × *m*<sup>2</sup>|
+|56|||
+|57|*b* == 7, 11 mod 19|*b* = 57 × *m*<sup>2</sup>|
+|58|*b* == 28 mod 29||
+|59|*b* == 1 mod 59||
+|60||*b* = 2 × *m*<sup>2</sup>, *b* = 6 × *m*<sup>2</sup>, *b* = 10 × *m*<sup>2</sup>, *b* = 30 × *m*<sup>2</sup>|
+|61|*b* == 1 mod 61|*b* = 61 × *m*<sup>2</sup>|
+|62|*b* == 30 mod 31|*b* = 31 × *m*<sup>2</sup>|
+|63||*b* = 21 × *m*<sup>2</sup>|
+|64|*b* == 1 mod 2||
+|65||*b* = 5 × *m*<sup>2</sup>, *b* = 13 × *m*<sup>2</sup>, *b* = 65 × *m*<sup>2</sup>|
+|66||*b* = 3 × *m*<sup>2</sup>, *b* = 11 × *m*<sup>2</sup>|
+|67|*b* == 1 mod 67||
+|68|*b* == 4, 13 mod 17|*b* = 2 × *m*<sup>2</sup>, *b* = 34 × *m*<sup>2</sup>|
+|69||*b* = 69 × *m*<sup>2</sup>|
+|70||*b* = 7 × *m*<sup>2</sup>, *b* = 35 × *m*<sup>2</sup>|
+|71|*b* == 1 mod 71||
+|72|||
+|73|*b* == 1 mod 73|*b* = 73 × *m*<sup>2</sup>|
+|74|*b* == 36 mod 37||
+|75||*b* = 5 × *m*<sup>2</sup>|
+|76||*b* = 2 × *m*<sup>2</sup>, *b* = 38 × *m*<sup>2</sup>|
+|77||*b* = 77 × *m*<sup>2</sup>|
+|78|*b* == 4, 10 mod 13|*b* = 3 × *m*<sup>2</sup>, *b* = 39 × *m*<sup>2</sup>|
+|79|*b* == 1 mod 79||
+|80|||
+|81|*b* == 1 mod 3||
+|82|*b* == 40 mod 41||
+|83|*b* == 1 mod 83||
+|84||*b* = 2 × *m*<sup>2</sup>, *b* = 6 × *m*<sup>2</sup>, *b* = 14 × *m*<sup>2</sup>, *b* = 42 × *m*<sup>2</sup>|
+|85||*b* = 5 × *m*<sup>2</sup>, *b* = 17 × *m*<sup>2</sup>, *b* = 85 × *m*<sup>2</sup>|
+|86|*b* == 42 mod 43|*b* = 43 × *m*<sup>2</sup>|
+|87||*b* = 29 × *m*<sup>2</sup>|
+|88|||
+|89|*b* == 1 mod 89|*b* = 89 × *m*<sup>2</sup>|
+|90||*b* = 3 × *m*<sup>2</sup>, *b* = 15 × *m*<sup>2</sup>|
+|91||*b* = 13 × *m*<sup>2</sup>|
+|92||*b* = 2 × *m*<sup>2</sup>, *b* = 46 × *m*<sup>2</sup>|
+|93|*b* == 5, 25 mod 31|*b* = 93 × *m*<sup>2</sup>|
+|94|*b* == 46 mod 47|*b* = 47 × *m*<sup>2</sup>|
+|95||*b* = 5 × *m*<sup>2</sup>|
+|96|||
+|97|*b* == 1 mod 97|*b* = 97 × *m*<sup>2</sup>|
+|98|*b* == 6 mod 7|*b* = 7 × *m*<sup>2</sup>|
+|99||*b* = 33 × *m*<sup>2</sup>|
+|100|*b* == 2, 3 mod 5|*b* = 2 × *m*<sup>2</sup>, *b* = 10 × *m*<sup>2</sup>|
+|101|*b* == 1 mod 101|*b* = 101 × *m*<sup>2</sup>|
+|102||*b* = 3 × *m*<sup>2</sup>, *b* = 51 × *m*<sup>2</sup>|
+|103|*b* == 1 mod 103||
+|104|||
+|105||*b* = 5 × *m*<sup>2</sup>, *b* = 21 × *m*<sup>2</sup>, *b* = 105 × *m*<sup>2</sup>|
+|106|*b* == 52 mod 53||
+|107|*b* == 1 mod 107||
+|108||*b* = 2 × *m*<sup>2</sup>, *b* = 6 × *m*<sup>2</sup>|
+|109|*b* == 1 mod 109|*b* = 109 × *m*<sup>2</sup>|
+|110|*b* == 2, 6, 7, 8 mod 11|*b* = 11 × *m*<sup>2</sup>, *b* = 55 × *m*<sup>2</sup>|
+|111|*b* == 10, 26 mod 37|*b* = 37 × *m*<sup>2</sup>|
+|112|||
+|113|*b* == 1 mod 113|*b* = 113 × *m*<sup>2</sup>|
+|114|*b* == 8, 12 mod 19|*b* = 3 × *m*<sup>2</sup>, *b* = 19 × *m*<sup>2</sup>|
+|115||*b* = 5 × *m*<sup>2</sup>|
+|116|*b* == 12, 17 mod 29|*b* = 2 × *m*<sup>2</sup>, *b* = 58 × *m*<sup>2</sup>|
+|117||*b* = 13 × *m*<sup>2</sup>|
+|118|*b* == 58 mod 59|*b* = 59 × *m*<sup>2</sup>|
+|119||*b* = 17 × *m*<sup>2</sup>|
+|120|||
+|121|*b* == 1 mod 11||
+|122|*b* == 60 mod 61||
+|123||*b* = 41 × *m*<sup>2</sup>|
+|124||*b* = 2 × *m*<sup>2</sup>, *b* = 62 × *m*<sup>2</sup>|
+|125|*b* == 1 mod 5|*b* = 5 × *m*<sup>2</sup>|
+|126||*b* = 3 × *m*<sup>2</sup>, *b* = 7 × *m*<sup>2</sup>|
+|127|*b* == 1 mod 127||
+|128|*b* == 1 mod 2||
+|129|*b* == 6, 36 mod 43|*b* = 129 × *m*<sup>2</sup>|
+|130|||
+|131|*b* == 1 mod 131||
+|132||*b* = 2 × *m*<sup>2</sup>, *b* = 6 × *m*<sup>2</sup>, *b* = 22 × *m*<sup>2</sup>, *b* = 66 × *m*<sup>2</sup>|
+|133||*b* = 133 × *m*<sup>2</sup>|
+|134|*b* == 66 mod 67|*b* = 67 × *m*<sup>2</sup>|
+|135||*b* = 5 × *m*<sup>2</sup>|
+|136|*b* == 2, 8, 9, 15 mod 17||
+|137|*b* == 1 mod 137|*b* = 137 × *m*<sup>2</sup>|
+|138||*b* = 3 × *m*<sup>2</sup>, *b* = 23 × *m*<sup>2</sup>|
+|139|*b* == 1 mod 139||
+|140||*b* = 2 × *m*<sup>2</sup>, *b* = 10 × *m*<sup>2</sup>, *b* = 14 × *m*<sup>2</sup>, *b* = 70 × *m*<sup>2</sup>|
+|141||*b* = 141 × *m*<sup>2</sup>|
+|142|*b* == 70 mod 71|*b* = 71 × *m*<sup>2</sup>|
+|143||*b* = 13 × *m*<sup>2</sup>|
+|144|||
+|145||*b* = 5 × *m*<sup>2</sup>, *b* = 29 × *m*<sup>2</sup>, *b* = 145 × *m*<sup>2</sup>|
+|146|*b* == 72 mod 73||
+|147|*b* == 2, 4 mod 7|*b* = 21 × *m*<sup>2</sup>|
+|148|*b* == 6, 31 mod 37|*b* = 2 × *m*<sup>2</sup>, *b* = 74 × *m*<sup>2</sup>|
+|149|*b* == 1 mod 149|*b* = 149 × *m*<sup>2</sup>|
+|150||*b* = 3 × *m*<sup>2</sup>, *b* = 15 × *m*<sup>2</sup>|
+|151|*b* == 1 mod 151||
+|152|||
+|153||*b* = 17 × *m*<sup>2</sup>|
+|154||*b* = 7 × *m*<sup>2</sup>, *b* = 11 × *m*<sup>2</sup>|
+|155|*b* == 2, 4, 8, 16 mod 31|*b* = 5 × *m*<sup>2</sup>|
+|156|*b* == 2, 6, 7, 11 mod 13|*b* = 2 × *m*<sup>2</sup>, *b* = 6 × *m*<sup>2</sup>, *b* = 26 × *m*<sup>2</sup>, *b* = 78 × *m*<sup>2</sup>|
+|157|*b* == 1 mod 157|*b* = 157 × *m*<sup>2</sup>|
+|158|*b* == 78 mod 79|*b* = 79 × *m*<sup>2</sup>|
+|159||*b* = 53 × *m*<sup>2</sup>|
+|160|||
+|161||*b* = 161 × *m*<sup>2</sup>|
+|162|*b* == 2 mod 3|*b* = 3 × *m*<sup>2</sup>|
+|163|*b* == 1 mod 163||
+|164|*b* == 9, 32 mod 41|*b* = 2 × *m*<sup>2</sup>, *b* = 82 × *m*<sup>2</sup>|
+|165||*b* = 5 × *m*<sup>2</sup>, *b* = 33 × *m*<sup>2</sup>, *b* = 165 × *m*<sup>2</sup>|
+|166|*b* == 82 mod 83|*b* = 83 × *m*<sup>2</sup>|
+|167|*b* == 1 mod 167||
+|168|||
+|169|*b* == 1 mod 13|*b* = 13 × *m*<sup>2</sup>|
+|170|||
+|171|*b* == 4, 5, 6, 9, 16, 17 mod 19|*b* = 57 × *m*<sup>2</sup>|
+|172||*b* = 2 × *m*<sup>2</sup>, *b* = 86 × *m*<sup>2</sup>|
+|173|*b* == 1 mod 173|*b* = 173 × *m*<sup>2</sup>|
+|174||*b* = 3 × *m*<sup>2</sup>, *b* = 87 × *m*<sup>2</sup>|
+|175||*b* = 5 × *m*<sup>2</sup>|
+|176|||
+|177||*b* = 177 × *m*<sup>2</sup>|
+|178|*b* == 88 mod 89||
+|179|*b* == 1 mod 179||
+|180||*b* = 2 × *m*<sup>2</sup>, *b* = 6 × *m*<sup>2</sup>, *b* = 10 × *m*<sup>2</sup>, *b* = 30 × *m*<sup>2</sup>|
+|181|*b* == 1 mod 181|*b* = 181 × *m*<sup>2</sup>|
+|182||*b* = 7 × *m*<sup>2</sup>, *b* = 91 × *m*<sup>2</sup>|
+|183|*b* == 13, 47 mod 61|*b* = 61 × *m*<sup>2</sup>|
+|184|||
+|185||*b* = 5 × *m*<sup>2</sup>, *b* = 37 × *m*<sup>2</sup>, *b* = 185 × *m*<sup>2</sup>|
+|186|*b* == 6, 26 mod 31|*b* = 3 × *m*<sup>2</sup>, *b* = 31 × *m*<sup>2</sup>|
+|187||*b* = 17 × *m*<sup>2</sup>|
+|188||*b* = 2 × *m*<sup>2</sup>, *b* = 94 × *m*<sup>2</sup>|
+|189||*b* = 21 × *m*<sup>2</sup>|
+|190||*b* = 19 × *m*<sup>2</sup>, *b* = 95 × *m*<sup>2</sup>|
+|191|*b* == 1 mod 191||
+|192|||
+|193|*b* == 1 mod 193|*b* = 193 × *m*<sup>2</sup>|
+|194|*b* == 96 mod 97||
+|195||*b* = 5 × *m*<sup>2</sup>, *b* = 13 × *m*<sup>2</sup>, *b* = 65 × *m*<sup>2</sup>|
+|196||*b* = 2 × *m*<sup>2</sup>, *b* = 14 × *m*<sup>2</sup>|
+|197|*b* == 1 mod 197|*b* = 197 × *m*<sup>2</sup>|
+|198||*b* = 3 × *m*<sup>2</sup>, *b* = 11 × *m*<sup>2</sup>|
+|199|*b* == 1 mod 199||
+|200|||
+|201|*b* == 29, 37 mod 67|*b* = 201 × *m*<sup>2</sup>|
+|202|*b* == 100 mod 101||
+|203|*b* == 7, 16, 20, 23, 24, 25 mod 29|*b* = 29 × *m*<sup>2</sup>|
+|204||*b* = 2 × *m*<sup>2</sup>, *b* = 6 × *m*<sup>2</sup>, *b* = 34 × *m*<sup>2</sup>, *b* = 102 × *m*<sup>2</sup>|
+|205|*b* == 10, 16, 18, 37 mod 41|*b* = 5 × *m*<sup>2</sup>, *b* = 41 × *m*<sup>2</sup>, *b* = 205 × *m*<sup>2</sup>|
+|206|*b* == 102 mod 103|*b* = 103 × *m*<sup>2</sup>|
+|207||*b* = 69 × *m*<sup>2</sup>|
+|208|||
+|209||*b* = 209 × *m*<sup>2</sup>|
+|210||*b* = 3 × *m*<sup>2</sup>, *b* = 7 × *m*<sup>2</sup>, *b* = 15 × *m*<sup>2</sup>, *b* = 35 × *m*<sup>2</sup>|
+|211|*b* == 1 mod 211||
+|212|*b* == 23, 30 mod 53|*b* = 2 × *m*<sup>2</sup>, *b* = 106 × *m*<sup>2</sup>|
+|213||*b* = 213 × *m*<sup>2</sup>|
+|214|*b* == 106 mod 107|*b* = 107 × *m*<sup>2</sup>|
+|215||*b* = 5 × *m*<sup>2</sup>|
+|216|||
+|217||*b* = 217 × *m*<sup>2</sup>|
+|218|*b* == 108 mod 109||
+|219|*b* == 8, 64 mod 73|*b* = 73 × *m*<sup>2</sup>|
+|220||*b* = 2 × *m*<sup>2</sup>, *b* = 10 × *m*<sup>2</sup>, *b* = 22 × *m*<sup>2</sup>, *b* = 110 × *m*<sup>2</sup>|
+|221||*b* = 13 × *m*<sup>2</sup>, *b* = 17 × *m*<sup>2</sup>, *b* = 221 × *m*<sup>2</sup>|
+|222|*b* == 11, 27 mod 37|*b* = 3 × *m*<sup>2</sup>, *b* = 111 × *m*<sup>2</sup>|
+|223|*b* == 1 mod 223||
+|224|||
+|225||*b* = 5 × *m*<sup>2</sup>|
+|226|*b* == 112 mod 113||
+|227|*b* == 1 mod 227||
+|228||*b* = 2 × *m*<sup>2</sup>, *b* = 6 × *m*<sup>2</sup>, *b* = 38 × *m*<sup>2</sup>, *b* = 114 × *m*<sup>2</sup>|
+|229|*b* == 1 mod 229|*b* = 229 × *m*<sup>2</sup>|
+|230||*b* = 23 × *m*<sup>2</sup>, *b* = 115 × *m*<sup>2</sup>|
+|231||*b* = 21 × *m*<sup>2</sup>, *b* = 33 × *m*<sup>2</sup>, *b* = 77 × *m*<sup>2</sup>|
+|232|||
+|233|*b* == 1 mod 233|*b* = 233 × *m*<sup>2</sup>|
+|234||*b* = 3 × *m*<sup>2</sup>, *b* = 39 × *m*<sup>2</sup>|
+|235||*b* = 5 × *m*<sup>2</sup>|
+|236||*b* = 2 × *m*<sup>2</sup>, *b* = 118 × *m*<sup>2</sup>|
+|237|*b* == 23, 55 mod 79|*b* = 237 × *m*<sup>2</sup>|
+|238||*b* = 7 × *m*<sup>2</sup>, *b* = 119 × *m*<sup>2</sup>|
+|239|*b* == 1 mod 239||
+|240|||
+|241|*b* == 1 mod 241|*b* = 241 × *m*<sup>2</sup>|
+|242|*b* == 10 mod 11|*b* = 11 × *m*<sup>2</sup>|
+|243|*b* == 1 mod 3||
+|244|*b* == 11, 50 mod 61|*b* = 2 × *m*<sup>2</sup>, *b* = 122 × *m*<sup>2</sup>|
+|245||*b* = 5 × *m*<sup>2</sup>|
+|246||*b* = 3 × *m*<sup>2</sup>, *b* = 123 × *m*<sup>2</sup>|
+|247||*b* = 13 × *m*<sup>2</sup>|
+|248|||
+|249||*b* = 249 × *m*<sup>2</sup>|
+|250|*b* == 4 mod 5||
+|251|*b* == 1 mod 251||
+|252||*b* = 2 × *m*<sup>2</sup>, *b* = 6 × *m*<sup>2</sup>, *b* = 14 × *m*<sup>2</sup>, *b* = 42 × *m*<sup>2</sup>|
+|253|*b* == 2, 3, 4, 6, 8, 9, 12, 13, 16, 18 mod 23|*b* = 253 × *m*<sup>2</sup>|
+|254|*b* == 126 mod 127|*b* = 127 × *m*<sup>2</sup>|
+|255||*b* = 5 × *m*<sup>2</sup>, *b* = 17 × *m*<sup>2</sup>, *b* = 85 × *m*<sup>2</sup>|
+|256|*b* == 1 mod 2||
+|257|*b* == 1 mod 257|*b* = 257 × *m*<sup>2</sup>|
+|258|*b* == 7, 37 mod 43|*b* = 3 × *m*<sup>2</sup>, *b* = 43 × *m*<sup>2</sup>|
+|259||*b* = 37 × *m*<sup>2</sup>|
+|260||*b* = 2 × *m*<sup>2</sup>, *b* = 10 × *m*<sup>2</sup>, *b* = 26 × *m*<sup>2</sup>, *b* = 130 × *m*<sup>2</sup>|
+|261||*b* = 29 × *m*<sup>2</sup>|
+|262|*b* == 130 mod 131|*b* = 131 × *m*<sup>2</sup>|
+|263|*b* == 1 mod 263||
+|264|||
+|265||*b* = 5 × *m*<sup>2</sup>, *b* = 53 × *m*<sup>2</sup>, *b* = 265 × *m*<sup>2</sup>|
+|266||*b* = 7 × *m*<sup>2</sup>, *b* = 19 × *m*<sup>2</sup>|
+|267||*b* = 89 × *m*<sup>2</sup>|
+|268||*b* = 2 × *m*<sup>2</sup>, *b* = 134 × *m*<sup>2</sup>|
+|269|*b* == 1 mod 269|*b* = 269 × *m*<sup>2</sup>|
+|270||*b* = 3 × *m*<sup>2</sup>, *b* = 15 × *m*<sup>2</sup>|
+|271|*b* == 1 mod 271||
+|272|*b* == 3, 5, 6, 7, 10, 11, 12, 14 mod 17||
+|273||*b* = 13 × *m*<sup>2</sup>, *b* = 21 × *m*<sup>2</sup>, *b* = 273 × *m*<sup>2</sup>|
+|274|*b* == 136 mod 137||
+|275||*b* = 5 × *m*<sup>2</sup>|
+|276||*b* = 2 × *m*<sup>2</sup>, *b* = 6 × *m*<sup>2</sup>, *b* = 46 × *m*<sup>2</sup>, *b* = 138 × *m*<sup>2</sup>|
+|277|*b* == 1 mod 277|*b* = 277 × *m*<sup>2</sup>|
+|278|*b* == 138 mod 139|*b* = 139 × *m*<sup>2</sup>|
+|279||*b* = 93 × *m*<sup>2</sup>|
+|280|||
+|281|*b* == 1 mod 281|*b* = 281 × *m*<sup>2</sup>|
+|282||*b* = 3 × *m*<sup>2</sup>, *b* = 47 × *m*<sup>2</sup>|
+|283|*b* == 1 mod 283||
+|284||*b* = 2 × *m*<sup>2</sup>, *b* = 142 × *m*<sup>2</sup>|
+|285||*b* = 5 × *m*<sup>2</sup>, *b* = 57 × *m*<sup>2</sup>, *b* = 285 × *m*<sup>2</sup>|
+|286||*b* = 11 × *m*<sup>2</sup>, *b* = 143 × *m*<sup>2</sup>|
+|287||*b* = 41 × *m*<sup>2</sup>|
+|288|||
+|289|*b* == 1 mod 17|*b* = 17 × *m*<sup>2</sup>|
+|290|||
+|291|*b* == 35, 61 mod 97|*b* = 97 × *m*<sup>2</sup>|
+|292|*b* == 27, 46 mod 73|*b* = 2 × *m*<sup>2</sup>, *b* = 146 × *m*<sup>2</sup>|
+|293|*b* == 1 mod 293|*b* = 293 × *m*<sup>2</sup>|
+|294|*b* == 3, 5 mod 7|*b* = 3 × *m*<sup>2</sup>, *b* = 7 × *m*<sup>2</sup>|
+|295||*b* = 5 × *m*<sup>2</sup>|
+|296|||
+|297||*b* = 33 × *m*<sup>2</sup>|
+|298|*b* == 148 mod 149||
+|299||*b* = 13 × *m*<sup>2</sup>|
+|300||*b* = 2 × *m*<sup>2</sup>, *b* = 6 × *m*<sup>2</sup>, *b* = 10 × *m*<sup>2</sup>, *b* = 30 × *m*<sup>2</sup>|
+|301|*b* == 4, 11, 16, 21, 35, 41 mod 43|*b* = 301 × *m*<sup>2</sup>|
+|302|*b* == 150 mod 151|*b* = 151 × *m*<sup>2</sup>|
+|303||*b* = 101 × *m*<sup>2</sup>|
+|304|||
+|305|*b* == 9, 20, 34, 58 mod 61|*b* = 5 × *m*<sup>2</sup>, *b* = 61 × *m*<sup>2</sup>, *b* = 305 × *m*<sup>2</sup>|
+|306||*b* = 3 × *m*<sup>2</sup>, *b* = 51 × *m*<sup>2</sup>|
+|307|*b* == 1 mod 307||
+|308||*b* = 2 × *m*<sup>2</sup>, *b* = 14 × *m*<sup>2</sup>, *b* = 22 × *m*<sup>2</sup>, *b* = 154 × *m*<sup>2</sup>|
+|309|*b* == 46, 56 mod 103|*b* = 309 × *m*<sup>2</sup>|
+|310|*b* == 15, 23, 27, 29 mod 31|*b* = 31 × *m*<sup>2</sup>, *b* = 155 × *m*<sup>2</sup>|
+|311|*b* == 1 mod 311||
+|312|||
+|313|*b* == 1 mod 313|*b* = 313 × *m*<sup>2</sup>|
+|314|*b* == 156 mod 157||
+|315||*b* = 5 × *m*<sup>2</sup>, *b* = 21 × *m*<sup>2</sup>, *b* = 105 × *m*<sup>2</sup>|
+|316||*b* = 2 × *m*<sup>2</sup>, *b* = 158 × *m*<sup>2</sup>|
+|317|*b* == 1 mod 317|*b* = 317 × *m*<sup>2</sup>|
+|318||*b* = 3 × *m*<sup>2</sup>, *b* = 159 × *m*<sup>2</sup>|
+|319||*b* = 29 × *m*<sup>2</sup>|
+|320|||
+|321||*b* = 321 × *m*<sup>2</sup>|
+|322||*b* = 7 × *m*<sup>2</sup>, *b* = 23 × *m*<sup>2</sup>|
+|323||*b* = 17 × *m*<sup>2</sup>|
+|324||*b* = 2 × *m*<sup>2</sup>, *b* = 6 × *m*<sup>2</sup>|
+|325||*b* = 5 × *m*<sup>2</sup>, *b* = 13 × *m*<sup>2</sup>, *b* = 65 × *m*<sup>2</sup>|
+|326|*b* == 162 mod 163|*b* = 163 × *m*<sup>2</sup>|
+|327|*b* == 45, 63 mod 109|*b* = 109 × *m*<sup>2</sup>|
+|328|*b* == 3, 14, 27, 38 mod 41||
+|329||*b* = 329 × *m*<sup>2</sup>|
+|330||*b* = 3 × *m*<sup>2</sup>, *b* = 11 × *m*<sup>2</sup>, *b* = 15 × *m*<sup>2</sup>, *b* = 55 × *m*<sup>2</sup>|
+|331|*b* == 1 mod 331||
+|332||*b* = 2 × *m*<sup>2</sup>, *b* = 166 × *m*<sup>2</sup>|
+|333|*b* == 7, 9, 12, 16, 33, 34 mod 37|*b* = 37 × *m*<sup>2</sup>|
+|334|*b* == 166 mod 167|*b* = 167 × *m*<sup>2</sup>|
+|335||*b* = 5 × *m*<sup>2</sup>|
+|336|||
+|337|*b* == 1 mod 337|*b* = 337 × *m*<sup>2</sup>|
+|338|*b* == 12 mod 13||
+|339||*b* = 113 × *m*<sup>2</sup>|
+|340||*b* = 2 × *m*<sup>2</sup>, *b* = 10 × *m*<sup>2</sup>, *b* = 34 × *m*<sup>2</sup>, *b* = 170 × *m*<sup>2</sup>|
+|341||*b* = 341 × *m*<sup>2</sup>|
+|342|*b* == 2, 3, 10, 13, 14, 15 mod 19|*b* = 3 × *m*<sup>2</sup>, *b* = 19 × *m*<sup>2</sup>|
+|343|*b* == 1 mod 7||
+|344|||
+|345||*b* = 5 × *m*<sup>2</sup>, *b* = 69 × *m*<sup>2</sup>, *b* = 345 × *m*<sup>2</sup>|
+|346|*b* == 172 mod 173||
+|347|*b* == 1 mod 347||
+|348||*b* = 2 × *m*<sup>2</sup>, *b* = 6 × *m*<sup>2</sup>, *b* = 58 × *m*<sup>2</sup>, *b* = 174 × *m*<sup>2</sup>|
+|349|*b* == 1 mod 349|*b* = 349 × *m*<sup>2</sup>|
+|350||*b* = 7 × *m*<sup>2</sup>, *b* = 35 × *m*<sup>2</sup>|
+|351||*b* = 13 × *m*<sup>2</sup>|
+|352|||
+|353|*b* == 1 mod 353|*b* = 353 × *m*<sup>2</sup>|
+|354||*b* = 3 × *m*<sup>2</sup>, *b* = 59 × *m*<sup>2</sup>|
+|355|*b* == 5, 25, 54, 57 mod 71|*b* = 5 × *m*<sup>2</sup>|
+|356|*b* == 34, 55 mod 89|*b* = 2 × *m*<sup>2</sup>, *b* = 178 × *m*<sup>2</sup>|
+|357||*b* = 17 × *m*<sup>2</sup>, *b* = 21 × *m*<sup>2</sup>, *b* = 357 × *m*<sup>2</sup>|
+|358|*b* == 178 mod 179|*b* = 179 × *m*<sup>2</sup>|
+|359|*b* == 1 mod 359||
+|360|||
+|361|*b* == 1 mod 19||
+|362|*b* == 180 mod 181||
+|363||*b* = 33 × *m*<sup>2</sup>|
+|364||*b* = 2 × *m*<sup>2</sup>, *b* = 14 × *m*<sup>2</sup>, *b* = 26 × *m*<sup>2</sup>, *b* = 182 × *m*<sup>2</sup>|
+|365||*b* = 5 × *m*<sup>2</sup>, *b* = 73 × *m*<sup>2</sup>, *b* = 365 × *m*<sup>2</sup>|
+|366|*b* == 14, 48 mod 61|*b* = 3 × *m*<sup>2</sup>, *b* = 183 × *m*<sup>2</sup>|
+|367|*b* == 1 mod 367||
+|368|||
+|369||*b* = 41 × *m*<sup>2</sup>|
+|370|||
+|371||*b* = 53 × *m*<sup>2</sup>|
+|372||*b* = 2 × *m*<sup>2</sup>, *b* = 6 × *m*<sup>2</sup>, *b* = 62 × *m*<sup>2</sup>, *b* = 186 × *m*<sup>2</sup>|
+|373|*b* == 1 mod 373|*b* = 373 × *m*<sup>2</sup>|
+|374||*b* = 11 × *m*<sup>2</sup>, *b* = 187 × *m*<sup>2</sup>|
+|375||*b* = 5 × *m*<sup>2</sup>|
+|376|||
+|377||*b* = 13 × *m*<sup>2</sup>, *b* = 29 × *m*<sup>2</sup>, *b* = 377 × *m*<sup>2</sup>|
+|378||*b* = 3 × *m*<sup>2</sup>, *b* = 7 × *m*<sup>2</sup>|
+|379|*b* == 1 mod 379||
+|380||*b* = 2 × *m*<sup>2</sup>, *b* = 10 × *m*<sup>2</sup>, *b* = 38 × *m*<sup>2</sup>, *b* = 190 × *m*<sup>2</sup>|
+|381|*b* == 19, 107 mod 127|*b* = 381 × *m*<sup>2</sup>|
+|382|*b* == 190 mod 191|*b* = 191 × *m*<sup>2</sup>|
+|383|*b* == 1 mod 383||
+|384|||
+|385||*b* = 5 × *m*<sup>2</sup>, *b* = 77 × *m*<sup>2</sup>, *b* = 385 × *m*<sup>2</sup>|
+|386|*b* == 192 mod 193||
+|387||*b* = 129 × *m*<sup>2</sup>|
+|388|*b* == 22, 75 mod 97|*b* = 2 × *m*<sup>2</sup>, *b* = 194 × *m*<sup>2</sup>|
+|389|*b* == 1 mod 389|*b* = 389 × *m*<sup>2</sup>|
+|390||*b* = 3 × *m*<sup>2</sup>, *b* = 15 × *m*<sup>2</sup>, *b* = 39 × *m*<sup>2</sup>, *b* = 195 × *m*<sup>2</sup>|
+|391||*b* = 17 × *m*<sup>2</sup>|
+|392|||
+|393||*b* = 393 × *m*<sup>2</sup>|
+|394|*b* == 196 mod 197||
+|395||*b* = 5 × *m*<sup>2</sup>|
+|396||*b* = 2 × *m*<sup>2</sup>, *b* = 6 × *m*<sup>2</sup>, *b* = 22 × *m*<sup>2</sup>, *b* = 66 × *m*<sup>2</sup>|
+|397|*b* == 1 mod 397|*b* = 397 × *m*<sup>2</sup>|
+|398|*b* == 198 mod 199|*b* = 199 × *m*<sup>2</sup>|
+|399||*b* = 21 × *m*<sup>2</sup>, *b* = 57 × *m*<sup>2</sup>, *b* = 133 × *m*<sup>2</sup>|
+|400|||
+
 The degree (https://en.wikipedia.org/wiki/Degree_of_a_polynomial, https://mathworld.wolfram.com/PolynomialDegree.html) of the *SNFS* polynomial of the number *Φ*<sub>*n*</sub>(*b*) and *Φ*<sub>*nL*</sub>(*b*) and *Φ*<sub>*nM*</sub>(*b*) is (the degree of *SNFS* polynomials must be ≥ 4 and ≤ 8 (otherwise, it would be useless) (in fact, degree 6 is the best, then degree 5 and 7, then degree 4 and 8, see https://www.degruyter.com/document/doi/10.1515/JMC.2007.007/pdf?licenseType=open-access (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_99.pdf)), however, for the numbers *Φ*<sub>*n*</sub>(*b*) and *Φ*<sub>*nL*</sub>(*b*) and *Φ*<sub>*nM*</sub>(*b*), the degree of *SNFS* polynomials cannot be 7 since 7×2 = 14 is a nontotient (https://en.wikipedia.org/wiki/Nontotient, https://mathworld.wolfram.com/Nontotient.html, https://oeis.org/A005277), i.e. it is not in the range of Euler's totient function (https://en.wikipedia.org/wiki/Euler%27s_totient_function, https://t5k.org/glossary/xpage/EulersPhi.html, https://mathworld.wolfram.com/TotientFunction.html, https://stdkmd.net/nrr/repunit/repunitnote.htm#totient, http://www.numericana.com/answer/modular.htm#phi, http://www.javascripter.net/math/calculators/eulertotientfunction.htm, https://oeis.org/A000010), thus, the *SNFS* polynomials for the numbers *Φ*<sub>*n*</sub>(*b*) and *Φ*<sub>*nL*</sub>(*b*) and *Φ*<sub>*nM*</sub>(*b*) must have degree 4 (quartic polynomial (https://en.wikipedia.org/wiki/Quartic_function, https://en.wikipedia.org/wiki/Quartic_equation, https://mathworld.wolfram.com/QuarticEquation.html)) or 5 (quintic polynomial (https://en.wikipedia.org/wiki/Quintic_function, https://mathworld.wolfram.com/QuinticEquation.html)) or 6 (sextic polynomial (https://en.wikipedia.org/wiki/Sextic_equation, https://mathworld.wolfram.com/SexticEquation.html)) or 8 (octic polynomial (https://web.archive.org/web/20191230230356/https://en.wikipedia.org/wiki/Octic_equation))): (see https://www.mersenneforum.org/showpost.php?p=628883&postcount=5 and https://www.mersenneforum.org/showpost.php?p=657762&postcount=55 and https://www.rieselprime.de/ziki/SNFS_polynomial_selection and https://raw.githubusercontent.com/JonathanCrombie/Cowcave/main/community/phi/phi.c)
 
 * *n* divisible by 3 but not by 5 or 7 for *Φ*<sub>*n*</sub>(*b*) or *Φ*<sub>*nL*</sub>(*b*) or *Φ*<sub>*nM*</sub>(*b*) (the cases *Φ*<sub>*nL*</sub>(*b*) or *Φ*<sub>*nM*</sub>(*b*) are only for the squarefree part of *b* is 3, 15, 21): poly of any even degree
