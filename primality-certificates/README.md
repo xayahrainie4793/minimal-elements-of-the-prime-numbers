@@ -201,6 +201,8 @@ It is a true power of a prime (i.e. of the form *p*<sup>*r*</sup> with *r* > 1) 
 * *b* = 18, *n* = 3
 * *b* = 19, *n* = 6
 
+(specially, no such base *b* exist for *n* ≥ 7 (including *nL* and *nM*))
+
 (*Φ*<sub>*nL*</sub>(*b*) and *Φ*<sub>*nM*</sub>(*b*) and *Zs*(*nL*, *b*, 1) and *Zs*(*nM*, *b*, 1) are only defined when *b* is not a perfect power (i.e. of the form *m*<sup>*r*</sup> with *r* > 1) (https://oeis.org/A001597, https://en.wikipedia.org/wiki/Perfect_power, https://mathworld.wolfram.com/PerfectPower.html, https://www.numbersaplenty.com/set/perfect_power/) and the cyclotomic number *Φ*<sub>*n*</sub>(*b*) has Aurifeuillean factorization, and if *Φ*<sub>*nL*</sub>(*b*) and *Φ*<sub>*nM*</sub>(*b*) and *Zs*(*nL*, *b*, 1) and *Zs*(*nM*, *b*, 1) are defined, then *Φ*<sub>*nL*</sub>(*b*) × *Φ*<sub>*nM*</sub>(*b*) = *Φ*<sub>*n*</sub>(*b*) and and *Zs*(*nL*, *b*, 1) × *Zs*(*nM*, *b*, 1) = *Zs*(*n*, *b*, 1))
 
 |*n*|bases *b* such that *Zs*(*n*, *b*, 1) is different from *Φ*<sub>*n*</sub>(*b*) (i.e. *Φ*<sub>*n*</sub>(*b*) is not coprime to *n*)|bases *b* such that *Φ*<sub>*n*</sub>(*b*) and *Zs*(*n*, *b*, 1) have Aurifeuillean factorization<br>(not consider perfect power bases *b*)|
