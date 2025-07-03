@@ -3465,6 +3465,7 @@ base *b* = 15:
 base *b* = 16:
 
 * 1{0}1: https://oeis.org/A222008 (corresponding primes, with an additional prime 5), https://oeis.org/A019434 (corresponding primes, with two additional primes 3 and 5), https://oeis.org/A092506 (corresponding primes, with three additional primes 2 and 3 and 5)
+* 1{9}: https://oeis.org/A383966 (*n* replaced by 4×*n*+3, with an additional term 4), https://oeis.org/A384697 (corresponding primes, with an additional term 3)
 * 1{F}: https://oeis.org/A145040 (*n* replaced by 4×*n*+1), https://oeis.org/A112634 (*n* replaced by 4×*n*+1, with an additional term 2)
 * 7{F}: https://oeis.org/A112633 (*n* replaced by 4×*n*+3)
 * {A}B: https://oeis.org/A361563 (*n* replaced by 4×*n*+1)
