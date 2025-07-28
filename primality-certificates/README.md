@@ -1,4 +1,4 @@
-**(Edit: The .zst files in http://5.199.134.142/certificates/ ("certificates_*n*.tar.zst" for the primality certificates of the definitely primes which are proven primes by primality certificates (i.e. not proven primes by *N*−1 or *N*+1 or combine of *N*−1 and *N*+1) with *n* decimal digits for *n* ≥ 300))**
+**(Edit: The .zst files in http://5.199.134.142/certificates/ ("certificates_*n*.tar.zst" for the primality certificates of the definitely primes which are proven primes by primality certificates (i.e. not proven primes by *N*−1 or *N*+1 or combine of *N*−1 and *N*+1) with *n* decimal digits for 300 ≤ *n* ≤ 5679 and selected 5680 ≤ *n* ≤ 109297, from http://5.199.134.142/certificates/certificates_300.tar.zst to http://5.199.134.142/certificates/certificates_109297.tar.zst))**
 
 **(In progess to add bases *b* = 17 and *b* = 21)**
 
