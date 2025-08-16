@@ -274,12 +274,38 @@ The lengths of the minimal primes in base *b* (e.g. in decimal (base *b* = 10) t
 
 We can use the sense of https://web.archive.org/web/20231002020455/http://yves.gallot.pagesperso-orange.fr/papers/weight.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_216.pdf) to say: (note that some of the left families may cover another left family, e.g. the base 19 left family 5{H}5 covers another base 19 left family 5{H}05, and if the smallest prime in family 5{H}5 in base 19 has length *n*, and the family 5{H}05 in base 19 has no prime with length ≤ *n*, then family 5{H}05 in base 19 can be removed from the unsolved families for base 19, however, if the smallest prime in family 5{H}5 in base 19 has length *n*, but the family 5{H}05 in base 19 is not tested to length *n* or more, then family 5{H}05 in base 19 should not be removed from the unsolved families for base 19, since a number in family 5{H}05 covers the prime in family 5{H}5 with length *n* if and only if the length of this number is ≥ *n*+1; besides, the base 19 left family FH0{H} covers another base 19 left family FHHH0{H}, and if the smallest prime in family FH0{H} in base 19 has length *n*, and the family FHHH0{H} in base 19 has no prime with length ≤ *n*+1, then family FHHH0{H} in base 19 can be removed from the unsolved families for base 19, however, if the smallest prime in family FH0{H} in base 19 has length *n*, but the family FHHH0{H} in base 19 is not tested to length *n*+1 or more, then family FHHH0{H} in base 19 should not be removed from the unsolved families for base 19, since a number in family FHHH0{H} covers the prime in family FH0{H} with length *n* if and only if the length of this number is ≥ *n*+2; besides, the base 21 left family {9}D covers another base 21 left family F{9}D, and if the smallest prime in family {9}D in base 21 has length *n*, and the family F{9}D in base 21 has no prime with length ≤ *n*, then family F{9}D in base 21 can be removed from the unsolved families for base 21, however, if the smallest prime in family {9}D in base 21 has length *n*, but the family F{9}D in base 21 is not tested to length *n* or more, then family F{9}D in base 21 should not be removed from the unsolved families for base 21, since a number in family F{9}D covers the prime in family {9}D with length *n* if and only if the length of this number is ≥ *n*+1 (if a family has no primes, then we say "the smallest prime in this family has length ∞ (https://en.wikipedia.org/wiki/Infinity, https://t5k.org/glossary/xpage/Infinite.html, https://mathworld.wolfram.com/Infinity.html) (instead of 0 or −1)", see http://gladhoboexpress.blogspot.com/2019/05/prime-sandwiches-made-with-one-derbread.html and http://chesswanks.com/seq/a306861.txt (for the *OEIS* sequence https://oeis.org/A306861) and http://chesswanks.com/seq/a269254.txt (for the *OEIS* sequence https://oeis.org/A269254) (since this is more convenient, e.g. the *n* of the smallest prime in the base 21 family 9<sub>*n*</sub>D, this family has been searched to *n* = 100000 with no prime or probable prime found, we can use ">100000" for the *n* of the smallest prime in the base 21 family 9<sub>*n*</sub>D (while for the *n* of the smallest prime in the base 13 family A3<sub>*n*</sub>A, it is 592199), ">100000" includes infinity (since infinity is > 100000) but does not includes 0 or −1, it is still possible that there is no prime in the base 21 family 9<sub>*n*</sub>D, although by the heuristic argument (https://en.wikipedia.org/wiki/Heuristic_argument, https://t5k.org/glossary/xpage/Heuristic.html, https://mathworld.wolfram.com/Heuristic.html, https://web.archive.org/web/20230911032453/https://www.utm.edu/staff/caldwell/preprints/Heuristics.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_112.pdf), https://arxiv.org/pdf/2103.04483.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_113.pdf)) above, this is very impossible, also "the smallest *n* ≥ 1 such that (*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1) is prime" should be the infimum (https://en.wikipedia.org/wiki/Infimum, https://mathworld.wolfram.com/Infimum.html) of the set *S* of the numbers *n* ≥ 1 such that (*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1) is prime, and if there is no *n* ≥ 1 such that (*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1) is prime, then this set *S* is the empty set (https://en.wikipedia.org/wiki/Empty_set, https://mathworld.wolfram.com/EmptySet.html), and by the definition of "inf", the infimum of the empty set is ∞), ∞ is > any finite number, e.g. "the smallest *n* ≥ 1 such that *k*×2<sup>*n*</sup>+1 is prime" is ∞ for *k* = 78557, 157114, 271129, 271577, 314228, 322523, 327739, 482719, ..., while it is 31172165 for *k* = 10223 and 13018586 for *k* = 19249, another example is "the smallest *n* such that (*b*<sup>*n*</sup>−1)/(*b*−1) is prime" is ∞ for *b* = 9, 25, 32, 49, 64, 81, 121, 125, 144, 169, 216, 225, 243, 289, 324, 343, 361, 441, 484, 529, 625, 729, 784, 841, 900, 961, 1000, ..., while it is 62903 for *b* = 691 and 41189 for *b* = 693))
 
-e.g. for bases *b* = 23 and *b* = 25:
+e.g. for bases *b* = 26 and *b* = 36:
+
+* We have a 50% chance of solving the "minimal prime problem" at length 10<sup>9</sup>.
+* We have a 5% chance of solving the "minimal prime problem" at length 10<sup>6</sup>.
+* We have a 95% chance of solving the "minimal prime problem" at length 10<sup>15</sup>.
+
+and for bases *b* = 17 and *b* = 21:
+
+* We have a 50% chance of solving the "minimal prime problem" at length 10<sup>12</sup>.
+* We have a 5% chance of solving the "minimal prime problem" at length 10<sup>8</sup>.
+* We have a 95% chance of solving the "minimal prime problem" at length 10<sup>22</sup>.
+
+and for bases *b* = 27 and *b* = 34:
+
+* We have a 50% chance of solving the "minimal prime problem" at length 10<sup>18</sup>.
+* We have a 5% chance of solving the "minimal prime problem" at length 10<sup>11</sup>.
+* We have a 95% chance of solving the "minimal prime problem" at length 10<sup>32</sup>.
+* The chances at lengths 10<sup>6</sup>, 10<sup>7</sup>, 10<sup>8</sup> are respectively 10<sup>−47</sup>, 10<sup>−28</sup>, and 10<sup>−18</sup>.
+
+and for bases *b* = 23 and *b* = 25 and *b* = 31 and *b* = 33 and *b* = 35:
 
 * We have a 50% chance of solving the "minimal prime problem" at length 10<sup>25</sup>.
 * We have a 5% chance of solving the "minimal prime problem" at length 10<sup>16</sup>.
-* We have a 95% chance of solving the "minimal prime problem" at length 10<sup>48</sup>.
+* We have a 95% chance of solving the "minimal prime problem" at length 10<sup>46</sup>.
 * The chances at lengths 10<sup>6</sup>, 10<sup>7</sup>, 10<sup>8</sup> are respectively 10<sup>−86</sup>, 10<sup>−52</sup>, and 10<sup>−33</sup>.
+
+and for bases *b* = 29 and *b* = 32:
+
+* We have a 50% chance of solving the "minimal prime problem" at length 10<sup>38</sup>.
+* We have a 5% chance of solving the "minimal prime problem" at length 10<sup>24</sup>.
+* We have a 95% chance of solving the "minimal prime problem" at length 10<sup>71</sup>.
+* The chances at lengths 10<sup>6</sup>, 10<sup>7</sup>, 10<sup>8</sup> are respectively 10<sup>−158</sup>, 10<sup>−93</sup>, and 10<sup>−61</sup>.
 
 (The chance that an unproven probable prime in the sets is in fact composite is less than 10<sup>−2000</sup>, see https://t5k.org/notes/prp_prob.html and https://www.ams.org/journals/mcom/1989-53-188/S0025-5718-1989-0982368-4/S0025-5718-1989-0982368-4.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_22.pdf))
 
