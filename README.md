@@ -2785,7 +2785,7 @@ Four coincidences (https://en.wikipedia.org/wiki/Mathematical_coincidence, https
 * Bases *b* = 20 and *b* = 23 have two same type of families which have the minimal prime with the same length: (*b*−1)×*b*<sup>*n*</sup>+1 (both have length 15: J00000000000001 and M00000000000001, respectively) and *b*<sup>*n*</sup>−(*b*−1) (both have length 17: JJJJJJJJJJJJJJJJ1 and MMMMMMMMMMMMMMMM1, respectively).
 * A minimal prime in base *b* = 34 has length exactly 100000 (it is GFGC<sub>99996</sub>5).
 
-(Another coincidence: in decimal (base *b* = 10), the largest two minimal primes have lengths 31 and 12, respectively, corresponding to the last day of a year (31/12), and the next five minimal primes all have lengths 8)
+(Another coincidence: in decimal (base *b* = 10), the largest two minimal primes have lengths 31 and 12, respectively, corresponding to the last day of a year (i.e. 31/12), and the next five minimal primes all have lengths 8)
 
 Two interesting large gaps between the minimal primes in bases *b* = 24 and *b* = 28 (bases *b* = 5 (lengths 6 and 96) and *b* = 8 (lengths 15 and 221) and *b* = 11 (lengths 1013 and 62669) and *b* = 14 (lengths 710 and 19699) and *b* = 18 (lengths 768 and 6271) and *b* = 22 (lengths 3817 and 22003) have a large gap between the second-largest minimal prime and the largest minimal prime, also, base *b* = 30 (lengths 4883 and 24610) have a large gap between the third-largest minimal prime and the second-largest minimal prime, but all of these are "uninteresting" large gaps):
 
