@@ -3928,8 +3928,8 @@ Lists of small primes: (see https://t5k.org/notes/faq/LongestList.html, long lis
 28. http://www.rsok.com/~jrm/printprimes.html (limit: first 98222287 primes, up to 1999999973)
 29. http://mrteverett.com/numbers/primes/factest.txt (limit: first 14172 primes, up to 153757) **(warning: this site does not list the primes 2 and 3 and start with the prime 5, thus this site actually only has 14172−2 = 14170 primes)**
 30. http://www.primzahlen.de/primzahltests/2-100003.htm (in German) (limit: first 9593 primes, up to 100003)
-31. https://jocelyn.quizz.chat/np/cache/index.html (in French) (limit: first 1000000 primes, up to 15485863)
-32. http://www.sosmath.com/tables/prime/prime.html (limit: first 1000 primes, up to 7919)
+31. https://web.archive.org/web/20240329171810/https://jocelyn.quizz.chat/np/cache/index.html (in French) (limit: first 1000000 primes, up to 15485863)
+32. https://web.archive.org/web/20240421093646/http://www.sosmath.com/tables/prime/prime.html (limit: first 1000 primes, up to 7919)
 33. https://www.bigprimes.net/archive/prime (page limit: first 100 primes, up to 541, total limit: first 1000099 primes, up to 15487457)
 34. https://web.archive.org/web/20201130071856/http://www.mathematical.com/primelist1to100kk.html (limit: first 664579 primes, up to 9999991)
 35. https://web.archive.org/web/20191118082053/http://www.tsm-resources.com/alists/prim.html (limit: first 2000 primes, up to 17389)
@@ -3944,7 +3944,7 @@ Also the .zst files in http://5.199.134.142/primes/ ("P*n*.csv.zst" for the defi
 Lists of factorizations of small integers:
 
 1. http://primefan.tripod.com/500factored.html (page limit: 500, total limit: 2500)
-2. http://www.sosmath.com/tables/factor/factor.html (page limit: 200, total limit: 1000)
+2. https://web.archive.org/web/20240329170457/http://www.sosmath.com/tables/factor/factor.html (page limit: 200, total limit: 1000)
 3. https://sites.google.com/view/prime-factorization-of-integer (limit: 25000)
 4. https://web.archive.org/web/20060210182347/http://bearnol.is-a-geek.com/Panfur%20Project/ (limit: 20000000, however, currently the data is only available up to 1500000 in the archive pages, the data for numbers > 1500000 has no available archive pages) **(warning: this site does not factor the composite numbers 15, 51, 85, 91, 255, 435, 451, 561, 595, 679, 703, 771, 1105, 1261, 1285, 1351, 1387, ...)**
 5. http://www.datapointed.net/visualizations/math/factorization/animated-diagrams/ (limit: 10000)
