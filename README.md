@@ -3874,7 +3874,7 @@ Base converters:
 23. https://web.archive.org/web/20170204004954/http://ultrastudio.org/en/MechengburakalkanApplet-1.7.zip (bases 2 ≤ *b* ≤ 36) (use lower case letters instead of upper case letters) (limit: 2<sup>53</sup>)
 24. https://www.bigprimes.net/cruncher/ (bases *b* = 2, 3, 4, 5, 8, 10, 16) (no limit)
 25. http://www.mathsisfun.com/numbers/convert-base.php (bases *b* = 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 16, 20, 26) (use 0−9, A−H, J−K instead of 0−9, A−J for *b* = 20, and use Z, A−Y instead of 0−9, A−P for *b* = 26) (no limit)
-26. https://poe.com/preview/NQriSovFaGhaXISQSAzy (in Chinese) (bases 2 ≤ *b* ≤ 64) (limit: 2<sup>53</sup>)
+26. https://poe.com/preview/2tQnTgl3UIIXBFXaV4TX (in Chinese) (bases 2 ≤ *b* ≤ 64) (limit: 2<sup>53</sup>)
 27. http://www.kwuntung.net/hkunit/base/base.php (in Chinese) (bases 2 ≤ *b* ≤ 36) (use lower case letters instead of upper case letters) (limit: 2<sup>53</sup>)
 28. https://linesegment.web.fc2.com/application/math/numbers/RadixConversion.html (in Japanese) (bases 2 ≤ *b* ≤ 36 and *b* = 62) (limit: 2<sup>53</sup>)
 29. http://www.positiveintegers.org/ (just enter the number) (bases 2 ≤ *b* ≤ 36) (limit: 1000000)
