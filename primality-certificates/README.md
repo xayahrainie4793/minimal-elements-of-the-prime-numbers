@@ -693,11 +693,11 @@ For the number 13<sup>308</sup>−1, it is the product of *Φ*<sub>*d*</sub>(13)
 |from|prime factorization|
 |---|---|
 |*Φ*<sub>1</sub>(13)|2<sup>2</sup> × 3|
-|*Φ*<sub>2</sub>(13)|2 (2 is not primitive prime factor since it already divides *Φ*<sub>1</sub>(13)) × 7|
-|*Φ*<sub>4</sub>(13)|2 (2 is not primitive prime factor since it already divides *Φ*<sub>1</sub>(13)) × 5 × 17|
+|*Φ*<sub>2</sub>(13)|2 (2 is not primitive prime factor since it already divides *Φ*<sub>1</sub>(13), thus 2 does not divide the Zsigmondy number *Zs*(2, 13, 1)) × 7|
+|*Φ*<sub>4</sub>(13)|2 (2 is not primitive prime factor since it already divides *Φ*<sub>1</sub>(13), thus 2 does not divide the Zsigmondy number *Zs*(4, 13, 1)) × 5 × 17|
 |*Φ*<sub>7</sub>(13)|5229043|
 |*Φ*<sub>11</sub>(13)|23 × 419 × 859 × 18041|
-|*Φ*<sub>14</sub>(13)|7 (7 is not primitive prime factor since it already divides *Φ*<sub>2</sub>(13)) × 29 × 22079|
+|*Φ*<sub>14</sub>(13)|7 (7 is not primitive prime factor since it already divides *Φ*<sub>2</sub>(13), thus 7 does not divide the Zsigmondy number *Zs*(14, 13, 1)) × 29 × 22079|
 |*Φ*<sub>22</sub>(13)|128011456717|
 |*Φ*<sub>28</sub>(13)|23161037562937|
 |*Φ*<sub>44</sub>(13)|5281 × 3577574298489429481|
@@ -710,9 +710,9 @@ For the number 13<sup>564</sup>−1, it is the product of *Φ*<sub>*d*</sub>(13)
 |from|prime factorization|
 |---|---|
 |*Φ*<sub>1</sub>(13)|2<sup>2</sup> × 3|
-|*Φ*<sub>2</sub>(13)|2 (2 is not primitive prime factor since it already divides *Φ*<sub>1</sub>(13)) × 7|
-|*Φ*<sub>3</sub>(13)|3 (3 is not primitive prime factor since it already divides *Φ*<sub>1</sub>(13)) × 61|
-|*Φ*<sub>4</sub>(13)|2 (2 is not primitive prime factor since it already divides *Φ*<sub>1</sub>(13)) × 5 × 17|
+|*Φ*<sub>2</sub>(13)|2 (2 is not primitive prime factor since it already divides *Φ*<sub>1</sub>(13), thus 2 does not divide the Zsigmondy number *Zs*(2, 13, 1)) × 7|
+|*Φ*<sub>3</sub>(13)|3 (3 is not primitive prime factor since it already divides *Φ*<sub>1</sub>(13), thus 3 does not divide the Zsigmondy number *Zs*(3, 13, 1)) × 61|
+|*Φ*<sub>4</sub>(13)|2 (2 is not primitive prime factor since it already divides *Φ*<sub>1</sub>(13), thus 2 does not divide the Zsigmondy number *Zs*(4, 13, 1)) × 5 × 17|
 |*Φ*<sub>6</sub>(13)|157|
 |*Φ*<sub>12</sub>(13)|28393|
 |*Φ*<sub>47</sub>(13)|183959 × 19216136497 × 534280344481909234853671069326391741|
@@ -727,20 +727,20 @@ For the number 13<sup>576</sup>−1, it is the product of *Φ*<sub>*d*</sub>(13)
 |from|prime factorization|
 |---|---|
 |*Φ*<sub>1</sub>(13)|2<sup>2</sup> × 3|
-|*Φ*<sub>2</sub>(13)|2 (2 is not primitive prime factor since it already divides *Φ*<sub>1</sub>(13)) × 7|
-|*Φ*<sub>3</sub>(13)|3 (3 is not primitive prime factor since it already divides *Φ*<sub>1</sub>(13)) × 61|
-|*Φ*<sub>4</sub>(13)|2 (2 is not primitive prime factor since it already divides *Φ*<sub>1</sub>(13)) × 5 × 17|
+|*Φ*<sub>2</sub>(13)|2 (2 is not primitive prime factor since it already divides *Φ*<sub>1</sub>(13), thus 2 does not divide the Zsigmondy number *Zs*(2, 13, 1)) × 7|
+|*Φ*<sub>3</sub>(13)|3 (3 is not primitive prime factor since it already divides *Φ*<sub>1</sub>(13), thus 3 does not divide the Zsigmondy number *Zs*(3, 13, 1)) × 61|
+|*Φ*<sub>4</sub>(13)|2 (2 is not primitive prime factor since it already divides *Φ*<sub>1</sub>(13), thus 2 does not divide the Zsigmondy number *Zs*(4, 13, 1)) × 5 × 17|
 |*Φ*<sub>6</sub>(13)|157|
-|*Φ*<sub>8</sub>(13)|2 (2 is not primitive prime factor since it already divides *Φ*<sub>1</sub>(13)) × 14281|
-|*Φ*<sub>9</sub>(13)|3 (3 is not primitive prime factor since it already divides *Φ*<sub>1</sub>(13)) × 1609669|
+|*Φ*<sub>8</sub>(13)|2 (2 is not primitive prime factor since it already divides *Φ*<sub>1</sub>(13), thus 2 does not divide the Zsigmondy number *Zs*(8, 13, 1)) × 14281|
+|*Φ*<sub>9</sub>(13)|3 (3 is not primitive prime factor since it already divides *Φ*<sub>1</sub>(13), thus 3 does not divide the Zsigmondy number *Zs*(9, 13, 1)) × 1609669|
 |*Φ*<sub>12</sub>(13)|28393|
-|*Φ*<sub>16</sub>(13)|2 (2 is not primitive prime factor since it already divides *Φ*<sub>1</sub>(13)) × 407865361|
+|*Φ*<sub>16</sub>(13)|2 (2 is not primitive prime factor since it already divides *Φ*<sub>1</sub>(13), thus 2 does not divide the Zsigmondy number *Zs*(16, 13, 1)) × 407865361|
 |*Φ*<sub>18</sub>(13)|19 × 271 × 937|
 |*Φ*<sub>24</sub>(13)|815702161|
-|*Φ*<sub>32</sub>(13)|2 (2 is not primitive prime factor since it already divides *Φ*<sub>1</sub>(13)) × 2657 × 441281 × 283763713|
+|*Φ*<sub>32</sub>(13)|2 (2 is not primitive prime factor since it already divides *Φ*<sub>1</sub>(13), thus 2 does not divide the Zsigmondy number *Zs*(32, 13, 1)) × 2657 × 441281 × 283763713|
 |*Φ*<sub>36</sub>(13)|37 × 428041 × 1471069|
 |*Φ*<sub>48</sub>(13)|1009 × 659481276875569|
-|*Φ*<sub>64</sub>(13)|2 (2 is not primitive prime factor since it already divides *Φ*<sub>1</sub>(13)) × 193 × 1601 × 10433 × 68675120456139881482562689|
+|*Φ*<sub>64</sub>(13)|2 (2 is not primitive prime factor since it already divides *Φ*<sub>1</sub>(13), thus 2 does not divide the Zsigmondy number *Zs*(64, 13, 1)) × 193 × 1601 × 10433 × 68675120456139881482562689|
 |*Φ*<sub>72</sub>(13)|73 × 4177 × 181297 × 9818892432332713|
 |*Φ*<sub>96</sub>(13)|97 × 88993 × 127028743393 × 403791981344275297|
 |*Φ*<sub>144</sub>(13)|3889 × 680401 × 29975087953 × 6654909974864689 × 558181416418089697|
@@ -753,8 +753,8 @@ For the number 17<sup>292</sup>−1, it is the product of *Φ*<sub>*d*</sub>(17)
 |from|prime factorization|
 |---|---|
 |*Φ*<sub>1</sub>(17)|2<sup>4</sup>|
-|*Φ*<sub>2</sub>(17)|2 (2 is not primitive prime factor since it already divides *Φ*<sub>1</sub>(17)) × 3<sup>2</sup>|
-|*Φ*<sub>4</sub>(17)|2 (2 is not primitive prime factor since it already divides *Φ*<sub>1</sub>(17)) × 5 × 29|
+|*Φ*<sub>2</sub>(17)|2 (2 is not primitive prime factor since it already divides *Φ*<sub>1</sub>(17), thus 2 does not divide the Zsigmondy number *Zs*(2, 17, 1)) × 3<sup>2</sup>|
+|*Φ*<sub>4</sub>(17)|2 (2 is not primitive prime factor since it already divides *Φ*<sub>1</sub>(17), thus 2 does not divide the Zsigmondy number *Zs*(4, 17, 1)) × 5 × 29|
 |*Φ*<sub>73</sub>(17)|293 × 1621745371 × 3038535503 × 319344640907 × 596137412912777 × 151192644932534555018760925054337887684171|
 |*Φ*<sub>146</sub>(17)|284117 × 1517302254487813 × 85689859765745838011113941034951691279812170166581780263612392684121|
 |*Φ*<sub>292</sub>(17)|877 × 4673 × 734854949942641407221086529797643582883477575817985261656573824687508604116290261093 × 5062295879...2717992001 (87-digit prime)|
@@ -764,8 +764,8 @@ For the number 21<sup>230</sup>−1, it is the product of *Φ*<sub>*d*</sub>(21)
 |from|prime factorization|
 |---|---|
 |*Φ*<sub>1</sub>(21)|2<sup>2</sup> × 5|
-|*Φ*<sub>2</sub>(21)|2 (2 is not primitive prime factor since it already divides *Φ*<sub>1</sub>(21)) × 11|
-|*Φ*<sub>5</sub>(21)|5 (5 is not primitive prime factor since it already divides *Φ*<sub>1</sub>(21)) × 40841|
+|*Φ*<sub>2</sub>(21)|2 (2 is not primitive prime factor since it already divides *Φ*<sub>1</sub>(21), thus 2 does not divide the Zsigmondy number *Zs*(2, 21, 1)) × 11|
+|*Φ*<sub>5</sub>(21)|5 (5 is not primitive prime factor since it already divides *Φ*<sub>1</sub>(21), thus 5 does not divide the Zsigmondy number *Zs*(5, 21, 1)) × 40841|
 |*Φ*<sub>10</sub>(21)|185641|
 |*Φ*<sub>23</sub>(21)|47 × 19597 × 139870566115103282847737|
 |*Φ*<sub>46</sub>(21)|277 × 461 × 599 × 691 × 2215825387044753577|
@@ -777,10 +777,10 @@ For the number 21<sup>1064</sup>−1, it is the product of *Φ*<sub>*d*</sub>(21
 |from|currently known prime factorization|
 |---|---|
 |*Φ*<sub>1</sub>(21)|2<sup>2</sup> × 5|
-|*Φ*<sub>2</sub>(21)|2 (2 is not primitive prime factor since it already divides *Φ*<sub>1</sub>(21)) × 11|
-|*Φ*<sub>4</sub>(21)|2 (2 is not primitive prime factor since it already divides *Φ*<sub>1</sub>(21)) × 13 × 17|
+|*Φ*<sub>2</sub>(21)|2 (2 is not primitive prime factor since it already divides *Φ*<sub>1</sub>(21), thus 2 does not divide the Zsigmondy number *Zs*(2, 21, 1)) × 11|
+|*Φ*<sub>4</sub>(21)|2 (2 is not primitive prime factor since it already divides *Φ*<sub>1</sub>(21), thus 2 does not divide the Zsigmondy number *Zs*(4, 21, 1)) × 13 × 17|
 |*Φ*<sub>7</sub>(21)|43 × 631 × 3319|
-|*Φ*<sub>8</sub>(21)|2 (2 is not primitive prime factor since it already divides *Φ*<sub>1</sub>(21)) × 97241|
+|*Φ*<sub>8</sub>(21)|2 (2 is not primitive prime factor since it already divides *Φ*<sub>1</sub>(21), thus 2 does not divide the Zsigmondy number *Zs*(8, 21, 1)) × 97241|
 |*Φ*<sub>14</sub>(21)|81867661|
 |*Φ*<sub>19</sub>(21)|12061389013 × 54921106624003|
 |*Φ*<sub>28</sub>(21)|29 × 3697 × 68454248717|
@@ -813,7 +813,7 @@ For the number 26<sup>354</sup>−1, it is the product of *Φ*<sub>*d*</sub>(26)
 |*Φ*<sub>1</sub>(26)|5<sup>2</sup>|
 |*Φ*<sub>2</sub>(26)|3<sup>3</sup>|
 |*Φ*<sub>3</sub>(26)|19 × 37|
-|*Φ*<sub>6</sub>(26)|3 (3 is not primitive prime factor since it already divides *Φ*<sub>2</sub>(26)) × 7 × 31|
+|*Φ*<sub>6</sub>(26)|3 (3 is not primitive prime factor since it already divides *Φ*<sub>2</sub>(26), thus 3 does not divide the Zsigmondy number *Zs*(6, 26, 1)) × 7 × 31|
 |*Φ*<sub>59</sub>(26)|3541 × 334945708538658924935948356996883525107 × 10265667109489266992108219345733472151257|
 |*Φ*<sub>118</sub>(26)|254250862891621 × 44340576013409754914900950202875547293005723513717456171787198756631|
 |*Φ*<sub>177</sub>(26)|47791 × 1311074895191091284466533625050044762267011115706300424823729 × 2103420566...9352751809 (100-digit prime)|
@@ -872,11 +872,11 @@ For the number 13<sup>1504</sup>−1, it is the product of *Φ*<sub>*d*</sub>(13
 |from|currently known prime factorization|
 |---|---|
 |*Φ*<sub>1</sub>(13)|2<sup>2</sup> × 3|
-|*Φ*<sub>2</sub>(13)|2 (2 is not primitive prime factor since it already divides *Φ*<sub>1</sub>(13)) × 7|
-|*Φ*<sub>4</sub>(13)|2 (2 is not primitive prime factor since it already divides *Φ*<sub>1</sub>(13)) × 5 × 17|
-|*Φ*<sub>8</sub>(13)|2 (2 is not primitive prime factor since it already divides *Φ*<sub>1</sub>(13)) × 14281|
-|*Φ*<sub>16</sub>(13)|2 (2 is not primitive prime factor since it already divides *Φ*<sub>1</sub>(13)) × 407865361|
-|*Φ*<sub>32</sub>(13)|2 (2 is not primitive prime factor since it already divides *Φ*<sub>1</sub>(13)) × 2657 × 441281 × 283763713|
+|*Φ*<sub>2</sub>(13)|2 (2 is not primitive prime factor since it already divides *Φ*<sub>1</sub>(13), thus 2 does not divide the Zsigmondy number *Zs*(2, 13, 1)) × 7|
+|*Φ*<sub>4</sub>(13)|2 (2 is not primitive prime factor since it already divides *Φ*<sub>1</sub>(13), thus 2 does not divide the Zsigmondy number *Zs*(4, 13, 1)) × 5 × 17|
+|*Φ*<sub>8</sub>(13)|2 (2 is not primitive prime factor since it already divides *Φ*<sub>1</sub>(13), thus 2 does not divide the Zsigmondy number *Zs*(8, 13, 1)) × 14281|
+|*Φ*<sub>16</sub>(13)|2 (2 is not primitive prime factor since it already divides *Φ*<sub>1</sub>(13), thus 2 does not divide the Zsigmondy number *Zs*(16, 13, 1)) × 407865361|
+|*Φ*<sub>32</sub>(13)|2 (2 is not primitive prime factor since it already divides *Φ*<sub>1</sub>(13), thus 2 does not divide the Zsigmondy number *Zs*(32, 13, 1)) × 2657 × 441281 × 283763713|
 |*Φ*<sub>47</sub>(13)|183959 × 19216136497 × 534280344481909234853671069326391741|
 |*Φ*<sub>94</sub>(13)|498851139881 × 3245178229485124818467952891417691434077|
 |*Φ*<sub>188</sub>(13)|36097 × 75389 × 99886248944632632917 × 1111581727...9261629657 (74-digit prime)|
@@ -898,13 +898,13 @@ For the number 17<sup>7092</sup>−1, it is the product of *Φ*<sub>*d*</sub>(17
 |from|currently known prime factorization|
 |---|---|
 |*Φ*<sub>1</sub>(17)|2<sup>4</sup>|
-|*Φ*<sub>2</sub>(17)|2 (2 is not primitive prime factor since it already divides *Φ*<sub>1</sub>(17)) × 3<sup>2</sup>|
+|*Φ*<sub>2</sub>(17)|2 (2 is not primitive prime factor since it already divides *Φ*<sub>1</sub>(17), thus 2 does not divide the Zsigmondy number *Zs*(2, 17, 1)) × 3<sup>2</sup>|
 |*Φ*<sub>3</sub>(17)|307|
-|*Φ*<sub>4</sub>(17)|2 (2 is not primitive prime factor since it already divides *Φ*<sub>1</sub>(17)) × 5 × 29|
-|*Φ*<sub>6</sub>(17)|3 (3 is not primitive prime factor since it already divides *Φ*<sub>2</sub>(17)) × 7 × 13|
+|*Φ*<sub>4</sub>(17)|2 (2 is not primitive prime factor since it already divides *Φ*<sub>1</sub>(17), thus 2 does not divide the Zsigmondy number *Zs*(4, 17, 1)) × 5 × 29|
+|*Φ*<sub>6</sub>(17)|3 (3 is not primitive prime factor since it already divides *Φ*<sub>2</sub>(17), thus 3 does not divide the Zsigmondy number *Zs*(6, 17, 1)) × 7 × 13|
 |*Φ*<sub>9</sub>(17)|19 × 1270657|
 |*Φ*<sub>12</sub>(17)|83233|
-|*Φ*<sub>18</sub>(17)|3 (3 is not primitive prime factor since it already divides *Φ*<sub>2</sub>(17)) × 1423 × 5653|
+|*Φ*<sub>18</sub>(17)|3 (3 is not primitive prime factor since it already divides *Φ*<sub>2</sub>(17), thus 3 does not divide the Zsigmondy number *Zs*(18, 17, 1)) × 1423 × 5653|
 |*Φ*<sub>36</sub>(17)|37 × 109 × 181 × 2089 × 382069|
 |*Φ*<sub>197</sub>(17)|646477768184104922935115731396719622668746018369021 × 2419713427...0015183241 (191-digit prime)|
 |*Φ*<sub>394</sub>(17)|1720812337 × 120652139803422836046398107883 × 11854861245452004511262968204651829313761 × 930821833870171289422620828584179333038475130149 × 6069227679...8736162359 (115-digit prime)|
@@ -947,7 +947,7 @@ For the number 36<sup>3933</sup>−1 = 6<sup>7866</sup>−1 (we do not use perfe
 |*Φ*<sub>69</sub>(6)|11731 × 1236385853432057889667843739281|
 |*Φ*<sub>114</sub>(6)|457 × 137713 × 190324492938225748951|
 |*Φ*<sub>138</sub>(6)|24648570768391 × 816214079084081564521|
-|*Φ*<sub>171</sub>(6)|19 (19 is not primitive prime factor since it already divides *Φ*<sub>9</sub>(6)) × 25896916098621777025320461067950269867 × 2219821955745760247086895900084483710540707577|
+|*Φ*<sub>171</sub>(6)|19 (19 is not primitive prime factor since it already divides *Φ*<sub>9</sub>(6), thus 19 does not divide the Zsigmondy number *Zs*(171, 6, 1)) × 25896916098621777025320461067950269867 × 2219821955745760247086895900084483710540707577|
 |*Φ*<sub>207</sub>(6)|399097 × 1296795035...8878205873 (98-digit prime)|
 |*Φ*<sub>342</sub>(6)|62174327387790051073 × 17730863455565010457215015481519172763685683806181388676488969177|
 |*Φ*<sub>414</sub>(6)|4811469913 × 61040960263 × 25280883279243199352415750302719 × 703525130194638933868239585175540752922537827762121|
