@@ -10,6 +10,8 @@ Unfortunately, for every base *b*, there are infinitely many strong pseudoprimes
 
 (The data in the table below is given by: https://oeis.org/A298756, https://oeis.org/A298757, https://oeis.org/A014233, https://t5k.org/prove/prove2_3.html, https://en.wikipedia.org/wiki/Miller%E2%80%93Rabin_primality_test#Testing_against_small_sets_of_bases, https://t5k.org/glossary/xpage/StrongPRP.html, https://mathworld.wolfram.com/StrongPseudoprime.html, https://miller-rabin.appspot.com/)
 
+**(Note: The page https://miller-rabin.appspot.com/ wrongly counts the odd composite numbers dividing *b* as strong pseudoprimes to base *b*)**
+
 |test bases *b*|the smallest composite number which is strong pseudoprime to all these bases *b*|prime factorization|
 |---|---|---|
 |2|2047|23 × 89|
