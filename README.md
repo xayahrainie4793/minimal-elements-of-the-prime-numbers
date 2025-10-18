@@ -3226,19 +3226,20 @@ Index pages of searching the primes of the form (*a*×*b*<sup>*n*</sup>+*c*)/*gc
 22. https://web.archive.org/web/20231002190634/http://yves.gallot.pagesperso-orange.fr/primes/index.html
 23. http://boincvm.proxyma.ru:30080/test4vm/index.php
 24. http://prpnet.primegrid.com/
-25. https://stdkmd.net/ (sections https://stdkmd.net/nrr/prime/ and https://stdkmd.net/nrr/cert/ and https://web.archive.org/web/20240202224722/https://stdkmd.net/nrr/records.htm#primenumbers and https://web.archive.org/web/20240202224722/https://stdkmd.net/nrr/records.htm#probableprimenumbers)
-26. https://kurtbeschorner.de/ (section "Rprime project; base 10")
-27. http://www.elektrosoft.it/matematica/repunit/repunit.htm
-28. https://www.alfredreichlg.de/
-29. https://www.mersenne.org/
-30. https://www.mersenne.ca/
-31. https://web.archive.org/web/20211011120227/http://mprime.s3-website.us-west-1.amazonaws.com/
-32. http://kenta.blogspot.com/2012/11/ezgxggdm-dual-sierpinski-problem.html
-33. https://oeis.org/A076336/a076336c.html (special situation: in theory this reference should be http://web.archive.org/web/20080908010544/http://sierpinski.insider.com/dual, but this page is excluded from the Wayback Machine, thus linked to the cached copy page)
-34. https://sites.google.com/ocdsb.ca/2n25
-35. http://ostracodfiles.com/primes14/primes.php **(warning: all numbers in that page are definitely primes, i.e. not merely probable primes, since all of them can be proven prime by *N*+1 test, since all of their *N*+1 are trivially fully factored, also, there are no primes in families 3{D}, 8{D}, A{D} in base *b* = 14, since the number in family 3{D} in base *b* = 14 is divisible by 3 if the length is odd and divisible by 5 if the length is even, and the number in family 8{D} in base *b* = 14 is divisible by 5 if the length is even and has difference-of-two-squares factorization if the length is odd, and the number in family A{D} in base *b* = 14 is divisible by 3 if the length is even and divisible by 5 if the length is odd)**
-36. http://www.doublemersennes.org/
-37. http://www.hoegge.dk/mersenne/NMC.html
+25. https://web.archive.org/web/20131016004333/http://www.sr5.psp-project.de/
+26. https://stdkmd.net/ (sections https://stdkmd.net/nrr/prime/ and https://stdkmd.net/nrr/cert/ and https://web.archive.org/web/20240202224722/https://stdkmd.net/nrr/records.htm#primenumbers and https://web.archive.org/web/20240202224722/https://stdkmd.net/nrr/records.htm#probableprimenumbers)
+27. https://kurtbeschorner.de/ (section "Rprime project; base 10")
+28. http://www.elektrosoft.it/matematica/repunit/repunit.htm
+29. https://www.alfredreichlg.de/
+30. https://www.mersenne.org/
+31. https://www.mersenne.ca/
+32. https://web.archive.org/web/20211011120227/http://mprime.s3-website.us-west-1.amazonaws.com/
+33. http://kenta.blogspot.com/2012/11/ezgxggdm-dual-sierpinski-problem.html
+34. https://oeis.org/A076336/a076336c.html (special situation: in theory this reference should be http://web.archive.org/web/20080908010544/http://sierpinski.insider.com/dual, but this page is excluded from the Wayback Machine, thus linked to the cached copy page)
+35. https://sites.google.com/ocdsb.ca/2n25
+36. http://ostracodfiles.com/primes14/primes.php **(warning: all numbers in that page are definitely primes, i.e. not merely probable primes, since all of them can be proven prime by *N*+1 test, since all of their *N*+1 are trivially fully factored, also, there are no primes in families 3{D}, 8{D}, A{D} in base *b* = 14, since the number in family 3{D} in base *b* = 14 is divisible by 3 if the length is odd and divisible by 5 if the length is even, and the number in family 8{D} in base *b* = 14 is divisible by 5 if the length is even and has difference-of-two-squares factorization if the length is odd, and the number in family A{D} in base *b* = 14 is divisible by 3 if the length is even and divisible by 5 if the length is odd)**
+37. http://www.doublemersennes.org/
+38. http://www.hoegge.dk/mersenne/NMC.html
 
 Index pages of factoring the numbers of the form (*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1):
 
@@ -3264,21 +3265,23 @@ Index pages of factoring the numbers of the form (*a*×*b*<sup>*n*</sup>+*c*)/*g
 20. https://web.archive.org/web/20070708171301/http://www.ludwigsgymnasium.de/unterr/mathe/prim/zehnp.htm
 21. http://chesswanks.com/pxp/repfactors.html
 22. https://web.archive.org/web/20021001222643/http://www.users.globalnet.co.uk/~aads/index.html
-23. http://www.asahi-net.or.jp/~KC2H-MSM/mathland/matha1/index.htm
-24. http://mklasson.com/factors/index.php
-25. https://cs.stanford.edu/ (subpages not available in this page, the subpages are https://cs.stanford.edu/people/rpropper/math/factors/3n-2.txt and https://cs.stanford.edu/~rpropper/factors_rc_2200_r2_large.txt)
-26. https://web.archive.org/web/20020320010222/http://proth.cjb.net/
-27. https://brnikat.com/nums/index.html
-28. https://www.asahi-net.or.jp/~KC2H-MSM/mathland/matha1/index.htm
-29. https://www.lirmm.fr/~ochem/opn/
-30. https://web.archive.org/web/20120426061657/http://oddperfect.org/
-31. https://web.archive.org/web/20190211112446/http://home.earthlink.net/~elevensmooth/
-32. https://2721.hddkillers.com/
-33. https://web.archive.org/web/20081006071311/http://www-staff.maths.uts.edu.au/~rons/fact/fact.htm
-34. https://homes.cerias.purdue.edu/~ssw/bell/index.html
-35. http://www.loria.fr/~zimmerma/ecmnet/ (finding the factors of the numbers)
-36. https://www.rechenkraft.net/yoyo/ (finding the factors of the numbers)
-37. http://escatter11.fullerton.edu/nfs/ (finding the factors of the numbers)
+23. https://www.alpertron.com.ar/ENGLISH.HTM
+24. http://www.asahi-net.or.jp/~KC2H-MSM/mathland/matha1/index.htm
+25. http://mklasson.com/factors/index.php
+26. https://cs.stanford.edu/ (subpages not available in this page, the subpages are https://cs.stanford.edu/people/rpropper/math/factors/3n-2.txt and https://cs.stanford.edu/~rpropper/factors_rc_2200_r2_large.txt)
+27. https://web.archive.org/web/20020320010222/http://proth.cjb.net/
+28. https://web.archive.org/web/20131016004333/http://www.sr5.psp-project.de/
+29. https://brnikat.com/nums/index.html
+30. https://www.asahi-net.or.jp/~KC2H-MSM/mathland/matha1/index.htm
+31. https://www.lirmm.fr/~ochem/opn/
+32. https://web.archive.org/web/20120426061657/http://oddperfect.org/
+33. https://web.archive.org/web/20190211112446/http://home.earthlink.net/~elevensmooth/
+34. https://2721.hddkillers.com/
+35. https://web.archive.org/web/20081006071311/http://www-staff.maths.uts.edu.au/~rons/fact/fact.htm
+36. https://homes.cerias.purdue.edu/~ssw/bell/index.html
+37. http://www.loria.fr/~zimmerma/ecmnet/ (finding the factors of the numbers)
+38. https://www.rechenkraft.net/yoyo/ (finding the factors of the numbers)
+39. http://escatter11.fullerton.edu/nfs/ (finding the factors of the numbers)
 
 *OEIS* sequences for the exponents *n* for the primes in given families in given base *b* (only list those for families {*x*}, *x*{*y*}, {*x*}*y*, *x*{0}*y* (where *x* and *y* are any digits in base *b*), since the smallest prime in these families **must** be minimal primes in the same base *b* (except the cases that the repeating digit (i.e. *y* in *x*{*y*}, or *x* in {*x*}*y*) is 1), also only count the primes > *b*):
 
