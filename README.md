@@ -3230,7 +3230,7 @@ Index pages of searching the primes of the form (*a*×*b*<sup>*n*</sup>+*c*)/*gc
 26. https://stdkmd.net/ (sections https://stdkmd.net/nrr/prime/ and https://stdkmd.net/nrr/cert/ and https://web.archive.org/web/20240202224722/https://stdkmd.net/nrr/records.htm#primenumbers and https://web.archive.org/web/20240202224722/https://stdkmd.net/nrr/records.htm#probableprimenumbers)
 27. https://kurtbeschorner.de/ (section "Rprime project; base 10")
 28. http://www.elektrosoft.it/matematica/repunit/repunit.htm
-29. https://www.alfredreichlg.de/ (the subpages https://www.alfredreichlg.de/10w7/prp.html and https://www.alfredreichlg.de/10w7/certifiedprimes.html and https://www.alfredreichlg.de/10w7/10w7.txt are not available in this page)
+29. https://www.alfredreichlg.de/ (the subpages https://www.alfredreichlg.de/10w7/prp.html and https://www.alfredreichlg.de/10w7/certifiedprimes.html and https://www.alfredreichlg.de/10w7/10w7.txt and https://www.alfredreichlg.de/10w7/prp/ProofFile.200001-1000000.txt and https://www.alfredreichlg.de/10w7/prp/ProofFile.1000001-1075000.txt are not available in this page)
 30. https://www.mersenne.org/
 31. https://www.mersenne.ca/
 32. https://web.archive.org/web/20211011120227/http://mprime.s3-website.us-west-1.amazonaws.com/
@@ -3261,7 +3261,7 @@ Index pages of factoring the numbers of the form (*a*×*b*<sup>*n*</sup>+*c*)/*g
 16. https://kurtbeschorner.de/
 17. https://repunit-koide.jimdofree.com/
 18. https://gmplib.org/~tege/repunit.html
-19. https://www.alfredreichlg.de/ (the subpages https://www.alfredreichlg.de/10w7/prp.html and https://www.alfredreichlg.de/10w7/certifiedprimes.html and https://www.alfredreichlg.de/10w7/10w7.txt are not available in this page)
+19. https://www.alfredreichlg.de/ (the subpages https://www.alfredreichlg.de/10w7/prp.html and https://www.alfredreichlg.de/10w7/certifiedprimes.html and https://www.alfredreichlg.de/10w7/10w7.txt and https://www.alfredreichlg.de/10w7/prp/ProofFile.200001-1000000.txt and https://www.alfredreichlg.de/10w7/prp/ProofFile.1000001-1075000.txt are not available in this page)
 20. https://web.archive.org/web/20070708171301/http://www.ludwigsgymnasium.de/unterr/mathe/prim/zehnp.htm
 21. http://chesswanks.com/pxp/repfactors.html
 22. https://web.archive.org/web/20021001222643/http://www.users.globalnet.co.uk/~aads/index.html
