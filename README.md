@@ -3271,7 +3271,7 @@ Index pages of factoring the numbers of the form (*a*×*b*<sup>*n*</sup>+*c*)/*g
 26. https://cs.stanford.edu/ (subpages not available in this page, the subpages are https://cs.stanford.edu/people/rpropper/math/factors/3n-2.txt and https://cs.stanford.edu/~rpropper/factors_rc_2200_r2_large.txt)
 27. https://web.archive.org/web/20020320010222/http://proth.cjb.net/
 28. https://web.archive.org/web/20131016004333/http://www.sr5.psp-project.de/
-29. https://brnikat.com/nums/index.html
+29. https://brnikat.com/nums/index.html (subpages of https://www.brnikat.com/nums/cullen_woodall/cw.html)
 30. https://www.asahi-net.or.jp/~KC2H-MSM/mathland/matha1/index.htm
 31. https://www.lirmm.fr/~ochem/opn/
 32. https://web.archive.org/web/20120426061657/http://oddperfect.org/
