@@ -3213,7 +3213,7 @@ Index pages of searching the primes of the form (*a*×*b*<sup>*n*</sup>+*c*)/*gc
 9. https://web.archive.org/web/20110601231527/http://www.bodang.com/12121/
 10. https://www.rieselprime.de/default.htm
 11. https://www.rieselprime.de/Related/ (subpages not available in this page, the subpages are https://www.rieselprime.de/Related/RieselTwinSG.htm and https://www.rieselprime.de/Related/LiskovetsGallot.htm)
-12. http://www.fermatquotient.com/ (subpages of https://www.fermatquotient.com/PrimSerien/)
+12. http://www.fermatquotient.com/
 13. https://web.archive.org/web/20021001222643/http://www.users.globalnet.co.uk/~aads/index.html
 14. http://www.primenumbers.net/
 15. https://pzktupel.de/ktuplets.php
