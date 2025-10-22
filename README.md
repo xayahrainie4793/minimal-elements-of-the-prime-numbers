@@ -3213,14 +3213,14 @@ Index pages of searching the primes of the form (*a*×*b*<sup>*n*</sup>+*c*)/*gc
 9. https://web.archive.org/web/20110601231527/http://www.bodang.com/12121/
 10. https://www.rieselprime.de/default.htm
 11. https://www.rieselprime.de/Related/ (subpages not available in this page, the subpages are https://www.rieselprime.de/Related/RieselTwinSG.htm and https://www.rieselprime.de/Related/LiskovetsGallot.htm)
-12. http://www.fermatquotient.com/
+12. http://www.fermatquotient.com/ (subpages of https://www.fermatquotient.com/PrimSerien/)
 13. https://web.archive.org/web/20021001222643/http://www.users.globalnet.co.uk/~aads/index.html
 14. http://www.primenumbers.net/
 15. https://pzktupel.de/ktuplets.php
 16. http://harvey563.tripod.com/
 17. http://guenter.loeh.name/ (subpage http://guenter.loeh.name/gc/status.html)
 18. http://www.fermatsearch.org/
-19. https://64ordle.au/
+19. https://64ordle.au/ (subpages of https://64ordle.au/fermat/)
 20. http://jeppesn.dk/ (subpages http://jeppesn.dk/generalized-fermat.html and http://jeppesn.dk/nton.html)
 21. https://genefer.great-site.net/
 22. https://web.archive.org/web/20231002190634/http://yves.gallot.pagesperso-orange.fr/primes/index.html
@@ -3251,7 +3251,7 @@ Index pages of factoring the numbers of the form (*a*×*b*<sup>*n*</sup>+*c*)/*g
 6. https://www.mersenne.ca/
 7. https://mers.sourceforge.io/mersenne.html
 8. http://www.fermatsearch.org/
-9. https://64ordle.au/
+9. https://64ordle.au/ (subpages of https://64ordle.au/fermat/)
 10. http://www.prothsearch.com/ (section "Fermat numbers")
 11. https://web.archive.org/web/20211011120227/http://mprime.s3-website.us-west-1.amazonaws.com/
 12. http://www.doublemersennes.org/
@@ -3272,7 +3272,7 @@ Index pages of factoring the numbers of the form (*a*×*b*<sup>*n*</sup>+*c*)/*g
 27. https://web.archive.org/web/20020320010222/http://proth.cjb.net/
 28. https://web.archive.org/web/20131016004333/http://www.sr5.psp-project.de/
 29. https://brnikat.com/nums/index.html (subpages of https://www.brnikat.com/nums/cullen_woodall/cw.html)
-30. https://www.asahi-net.or.jp/~KC2H-MSM/mathland/matha1/index.htm
+30. https://www.asahi-net.or.jp/~KC2H-MSM/mathland/matha1/index.htm (sections "0. The Cunningham Project" and "9. Cullen Numbers" and "10. Woodall (Riesel) Numbers" and "17. Cyclotomic Numbers")
 31. https://www.lirmm.fr/~ochem/opn/
 32. https://web.archive.org/web/20120426061657/http://oddperfect.org/
 33. https://web.archive.org/web/20190211112446/http://home.earthlink.net/~elevensmooth/
