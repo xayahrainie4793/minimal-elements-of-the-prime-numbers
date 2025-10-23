@@ -3520,7 +3520,7 @@ base *b* = 16:
 * 7{F}: https://oeis.org/A112633 (*n* replaced by 4×*n*+3)
 * {A}B: https://oeis.org/A361563 (*n* replaced by 4×*n*+1)
 * B{3}: https://oeis.org/A366171 (*n* replaced by 4×*n*+3)
-* D{F}: https://oeis.org/A001771 (*n* replaced by 4×*n*+1)
+* D{F}: https://oeis.org/A001771 (*n* replaced by 4×*n*+1), https://oeis.org/A050523 (corresponding primes, with an additional term 13)
 
 base *b* = 17:
 
