@@ -98,7 +98,7 @@ Also the case where *N*−1 or *N*+1 is product of a Cunningham number (of the f
 |24|{2}1|
 |25|1{G}, {2}1, 2{C}B (subset of family {2}1 in base *b* = 5), {8}9, {C}B (subset of family {2}1 in base *b* = 5)|
 |26|{2}1|
-|27|{2}1|
+|27|1{0}2 (subset of family 1{0}2 in base *b* = 3), 1{D} (subset of family {1} in base *b* = 3), 1{D}E (subset of family {1}2 in base *b* = 3), {2}1, 2{Q}P (subset of family {2}1 in base *b* = 3), 3{0}2 (subset of family 1{0}2 in base *b* = 3), 4{D} (subset of family {1} in base *b* = 3), 4{D}E (subset of family {1}2 in base *b* = 3), 8{Q}P (subset of family {2}1 in base *b* = 3), 9{0}2 (subset of family 1{0}2 in base *b* = 3), {Q}P (subset of family {2}1 in base *b* = 3)|
 |28|{2}1|
 |29|{2}1|
 |30|{2}1|
