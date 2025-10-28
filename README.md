@@ -2280,6 +2280,46 @@ Also the forms satisfying both "General" and "Remove all *n* cases", in this cas
 |27|{D}E|(27<sup>*n*+1</sup>+1)/2|remove all *n*|1, 27, 1 are all cubes|ruled out as only contain composites (only count the numbers > *b*)|http://factordb.com/index.php?query=%2827%5E%28n%2B1%29%2B1%29%2F2&use=n&n=1&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 |32|1{0}1|32<sup>*n*+1</sup>+1|remove all *n*|1, 32, 1 are all 5th powers|ruled out as only contain composites (only count the numbers > *b*)|http://factordb.com/index.php?query=32%5E%28n%2B1%29%2B1&use=n&n=0&VP=on&VC=on&EV=on&OD=on&PR=on&FF=on&PRP=on&CF=on&U=on&C=on&perpage=200&format=1&sent=Show|
 
+The families in bases 2 ≤ *b* ≤ 36 which are generalized repunit numbers, generalized Wagstaff numbers, generalized Fermat numbers, generalized half Fermat numbers, are: (not list the families satisfying "Remove all *n* cases")
+
+|*b*<br>(2 ≤ *b* ≤ 36)|families which are generalized repunit numbers|families which are generalized Wagstaff numbers|families which are generalized Fermat numbers|families which are generalized half Fermat numbers|
+|---|---|---|---|---|
+|2|{1}|–|1{0}1|–|
+|3|{1}|–|–|{1}2|
+|4|1{3}|{2}3|1{0}1|–|
+|5|{1}|–|–|{2}3|
+|6|{1}|–|1{0}1|–|
+|7|{1}|–|–|{3}4|
+|8|1{7}, 3{7}|–|2{0}1, 4{0}1|–|
+|9|1{4}|{6}7|–|{4}5|
+|10|{1}|–|1{0}1|–|
+|11|{1}|–|–|{5}6|
+|12|{1}|–|1{0}1|–|
+|13|{1}|–|–|{6}7|
+|14|{1}|–|1{0}1|–|
+|15|{1}|–|–|{7}8|
+|16|1{F}, 7{F}|{A}B, 2{A}B|1{0}1|–|
+|17|{1}|–|–|{8}9|
+|18|{1}|–|1{0}1|–|
+|19|{1}|–|–|{9}A|
+|20|{1}|–|1{0}1|–|
+|21|{1}|–|–|{A}B|
+|22|{1}|–|1{0}1|–|
+|23|{1}|–|–|{B}C|
+|24|{1}|–|1{0}1|–|
+|25|1{6}|{K}L|–|{C}D|
+|26|{1}|–|1{0}1|–|
+|27|1{D}, 4{D}|–|–|1{D}E, 4{D}E|
+|28|{1}|–|1{0}1|–|
+|29|{1}|–|–|{E}F|
+|30|{1}|–|1{0}1|–|
+|31|{1}|–|–|{F}G|
+|32|1{V}, 3{V}, 7{V}, F{V}|–|2{0}1, 4{0}1, 8{0}1, G{0}1|–|
+|33|{1}|–|–|{G}H|
+|34|{1}|–|1{0}1|–|
+|35|{1}|–|–|{H}I|
+|36|1{7}|{U}V|1{0}1|–|
+
 Coordination with existing code:
 
 * If all *n* are removed by algebraic factors for sequence (*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1), program should stop immediately. This means that this family can be proven to only contain composites.
