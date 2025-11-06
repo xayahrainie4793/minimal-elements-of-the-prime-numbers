@@ -219,6 +219,7 @@ In fact, I create this problem because I think that the single-digit primes are 
 |https://oeis.org/A354113|https://oeis.org/A354114|
 |https://t5k.org/glossary/xpage/MinimalPrime.html|https://www.mersenneforum.org/showpost.php?p=235098&postcount=5|
 |longest common subsequence (https://en.wikipedia.org/wiki/Longest_common_subsequence)|longest common substring (https://en.wikipedia.org/wiki/Longest_common_substring)|
+|shortest common supersequence (https://en.wikipedia.org/wiki/Shortest_common_supersequence)|shortest common superstring (https://en.wikipedia.org/wiki/Shortest_common_superstring)|
 
 The longest common subsequence problem (https://en.wikipedia.org/wiki/Longest_common_subsequence) and the longest common substring problem (https://en.wikipedia.org/wiki/Longest_common_substring) are two hard problems on strings (https://en.wikipedia.org/wiki/String_(computer_science), https://mathworld.wolfram.com/String.html), the former is NP-complete (https://en.wikipedia.org/wiki/NP-complete, https://mathworld.wolfram.com/NP-CompleteProblem.html) and NP-hard (https://en.wikipedia.org/wiki/NP-hard, https://mathworld.wolfram.com/NP-HardProblem.html), while the latter is not.
 
