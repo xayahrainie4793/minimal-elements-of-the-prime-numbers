@@ -3972,43 +3972,42 @@ Lists of small primes: (see https://t5k.org/notes/faq/LongestList.html, long lis
 7. https://oeis.org/A000040/b000040_1.txt (limit: first 500000 primes, up to 7368787)
 8. https://oeis.org/A000040/a000040_1B.7z (limit: first 1000000000 primes, up to 22801763489)
 9. https://veggiebucket.ams3.digitaloceanspaces.com/numbers/veggiePrimes_2T.txt.xz (limit: first 73301896139 primes, up to 1999999999981)
-10. https://veggiebucket.ams3.digitaloceanspaces.com/numbers/veggiePrimes_2T.txt.xz.sha512 (limit: first 73301896139 primes, up to 1999999999981)
-11. http://www.prime-numbers.org/ (limit: first 4118044813 primes, up to 99999999977)
-12. http://prime-numbers.org/sample.zip (limit: first 1000 primes, up to 7919)
-13. https://web.archive.org/web/20091027064420/http://geocities.com/primes_r_us/small/index.html (limit: first 5800000 primes, up to 100711433)
-14. https://metanumbers.com/prime-numbers (limit: first 1229 primes, up to 9973)
-15. https://www.numberempire.com/primenumberstable.php (page limit: first 25 primes, up to 97, total limit: first 1229 primes, up to 9973)
-16. https://www.calculatorsoup.com/calculators/math/prime-numbers.php (limit: first 1009 primes, up to 8011)
-17. https://www2.cs.arizona.edu/icon/oddsends/primes.htm (limit: first 50000 primes, up to 611953)
-18. https://www.numbersaplenty.com/set/prime_number/more.php (limit: first 600 primes, up to 4409)
-19. https://web.archive.org/web/20050412073754/http://www.mindspring.com/~benbradley/basep.hpp (limit: first 6542 primes, up to 65521)
-20. https://cdn1.byjus.com/wp-content/uploads/2021/10/Prime-Numbers-from-1-to-1000.png (limit: first 168 primes, up to 997)
-21. http://noe-education.org/D11102.php (in French) (limit: first 5133 primes, up to 49999)
-22. https://math.tools/numbers/prime/ (limit: first 150 primes, up to 863)
-23. https://math.tools/list/prime-numbers (limit: first 3000 primes, up to 27449) **(warning: this site uses index *n*−1 for the *n*th prime)**
-24. https://web.archive.org/web/20060513054350/http://www.walter-fendt.de/m14i/primes_i.htm (in Italian) (limit: first 37607912018 primes, up to 999999999989)
-25. https://primefan.tripod.com/500Primes1.html (limit: first 501 primes, up to 3581) **(warning: this site incorrectly includes 1 as a prime and misses the primes 3229 and 3329, thus this site actually lists the first 500−1+2 = 501 primes)**
-26. https://www.gutenberg.org/files/65/65.txt (limit: first 101341 primes, up to 1318699)
-27. https://web.archive.org/web/20231024091219/http://www.primos.mat.br/indexen.html (page limit: first 168 primes, up to 997, total limit: first 37607912018 primes, up to 999999999989)
-28. https://www.walter-fendt.de/html5/men/primenumbers_en.htm (limit: first 37607912018 primes, up to 999999999989)
-29. https://www.rsok.com/~jrm/first100primes.html (limit: first 100 primes, up to 541)
-30. http://www.rsok.com/~jrm/printprimes.html (limit: first 98222287 primes, up to 1999999973)
-31. http://mrteverett.com/numbers/primes/factest.txt (limit: first 14172 primes, up to 153757) **(warning: this site does not list the primes 2 and 3 and starts with the prime 5, thus this site actually only has 14172−2 = 14170 primes)**
-32. http://www.primzahlen.de/primzahltests/2-100003.htm (in German) (limit: first 9593 primes, up to 100003)
-33. https://web.archive.org/web/20240329171810/https://jocelyn.quizz.chat/np/cache/index.html (in French) (limit: first 1000000 primes, up to 15485863)
-34. https://web.archive.org/web/20240421093646/http://www.sosmath.com/tables/prime/prime.html (limit: first 1000 primes, up to 7919)
-35. https://www.bigprimes.net/archive/prime (page limit: first 100 primes, up to 541, total limit: first 1000099 primes, up to 15487457)
-36. https://web.archive.org/web/20180416082616/https://web.maths.unsw.edu.au/~davidharvey/papers/twobillion/indices.txt.bz2 (limit: first 105097565 primes, up to 2147483647) **(warning: this site does not list the prime 2 and starts with the prime 3, thus this site actually only has 105097565−1 = 105097564 primes)**
-37. https://web.archive.org/web/20110706145603/http://cims.nyu.edu/~harvey/papers/irregular/indices_163577856.bz2 (limit: first 9163831 primes, up to 163577833) **(warning: this site does not list the prime 2 and starts with the prime 3, thus this site actually only has 9163831−1 = 9163830 primes)**
-38. https://web.archive.org/web/20110706145125/http://cims.nyu.edu/~harvey/papers/irregular/checks_163577856.bz2 (limit: first 9163831 primes, up to 163577833) **(warning: this site does not list the prime 2 and starts with the prime 3, thus this site actually only has 9163831−1 = 9163830 primes)**
-39. https://web.archive.org/web/20110706141145/http://cims.nyu.edu/~harvey/papers/irregular/huge_163577856.bz2 (limit: first 9163831 primes, up to 163577833) **(warning: this site does not list the prime 2 and starts with the prime 3, thus this site actually only has 9163831−1 = 9163830 primes)**
-40. https://web.archive.org/web/20201130071856/http://www.mathematical.com/primelist1to100kk.html (limit: first 664579 primes, up to 9999991)
-41. https://web.archive.org/web/20191118082053/http://www.tsm-resources.com/alists/prim.html (limit: first 2000 primes, up to 17389)
-42. https://web.archive.org/web/20090917191047/http://planetmath.org/encyclopedia/FirstThousandPositivePrimeNumbers.html (limit: first 1000 primes, up to 7919)
-43. https://openlibrary.org/books/OL16553580M (limit: first 664999 primes, up to 10006721)
-44. https://sites.google.com/view/the-first-25000-primes (limit: first 25000 primes, up to 287117)
-45. https://faculty.lynchburg.edu/~nicely/gaps/gaplist.html (the longest list ever calculated, with all primes < 2<sup>64</sup> (but unlikely other lists here, the primes are not all stored))
-46. https://en.wikipedia.org/wiki/List_of_the_first_1000_prime_numbers (limit: first 1000 primes, up to 7919)
+10. http://www.prime-numbers.org/ (limit: first 4118044813 primes, up to 99999999977)
+11. http://prime-numbers.org/sample.zip (limit: first 1000 primes, up to 7919)
+12. https://web.archive.org/web/20091027064420/http://geocities.com/primes_r_us/small/index.html (limit: first 5800000 primes, up to 100711433)
+13. https://metanumbers.com/prime-numbers (limit: first 1229 primes, up to 9973)
+14. https://www.numberempire.com/primenumberstable.php (page limit: first 25 primes, up to 97, total limit: first 1229 primes, up to 9973)
+15. https://www.calculatorsoup.com/calculators/math/prime-numbers.php (limit: first 1009 primes, up to 8011)
+16. https://www2.cs.arizona.edu/icon/oddsends/primes.htm (limit: first 50000 primes, up to 611953)
+17. https://www.numbersaplenty.com/set/prime_number/more.php (limit: first 600 primes, up to 4409)
+18. https://web.archive.org/web/20050412073754/http://www.mindspring.com/~benbradley/basep.hpp (limit: first 6542 primes, up to 65521)
+19. https://cdn1.byjus.com/wp-content/uploads/2021/10/Prime-Numbers-from-1-to-1000.png (limit: first 168 primes, up to 997)
+20. http://noe-education.org/D11102.php (in French) (limit: first 5133 primes, up to 49999)
+21. https://math.tools/numbers/prime/ (limit: first 150 primes, up to 863)
+22. https://math.tools/list/prime-numbers (limit: first 3000 primes, up to 27449) **(warning: this site uses index *n*−1 for the *n*th prime)**
+23. https://web.archive.org/web/20060513054350/http://www.walter-fendt.de/m14i/primes_i.htm (in Italian) (limit: first 37607912018 primes, up to 999999999989)
+24. https://primefan.tripod.com/500Primes1.html (limit: first 501 primes, up to 3581) **(warning: this site incorrectly includes 1 as a prime and misses the primes 3229 and 3329, thus this site actually lists the first 500−1+2 = 501 primes)**
+25. https://www.gutenberg.org/files/65/65.txt (limit: first 101341 primes, up to 1318699)
+26. https://web.archive.org/web/20231024091219/http://www.primos.mat.br/indexen.html (page limit: first 168 primes, up to 997, total limit: first 37607912018 primes, up to 999999999989)
+27. https://www.walter-fendt.de/html5/men/primenumbers_en.htm (limit: first 37607912018 primes, up to 999999999989)
+28. https://www.rsok.com/~jrm/first100primes.html (limit: first 100 primes, up to 541)
+29. http://www.rsok.com/~jrm/printprimes.html (limit: first 98222287 primes, up to 1999999973)
+30. http://mrteverett.com/numbers/primes/factest.txt (limit: first 14172 primes, up to 153757) **(warning: this site does not list the primes 2 and 3 and starts with the prime 5, thus this site actually only has 14172−2 = 14170 primes)**
+31. http://www.primzahlen.de/primzahltests/2-100003.htm (in German) (limit: first 9593 primes, up to 100003)
+32. https://web.archive.org/web/20240329171810/https://jocelyn.quizz.chat/np/cache/index.html (in French) (limit: first 1000000 primes, up to 15485863)
+33. https://web.archive.org/web/20240421093646/http://www.sosmath.com/tables/prime/prime.html (limit: first 1000 primes, up to 7919)
+34. https://www.bigprimes.net/archive/prime (page limit: first 100 primes, up to 541, total limit: first 1000099 primes, up to 15487457)
+35. https://web.archive.org/web/20180416082616/https://web.maths.unsw.edu.au/~davidharvey/papers/twobillion/indices.txt.bz2 (limit: first 105097565 primes, up to 2147483647) **(warning: this site does not list the prime 2 and starts with the prime 3, thus this site actually only has 105097565−1 = 105097564 primes)**
+36. https://web.archive.org/web/20110706145603/http://cims.nyu.edu/~harvey/papers/irregular/indices_163577856.bz2 (limit: first 9163831 primes, up to 163577833) **(warning: this site does not list the prime 2 and starts with the prime 3, thus this site actually only has 9163831−1 = 9163830 primes)**
+37. https://web.archive.org/web/20110706145125/http://cims.nyu.edu/~harvey/papers/irregular/checks_163577856.bz2 (limit: first 9163831 primes, up to 163577833) **(warning: this site does not list the prime 2 and starts with the prime 3, thus this site actually only has 9163831−1 = 9163830 primes)**
+38. https://web.archive.org/web/20110706141145/http://cims.nyu.edu/~harvey/papers/irregular/huge_163577856.bz2 (limit: first 9163831 primes, up to 163577833) **(warning: this site does not list the prime 2 and starts with the prime 3, thus this site actually only has 9163831−1 = 9163830 primes)**
+39. https://web.archive.org/web/20201130071856/http://www.mathematical.com/primelist1to100kk.html (limit: first 664579 primes, up to 9999991)
+40. https://web.archive.org/web/20191118082053/http://www.tsm-resources.com/alists/prim.html (limit: first 2000 primes, up to 17389)
+41. https://web.archive.org/web/20090917191047/http://planetmath.org/encyclopedia/FirstThousandPositivePrimeNumbers.html (limit: first 1000 primes, up to 7919)
+42. https://openlibrary.org/books/OL16553580M (limit: first 664999 primes, up to 10006721)
+43. https://sites.google.com/view/the-first-25000-primes (limit: first 25000 primes, up to 287117)
+44. https://faculty.lynchburg.edu/~nicely/gaps/gaplist.html (the longest list ever calculated, with all primes < 2<sup>64</sup> (but unlikely other lists here, the primes are not all stored))
+45. https://en.wikipedia.org/wiki/List_of_the_first_1000_prime_numbers (limit: first 1000 primes, up to 7919)
 
 Also the .zst files in http://5.199.134.142/primes/ ("P*n*.csv.zst" for the definitely primes with *n* decimal digits for 19 ≤ *n* ≤ 2999 (from http://5.199.134.142/primes/P19.csv.zst to http://5.199.134.142/primes/P2999.csv.zst) and for the definitely primes with *n*\~(*n*+999) decimal digits for 3000 ≤ *n* ≤ 99000, *n* divisible by 1000 (from http://5.199.134.142/primes/P3000.csv.zst to http://5.199.134.142/primes/P99000.csv.zst), http://5.199.134.142/primes/P_large.csv.zst for all definitely primes with ≥ 100000 decimal digits, http://5.199.134.142/primes/PRP_all.csv.zst for all probable primes) and https://download.mersenne.ca/factordb_2024-03-21_primes.tar.xz.torrent for all primes and probable primes > 10<sup>18</sup> in *factordb* (i.e. the numbers in either http://factordb.com/listtype.php?t=4 or http://factordb.com/listtype.php?t=1 (and http://factordb.com/stat_1.php?prp)), also the .zst files in http://5.199.134.142/composite/ ("C*n*.csv.zst" for the composites with no known proper (prime or composite) factors with *n* decimal digits for 90 ≤ *n* ≤ 300 (from http://5.199.134.142/composite/C90.csv.zst to http://5.199.134.142/composite/C300.csv.zst), http://5.199.134.142/composite/C_all.csv.zst for all composites with no known proper (prime or composite) factors), also http://5.199.134.142/unknown/U_all.csv.zst for all numbers with unknown status, also http://5.199.134.142/CF/CF.csv.zst for all known proper factors which are either "prime" or "composite with no known proper (prime or composite) factors" for all numbers in *factordb*, also the .zst files in http://5.199.134.142/certificates/ ("certificates_*n*.tar.zst" for the primality certificates of the definitely primes with *n* decimal digits for 300 ≤ *n* ≤ 5679 and selected 5680 ≤ *n* ≤ 109297, from http://5.199.134.142/certificates/certificates_300.tar.zst to http://5.199.134.142/certificates/certificates_109297.tar.zst) for all primality certificates in *factordb*, also http://myfactorcollection.mooo.com:8090/factordb/factordb.txt.zst for all of the .zst files above in one .zst file, also http://factordb.com/dlprp.php?n=1000000 for 10000 random chosen small unproven probable primes in *factordb* (i.e. the numbers in http://factordb.com/listtype.php?t=1 and http://factordb.com/stat_1.php?prp), also http://factordb.com/dlc.php?n=1000000 for 5000 random chosen small composites with no known proper (prime or composite) factors in *factordb* (i.e. the numbers in http://factordb.com/listtype.php?t=3 and http://factordb.com/stat_1.php), also http://factordb.com/primobatch.php?digits=300&files=10&parts=1&start=Generate+zip and http://factordb.com/primobatch.php?digits=300&files=32000&parts=32&start=Generate+zip for the input files for *Primo* in *factordb*, also see http://factordb.com/distribution.php?size=20&start=0&lim=500000 and http://factordb.com/types_pie.php?large for the distribution of numbers by digits and status (http://factordb.com/status.html, http://factordb.com/distribution.php) in *factordb*, also http://factordb.com/certtop.php for the primality certificates by user in *factordb*, also http://factordb.com/certtypetop.php for the primality certificates by software in *factordb*.
 
