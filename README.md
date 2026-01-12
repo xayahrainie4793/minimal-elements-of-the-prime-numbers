@@ -3392,20 +3392,21 @@ Index pages of factoring the numbers of the form (*a*×*b*<sup>*n*</sup>+*c*)/*g
 24. https://www.alpertron.com.ar/ENGLISH.HTM (subpages https://www.alpertron.com.ar/BRILLIANT.HTM and https://www.alpertron.com.ar/MODFERM.HTM)
 25. http://www.asahi-net.or.jp/~KC2H-MSM/mathland/matha1/index.htm
 26. http://mklasson.com/factors/index.php
-27. https://cs.stanford.edu/ (subpages not available in this page, the subpages are https://cs.stanford.edu/people/rpropper/math/factors/3n-2.txt and https://cs.stanford.edu/~rpropper/factors_rc_2200_r2_large.txt)
+27. https://cs.stanford.edu/ (subpages not available in this page, the subpages are https://cs.stanford.edu/people/rpropper/math/factors/3n-2.txt and https://cs.stanford.edu/~rpropper/factors_rc_2200_r2_large.txt and https://cs.stanford.edu/~rpropper/wagfactors.txt and https://cs.stanford.edu/~rpropper/wagfactors.txt.xz)
 28. https://web.archive.org/web/20020320010222/http://proth.cjb.net/
 29. https://web.archive.org/web/20131016004333/http://www.sr5.psp-project.de/
 30. https://brnikat.com/nums/index.html (subpages of https://www.brnikat.com/nums/cullen_woodall/cw.html)
 31. https://www.asahi-net.or.jp/~KC2H-MSM/mathland/matha1/index.htm (sections "0. The Cunningham Project" and "9. Cullen Numbers" and "10. Woodall (Riesel) Numbers" and "17. Cyclotomic Numbers")
 32. https://www.lirmm.fr/~ochem/opn/
 33. https://web.archive.org/web/20120426061657/http://oddperfect.org/
-34. https://web.archive.org/web/20190211112446/http://home.earthlink.net/~elevensmooth/
-35. https://2721.hddkillers.com/
-36. https://web.archive.org/web/20081006071311/http://www-staff.maths.uts.edu.au/~rons/fact/fact.htm
-37. https://homes.cerias.purdue.edu/~ssw/bell/index.html
-38. http://www.loria.fr/~zimmerma/ecmnet/ (finding the factors of the numbers)
-39. https://www.rechenkraft.net/yoyo/ (finding the factors of the numbers)
-40. http://escatter11.fullerton.edu/nfs/ (finding the factors of the numbers)
+34. https://o41.kyleaskine.com/
+35. https://web.archive.org/web/20190211112446/http://home.earthlink.net/~elevensmooth/
+36. https://2721.hddkillers.com/
+37. https://web.archive.org/web/20081006071311/http://www-staff.maths.uts.edu.au/~rons/fact/fact.htm
+38. https://homes.cerias.purdue.edu/~ssw/bell/index.html
+39. http://www.loria.fr/~zimmerma/ecmnet/ (finding the factors of the numbers)
+40. https://www.rechenkraft.net/yoyo/ (finding the factors of the numbers)
+41. http://escatter11.fullerton.edu/nfs/ (finding the factors of the numbers)
 
 *OEIS* sequences for the exponents *n* for the primes in given families in given base *b* (only list those for families {*x*}, *x*{*y*}, {*x*}*y*, *x*{0}*y* (where *x* and *y* are any digits in base *b*), since the smallest prime in these families **must** be minimal primes in the same base *b* (except the cases that the repeating digit (i.e. *y* in *x*{*y*}, or *x* in {*x*}*y*) is 1), also only count the primes > *b*):
 
