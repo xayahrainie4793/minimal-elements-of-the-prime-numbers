@@ -942,15 +942,21 @@ This conjecture will also imply (since these forms are dual (http://www.kurims.k
 * 196 is generalized Riesel number to base 393 and *gcd*(196, 393) = 1 but 196 is not generalized dual Riesel number to base 393 since both 196×393<sup>*n*</sup>−1 and 393<sup>*n*</sup>−196 have combine of factor 197 and difference-of-two-squares factorization but 393<sup>1</sup>−196 is indeed 197
 * 256 is generalized Riesel number to base 513 and *gcd*(256, 513) = 1 but 256 is not generalized dual Riesel number to base 513 since both 256×513<sup>*n*</sup>−1 and 513<sup>*n*</sup>−256 have combine of factor 257 and difference-of-two-squares factorization but 513<sup>1</sup>−256 is indeed 257
 
+More generally: (for the case of covering congruence and combine of them, for the dual Riesel case)
+
+* If *p* is prime and *p* == 1 mod 3, then 2×*p*−1 is generalized Riesel number to base 3×*p*−1 and *gcd*(2×*p*−1, 3×*p*−1) = 1 but 2×*p*−1 is not generalized dual Riesel number to base 3×*p*−1 since the covering set of (2×*p*−1)×(3×*p*−1)<sup>*n*</sup>−1 and (3×*p*−1)<sup>*n*</sup>−(2×*p*−1) are {3,*p*} but (3×*p*−1)<sup>1</sup>−(2×*p*−1) is indeed *p*, which is in the covering set
+* If *m* is positive integer, then 15×*m*−4 is generalized Riesel number to base 15×*m*−1 and *gcd*(15×*m*−4, 15×*m*−1) = 1 but 15×*m*−4 is not generalized dual Riesel number to base 15×*m*−1 since the covering set of (15×*m*−4)×(15×*m*−1)<sup>*n*</sup>−1 and (15×*m*−1)<sup>*n*</sup>−(15×*m*−4) are {3,5} but (15×*m*−1)<sup>1</sup>−(15×*m*−4) is indeed 3, which is in the covering set
+* If *m* is positive integer, *m* ≥ 2, *p* is an odd prime factor of *m*<sup>2</sup>+1 (*p* must be == 1 mod 4), then *m*<sup>2</sup> is generalized Riesel number to base *m*<sup>2</sup>+*p* and *gcd*(*m*<sup>2</sup>, *m*<sup>2</sup>+*p*) = 1 but *m*<sup>2</sup> is not generalized dual Riesel number to base *m*<sup>2</sup>+*p* since both *m*<sup>2</sup>×(*m*<sup>2</sup>+*p*)<sup>*n*</sup>−1 and (*m*<sup>2</sup>+*p*)<sup>*n*</sup>−*m*<sup>2</sup> have combine of factor *p* and difference-of-two-squares factorization but (*m*<sup>2</sup>+*p*)<sup>1</sup>−*m*<sup>2</sup> is indeed *p*
+
 The case of algebraic factorization (for the original Sierpinski, original Riesel, dual Sierpinski, dual Riesel) can only exist for perfect power bases *b*, and for the dual Riesel case, such *k* (i.e. *k* and *b* are both perfect *r*-th powers for some *r* > 1) are:
 
 |perfect power *b* = *m*<sup>*p*</sup> with prime *p*|such *k*|
 |---|---|
-|*m*<sup>2</sup>|(*m*<sup>*n*</sup>−1)<sup>2</sup> with 2×*m*<sup>*n*</sup>−1 prime|
-|*m*<sup>3</sup>|(*m*<sup>*n*</sup>−1)<sup>3</sup> with 3×*m*<sup>2×*n*</sup>−3×*m*<sup>*n*</sup>+1 prime|
-|*m*<sup>5</sup>|(*m*<sup>*n*</sup>−1)<sup>5</sup> with 5×*m*<sup>4×*n*</sup>−10×*m*<sup>3×*n*</sup>+10×*m*<sup>2×*n*</sup>−5×*m*<sup>*n*</sup>+1 prime|
-|*m*<sup>7</sup>|(*m*<sup>*n*</sup>−1)<sup>7</sup> with 7×*m*<sup>6×*n*</sup>−21×*m*<sup>5×*n*</sup>+35×*m*<sup>4×*n*</sup>−35×*m*<sup>3×*n*</sup>+21×*m*<sup>2×*n*</sup>−7×*m*<sup>*n*</sup>+1 prime|
-|*m*<sup>11</sup>|(*m*<sup>*n*</sup>−1)<sup>11</sup> with 11×*m*<sup>10×*n*</sup>−55×*m*<sup>9×*n*</sup>+165×*m*<sup>8×*n*</sup>−330×*m*<sup>7×*n*</sup>+462×*m*<sup>6×*n*</sup>−462×*m*<sup>5×*n*</sup>+330×*m*<sup>4×*n*</sup>−165×*m*<sup>3×*n*</sup>+55×*m*<sup>2×*n*</sup>−11×*m*<sup>*n*</sup>+1 prime|
+|*m*<sup>2</sup>|(*m*<sup>*n*</sup>−1)<sup>2</sup> with *m*<sup>2×*n*</sup>−(*m*<sup>*n*</sup>−1)<sup>2</sup> = 2×*m*<sup>*n*</sup>−1 prime|
+|*m*<sup>3</sup>|(*m*<sup>*n*</sup>−1)<sup>3</sup> with *m*<sup>3×*n*</sup>−(*m*<sup>*n*</sup>−1)<sup>3</sup> = 3×*m*<sup>2×*n*</sup>−3×*m*<sup>*n*</sup>+1 prime|
+|*m*<sup>5</sup>|(*m*<sup>*n*</sup>−1)<sup>5</sup> with *m*<sup>5×*n*</sup>−(*m*<sup>*n*</sup>−1)<sup>5</sup> = 5×*m*<sup>4×*n*</sup>−10×*m*<sup>3×*n*</sup>+10×*m*<sup>2×*n*</sup>−5×*m*<sup>*n*</sup>+1 prime|
+|*m*<sup>7</sup>|(*m*<sup>*n*</sup>−1)<sup>7</sup> with *m*<sup>7×*n*</sup>−(*m*<sup>*n*</sup>−1)<sup>7</sup> = 7×*m*<sup>6×*n*</sup>−21×*m*<sup>5×*n*</sup>+35×*m*<sup>4×*n*</sup>−35×*m*<sup>3×*n*</sup>+21×*m*<sup>2×*n*</sup>−7×*m*<sup>*n*</sup>+1 prime|
+|*m*<sup>11</sup>|(*m*<sup>*n*</sup>−1)<sup>11</sup> with *m*<sup>11×*n*</sup>−(*m*<sup>*n*</sup>−1)<sup>11</sup> = 11×*m*<sup>10×*n*</sup>−55×*m*<sup>9×*n*</sup>+165×*m*<sup>8×*n*</sup>−330×*m*<sup>7×*n*</sup>+462×*m*<sup>6×*n*</sup>−462×*m*<sup>5×*n*</sup>+330×*m*<sup>4×*n*</sup>−165×*m*<sup>3×*n*</sup>+55×*m*<sup>2×*n*</sup>−11×*m*<sup>*n*</sup>+1 prime|
 
 e.g.
 
@@ -997,6 +1003,8 @@ e.g.
 |961 = 31<sup>2</sup>|900, 887444100, 787662782013542400, 699053619998992159294848900, ...|
 |1000 = 10<sup>3</sup>|729, ...|
 |1024 = 32<sup>2</sup>|1152921502459363329, 1329227995784915870597964051066650625, ...|
+
+By the heuristic argument (https://en.wikipedia.org/wiki/Heuristic_argument, https://t5k.org/glossary/xpage/Heuristic.html, https://mathworld.wolfram.com/Heuristic.html, https://web.archive.org/web/20230911032453/https://www.utm.edu/staff/caldwell/preprints/Heuristics.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_112.pdf), https://arxiv.org/pdf/2103.04483.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_113.pdf)), there should be infinitely many such *k* for every (*m*, *p*) combo with *m* ≥ 2, *p* prime.
 
 (in the case of original Sierpinski (i.e. *k*×*b*<sup>*n*</sup>+1) and dual Sierpinski (i.e. *b*<sup>*n*</sup>+*k*), if *k* is perfect *r*-th power for an odd *r* > 1, then *n* cannot be divisible by *r*, and if *k* is of the form 4×*m*<sup>4</sup>, then *n* cannot be divisible by 4; in the case of original Riesel (i.e. *k*×*b*<sup>*n*</sup>−1) and dual Riesel (i.e. *b*<sup>*n*</sup>−*k*), if *k* is perfect *r*-th power for an *r* > 1, then *n* cannot be divisible by *r*, the only exception is dual Riesel with *r* prime and *k* = (*b*<sup>*n*/*r*</sup>−1)<sup>*r*</sup>, and this prime is *b*<sup>*n*</sup>−(*b*<sup>*n*/*r*</sup>−1)<sup>*r*</sup> = (*b*<sup>*n*/*r*</sup>)<sup>*r*</sup>−(*b*<sup>*n*/*r*</sup>−1)<sup>*r*</sup>), which is an Oakes (Nexus) prime (http://www.fermatquotient.com/PrimSerien/PrimPot.txt (in German), http://listserv.nodak.edu/cgi-bin/wa.exe?A2=ind0105&L=NMBRTHRY&P=R359&I=-3, https://pzktupel.de/Primetables/TableOakes.php, https://pzktupel.de/Primetables/TableOakesS.php, https://arxiv.org/pdf/1510.01028.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_585.pdf), https://oeis.org/A002407, https://oeis.org/A121616, https://oeis.org/A121618, https://oeis.org/A189055, https://oeis.org/A058013, https://oeis.org/A125713, https://oeis.org/A065913, https://oeis.org/A121091, https://oeis.org/A115596, https://oeis.org/A103794, https://oeis.org/A222119, https://oeis.org/A121620), and *r*/*n* must be integer, and if we consider *n* = *r* (i.e. *r*/*n* = 1) the number become *b*<sup>*n*</sup>−(*b*−1)<sup>*n*</sup>, and the numbers *n* such that is prime for bases 2 ≤ *b* ≤ 36 are: (in fact, if *r*/*n* > 1, we only need to replace *b* to *b*<sup>*r*/*n*</sup>)
 
