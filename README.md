@@ -990,13 +990,13 @@ e.g.
 |576 = 24<sup>2</sup>|529, 330625, 191075329, 21035720113995644929, 339943743361217755524662780954444014925749219585559964266258458566016892929, ...|
 |625 = 25<sup>2</sup>|389376, 244109376, 23283064365081787109376, 3552713678800500810146331787109376, 867361737988403547204099595546722412109376, 3081487911019577364889564708135883709549940334682105458341538906097412109376, ...|
 |676 = 26<sup>2</sup>|95428956043850625, ...|
-|729 = 27<sup>2</sup> = 9<sup>3</sup>|676, 282428473600, 58149737003024808495420196, ... (case *m* = 27, *p* = 2)<br>512000, ... (case *m* = 9, *p* = 3)|
+|729 = 27<sup>2</sup>|676, 282428473600, 58149737003024808495420196, ... (case *m* = 27, *p* = 2)<br>512000, ... (case *m* = 9, *p* = 3)|
 |784 = 28<sup>2</sup>|613089, 377800769025, 182059119802956677121, 53925322641043729463478804990132225, 1401308293942874611602524648918001368483599311172408988267878486577689363742721, ...|
 |841 = 29<sup>2</sup>|...|
 |900 = 30<sup>2</sup>|841, 71789798769185258877024899999999999983054227811140000000000000000000000001, ...|
 |961 = 31<sup>2</sup>|900, 887444100, 787662782013542400, 699053619998992159294848900, ...|
 |1000 = 10<sup>3</sup>|729, ...|
-|1024 = 32<sup>2</sup> = 4<sup>5</sup>|1152921502459363329, 1329227995784915870597964051066650625, ... (case *m* = 32, *p* = 2)<br>1078203909375, 1120413075641343, ... (case *m* = 4, *p* = 5)|
+|1024 = 32<sup>2</sup>|1152921502459363329, 1329227995784915870597964051066650625, ... (case *m* = 32, *p* = 2)<br>1078203909375, 1120413075641343, ... (case *m* = 4, *p* = 5)|
 
 By the heuristic argument (https://en.wikipedia.org/wiki/Heuristic_argument, https://t5k.org/glossary/xpage/Heuristic.html, https://mathworld.wolfram.com/Heuristic.html, https://web.archive.org/web/20230911032453/https://www.utm.edu/staff/caldwell/preprints/Heuristics.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_112.pdf), https://arxiv.org/pdf/2103.04483.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_113.pdf)), there should be infinitely many such *k* for every (*m*, *p*) combo with *m* ≥ 2, *p* prime (not only every perfect power base *b* = *m*<sup>*p*</sup> with *m* ≥ 2, *p* prime, but also every (*m*, *p*) combo with *m* ≥ 2, *p* prime, e.g. *b* = 64, 729, 1024 can be (*m*, *p*) = (8, 2) and (4, 3), (27, 2) and (9, 3), (32, 2) and (4, 5), respectively).
 
