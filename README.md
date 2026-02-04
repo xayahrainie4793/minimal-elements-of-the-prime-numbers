@@ -3286,6 +3286,7 @@ Links for top (probable) primes: (also pages for the largest known prime: https:
 * https://t5k.org/primes/status.php?hours=1000 (primes (if any) which are currently awaiting verificiation (of any age) as well as those modified (for any reason) in the last 1000 hours for top definitely primes)
 * https://t5k.org/primes/status.php?hours=1000000 (primes (if any) which are currently awaiting verificiation (of any age) as well as those modified (for any reason) in any time for top definitely primes)
 * https://t5k.org/primes/status.php?hours=0 (primes (if any) which are currently awaiting verificiation (of any age) for top definitely primes)
+* https://t5k.org/primes/help/page.php (the explanations of the terms on the pages displaying a single prime for top definitely primes)
 * https://t5k.org/largest.html (the information page of top definitely primes)
 * https://t5k.org/notes/by_year.html (the information page of the largest known prime by year)
 * https://t5k.org/notes/faq/why.html (the information page of why do people find these large primes)
