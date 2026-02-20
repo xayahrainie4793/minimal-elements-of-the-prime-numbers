@@ -1324,7 +1324,7 @@ Also factorization of *b*<sup>*n*</sup>±1: https://homes.cerias.purdue.edu/~ssw
 
 Also for the factors of *b*<sup>*n*</sup>±1 with 1 ≤ *n* ≤ 10000 for bases 2 ≤ *b* ≤ 36 see the links in the list below:
 
-**(Note: in the following list, only the links in "all factors" column include perfect power bases *b*, the links in "only primitive factors" column and "remaining composites" column do not include perfect power bases *b*)**
+**(Note: in the following list, only the links in "all factors of *b*<sup>*n*</sup>−1 with *n* ≤ 200" column and "all factors of *b*<sup>*n*</sup>+1 with *n* ≤ 200" column and "all factors of *b*<sup>*n*</sup>±1 with *n* ≤ 10000" column include perfect power bases *b*, the links in "primitive factors of *b*<sup>*n*</sup>±1 with *n* ≤ 10000" column and "remaining composites of *b*<sup>*n*</sup>±1 with *n* ≤ 10000" column do not include perfect power bases *b*)**
 
 |*b*|all factors of *b*<sup>*n*</sup>−1 with *n* ≤ 200|all factors of *b*<sup>*n*</sup>+1 with *n* ≤ 200|all factors of *b*<sup>*n*</sup>±1 with *n* ≤ 10000|primitive factors of *b*<sup>*n*</sup>±1 with *n* ≤ 10000|remaining composites of *b*<sup>*n*</sup>±1 with *n* ≤ 10000|
 |---|---|---|---|---|---|
