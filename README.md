@@ -1096,7 +1096,7 @@ In fact, the cases of *k* = *b*−1 and *k* = *b*+1 are exactly the Williams pri
 
 We call families of the form *x*{*y*}*z* (where *x* and *z* are strings (may be empty) of digits in base *b*, *y* is a digit in base *b*) "linear" families, and we reduce these families by removing all trailing digits *y* from *x*, and removing all leading digits *y* from *z*, to make the families be easier, e.g. family 12333{3}33345 in base *b* is reduced to family 12{3}45 in base *b*, since they are in fact the same family. Our algorithm then proceeds as follows:
 
-* 1. *M* := {minimal primes in base *b* of length 2 or 3}, *L* := union of all *x*{*Y*}*z* (where *x* and *z* are strings (may be empty) of digits in base *b*) such that *x* ≠ 0 and *gcd*(*z*, *b*) = 1 and *Y* is the set of digits *y* in base *b* such that *xyz* has no subsequence in *M*.
+* 1. *M* := {minimal primes in base *b* of length 2 or 3}, *L* := union of all *x*{*Y*}*z* (where *x* and *z* are strings (may be empty) of digits in base *b*, *Y* is a set of digits in base *b*) such that *x* ≠ 0 and *gcd*(*z*, *b*) = 1 and *Y* is the set of digits *y* in base *b* such that *xyz* has no subsequence in *M*.
 * 2. While *L* contains nonlinear families (families which are not linear families): Explore each family of *L*, and update *L*. Examine each family of *L* by:
 * 2.1. Let *w* be the shortest string in the family. If *w* has a subsequence in *M*, then remove the family from *L*. If *w* represents a prime, then add *w* to *M* and remove the family from *L*.
 * 2.2. If possible, simplify the family.
