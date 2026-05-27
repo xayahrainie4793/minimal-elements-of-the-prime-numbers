@@ -3525,40 +3525,41 @@ Index pages of searching the primes of the form (*a*×*b*<sup>*n*</sup>+*c*)/*gc
 3. http://www.noprimeleftbehind.net/crus/
 4. https://web.archive.org/web/20230706153536/http://www.noprimeleftbehind.net/gary/
 5. http://www.prothsearch.com/
-6. https://web.archive.org/web/20210817181915/http://www.15k.org/
-7. https://web.archive.org/web/20091027064415/http://www.geocities.com/primes_r_us/riesel/index.html
-8. https://web.archive.org/web/20231223043356/https://www.mersenneforum.org/321search/index.html
-9. https://web.archive.org/web/20110601231527/http://www.bodang.com/12121/
-10. https://www.rieselprime.de/default.htm
-11. https://www.rieselprime.de/Related/ (subpages not available in this page, the subpages are https://www.rieselprime.de/Related/RieselTwinSG.htm and https://www.rieselprime.de/Related/LiskovetsGallot.htm)
-12. http://eng.prime-numbers.ru/ (subpage http://eng.prime-numbers.ru/person/Alex_soldier/)
-13. http://www.fermatquotient.com/
-14. https://web.archive.org/web/20021001222643/http://www.users.globalnet.co.uk/~aads/index.html
-15. http://www.primenumbers.net/
-16. https://pzktupel.de/ktuplets.php
-17. http://harvey563.tripod.com/
-18. http://guenter.loeh.name/ (subpage http://guenter.loeh.name/gc/status.html)
-19. http://www.fermatsearch.org/
-20. https://64ordle.au/ (subpage https://64ordle.au/fermat/)
-21. http://jeppesn.dk/ (subpages http://jeppesn.dk/generalized-fermat.html and http://jeppesn.dk/nton.html)
-22. https://genefer.great-site.net/
-23. https://web.archive.org/web/20231002190634/http://yves.gallot.pagesperso-orange.fr/primes/index.html
-24. http://boincvm.proxyma.ru:30080/test4vm/index.php
-25. http://prpnet.primegrid.com/
-26. https://web.archive.org/web/20131016004333/http://www.sr5.psp-project.de/
-27. https://stdkmd.net/ (sections https://stdkmd.net/nrr/prime/ and https://stdkmd.net/nrr/cert/ and https://web.archive.org/web/20240202224722/https://stdkmd.net/nrr/records.htm#primenumbers and https://web.archive.org/web/20240202224722/https://stdkmd.net/nrr/records.htm#probableprimenumbers)
-28. https://kurtbeschorner.de/ (section "Rprime project; base 10")
-29. http://www.elektrosoft.it/matematica/repunit/repunit.htm
-30. https://www.alfredreichlg.de/ (the subpages https://www.alfredreichlg.de/10w7/prp.html and https://www.alfredreichlg.de/10w7/certifiedprimes.html and https://www.alfredreichlg.de/10w7/10w7.txt and https://www.alfredreichlg.de/10w7/prp/ProofFile.200001-1000000.txt and https://www.alfredreichlg.de/10w7/prp/ProofFile.1000001-1075000.txt are not available in this page)
-31. https://www.mersenne.org/
-32. https://www.mersenne.ca/
-33. https://web.archive.org/web/20211011120227/http://mprime.s3-website.us-west-1.amazonaws.com/
-34. http://kenta.blogspot.com/2012/11/ezgxggdm-dual-sierpinski-problem.html
-35. https://oeis.org/A076336/a076336c.html (special situation: in theory this reference should be http://web.archive.org/web/20080908010544/http://sierpinski.insider.com/dual, but this page is excluded from the Wayback Machine, thus linked to the cached copy page)
-36. https://sites.google.com/ocdsb.ca/2n25
-37. http://ostracodfiles.com/primes14/primes.php **(warning: all numbers in that page are definitely primes, i.e. not merely probable primes, since all of them can be proven prime by *N*+1 test, since all of their *N*+1 are trivially fully factored, also, there are no primes in families 3{D}, 8{D}, A{D} in base *b* = 14, since the number in family 3{D} in base *b* = 14 is divisible by 3 if the length is odd and divisible by 5 if the length is even, and the number in family 8{D} in base *b* = 14 is divisible by 5 if the length is even and has difference-of-two-squares factorization if the length is odd, and the number in family A{D} in base *b* = 14 is divisible by 3 if the length is even and divisible by 5 if the length is odd)**
-38. http://www.doublemersennes.org/
-39. http://www.hoegge.dk/mersenne/NMC.html
+6. http://irvinemclean.com/maths/robintro.htm
+7. https://web.archive.org/web/20210817181915/http://www.15k.org/
+8. https://web.archive.org/web/20091027064415/http://www.geocities.com/primes_r_us/riesel/index.html
+9. https://web.archive.org/web/20231223043356/https://www.mersenneforum.org/321search/index.html
+10. https://web.archive.org/web/20110601231527/http://www.bodang.com/12121/
+11. https://www.rieselprime.de/default.htm
+12. https://www.rieselprime.de/Related/ (subpages not available in this page, the subpages are https://www.rieselprime.de/Related/RieselTwinSG.htm and https://www.rieselprime.de/Related/LiskovetsGallot.htm)
+13. http://eng.prime-numbers.ru/ (subpage http://eng.prime-numbers.ru/person/Alex_soldier/)
+14. http://www.fermatquotient.com/
+15. https://web.archive.org/web/20021001222643/http://www.users.globalnet.co.uk/~aads/index.html
+16. http://www.primenumbers.net/
+17. https://pzktupel.de/ktuplets.php
+18. http://harvey563.tripod.com/
+19. http://guenter.loeh.name/ (subpage http://guenter.loeh.name/gc/status.html)
+20. http://www.fermatsearch.org/
+21. https://64ordle.au/ (subpage https://64ordle.au/fermat/)
+22. http://jeppesn.dk/ (subpages http://jeppesn.dk/generalized-fermat.html and http://jeppesn.dk/nton.html)
+23. https://genefer.great-site.net/
+24. https://web.archive.org/web/20231002190634/http://yves.gallot.pagesperso-orange.fr/primes/index.html
+25. http://boincvm.proxyma.ru:30080/test4vm/index.php
+26. http://prpnet.primegrid.com/
+27. https://web.archive.org/web/20131016004333/http://www.sr5.psp-project.de/
+28. https://stdkmd.net/ (sections https://stdkmd.net/nrr/prime/ and https://stdkmd.net/nrr/cert/ and https://web.archive.org/web/20240202224722/https://stdkmd.net/nrr/records.htm#primenumbers and https://web.archive.org/web/20240202224722/https://stdkmd.net/nrr/records.htm#probableprimenumbers)
+29. https://kurtbeschorner.de/ (section "Rprime project; base 10")
+30. http://www.elektrosoft.it/matematica/repunit/repunit.htm
+31. https://www.alfredreichlg.de/ (the subpages https://www.alfredreichlg.de/10w7/prp.html and https://www.alfredreichlg.de/10w7/certifiedprimes.html and https://www.alfredreichlg.de/10w7/10w7.txt and https://www.alfredreichlg.de/10w7/prp/ProofFile.200001-1000000.txt and https://www.alfredreichlg.de/10w7/prp/ProofFile.1000001-1075000.txt are not available in this page)
+32. https://www.mersenne.org/
+33. https://www.mersenne.ca/
+34. https://web.archive.org/web/20211011120227/http://mprime.s3-website.us-west-1.amazonaws.com/
+35. http://kenta.blogspot.com/2012/11/ezgxggdm-dual-sierpinski-problem.html
+36. https://oeis.org/A076336/a076336c.html (special situation: in theory this reference should be http://web.archive.org/web/20080908010544/http://sierpinski.insider.com/dual, but this page is excluded from the Wayback Machine, thus linked to the cached copy page)
+37. https://sites.google.com/ocdsb.ca/2n25
+38. http://ostracodfiles.com/primes14/primes.php **(warning: all numbers in that page are definitely primes, i.e. not merely probable primes, since all of them can be proven prime by *N*+1 test, since all of their *N*+1 are trivially fully factored, also, there are no primes in families 3{D}, 8{D}, A{D} in base *b* = 14, since the number in family 3{D} in base *b* = 14 is divisible by 3 if the length is odd and divisible by 5 if the length is even, and the number in family 8{D} in base *b* = 14 is divisible by 5 if the length is even and has difference-of-two-squares factorization if the length is odd, and the number in family A{D} in base *b* = 14 is divisible by 3 if the length is even and divisible by 5 if the length is odd)**
+39. http://www.doublemersennes.org/
+40. http://www.hoegge.dk/mersenne/NMC.html
 
 Index pages of factoring the numbers of the form (*a*×*b*<sup>*n*</sup>+*c*)/*gcd*(*a*+*c*,*b*−1):
 
