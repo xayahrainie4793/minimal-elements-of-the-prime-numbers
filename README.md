@@ -3525,7 +3525,7 @@ Index pages of searching the primes of the form (*a*×*b*<sup>*n*</sup>+*c*)/*gc
 3. http://www.noprimeleftbehind.net/crus/
 4. https://web.archive.org/web/20230706153536/http://www.noprimeleftbehind.net/gary/
 5. http://www.prothsearch.com/
-6. http://irvinemclean.com/maths/robintro.htm
+6. http://irvinemclean.com/maths/ (the true index page is http://irvinemclean.com/maths/robintro.htm)
 7. https://web.archive.org/web/20210817181915/http://www.15k.org/
 8. https://web.archive.org/web/20091027064415/http://www.geocities.com/primes_r_us/riesel/index.html
 9. https://web.archive.org/web/20231223043356/https://www.mersenneforum.org/321search/index.html
