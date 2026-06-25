@@ -4288,8 +4288,8 @@ Prime generators:
 
 Base converters:
 
-1. https://baseconvert.com/ (any base *b*) (no limit)
-2. https://baseconvert.com/high-precision (any base *b*) (no limit)
+1. https://baseconvert.com/ (bases 2 ≤ *b* ≤ 10000) (no limit)
+2. https://baseconvert.com/high-precision (bases 2 ≤ *b* ≤ 10000) (no limit)
 3. https://baseconvert.com/ieee-754-floating-point (for IEEE 754 (https://en.wikipedia.org/wiki/IEEE_754), only bases *b* = 2, 10, 16) (no limit)
 4. https://legacy.baseconvert.com/ (any base *b*) (no limit)
 5. https://legacy.baseconvert.com/high-precision (any base *b*) (no limit)
