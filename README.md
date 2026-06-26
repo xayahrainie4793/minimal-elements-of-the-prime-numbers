@@ -1428,7 +1428,7 @@ This is a list for all known generalized Wieferich primes in bases 2 ≤ *b* ≤
 |35|3, 1613, 3571, ...|2×10<sup>14</sup>|https://oeis.org/A397319|
 |36|66161, 534851, 3152573, ...|2×10<sup>14</sup>|the same as https://oeis.org/A212583|
 
-Also, this is a list of the bases *b* such that the first 100 primes *p* are generalized Wieferich primes:
+Also, this is a list of the bases *b* such that the first 100 primes *p* are "generalized Wieferich primes" and "generalized Wieferich primes with order ≥ 2":
 
 |*p*|*p* is generalized Wieferich prime base *b* when *b* == these numbers mod *p*<sup>2</sup>|*p* is generalized Wieferich prime base *b* with order ≥ 2 when *b* == these numbers mod *p*<sup>3</sup>|
 |---|---|---|
