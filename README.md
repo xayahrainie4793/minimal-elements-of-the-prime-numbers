@@ -1416,7 +1416,7 @@ This is a list for all known generalized Wieferich primes in bases 2 ≤ *b* ≤
 |21|2, ...|2×10<sup>14</sup>|–|
 |22|13, 673, 1595813, 492366587, 9809862296159, ...|2×10<sup>14</sup>|https://oeis.org/A298951|
 |23|13, 2481757, 13703077, 15546404183, 2549536629329, ...|2×10<sup>14</sup>|https://oeis.org/A128669|
-|24|5, 25633, ...|2×10<sup>14</sup>|–|
+|24|5, 25633, ...|2×10<sup>14</sup>|https://oeis.org/A396646|
 |25|2 (order 2), 20771, 40487, 53471161, 1645333507, 6692367337, 188748146801, ...|1.2×10<sup>15</sup>|the same as https://oeis.org/A123692|
 |26|3 (order 2), 5, 71, 486999673, 6695256707, ...|2×10<sup>14</sup>|https://oeis.org/A306255|
 |27|11, 1006003, ...|1.2×10<sup>15</sup>|the same as https://oeis.org/A014127|
