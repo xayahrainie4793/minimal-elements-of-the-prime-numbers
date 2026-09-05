@@ -3811,6 +3811,7 @@ base *b* = 4:
 * {2}3: https://oeis.org/A127936, https://oeis.org/A127964 (*n* replaced by *n*−1), https://oeis.org/A127963 (*n* replaced by *n*+1), https://oeis.org/A127965 (*n* replaced by 2×*n*), https://oeis.org/A000978 (*n* replaced by 2×*n*+1), https://oeis.org/A107036 (*n* replaced by 2×*n*+1, with an additional term 4), https://oeis.org/A000979 (corresponding primes, with an additional prime 3), https://oeis.org/A049883 (corresponding primes, with two additional primes 3 and 5)
 * 2{3}: https://oeis.org/A272057
 * 3{0}1: https://oeis.org/A326655
+* 3{1}: https://oeis.org/A398327
 * {3}1: https://oeis.org/A059266, https://oeis.org/A135535 (corresponding primes)
 
 base *b* = 5:
