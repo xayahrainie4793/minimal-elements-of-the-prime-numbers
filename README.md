@@ -604,7 +604,7 @@ If *p* is a Sophie Germain prime (https://en.wikipedia.org/wiki/Sophie_Germain_p
 |18|*p* == 3 mod 4|
 |19|*p* == 1, 7, 13, 15, 25, 29, 33, 35, 37, mod 38 and *p* = 2|
 |20|*p* == 4 mod 5|
-|21|*p* == 2, 8, 20 mod 21 except *p* = 2|
+|21|*p* == 1, 2, 6 mod 7 except *p* = 2|
 |22|*p* == 1, 3, 13, 19, 29, 31, 37, 39, 43 mod 44 except *p* = 3|
 |23|*p* == 3, 5, 7, 9, 21, 25, 31, 33, 39, 41, 45 mod 46 except *p* = 5|
 |24|*p* == 3 mod 4 and *p* = 2 except *p* = 3 and *p* = 11|
@@ -613,10 +613,10 @@ If *p* is a Sophie Germain prime (https://en.wikipedia.org/wiki/Sophie_Germain_p
 |27|all primes *p* except *p* = 2 and *p* = 3|
 |28|*p* == 1, 9, 13 mod 14|
 |29|*p* == 2, 3, 4, 6, 11, 12, 16, 17, 22, 24, 25, 26, 28 mod 29 except *p* = 3|
-|30|*p* == 41, 53, 59 mod 60 and *p* = 3|
+|30|*p* == 1, 13, 19 mod 20 and *p* = 3|
 |31|*p* == 1, 5, 7, 11, 13, 21, 27, 37, 39, 41, 45, 49, 57, 59, 61 mod 62|
 |32|*p* == 3 mod 4|
-|33|*p* == 8, 14, 17, 20, 32 mod 33|
+|33|*p* == 3, 6, 8, 9, 10 mod 11|
 |34|*p* == 1, 5, 7, 13, 23, 27, 37, 43, 45, 49, 53, 55, 63, 65, 67 mod 68 and *p* = 2 except *p* = 5|
 |35|*p* == 9, 11, 29, 33, 53, 61, 69 mod 70|
 |36|all primes *p* except *p* = 2 and *p* = 3|
