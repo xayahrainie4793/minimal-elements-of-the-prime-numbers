@@ -586,20 +586,20 @@ If *p* is a Sophie Germain prime (https://en.wikipedia.org/wiki/Sophie_Germain_p
 |*b*|Sophie Germain prime (https://en.wikipedia.org/wiki/Sophie_Germain_prime, https://t5k.org/glossary/xpage/SophieGermainPrime.html, https://www.rieselprime.de/ziki/Sophie_Germain_prime, https://mathworld.wolfram.com/SophieGermainPrime.html, https://www.numbersaplenty.com/set/Sophie_Germain_prime/, https://oeis.org/A005384, https://t5k.org/top20/page.php?id=2, https://t5k.org/primes/search.php?Comment=Sophie%20Germain&OnList=all&Number=1000000&Style=HTML, https://www.primegrid.com/forum_thread.php?id=1450, https://www.primegrid.com/stats_sgs_llr.php, https://www.primegrid.com/primes/primes.php?project=SGS&factors=XGF&only=ALL&announcements=ALL&sortby=size&dc=yes&search=, https://www.rieselprime.de/Related/RieselTwinSG.htm, https://www.primepuzzles.net/problems/prob_049.htm, https://www.rieselprime.de/ziki/PrimeGrid_Sophie_Germain_Search, https://pzktupel.de/Riesel_TPS.php) *p* such that the corresponding safe prime (https://en.wikipedia.org/wiki/Safe_prime, https://t5k.org/glossary/xpage/SafePrime.html, https://oeis.org/A005385, https://www.rieselprime.de/Related/RieselTwinSG.htm, https://www.primepuzzles.net/problems/prob_049.htm) 2×*p*+1 divides the generalized repunit with length *p* in base *b* (thus the generalized repunit with length *p* in base *b* cannot be prime) for these primes *p*|
 |---|---|
 |2|*p* == 3 mod 4|
-|3|all primes *p* except *p* = 2 and *p* = 3|
-|4|all primes *p*|
+|3|all *p* except *p* = 2 and *p* = 3|
+|4|all *p*|
 |5|*p* == 4 mod 5|
 |6|*p* == 3 mod 4 except *p* = 3|
 |7|*p* == 1, 2, 6 mod 7 except *p* = 2|
 |8|*p* == 3 mod 4 except *p* = 3|
-|9|all primes *p*|
+|9|all *p*|
 |10|*p* == 1, 13, 19 mod 20|
 |11|*p* == 3, 6, 8, 9, 10 mod 11|
-|12|all primes *p* except *p* = 2 and *p* = 3 and *p* = 5|
+|12|all *p* except *p* = 2 and *p* = 3 and *p* = 5|
 |13|*p* == 1, 4, 8, 11, 12 mod 13|
 |14|*p* == 5, 15, 23, 25, 27 mod 28, plus *p* = 2|
 |15|*p* == 4 mod 5, plus *p* = 5|
-|16|all primes *p* except *p* = 2|
+|16|all *p* except *p* = 2|
 |17|*p* == 4, 6, 7, 9, 10, 12, 16 mod 17|
 |18|*p* == 3 mod 4|
 |19|*p* == 1, 6, 7, 10, 13, 14, 15, 16, 18 mod 19, plus *p* = 2|
@@ -608,9 +608,9 @@ If *p* is a Sophie Germain prime (https://en.wikipedia.org/wiki/Sophie_Germain_p
 |22|*p* == 1, 3, 13, 19, 29, 31, 37, 39, 43 mod 44 except *p* = 3|
 |23|*p* == 2, 3, 5, 7, 8, 9, 10, 16, 18, 21, 22 mod 23 except *p* = 2 and *p* = 5|
 |24|*p* == 3 mod 4 except *p* = 3 and *p* = 11, plus *p* = 2|
-|25|all primes *p*|
+|25|all *p*|
 |26|*p* == 5, 9, 11, 27, 29, 33, 41, 43, 47, 49, 51 mod 52|
-|27|all primes *p* except *p* = 2 and *p* = 3|
+|27|all *p* except *p* = 2 and *p* = 3|
 |28|*p* == 1, 2, 6 mod 7 except *p* = 2|
 |29|*p* == 2, 3, 4, 6, 11, 12, 16, 17, 22, 24, 25, 26, 28 mod 29 except *p* = 3|
 |30|*p* == 1, 13, 19 mod 20, plus *p* = 3|
@@ -619,7 +619,7 @@ If *p* is a Sophie Germain prime (https://en.wikipedia.org/wiki/Sophie_Germain_p
 |33|*p* == 3, 6, 8, 9, 10 mod 11 except *p* = 3|
 |34|*p* == 1, 5, 7, 13, 23, 27, 37, 43, 45, 49, 53, 55, 63, 65, 67 mod 68 except *p* = 5, plus *p* = 2|
 |35|*p* == 9, 11, 18, 26, 29, 33, 34 mod 35|
-|36|all primes *p* except *p* = 2 and *p* = 3|
+|36|all *p* except *p* = 2 and *p* = 3|
 
 Determining the set of the minimal elements of a arbitrary set of strings under the subsequence ordering is in general unsolvable, and can be difficult even when this set is relatively simple (such as the base *b* representations of the prime numbers > *b*), also, determining the set of the minimal elements of a arbitrary set of strings under the subsequence ordering may be an open problem (https://en.wikipedia.org/wiki/Open_problem, https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_mathematics, https://t5k.org/glossary/xpage/OpenQuestion.html, https://mathworld.wolfram.com/UnsolvedProblems.html, http://www.numericana.com/answer/open.htm, https://t5k.org/notes/conjectures/) or NP-complete (https://en.wikipedia.org/wiki/NP-complete, https://mathworld.wolfram.com/NP-CompleteProblem.html) or an undecidable problem (https://en.wikipedia.org/wiki/Undecidable_problem, https://mathworld.wolfram.com/Undecidable.html) or independent of ZFC (https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory, https://mathworld.wolfram.com/Zermelo-FraenkelSetTheory.html, https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_axioms, https://mathworld.wolfram.com/Zermelo-FraenkelAxioms.html) (like the problems in https://en.wikipedia.org/wiki/List_of_statements_independent_of_ZFC), or an example of Gödel's incompleteness theorems (https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems, https://mathworld.wolfram.com/GoedelsFirstIncompletenessTheorem.html) (like the axiom of choice (https://en.wikipedia.org/wiki/Axiom_of_choice, https://mathworld.wolfram.com/AxiomofChoice.html) and the continuum hypothesis (https://en.wikipedia.org/wiki/Continuum_hypothesis, https://mathworld.wolfram.com/ContinuumHypothesis.html) and the halting problem (https://en.wikipedia.org/wiki/Halting_problem, https://mathworld.wolfram.com/HaltingProblem.html) (if the halting problem can be solved, then we can input the code of the main problem in this project in base *b* (for a given base *b* ≥ 2) (but with no limit of the length (*n*), or with the limit of the length *n* = ∞) to the Turing machine (https://en.wikipedia.org/wiki/Turing_machine, https://mathworld.wolfram.com/TuringMachine.html), and if it returns "will finish running", then the conjecture of the minimal prime problem in base *b* (i.e. all unsolved families contain a prime) is true, and if it returns "continue to run forever", then the conjecture of the minimal prime problem in base *b* (i.e. all unsolved families contain a prime) is false, although it may need to run with longer than one quettasecond (1 Qs, 10<sup>30</sup> seconds, see https://en.wikipedia.org/wiki/Metric_prefix and https://www.bipm.org/en/measurement-units/si-prefixes and https://www.nist.gov/pml/owm/metric-si-prefixes))), or as hard as the unsolved problems in mathematics, such as the Riemann hypothesis (https://en.wikipedia.org/wiki/Riemann_hypothesis, https://t5k.org/glossary/xpage/RiemannHypothesis.html, https://mathworld.wolfram.com/RiemannHypothesis.html, https://t5k.org/notes/rh.html, http://www.numericana.com/answer/open.htm#rh) and the *abc* conjecture (https://en.wikipedia.org/wiki/Abc_conjecture, https://mathworld.wolfram.com/abcConjecture.html, http://www.numericana.com/answer/open.htm#abc) and the Schinzel's hypothesis *H* (https://en.wikipedia.org/wiki/Schinzel%27s_hypothesis_H, https://mathworld.wolfram.com/SchinzelsHypothesis.html, http://www.numericana.com/answer/open.htm#h) (which are the three famous hard problems in number theory (https://en.wikipedia.org/wiki/Number_theory, https://www.rieselprime.de/ziki/Number_theory, https://mathworld.wolfram.com/NumberTheory.html)) or their generalized conjectures including the generalized Riemann hypothesis (https://en.wikipedia.org/wiki/Generalized_Riemann_hypothesis, https://mathworld.wolfram.com/GeneralizedRiemannHypothesis.html) and the grand Riemann hypothesis (https://en.wikipedia.org/wiki/Grand_Riemann_hypothesis) (both of them are generalized conjectures of the Riemann hypothesis) and the *n* conjecture (https://en.wikipedia.org/wiki/N_conjecture) (which is a generalized conjecture of the *abc* conjecture) and the Bateman–Horn conjecture (https://en.wikipedia.org/wiki/Bateman%E2%80%93Horn_conjecture) (which is a generalized conjecture of the Schinzel's hypothesis *H*).
 
