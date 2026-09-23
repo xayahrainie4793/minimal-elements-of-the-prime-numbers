@@ -590,7 +590,7 @@ If *p* is a Sophie Germain prime (https://en.wikipedia.org/wiki/Sophie_Germain_p
 |4|all primes *p*|
 |5|*p* == 4 mod 5|
 |6|*p* == 3 mod 4 except *p* = 3|
-|7|*p* == 1, 2, 6 mod 7|
+|7|*p* == 1, 2, 6 mod 7 except *p* = 2|
 |8|*p* == 3 mod 4 except *p* = 3|
 |9|all primes *p*|
 |10|*p* == 1, 13, 19 mod 20|
@@ -611,7 +611,7 @@ If *p* is a Sophie Germain prime (https://en.wikipedia.org/wiki/Sophie_Germain_p
 |25|all primes *p*|
 |26|*p* == 5, 9, 11, 27, 29, 33, 41, 43, 47, 49, 51 mod 52|
 |27|all primes *p* except *p* = 2 and *p* = 3|
-|28|*p* == 1, 2, 6 mod 7|
+|28|*p* == 1, 2, 6 mod 7 except *p* = 2|
 |29|*p* == 2, 3, 4, 6, 11, 12, 16, 17, 22, 24, 25, 26, 28 mod 29 except *p* = 3|
 |30|*p* == 1, 13, 19 mod 20, plus *p* = 3|
 |31|*p* == 1, 5, 6, 7, 8, 10, 11, 13, 14, 18, 21, 26, 27, 28, 30 mod 31|
