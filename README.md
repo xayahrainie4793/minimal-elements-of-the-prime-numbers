@@ -608,7 +608,7 @@ If *p* is a Sophie Germain prime (https://en.wikipedia.org/wiki/Sophie_Germain_p
 |22|*p* == 1, 3, 13, 19, 29, 31, 37, 39, 43 mod 44 except *p* = 3|
 |23|*p* == 2, 3, 5, 7, 8, 9, 10, 16, 18, 21, 22 mod 23 except *p* = 2 and *p* = 5|
 |24|*p* == 3 mod 4 except *p* = 3 and *p* = 11, plus *p* = 2|
-|25|all *p*|
+|25|all *p* except *p* = 2|
 |26|*p* == 5, 9, 11, 27, 29, 33, 41, 43, 47, 49, 51 mod 52|
 |27|all *p* except *p* = 2 and *p* = 3|
 |28|*p* == 1, 2, 6 mod 7 except *p* = 2|
