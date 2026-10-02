@@ -679,7 +679,7 @@ and in base *b* = 2, where the generalized repunit numbers are exactly the Merse
 * 397 and 6×397+1 = 2383 are both primes, and 2 is sextic residue (https://oeis.org/A052275, https://oeis.org/A040992, https://oeis.org/A040993, https://oeis.org/A040994, https://oeis.org/A040995, https://oeis.org/A040998, https://oeis.org/A040999, https://oeis.org/A051072, https://oeis.org/A216734) mod 6×397+1 = 2383, thus 6×397+1 = 2383 divides the Mersenne number with exponent 397, thus the Mersenne number with exponent 397 cannot be prime
 etc.
 
-Of course, such prime *p* exists only if *r* is even and cannot exist if *r* is odd (since *r*×*p*+1 cannot be prime if *r* is odd), however, even if *r* is even, such prime *p* does not always exist, and such prime *p* does not exist if: (where *core*(*b*) is the squarefree part (https://oeis.org/A007913, https://en.wikipedia.org/wiki/Square-free_integer#Squarefree_core, https://mathworld.wolfram.com/SquarefreePart.html, https://stdkmd.net/nrr/repunit/repunitnote.htm#core) of *b*)
+For base *b* ≥ 2 and number *r* ≥ 1, of course, such prime *p* exists only if *r* is even and cannot exist if *r* is odd (since *r*×*p*+1 cannot be prime if *r* is odd), however, even if *r* is even, such prime *p* does not always exist, and such prime *p* does not exist if: (where *core*(*b*) is the squarefree part (https://oeis.org/A007913, https://en.wikipedia.org/wiki/Square-free_integer#Squarefree_core, https://mathworld.wolfram.com/SquarefreePart.html, https://stdkmd.net/nrr/repunit/repunitnote.htm#core) of *b*)
 
 * *core*(*b*) == 2, 3 mod 4 and *r* == 2×*core*(*b*) mod 4×*core*(*b*) (the only possible exception is the case of *p* = 2, when *r*×2+1 divides *b*+1)
 * *core*(*b*) = 3 and *r* == 4, 8 mod 12 (the only possible exception is the case of *p* = 3, when *r*×3+1 divides *b*<sup>2</sup>+*b*+1)
@@ -1421,6 +1421,14 @@ And there are conjectures of these four situations:
 |34|3, 10, ...||
 |35|4, 6, 8, 18, 128, ...||
 |36|...||
+
+Also, for base *b* ≥ 2 and number *n* ≥ 1, there is no prime *p* such that (*p*−1)/*ord*<sub>*p*</sub>(*b*) = *n* if: (where *core*(*b*) is the squarefree part (https://oeis.org/A007913, https://en.wikipedia.org/wiki/Square-free_integer#Squarefree_core, https://mathworld.wolfram.com/SquarefreePart.html, https://stdkmd.net/nrr/repunit/repunitnote.htm#core) of *b*)
+
+* *b* is square and *n* is odd (the only exception is the case of *p* = 2, when *b* is odd square and *n* = 1)
+* *core*(*b*) == 1 mod 4 and *core*(*b*) > 1 and *n* == *core*(*b*) mod 2×*core*(*b*)
+* *b* = (27×*m*<sup>6</sup>)<sup>*r*</sup> and *n* == 4×2<sup>*s*−*min*(*r*,1)</sup>, 8×2<sup>*s*−*min*(*r*,1)</sup> mod 12×2<sup>*s*−*min*(*r*,1)</sup> (where *s* is the largest number such that 2<sup>*s*</sup> divides *r*)
+
+and it is conjectured that there are infinitely many such primes *p* if the (*b*,*n*) combo does not satisfy the condions above.
 
 The *ord*<sub>*p*</sub>(*b*) for 2 ≤ *b* ≤ 36 and first 400 primes *p* are listed below:
 
