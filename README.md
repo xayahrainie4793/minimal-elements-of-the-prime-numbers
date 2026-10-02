@@ -1426,7 +1426,7 @@ Also, for base *b* ≥ 2 and number *n* ≥ 1, there is no prime *p* such that (
 
 * *b* is square and *n* is odd (the only exception is the case of *p* = 2, when *b* is odd square and *n* = 1)
 * *core*(*b*) == 1 mod 4 and *core*(*b*) > 1 and *n* == *core*(*b*) mod 2×*core*(*b*)
-* *b* = (27×*m*<sup>6</sup>)<sup>*r*</sup> and *n* == 4×2<sup>*s*−*max*(*r*−1,0)</sup>, 8×2<sup>*s*−*max*(*r*−1,0)</sup> mod 12×2<sup>*s*−*max*(*r*−1,0)</sup> (where *s* is the largest number such that 2<sup>*s*</sup> divides *r*)
+* *b* = (27×*m*<sup>6</sup>)<sup>*r*</sup> and *n* == 4×2<sup>*max*(*s*−1,0)</sup>, 8×2<sup>*max*(*s*−1,0)</sup> mod 12×2<sup>*max*(*s*−1,0)</sup> (where *s* is the largest number such that 2<sup>*s*</sup> divides *r*)
 
 and it is conjectured that there are infinitely many such primes *p* if the (*b*,*n*) combo does not satisfy the condions above.
 
