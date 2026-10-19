@@ -4533,7 +4533,7 @@ Base converters:
 38. https://metanumbers.com/ (just enter the number) (bases *b* = 2, 3, 4, 5, 6, 8, 10, 12, 16, 20, 36) (use lower case letters instead of upper case letters) (limit: 2<sup>63</sup>−1)
 39. https://int.darkbyte.ru/ (just enter the number) (bases 2 ≤ *b* ≤ 36) (use lower case letters instead of upper case letters) (limit: 2<sup>31</sup>−2)
 40. https://www.numbersaplenty.com/ (just enter the number) (bases 2 ≤ *b* ≤ 16) (use lower case letters instead of upper case letters) (limit: 10<sup>15</sup>−1)
-41. https://factordb.com/?showid=1000000000000000127 (you can change the "showid" to the *ID* for your number) (bases 2 ≤ *b* ≤ 36) (limit: 10<sup>10000000</sup>−1)
+41. https://factordb.com/?showid=1000000000000000127&full=1&head=10&tail=10 (you can change the "showid" to the *ID* for your number) (bases 2 ≤ *b* ≤ 36) (limit: 10<sup>10000000</sup>−1)
 
 Expression generators:
 
