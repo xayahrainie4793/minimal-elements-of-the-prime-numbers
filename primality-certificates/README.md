@@ -744,21 +744,21 @@ The helper file for the 25199th minimal prime in base 26 (9K<sub>343</sub>AP) in
 
 The helper file for the 25200th minimal prime in base 26 (8<sub>354</sub>1) in *factordb*: https://factordb.com/helper.php?id=1100000000840632517
 
-Factorization status (and *ECM* efforts for the prime factors between 10<sup>24</sup> and 10<sup>100</sup>) of *N*−1 for the 3168th minimal prime in base 13 (9<sub>308</sub>1) in *factordb*: https://factordb.com/?id=1100000000840126706&head=10&tail=10&thead=100&ttail=100&open=ecm,factorof,alg,snfs
+Factorization status (and algebraic factors, and *ECM* efforts for the prime factors between 10<sup>24</sup> and 10<sup>100</sup>) of *N*−1 for the 3168th minimal prime in base 13 (9<sub>308</sub>1) in *factordb*: https://factordb.com/?id=1100000000840126706&head=10&tail=10&thead=100&ttail=100&open=ecm,factorof,alg,snfs
 
-Factorization status (and *ECM* efforts for the prime factors between 10<sup>24</sup> and 10<sup>100</sup>) of *N*−1 for the 3179th minimal prime in base 13 (B<sub>563</sub>C) in *factordb*: https://factordb.com/?id=1100000000271764311&head=10&tail=10&thead=100&ttail=100&open=ecm,factorof,alg,snfs
+Factorization status (and algebraic factors, and *ECM* efforts for the prime factors between 10<sup>24</sup> and 10<sup>100</sup>) of *N*−1 for the 3179th minimal prime in base 13 (B<sub>563</sub>C) in *factordb*: https://factordb.com/?id=1100000000271764311&head=10&tail=10&thead=100&ttail=100&open=ecm,factorof,alg,snfs
 
-Factorization status (and *ECM* efforts for the prime factors between 10<sup>24</sup> and 10<sup>100</sup>) of *N*−1 for the 3180th minimal prime in base 13 (1B<sub>576</sub>) in *factordb*: https://factordb.com/?id=1100000002321021531&head=10&tail=10&thead=100&ttail=100&open=ecm,factorof,alg,snfs
+Factorization status (and algebraic factors, and *ECM* efforts for the prime factors between 10<sup>24</sup> and 10<sup>100</sup>) of *N*−1 for the 3180th minimal prime in base 13 (1B<sub>576</sub>) in *factordb*: https://factordb.com/?id=1100000002321021531&head=10&tail=10&thead=100&ttail=100&open=ecm,factorof,alg,snfs
 
-Factorization status (and *ECM* efforts for the prime factors between 10<sup>24</sup> and 10<sup>100</sup>) of *N*−1 for the 10320th minimal prime in base 17 (9<sub>292</sub>1) in *factordb*: https://factordb.com/?id=1100000000840355817&head=10&tail=10&thead=100&ttail=100&open=ecm,factorof,alg,snfs
+Factorization status (and algebraic factors, and *ECM* efforts for the prime factors between 10<sup>24</sup> and 10<sup>100</sup>) of *N*−1 for the 10320th minimal prime in base 17 (9<sub>292</sub>1) in *factordb*: https://factordb.com/?id=1100000000840355817&head=10&tail=10&thead=100&ttail=100&open=ecm,factorof,alg,snfs
 
-Factorization status (and *ECM* efforts for the prime factors between 10<sup>24</sup> and 10<sup>100</sup>) of *N*−1 for the 13304th minimal prime in base 21 (7<sub>230</sub>1) in *factordb*: https://factordb.com/?id=1100000002325398854&head=10&tail=10&thead=100&ttail=100&open=ecm,factorof,alg,snfs
+Factorization status (and algebraic factors, and *ECM* efforts for the prime factors between 10<sup>24</sup> and 10<sup>100</sup>) of *N*−1 for the 13304th minimal prime in base 21 (7<sub>230</sub>1) in *factordb*: https://factordb.com/?id=1100000002325398854&head=10&tail=10&thead=100&ttail=100&open=ecm,factorof,alg,snfs
 
-Factorization status (and *ECM* efforts for the prime factors between 10<sup>24</sup> and 10<sup>100</sup>) of *N*+1 for the 13355th minimal prime in base 21 (3<sub>1063</sub>2) in *factordb*: https://factordb.com/?id=1100000002325396028&head=10&tail=10&thead=100&ttail=100&open=ecm,factorof,alg,snfs
+Factorization status (and algebraic factors, and *ECM* efforts for the prime factors between 10<sup>24</sup> and 10<sup>100</sup>) of *N*+1 for the 13355th minimal prime in base 21 (3<sub>1063</sub>2) in *factordb*: https://factordb.com/?id=1100000002325396028&head=10&tail=10&thead=100&ttail=100&open=ecm,factorof,alg,snfs
 
-Factorization status (and *ECM* efforts for the prime factors between 10<sup>24</sup> and 10<sup>100</sup>) of *N*+1 for the 25199th minimal prime in base 26 (9K<sub>343</sub>AP) in *factordb*: https://factordb.com/?id=1100000000840632232&head=10&tail=10&thead=100&ttail=100&open=ecm,factorof,alg,snfs
+Factorization status (and algebraic factors, and *ECM* efforts for the prime factors between 10<sup>24</sup> and 10<sup>100</sup>) of *N*+1 for the 25199th minimal prime in base 26 (9K<sub>343</sub>AP) in *factordb*: https://factordb.com/?id=1100000000840632232&head=10&tail=10&thead=100&ttail=100&open=ecm,factorof,alg,snfs
 
-Factorization status (and *ECM* efforts for the prime factors between 10<sup>24</sup> and 10<sup>100</sup>) of *N*−1 for the 25200th minimal prime in base 26 (8<sub>354</sub>1) in *factordb*: https://factordb.com/?id=1100000000840632623&head=10&tail=10&thead=100&ttail=100&open=ecm,factorof,alg,snfs
+Factorization status (and algebraic factors, and *ECM* efforts for the prime factors between 10<sup>24</sup> and 10<sup>100</sup>) of *N*−1 for the 25200th minimal prime in base 26 (8<sub>354</sub>1) in *factordb*: https://factordb.com/?id=1100000000840632623&head=10&tail=10&thead=100&ttail=100&open=ecm,factorof,alg,snfs
 
 (in fact, all corresponding *N*−1 or *N*+1 for these minimal primes are fully factored, the only one exception is *N*+1 for the 13355th minimal prime in base 21 (3<sub>1063</sub>2), which has a 558-digit composite with no known proper factor (1555264046...2932943937) remaining)
 
@@ -918,17 +918,17 @@ The helper file for the 25240th minimal prime in base 26 (5<sub>1885</sub>4P) in
 
 The helper file for the 35277th minimal prime in base 36 (OZ<sub>3932</sub>AZ) in *factordb*: https://factordb.com/helper.php?id=1100000000840634476
 
-Factorization status (and *ECM* efforts for the prime factors between 10<sup>24</sup> and 10<sup>100</sup>) of *N*−1 for the 151st minimal prime in base 9 (30<sub>1158</sub>11) in *factordb*: https://factordb.com/?id=1100000002376318436&head=10&tail=10&thead=100&ttail=100&open=ecm,factorof,alg,snfs
+Factorization status (and algebraic factors, and *ECM* efforts for the prime factors between 10<sup>24</sup> and 10<sup>100</sup>) of *N*−1 for the 151st minimal prime in base 9 (30<sub>1158</sub>11) in *factordb*: https://factordb.com/?id=1100000002376318436&head=10&tail=10&thead=100&ttail=100&open=ecm,factorof,alg,snfs
 
-Factorization status (and *ECM* efforts for the prime factors between 10<sup>24</sup> and 10<sup>100</sup>) of *N*−1 for the 3187th minimal prime in base 13 (7<sub>1504</sub>1) in *factordb*: https://factordb.com/?id=1100000002320890782&head=10&tail=10&thead=100&ttail=100&open=ecm,factorof,alg,snfs
+Factorization status (and algebraic factors, and *ECM* efforts for the prime factors between 10<sup>24</sup> and 10<sup>100</sup>) of *N*−1 for the 3187th minimal prime in base 13 (7<sub>1504</sub>1) in *factordb*: https://factordb.com/?id=1100000002320890782&head=10&tail=10&thead=100&ttail=100&open=ecm,factorof,alg,snfs
 
-Factorization status (and *ECM* efforts for the prime factors between 10<sup>24</sup> and 10<sup>100</sup>) of *N*−1 for the 2342nd minimal prime in base 16 (90<sub>3542</sub>91) in *factordb*: https://factordb.com/?id=1100000000633424203&head=10&tail=10&thead=100&ttail=100&open=ecm,factorof,alg,snfs
+Factorization status (and algebraic factors, and *ECM* efforts for the prime factors between 10<sup>24</sup> and 10<sup>100</sup>) of *N*−1 for the 2342nd minimal prime in base 16 (90<sub>3542</sub>91) in *factordb*: https://factordb.com/?id=1100000000633424203&head=10&tail=10&thead=100&ttail=100&open=ecm,factorof,alg,snfs
 
-Factorization status (and *ECM* efforts for the prime factors between 10<sup>24</sup> and 10<sup>100</sup>) of *N*+1 for the 10391st minimal prime in base 17 (1F<sub>7092</sub>) in *factordb*: https://factordb.com/?id=1100000000840355928&head=10&tail=10&thead=100&ttail=100&open=ecm,factorof,alg,snfs
+Factorization status (and algebraic factors, and *ECM* efforts for the prime factors between 10<sup>24</sup> and 10<sup>100</sup>) of *N*+1 for the 10391st minimal prime in base 17 (1F<sub>7092</sub>) in *factordb*: https://factordb.com/?id=1100000000840355928&head=10&tail=10&thead=100&ttail=100&open=ecm,factorof,alg,snfs
 
-Factorization status (and *ECM* efforts for the prime factors between 10<sup>24</sup> and 10<sup>100</sup>) of *N*+1 for the 25240th minimal prime in base 26 (5<sub>1885</sub>4P) in *factordb*: https://factordb.com/?id=1100000003850159350&head=10&tail=10&thead=100&ttail=100&open=ecm,factorof,alg,snfs
+Factorization status (and algebraic factors, and *ECM* efforts for the prime factors between 10<sup>24</sup> and 10<sup>100</sup>) of *N*+1 for the 25240th minimal prime in base 26 (5<sub>1885</sub>4P) in *factordb*: https://factordb.com/?id=1100000003850159350&head=10&tail=10&thead=100&ttail=100&open=ecm,factorof,alg,snfs
 
-Factorization status (and *ECM* efforts for the prime factors between 10<sup>24</sup> and 10<sup>100</sup>) of *N*+1 for the 35277th minimal prime in base 36 (OZ<sub>3932</sub>AZ) in *factordb*: https://factordb.com/?id=1100000000840634478&head=10&tail=10&thead=100&ttail=100&open=ecm,factorof,alg,snfs
+Factorization status (and algebraic factors, and *ECM* efforts for the prime factors between 10<sup>24</sup> and 10<sup>100</sup>) of *N*+1 for the 35277th minimal prime in base 36 (OZ<sub>3932</sub>AZ) in *factordb*: https://factordb.com/?id=1100000000840634478&head=10&tail=10&thead=100&ttail=100&open=ecm,factorof,alg,snfs
 
 (in the tables below, *Φ* is the cyclotomic polynomial (https://en.wikipedia.org/wiki/Cyclotomic_polynomial, https://mathworld.wolfram.com/CyclotomicPolynomial.html, http://www.numericana.com/answer/polynomial.htm#cyclotomic, https://stdkmd.net/nrr/repunit/repunitnote.htm#cyclotomic, http://www.urticator.net/essay/6/628.html, https://oeis.org/A013595, https://oeis.org/A013596, https://oeis.org/A253240))
 
